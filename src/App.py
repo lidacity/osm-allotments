@@ -3,15 +3,13 @@
 import os
 import sys
 from datetime import datetime
-from collections import Counter
-from pathlib import Path
 
 import geojson
 from loguru import logger
 
 from Settings import LOG, DOCS, TEMP
-from Utils import GetOverpass, SetDate, LoadGeoJson, SaveGeoJson, SaveJson, LoadJson, GetID, PrepareElements
-
+from Utils import GetOverpass, SetDate, SaveGeoJson, SaveJson, LoadJson, GetID, PrepareElements
+from Git import GitPush
 
 
 def GetTags(Tag):
@@ -68,10 +66,14 @@ def GetProperties(Tags):
     return Result
 
 
+#https://wiki.openstreetmap.org/wiki/Overpass_API
+#API = "http://overpass-api.de/api/interpreter"
+#API = "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+API = "https://overpass.private.coffee/api/interpreter"
 
 def Generate():
     logger.info("read overpass")
-    Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[landuse=allotments](area);out center;", URL="http://overpass-api.de/api/interpreter")
+    Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[landuse=allotments](area);out center;", URL=API)
     #Allotments = LoadJson(f"{TEMP}/overpass2.json")
     SaveJson(f"{TEMP}/overpass.json", Allotments)
     Allotments = PrepareElements(Allotments)
@@ -94,7 +96,7 @@ def Generate():
     #python ./Git.py
     logger.info("git push")
     DateTime = datetime.now().strftime('%Y-%m-%d')
-    Diff = GitPush(f"autogenerate Trade Register {DateTime}")
+    Diff = GitPush(f"autogenerate {DateTime}")
     if Diff:
         logger.debug("git push complete")
         #logger.debug(Diff)

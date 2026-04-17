@@ -33,7 +33,7 @@ if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     logger.add(LOG)
     logger.info("Start git")
-    Diff = GitPush(f"autogenerate tr {datetime.now().strftime('%Y-%m-%d')}")
+    Diff = GitPush(f"autogenerate {datetime.now().strftime('%Y-%m-%d')}")
     if Diff:
         pass #logger.info("git push complete:\n{diff}", diff=Diff)
     else:
