@@ -1,2 +1,2 @@
 # osm-allotments
-OSM validator allotments in Belarus
+Валидатор садовых товариществ Республики Беларусь
