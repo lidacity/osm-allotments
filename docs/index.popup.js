@@ -44,8 +44,8 @@ function Popup(Feature, Layer)
  var Content = new Array();
  if (Tag = Properties['name'])
   Content.push(`<h3>${Tag}</h3>`);
- if (Tag = Properties['name'])
-  Content.push(`<div class="popup-field"><strong>name</strong>: ${Tag}</div>`);
+ if (Tag = Properties['name'] && Properties['name'] != Properties['name:be'])
+  Content.push(`<div class="popup-field-error"><strong>name</strong>: ${Tag}</div>`);
  if (Tag = Properties['name:be'])
   Content.push(`<div class="popup-field"><strong>name:be</strong>: ${Tag}</div>`);
  if (Tag = Properties['name:ru'])
@@ -58,8 +58,8 @@ function Popup(Feature, Layer)
    <hr />`;
  //
  Content = new Array();
- if (Tag = Properties['official_name'])
-  Content.push(`<div class="popup-field"><strong>official_name</strong>: ${Tag}</div>`);
+ if (Tag = Properties['official_name'] && Properties['official_name'] != Properties['official_name:be'])
+  Content.push(`<div class="popup-field-error"><strong>official_name</strong>: ${Tag}</div>`);
  if (Tag = Properties['official_name:be'])
   Content.push(`<div class="popup-field"><strong>official_name:be</strong>: ${Tag}</div>`);
  if (Tag = Properties['official_name:ru'])
@@ -72,8 +72,8 @@ function Popup(Feature, Layer)
    <hr />`;
  //
  Content = new Array();
- if (Tag = Properties['official_status'])
-  Content.push(`<div class="popup-field"><strong>official_status</strong>: ${Tag}</div>`);
+ if (Tag = Properties['official_status'] && Properties['official_status'] != Properties['official_status:be'])
+  Content.push(`<div class="popup-field-error"><strong>official_status</strong>: ${Tag}</div>`);
  if (Tag = Properties['official_status:be'])
   Content.push(`<div class="popup-field"><strong>official_status:be</strong>: ${Tag}</div>`);
  if (Tag = Properties['official_status:ru'])
@@ -86,8 +86,8 @@ function Popup(Feature, Layer)
    <hr />`;
  //
  Content = new Array();
- if (Tag = Properties['short_name'])
-  Content.push(`<div class="popup-field"><strong>short_name</strong>: ${Tag}</div>`);
+ if (Tag = Properties['short_name'] && Properties['short_name'] != Properties['short_name:be'])
+  Content.push(`<div class="popup-field-error"><strong>short_name</strong>: ${Tag}</div>`);
  if (Tag = Properties['short_name:be'])
   Content.push(`<div class="popup-field"><strong>short_name:be</strong>: ${Tag}</div>`);
  if (Tag = Properties['short_name:ru'])
