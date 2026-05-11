@@ -104,9 +104,9 @@ const Data =
         "official_status:be": "садоўніцкае таварыства",
         "official_status:ru": "садоводческое товарищество",
         "short_name": "СТ \"Сосны-1\"",
-        "short_name:be": "СТ \"С��сны-1\"",
+        "short_name:be": "СТ \"Сосны-1\"",
         "short_name:ru": "СТ \"Сосны-1\"",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -5533,17 +5533,17 @@ const Data =
         ]
       },
       "properties": {
-        "name": "Бярозавая Рошча-1",
-        "name:be": "Бярозавая Рошча-1",
+        "name": "Бярозавы гай-1",
+        "name:be": "Бярозавы гай-1",
         "name:ru": "Берёзовая роща-1",
-        "official_name": "Садаводчае таварыства \"Бярозавая Рошча-1\"",
-        "official_name:be": "Садаводчае таварыства \"Бярозавая Рошча-1\"",
+        "official_name": "Садаводчае таварыства \"Бярозавы гай-1\"",
+        "official_name:be": "Садаводчае таварыства \"Бярозавы гай-1\"",
         "official_name:ru": "Садоводческое товарищество \"Берёзовая роща-1\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Бярозавая Рошча-1\"",
-        "short_name:be": "СТ \"Бярозавая Рошча-1\"",
+        "short_name": "СТ \"Бярозавы гай-1\"",
+        "short_name:be": "СТ \"Бярозавы гай-1\"",
         "short_name:ru": "СТ \"Берёзовая роща-1\"",
         "place": "allotments",
         "status": "blue"
@@ -14204,20 +14204,6 @@ const Data =
         "short_name:ru": "СТ \"Секунда\"",
         "place": "allotments",
         "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w242673086",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.111506,
-          54.19344
-        ]
-      },
-      "properties": {
-        "status": "black"
       }
     },
     {
@@ -25645,25 +25631,13 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.406456,
-          52.100248
+          28.407254,
+          52.100584
         ]
       },
       "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w362081595",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.408015,
-          52.101005
-        ]
-      },
-      "properties": {
+        "name": "СТ\"Полесье-сад\"",
+        "name:ru": "СТ\"Полесье-сад\"",
         "status": "black"
       }
     },
@@ -28203,23 +28177,23 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.02284,
-          51.780534
+          24.02589,
+          51.779231
         ]
       },
       "properties": {
-        "name": "Карч",
-        "name:be": "Карч",
-        "name:ru": "Карч",
-        "official_name": "Садаводчае таварыства \"Карч\"",
-        "official_name:be": "Садаводчае таварыства \"Карч\"",
-        "official_name:ru": "Садоводческое товарищество \"Карч\"",
+        "name": "Меліяратар",
+        "name:be": "Меліяратар",
+        "name:ru": "Мелиоратор",
+        "official_name": "Садаводчае таварыства \"Меліяратар\"",
+        "official_name:be": "Садаводчае таварыства \"Меліяратар\"",
+        "official_name:ru": "Садоводческое товарищество \"Мелиоратор\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Карч\"",
-        "short_name:be": "СТ \"Карч\"",
-        "short_name:ru": "СТ \"Карч\"",
+        "short_name": "СТ \"Меліяратар\"",
+        "short_name:be": "СТ \"Меліяратар\"",
+        "short_name:ru": "СТ \"Мелиоратор\"",
         "place": "allotments",
         "status": "blue"
       }
@@ -29381,16 +29355,16 @@ const Data =
       "properties": {
         "name": "Прытулак",
         "name:be": "Прытулак",
-        "name:ru": "Приют",
+        "name:ru": "Прытулак",
         "official_name": "Садаводчае таварыства \"Прытулак\"",
         "official_name:be": "Садаводчае таварыства \"Прытулак\"",
-        "official_name:ru": "Садоводческое товарищество \"Приют\"",
+        "official_name:ru": "Садоводческое товарищество \"Прытулак\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
         "short_name": "СТ \"Прытулак\"",
         "short_name:be": "СТ \"Прытулак\"",
-        "short_name:ru": "СТ \"Приют\"",
+        "short_name:ru": "СТ \"Прытулак\"",
         "place": "allotments",
         "status": "blue"
       }
@@ -47350,20 +47324,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w538090110",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.406658,
-          52.10131
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w538092376",
       "geometry": {
         "type": "Point",
@@ -56736,7 +56696,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           27.49636,
-          53.981016
+          53.981026
         ]
       },
       "properties": {
@@ -68477,8 +68437,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.855888,
-          52.030387
+          23.855776,
+          52.030415
         ]
       },
       "properties": {
@@ -75020,7 +74980,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.868298,
+          26.86833,
           53.989311
         ]
       },
@@ -75034,8 +74994,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.868109,
-          53.989493
+          26.86812,
+          53.989452
         ]
       },
       "properties": {
@@ -76440,7 +76400,19 @@ const Data =
         ]
       },
       "properties": {
-        "status": "black"
+        "name": "Віцьбіч",
+        "name:be": "Віцьбіч",
+        "name:ru": "Витьбич",
+        "official_name": "Садаводчае таварыства \"Віцьбіч\"",
+        "official_name:be": "Садаводчае таварыства \"Віцьбіч\"",
+        "official_name:ru": "Садоводческое товарищество \"Витьбич\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Віцьбіч\"",
+        "short_name:be": "СТ \"Віцьбіч\"",
+        "short_name:ru": "СТ \"Витьбич\"",
+        "status": "blue"
       }
     },
     {
@@ -82681,7 +82653,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.920417,
+          23.920408,
           52.109359
         ]
       },
@@ -90760,23 +90732,23 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.08241,
-          54.163853
+          27.082455,
+          54.163877
         ]
       },
       "properties": {
-        "name": "Блакітны",
-        "name:be": "Блакітны",
-        "name:ru": "Лазурный",
-        "official_name": "Садаводчае таварыства \"Блакітны\"",
-        "official_name:be": "Садаводчае таварыства \"Блакітны\"",
-        "official_name:ru": "Садоводческое товарищество \"Лазурный\"",
+        "name": "Блакітны-2008",
+        "name:be": "Блакітны-2008",
+        "name:ru": "Лазурный-2008",
+        "official_name": "Садаводчае таварыства \"Блакітны-2008\"",
+        "official_name:be": "Садаводчае таварыства \"Блакітны-2008\"",
+        "official_name:ru": "Садоводческое товарищество \"Лазурный-2008\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Блакітны\"",
-        "short_name:be": "СТ \"Блакітны\"",
-        "short_name:ru": "СТ \"Лазурный\"",
+        "short_name": "СТ \"Блакітны-2008\"",
+        "short_name:be": "СТ \"Блакітны-2008\"",
+        "short_name:ru": "СТ \"Лазурный-2008\"",
         "place": "allotments",
         "status": "blue"
       }
@@ -91935,6 +91907,23 @@ const Data =
         "short_name:ru": "СТ \"Плиса-1\"",
         "place": "allotments",
         "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w983222556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.26146,
+          54.047611
+        ]
+      },
+      "properties": {
+        "name": "СТ Плісянка",
+        "name:be": "СТ Плісянка",
+        "name:ru": "СТ Плисянка",
+        "status": "black"
       }
     },
     {
@@ -125850,8 +125839,9 @@ const Data =
         ]
       },
       "properties": {
-        "name": "СТ \"Белая сирень\"",
-        "name:ru": "СТ \"Белая сирень\"",
+        "name": "СТ «Белы бэз»",
+        "name:be": "СТ «Белы бэз»",
+        "name:ru": "СТ «Белая сирень»",
         "status": "black"
       }
     },
@@ -139282,6 +139272,227 @@ const Data =
     },
     {
       "type": "Feature",
+      "id": "w1504644381",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.698746,
+          54.016398
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1505243525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.750224,
+          53.938061
+        ]
+      },
+      "properties": {
+        "name": "СТ Озерище",
+        "place": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1507078727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.678324,
+          52.174025
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1507078728",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.678057,
+          52.173419
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1508281484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.811519,
+          52.3548
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1509416372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.299032,
+          54.041084
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1509597667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.891937,
+          52.041009
+        ]
+      },
+      "properties": {
+        "name": "Ветразь-92",
+        "name:be": "Ветразь-92",
+        "name:ru": "Ветразь-92",
+        "official_name": "Садаводчае таварыства \"Ветразь-92\"",
+        "official_name:be": "Садаводчае таварыства \"Ветразь-92\"",
+        "official_name:ru": "Садоводческое товарищество \"Ветразь-92\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Ветразь-92\"",
+        "short_name:be": "СТ \"Ветразь-92\"",
+        "short_name:ru": "СТ \"Ветразь-92\"",
+        "place": "allotments",
+        "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1509597668",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.886241,
+          52.041128
+        ]
+      },
+      "properties": {
+        "name": "Сямісосны-2",
+        "name:be": "Сямісосны-2",
+        "name:ru": "Семисосны-2",
+        "official_name": "Садаводчае таварыства \"Сямісосны-2\"",
+        "official_name:be": "Садаводчае таварыства \"Сямісосны-2\"",
+        "official_name:ru": "Садоводческое товарищество \"Семисосны-2\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Сямісосны-2\"",
+        "short_name:be": "СТ \"Сямісосны-2\"",
+        "short_name:ru": "СТ \"Семисосны-2\"",
+        "place": "allotments",
+        "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1509597669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.889163,
+          52.042655
+        ]
+      },
+      "properties": {
+        "name": "Сямісосны-2",
+        "name:be": "Сямісосны-2",
+        "name:ru": "Семисосны-2",
+        "official_name": "Садаводчае таварыства \"Сямісосны-2\"",
+        "official_name:be": "Садаводчае таварыства \"Сямісосны-2\"",
+        "official_name:ru": "Садоводческое товарищество \"Семисосны-2\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Сямісосны-2\"",
+        "short_name:be": "СТ \"Сямісосны-2\"",
+        "short_name:ru": "СТ \"Семисосны-2\"",
+        "place": "allotments",
+        "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1510374945",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.021114,
+          51.779121
+        ]
+      },
+      "properties": {
+        "name": "Лясок-08 М",
+        "name:be": "Лясок-08 М",
+        "name:ru": "Лесок-08 М",
+        "official_name": "Садаводчае таварыства \"Лясок-08 М\"",
+        "official_name:be": "Садаводчае таварыства \"Лясок-08 М\"",
+        "official_name:ru": "Садоводческое товарищество \"Лесок-08 М\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Лясок-08 М\"",
+        "short_name:be": "СТ \"Лясок-08 М\"",
+        "short_name:ru": "СТ \"Лесок-08 М\"",
+        "place": "allotments",
+        "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1510374946",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.022198,
+          51.782415
+        ]
+      },
+      "properties": {
+        "name": "Сунічка",
+        "name:be": "Сунічка",
+        "name:ru": "Суничка",
+        "official_name": "Садаводчае таварыства \"Сунічка\"",
+        "official_name:be": "Садаводчае таварыства \"Сунічка\"",
+        "official_name:ru": "Садоводческое товарищество \"Суничка\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Сунічка\"",
+        "short_name:be": "СТ \"Сунічка\"",
+        "short_name:ru": "СТ \"Суничка\"",
+        "place": "allotments",
+        "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "r533243",
       "geometry": {
         "type": "Point",
@@ -139896,7 +140107,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.85134,
+          27.851315,
           53.929526
         ]
       },
@@ -142032,6 +142243,7 @@ const Data =
         "short_name": "СТ \"Паляны\"",
         "short_name:be": "СТ \"Паляны\"",
         "short_name:ru": "СТ \"Поляны\"",
+        "place": "allotments",
         "status": "red"
       }
     },
@@ -142459,7 +142671,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.898638,
+          23.898688,
           52.044434
         ]
       },
@@ -142855,6 +143067,21 @@ const Data =
         "name": "Журавінка-84",
         "name:be": "Журавінка-84",
         "name:ru": "Журавинка-84",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r20619023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.111506,
+          54.19344
+        ]
+      },
+      "properties": {
+        "name": "Чайка 81 и Энергостроитель",
         "status": "black"
       }
     }
