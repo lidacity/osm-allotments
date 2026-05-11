@@ -45,8 +45,8 @@ def GetStatus(Tag):
             CheckName(Tag['official_name:ru'], f"Садоводческое товарищество \"{NameRu}\"") and
             CheckName(Tag['official_status:be'], "садаводчае таварыства") and
             CheckName(Tag['official_status:ru'], "садоводческое товарищество") and
-            CheckName(Tag['short_name:be'], f"СТ \"{NameBe}\"") and
-            CheckName(Tag['short_name:ru'], f"СТ \"{NameRu}\"")):
+            (CheckName(Tag['short_name:be'], f"СТ \"{NameBe}\"") or CheckName(Tag['short_name:be'], f"СТ «{NameBe}»")) and
+            (CheckName(Tag['short_name:ru'], f"СТ \"{NameRu}\"") or CheckName(Tag['short_name:ru'], f"СТ «{NameRu}»"))):
             if (Tag.get('place', "") == "allotments" and
                 'start_date' in Tag and
                 'plots' in Tag and
