@@ -6539,7 +6539,7 @@ const Data =
         "short_name:be": "СТ «Энергетык-5»",
         "short_name:ru": "СТ «Энергетик-5»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -6784,7 +6784,7 @@ const Data =
         "short_name:be": "СТ «Азёрнае»",
         "short_name:ru": "СТ «Озёрное»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -23099,7 +23099,7 @@ const Data =
         "short_name:be": "СТ «Журавінка-91»",
         "short_name:ru": "СТ «Журавинка-91»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -23196,7 +23196,7 @@ const Data =
         "short_name:be": "СТ «Дружны Востраў»",
         "short_name:ru": "СТ «Дружный Остров»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -67750,33 +67750,6 @@ const Data =
         "short_name:ru": "СТ «Труженик»",
         "place": "allotments",
         "status": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w677500858",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.724673,
-          54.320399
-        ]
-      },
-      "properties": {
-        "name": "Асанава",
-        "name:be": "Асанава",
-        "name:ru": "Асаново",
-        "official_name": "Садаводчае таварыства \"Асанава\"",
-        "official_name:be": "Садаводчае таварыства \"Асанава\"",
-        "official_name:ru": "Садоводческое товарищество \"Асаново\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Асанава\"",
-        "short_name:be": "СТ \"Асанава\"",
-        "short_name:ru": "СТ \"Асаново\"",
-        "place": "allotments",
-        "status": "blue"
       }
     },
     {
@@ -123303,7 +123276,7 @@ const Data =
         "short_name:be": "СТ «Новая надзея»",
         "short_name:ru": "СТ «Новая надежда»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -130610,7 +130583,7 @@ const Data =
         "short_name:be": "СТ «Рудзенская Надзея»",
         "short_name:ru": "СТ «Руденская Надежда»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -130637,7 +130610,7 @@ const Data =
         "short_name:be": "СТ «Верас»",
         "short_name:ru": "СТ «Верас»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -130664,7 +130637,7 @@ const Data =
         "short_name:be": "СТ «Яхант»",
         "short_name:ru": "СТ «Яхонт»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -130718,7 +130691,7 @@ const Data =
         "short_name:be": "СТ «Востраў-Чайка»",
         "short_name:ru": "СТ «Остров-Чайка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -130745,7 +130718,7 @@ const Data =
         "short_name:be": "СТ «Цэмавец»",
         "short_name:ru": "СТ «ЦЭМовец»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -130772,7 +130745,7 @@ const Data =
         "short_name:be": "СТ «Востраў»",
         "short_name:ru": "СТ «Остров»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -130799,7 +130772,7 @@ const Data =
         "short_name:be": "СТ «Ветка»",
         "short_name:ru": "СТ «Ветка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -142798,7 +142771,7 @@ const Data =
         "short_name:be": "СТ «Бярозка-2008»",
         "short_name:ru": "СТ «Березка-2008»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -142825,7 +142798,7 @@ const Data =
         "short_name:be": "СТ «Надзея-2010»",
         "short_name:ru": "СТ «Надежда-2010»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
