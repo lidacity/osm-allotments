@@ -35,69 +35,47 @@ function Unpack3NFsub(IDs, Name, Join)
 }
 
 
+function GetContent(Name, Properties)
+{
+ var Result = new Array();
+ if (`${Name}:be` in Properties || `${Name}:ru` in Properties)
+ {
+  if (Tag = Properties[`${Name}`] && Properties[`${Name}`] != Properties[`${Name}:be`])
+   Result.push(`<div class="popup-field-error"><strong>${Name}</strong>: ${Tag}</div>`);
+  else
+   Result.push(`<div class="popup-field"><strong>${Name}</strong>:</div>`);
+  //
+  if (Tag = Properties[`${Name}:be`])
+   Result.push(`<div class="popup-field">&nbsp;<strong>be</strong>: ${Tag}</div>`);
+  if (Tag = Properties[`${Name}:ru`])
+   Result.push(`<div class="popup-field">&nbsp;<strong>ru</strong>: ${Tag}</div>`);
+ }
+ if (Result.length > 0)
+  return `
+    <div class="popup-content">
+     ${Result.join('\n ')}
+    </div>
+    <hr />`
+ else
+  return ``
+}
+
+
 function Popup(Feature, Layer)
 {
  var Properties = Feature.properties;
  var Result = '';
  var Tag = "";
  //
- var Content = new Array();
  if (Tag = Properties['name'])
-  Content.push(`<h3>${Tag}</h3>`);
- if (Tag = Properties['name'] && Properties['name'] != Properties['name:be'])
-  Content.push(`<div class="popup-field-error"><strong>name</strong>: ${Tag}</div>`);
- if (Tag = Properties['name:be'])
-  Content.push(`<div class="popup-field"><strong>name:be</strong>: ${Tag}</div>`);
- if (Tag = Properties['name:ru'])
-  Content.push(`<div class="popup-field"><strong>name:ru</strong>: ${Tag}</div>`);
- if (Content.length > 0)
   Result += `
    <div class="popup-content">
-    ${Content.join('\n ')}
-   </div>
-   <hr />`;
- //
- Content = new Array();
- if (Tag = Properties['official_name'] && Properties['official_name'] != Properties['official_name:be'])
-  Content.push(`<div class="popup-field-error"><strong>official_name</strong>: ${Tag}</div>`);
- if (Tag = Properties['official_name:be'])
-  Content.push(`<div class="popup-field"><strong>official_name:be</strong>: ${Tag}</div>`);
- if (Tag = Properties['official_name:ru'])
-  Content.push(`<div class="popup-field"><strong>official_name:ru</strong>: ${Tag}</div>`);
- if (Content.length > 0)
-  Result += `
-   <div class="popup-content">
-    ${Content.join('\n ')}
-   </div>
-   <hr />`;
- //
- Content = new Array();
- if (Tag = Properties['official_status'] && Properties['official_status'] != Properties['official_status:be'])
-  Content.push(`<div class="popup-field-error"><strong>official_status</strong>: ${Tag}</div>`);
- if (Tag = Properties['official_status:be'])
-  Content.push(`<div class="popup-field"><strong>official_status:be</strong>: ${Tag}</div>`);
- if (Tag = Properties['official_status:ru'])
-  Content.push(`<div class="popup-field"><strong>official_status:ru</strong>: ${Tag}</div>`);
- if (Content.length > 0)
-  Result += `
-   <div class="popup-content">
-    ${Content.join('\n ')}
-   </div>
-   <hr />`;
- //
- Content = new Array();
- if (Tag = Properties['short_name'] && Properties['short_name'] != Properties['short_name:be'])
-  Content.push(`<div class="popup-field-error"><strong>short_name</strong>: ${Tag}</div>`);
- if (Tag = Properties['short_name:be'])
-  Content.push(`<div class="popup-field"><strong>short_name:be</strong>: ${Tag}</div>`);
- if (Tag = Properties['short_name:ru'])
-  Content.push(`<div class="popup-field"><strong>short_name:ru</strong>: ${Tag}</div>`);
- if (Content.length > 0)
-  Result += `
-   <div class="popup-content">
-    ${Content.join('\n ')}
-   </div>
-   <hr />`;
+    <h1>${Tag}</h1>
+   </div>`;
+ Result += GetContent('name', Properties)
+ Result += GetContent('official_name', Properties)
+ Result += GetContent('official_status', Properties)
+ Result += GetContent('short_name', Properties)
  //
  Content = new Array();
  if (Tag = Properties['place'])
@@ -107,7 +85,7 @@ function Popup(Feature, Layer)
  if (Tag = Properties['plots'])
   Content.push(`<div class="popup-field"><strong>plots</strong>: ${Tag}</div>`);
  if (Tag = Properties['ref:vatin'])
-  Content.push(`<div class="popup-field"><strong>УНП</strong>: <a target="_blank" href="https://etalonline.by/egr-status/${Tag}/">${Tag}</a></div>`);
+  Content.push(`<div class="popup-field"><strong>УНП</strong>: <a target="_blank" href="https://etalonline.by/egr-status/${Tag.slice(2)}/">${Tag}</a></div>`);
  if (Content.length > 0)
   Result += `
    <div class="popup-content">
