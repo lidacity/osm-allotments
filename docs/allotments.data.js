@@ -3247,7 +3247,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           27.659751,
-          53.766988
+          53.766929
         ]
       },
       "properties": {
@@ -3273,7 +3273,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.668893,
+          27.668705,
           53.763488
         ]
       },
@@ -6567,6 +6567,33 @@ const Data =
         "short_name:ru": "СТ \"Приозёрное\"",
         "place": "allotments",
         "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w145292427",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.642617,
+          53.969604
+        ]
+      },
+      "properties": {
+        "name": "Баравая",
+        "name:be": "Баравая",
+        "name:ru": "Боровая",
+        "official_name": "Садоўніцкае таварыства \"Баравая\"",
+        "official_name:be": "Садоўніцкае таварыства \"Баравая\"",
+        "official_name:ru": "Садоводческое товарищество \"Боровая\"",
+        "official_status": "садоўніцкае таварыства",
+        "official_status:be": "садоўніцкае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Баравая\"",
+        "short_name:be": "СТ \"Баравая\"",
+        "short_name:ru": "СТ \"Боровая\"",
+        "place": "allotments",
+        "status": "red"
       }
     },
     {
@@ -10013,20 +10040,20 @@ const Data =
         ]
       },
       "properties": {
-        "name": "Колас",
-        "name:be": "Колас",
-        "name:ru": "Колас",
-        "official_name": "Садаводчае таварыства \"Колас\"",
-        "official_name:be": "Садаводчае таварыства \"Колас\"",
-        "official_name:ru": "Садоводческое товарищество \"Колас\"",
+        "name": "Колас БДУ",
+        "name:be": "Колас БДУ",
+        "name:ru": "Колас БГУ",
+        "official_name": "Садаводчае таварыства \"Колас БДУ\"",
+        "official_name:be": "Садаводчае таварыства \"Колас БДУ\"",
+        "official_name:ru": "Садоводческое товарищество \"Колас БГУ\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Колас\"",
-        "short_name:be": "СТ \"Колас\"",
-        "short_name:ru": "СТ \"Колас\"",
+        "short_name": "СТ \"Колас БДУ\"",
+        "short_name:be": "СТ \"Колас БДУ\"",
+        "short_name:ru": "СТ \"Колос БГУ\"",
         "place": "allotments",
-        "status": "blue"
+        "status": "red"
       }
     },
     {
@@ -19685,8 +19712,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.818045,
-          55.503532
+          28.817764,
+          55.503549
         ]
       },
       "properties": {
@@ -21741,33 +21768,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w334970731",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.493843,
-          53.496212
-        ]
-      },
-      "properties": {
-        "name": "Палёт-Плюс",
-        "name:be": "Палёт-Плюс",
-        "name:ru": "Полет-Плюс",
-        "official_name": "Садаводчае таварыства \"Палёт-Плюс\"",
-        "official_name:be": "Садаводчае таварыства \"Палёт-Плюс\"",
-        "official_name:ru": "Садоводческое товарищество \"Полет-Плюс\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Палёт-Плюс\"",
-        "short_name:be": "СТ \"Палёт-Плюс\"",
-        "short_name:ru": "СТ \"Полет-Плюс\"",
-        "place": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w335037003",
       "geometry": {
         "type": "Point",
@@ -22594,20 +22594,6 @@ const Data =
         "short_name:ru": "СТ \"Зелёные Холмы\"",
         "place": "allotments",
         "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w340253712",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.061844,
-          54.183627
-        ]
-      },
-      "properties": {
-        "status": "black"
       }
     },
     {
@@ -24231,20 +24217,6 @@ const Data =
         "short_name:ru": "СТ \"Пралеска\"",
         "place": "allotments",
         "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w358808572",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.535985,
-          53.678334
-        ]
-      },
-      "properties": {
-        "status": "black"
       }
     },
     {
@@ -27937,7 +27909,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.847491,
+          29.84875,
           54.95645
         ]
       },
@@ -28122,12 +28094,25 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.03953,
-          51.789694
+          24.040874,
+          51.790212
         ]
       },
       "properties": {
-        "status": "black"
+        "name": "Вікторыя",
+        "name:be": "Вікторыя",
+        "name:ru": "Виктория",
+        "official_name": "Садаводчае таварыства \"Вікторыя\"",
+        "official_name:be": "Садаводчае таварыства \"Вікторыя\"",
+        "official_name:ru": "Садоводческое товарищество \"Виктория\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Вікторыя\"",
+        "short_name:be": "СТ \"Вікторыя\"",
+        "short_name:ru": "СТ \"Виктория\"",
+        "place": "allotments",
+        "status": "blue"
       }
     },
     {
@@ -28572,7 +28557,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           30.405689,
-          54.431477
+          54.43148
         ]
       },
       "properties": {
@@ -34778,7 +34763,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           30.964371,
-          52.518396
+          52.518332
         ]
       },
       "properties": {
@@ -34791,7 +34776,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.967376,
+          30.967421,
           52.514556
         ]
       },
@@ -36012,8 +35997,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.044801,
-          54.192435
+          27.045413,
+          54.192357
         ]
       },
       "properties": {
@@ -36178,7 +36163,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.898536,
+          27.898542,
           53.862254
         ]
       },
@@ -52548,7 +52533,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           23.531713,
-          52.231901
+          52.231917
         ]
       },
       "properties": {
@@ -59558,7 +59543,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.663523,
+          27.663604,
           53.763893
         ]
       },
@@ -64411,8 +64396,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.813461,
-          55.506129
+          28.813457,
+          55.50611
         ]
       },
       "properties": {
@@ -74271,8 +74256,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.537698,
-          52.235857
+          23.537251,
+          52.235835
         ]
       },
       "properties": {
@@ -98243,8 +98228,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.457257,
-          52.404066
+          23.457286,
+          52.404052
         ]
       },
       "properties": {
@@ -98412,20 +98397,6 @@ const Data =
         "coordinates": [
           23.39971,
           52.403971
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w1028620647",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.406884,
-          52.40425
         ]
       },
       "properties": {
@@ -98897,8 +98868,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.699149,
-          53.120307
+          25.69906,
+          53.120334
         ]
       },
       "properties": {
@@ -101555,6 +101526,33 @@ const Data =
     },
     {
       "type": "Feature",
+      "id": "w1059557166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.641157,
+          53.968102
+        ]
+      },
+      "properties": {
+        "name": "Баравая-2",
+        "name:be": "Баравая-2",
+        "name:ru": "Боровая-2",
+        "official_name": "Садоўніцкае таварыства \"Баравая-2\"",
+        "official_name:be": "Садоўніцкае таварыства \"Баравая-2\"",
+        "official_name:ru": "Садоводческое товарищество \"Боровая-2\"",
+        "official_status": "садоўніцкае таварыства",
+        "official_status:be": "садоўніцкае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Баравая-2\"",
+        "short_name:be": "СТ \"Баравая-2\"",
+        "short_name:ru": "СТ \"Боровая-2\"",
+        "place": "allotments",
+        "status": "red"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "w1060239108",
       "geometry": {
         "type": "Point",
@@ -102193,8 +102191,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.487513,
-          52.65383
+          26.487501,
+          52.653867
         ]
       },
       "properties": {
@@ -102807,8 +102805,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.46791,
-          52.412517
+          23.467889,
+          52.412534
         ]
       },
       "properties": {
@@ -102821,8 +102819,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.467276,
-          52.412458
+          23.467265,
+          52.41246
         ]
       },
       "properties": {
@@ -102835,8 +102833,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.466623,
-          52.412513
+          23.46663,
+          52.412518
         ]
       },
       "properties": {
@@ -102892,20 +102890,6 @@ const Data =
         "coordinates": [
           23.441226,
           52.403593
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w1080846210",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.413491,
-          52.404182
         ]
       },
       "properties": {
@@ -104995,20 +104979,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w1097702406",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.086069,
-          52.16451
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w1097702432",
       "geometry": {
         "type": "Point",
@@ -105798,7 +105768,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.80636,
+          23.806173,
           53.746374
         ]
       },
@@ -119513,48 +119483,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w1162001329",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.427924,
-          52.400745
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w1162001330",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.424787,
-          52.400805
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w1162004185",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.409463,
-          52.404336
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w1162544568",
       "geometry": {
         "type": "Point",
@@ -122450,40 +122378,12 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w1237216132",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.689116,
-          54.250405
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w1237216134",
       "geometry": {
         "type": "Point",
         "coordinates": [
           27.682262,
           54.250957
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w1237216158",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.696066,
-          54.238165
         ]
       },
       "properties": {
@@ -122628,8 +122528,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.540596,
-          53.977498
+          27.54062,
+          53.977452
         ]
       },
       "properties": {
@@ -124163,20 +124063,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w1259390325",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.768673,
-          52.394007
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w1259588766",
       "geometry": {
         "type": "Point",
@@ -124227,6 +124113,33 @@ const Data =
         "short_name:ru": "СТ \"Стоматолог\"",
         "place": "allotments",
         "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1261912021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.64064,
+          53.969519
+        ]
+      },
+      "properties": {
+        "name": "Аэрагеадэзіст",
+        "name:be": "Аэрагеадэзіст",
+        "name:ru": "Аэрогеодезист",
+        "official_name": "Садоўніцкае таварыства \"Аэрагеадэзіст\"",
+        "official_name:be": "Садоўніцкае таварыства \"Аэрагеадэзіст\"",
+        "official_name:ru": "Садоводческое товарищество \"Аэрогеодезист\"",
+        "official_status": "садоўніцкае таварыства",
+        "official_status:be": "садоўніцкае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Аэрагеадэзіст\"",
+        "short_name:be": "СТ \"Аэрагеадэзіст\"",
+        "short_name:ru": "СТ \"Аэрогеодезист\"",
+        "place": "allotments",
+        "status": "red"
       }
     },
     {
@@ -136037,6 +135950,7 @@ const Data =
         ]
       },
       "properties": {
+        "name": "огороды",
         "status": "black"
       }
     },
@@ -136065,6 +135979,7 @@ const Data =
         ]
       },
       "properties": {
+        "name": "огороды",
         "status": "black"
       }
     },
@@ -138268,10 +138183,12 @@ const Data =
         "type": "Point",
         "coordinates": [
           27.125384,
-          54.183325
+          54.183117
         ]
       },
       "properties": {
+        "name": "Колосок",
+        "place": "allotments",
         "status": "black"
       }
     },
@@ -138493,20 +138410,6 @@ const Data =
         "coordinates": [
           27.020961,
           52.292513
-        ]
-      },
-      "properties": {
-        "status": "black"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w1498419917",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.99445,
-          52.058656
         ]
       },
       "properties": {
@@ -139462,6 +139365,256 @@ const Data =
         "short_name:ru": "СТ \"Суничка\"",
         "place": "allotments",
         "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1513117843",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.041403,
+          51.788848
+        ]
+      },
+      "properties": {
+        "name": "Лясок-08 М",
+        "name:be": "Лясок-08 М",
+        "name:ru": "Лесок-08 М",
+        "official_name": "Садаводчае таварыства \"Лясок-08 М\"",
+        "official_name:be": "Садаводчае таварыства \"Лясок-08 М\"",
+        "official_name:ru": "Садоводческое товарищество \"Лесок-08 М\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Лясок-08 М\"",
+        "short_name:be": "СТ \"Лясок-08 М\"",
+        "short_name:ru": "СТ \"Лесок-08 М\"",
+        "place": "allotments",
+        "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1513117844",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.037414,
+          51.790026
+        ]
+      },
+      "properties": {
+        "name": "Меліяратар",
+        "name:be": "Меліяратар",
+        "name:ru": "Мелиоратор",
+        "official_name": "Садаводчае таварыства \"Меліяратар\"",
+        "official_name:be": "Садаводчае таварыства \"Меліяратар\"",
+        "official_name:ru": "Садоводческое товарищество \"Мелиоратор\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Меліяратар\"",
+        "short_name:be": "СТ \"Меліяратар\"",
+        "short_name:ru": "СТ \"Мелиоратор\"",
+        "place": "allotments",
+        "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1515103386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.774209,
+          54.03892
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1517371594",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.729178,
+          54.049275
+        ]
+      },
+      "properties": {
+        "name": "Узбор'е-Нерудспорт",
+        "name:be": "Узбор'е-Нерудспорт",
+        "name:ru": "Узборье-Нерудспорт",
+        "place": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1523739949",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.805896,
+          53.747795
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1523739951",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.811052,
+          53.744472
+        ]
+      },
+      "properties": {
+        "name": "Каролинка",
+        "name:ru": "Каролинка",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1523739952",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.814244,
+          53.743422
+        ]
+      },
+      "properties": {
+        "name": "СТ\"Дрозды\"",
+        "name:ru": "СТ\"Дрозды\"",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1524303302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.057422,
+          54.182794
+        ]
+      },
+      "properties": {
+        "name": "Звездочка-432",
+        "place": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1524306199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.063837,
+          54.185613
+        ]
+      },
+      "properties": {
+        "name": "Дорожник",
+        "place": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1524306496",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.064239,
+          54.183673
+        ]
+      },
+      "properties": {
+        "name": "Радуга Белавтомаз",
+        "place": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1525194474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.123596,
+          52.054578
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1525233919",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.670742,
+          52.721975
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1525233920",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.670483,
+          52.720514
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1526326095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.754923,
+          52.615384
+        ]
+      },
+      "properties": {
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1526326096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.762273,
+          52.61408
+        ]
+      },
+      "properties": {
+        "status": "black"
       }
     },
     {
