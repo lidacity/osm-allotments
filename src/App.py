@@ -37,23 +37,38 @@ def CheckName(TagValue, Name):
     return TagValue[:len(Name)] == Name
 
 
+def Check(Tag):
+    NameBe, NameRu = Tag['name:be'], Tag['name:ru']
+    return (CheckName(Tag['official_name:be'], f"Садаводчае таварыства \"{NameBe}\"") and
+        CheckName(Tag['official_name:ru'], f"Садоводческое товарищество \"{NameRu}\"") and
+        CheckName(Tag['official_status:be'], "садаводчае таварыства") and
+        CheckName(Tag['official_status:ru'], "садоводческое товарищество") and
+        (CheckName(Tag['short_name:be'], f"СТ \"{NameBe}\"") or CheckName(Tag['short_name:be'], f"СТ «{NameBe}»")) and
+        (CheckName(Tag['short_name:ru'], f"СТ \"{NameRu}\"") or CheckName(Tag['short_name:ru'], f"СТ «{NameRu}»")))
+
+
+def GetColor(Tag):
+    Allotments = Tag.get('place', "")
+    if (Allotments == "allotments" and
+       'ref:vatin' in Tag and
+       'start_date' in Tag and
+       'plots' in Tag):
+        return "green"
+    if (Allotments == "allotments" and
+       'ref:vatin' in Tag and
+       'start_date' in Tag):
+        return "orange"
+    elif (Allotments == "allotments" and
+       'ref:vatin' in Tag):
+        return "gold"
+    else:
+        return "blue"
+
+
 def GetStatus(Tag):
     if Tag.get('landuse') == "allotments" and CheckTag(Tag) and CheckBe(Tag):
-        NameBe = Tag['name:be']
-        NameRu = Tag['name:ru']
-        if (CheckName(Tag['official_name:be'], f"Садаводчае таварыства \"{NameBe}\"") and
-            CheckName(Tag['official_name:ru'], f"Садоводческое товарищество \"{NameRu}\"") and
-            CheckName(Tag['official_status:be'], "садаводчае таварыства") and
-            CheckName(Tag['official_status:ru'], "садоводческое товарищество") and
-            (CheckName(Tag['short_name:be'], f"СТ \"{NameBe}\"") or CheckName(Tag['short_name:be'], f"СТ «{NameBe}»")) and
-            (CheckName(Tag['short_name:ru'], f"СТ \"{NameRu}\"") or CheckName(Tag['short_name:ru'], f"СТ «{NameRu}»"))):
-            if (Tag.get('place', "") == "allotments" and
-                'start_date' in Tag and
-                'plots' in Tag and
-                'ref:vatin' in Tag):
-                return "green"
-            else:
-                return "blue"
+        if Check(Tag):
+            return GetColor(Tag)
         else:
             return "red"
     else:
@@ -66,15 +81,31 @@ def GetProperties(Tags):
     return Result
 
 
+def GetGeometry(Element):
+    Lon, Lat = Element['lon'], Element['lat']
+    return geojson.Point((Lon, Lat))
+#    if Element['type'] == "node":
+#        Lon, Lat = Element['lon'], Element['lat']
+#        return geojson.Point((Lon, Lat))
+#    elif Element['type'] == "way":
+#        Result = [(Geometry['lon'], Geometry['lat']) for Geometry in Element['geometry']]
+#        return geojson.Polygon([Result])
+#    elif Element['type'] == "relation":
+#        #Result = [(Geometry['lon'], Geometry['lat']) for Geometry in Element['geometry']]
+#        #return geojson.MultiPolygon([Result])
+
+
+
+
 #https://wiki.openstreetmap.org/wiki/Overpass_API
 #API = "http://overpass-api.de/api/interpreter"
-#API = "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
-API = "https://overpass.private.coffee/api/interpreter"
+API = "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
+#API = "https://overpass.private.coffee/api/interpreter"
 
 def Generate():
     logger.info("read overpass")
+#    Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[landuse=allotments](area);out geom;", URL=API)
     Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[landuse=allotments](area);out center;", URL=API)
-    #Allotments = LoadJson(f"{TEMP}/overpass2.json")
     SaveJson(f"{TEMP}/overpass.json", Allotments)
     Allotments = PrepareElements(Allotments)
     #
@@ -82,8 +113,7 @@ def Generate():
     Features = []
     for Element in Allotments['elements']:
         ID = GetID(Element)
-        Lon, Lat = Element['lon'], Element['lat']
-        Geometry = geojson.Point((Lon, Lat))
+        Geometry = GetGeometry(Element)
         Properties = GetProperties(Element['tags'])
         Feature = geojson.Feature(id=ID, geometry=Geometry, properties=Properties)
         Features.append(Feature)
