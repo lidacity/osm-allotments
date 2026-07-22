@@ -5875,7 +5875,7 @@ const Data =
         "short_name:be": "СТ «Дубовы лес»",
         "short_name:ru": "СТ «Дубовый лес»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -6746,7 +6746,7 @@ const Data =
         "short_name:be": "СТ «Рамонак Саламарэчанскі»",
         "short_name:ru": "СТ «Ромашка Соломореченская»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -7613,7 +7613,7 @@ const Data =
         "short_name:be": "СТ «Атлант-3»",
         "short_name:ru": "СТ «Атлант-3»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -8573,7 +8573,7 @@ const Data =
         "short_name:be": "СТ «Зарэчны-05»",
         "short_name:ru": "СТ «Заречный-05»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -9969,7 +9969,7 @@ const Data =
         "short_name:be": "СТ «Крыніца-4»",
         "short_name:ru": "СТ «Криница-4»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -9996,7 +9996,7 @@ const Data =
         "short_name:be": "СТ «Шчадрэц»",
         "short_name:ru": "СТ «Щедрец»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -12325,7 +12325,7 @@ const Data =
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Крыничка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -12838,7 +12838,7 @@ const Data =
         "short_name:be": "СТ «Палянка»",
         "short_name:ru": "СТ «Полянка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -13569,7 +13569,7 @@ const Data =
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Радуга»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -15665,7 +15665,7 @@ const Data =
         "short_name:be": "СТ «Сігма-2002»",
         "short_name:ru": "СТ «Сигма-2002»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -16074,7 +16074,7 @@ const Data =
         "short_name:be": "СТ «Дружба-2008»",
         "short_name:ru": "СТ «Дружба-2008»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -16533,7 +16533,7 @@ const Data =
         "short_name:be": "СТ «Крымок»",
         "short_name:ru": "СТ «Крымок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -16668,7 +16668,7 @@ const Data =
         "short_name:be": "СТ «Іпа»",
         "short_name:ru": "СТ «Иппа»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -16695,7 +16695,7 @@ const Data =
         "short_name:be": "СТ «Іпа»",
         "short_name:ru": "СТ «Иппа»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -16722,7 +16722,7 @@ const Data =
         "short_name:be": "СТ «Іпа»",
         "short_name:ru": "СТ «Иппа»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -17856,7 +17856,7 @@ const Data =
         "short_name:be": "СТ «Экран-Тарасікі»",
         "short_name:ru": "СТ «Экран-Тарасики»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -18099,7 +18099,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -18558,7 +18558,7 @@ const Data =
         "short_name:be": "СТ «Нафтапераапрацоўшчык»",
         "short_name:ru": "СТ «Нефтепереработчик»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -19146,7 +19146,7 @@ const Data =
         "short_name:be": "СТ «Хваля»",
         "short_name:ru": "СТ «Волна»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -19173,7 +19173,7 @@ const Data =
         "short_name:be": "СТ «Каштан»",
         "short_name:ru": "СТ «Каштан»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -19200,7 +19200,7 @@ const Data =
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Радуга»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -19956,7 +19956,7 @@ const Data =
         "short_name:be": "СТ «Друць» Беларуска-Расійскага ўніверсітэту",
         "short_name:ru": "СТ «Друть» Белорусско-Российского университета",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -20064,7 +20064,7 @@ const Data =
         "short_name:be": "СТ «Гідраўлік»",
         "short_name:ru": "СТ «Гидравлик»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -20091,7 +20091,7 @@ const Data =
         "short_name:be": "СТ «Руднянскі пячатнік»",
         "short_name:ru": "СТ «Руднянский печатник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -20648,7 +20648,7 @@ const Data =
         "short_name:be": "СТ «Дубовы лес»",
         "short_name:ru": "СТ «Дубовый лес»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -24142,7 +24142,7 @@ const Data =
         "short_name:be": "СТ «Металург-4»",
         "short_name:ru": "СТ «Металлург-4»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -24223,7 +24223,7 @@ const Data =
         "short_name:be": "СТ «Крыніца СПМК-49»",
         "short_name:ru": "СТ «Родник СПМК-49»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -24250,7 +24250,7 @@ const Data =
         "short_name:be": "СТ «Іпуць-4»",
         "short_name:ru": "СТ «Ипуть-4»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -24277,7 +24277,7 @@ const Data =
         "short_name:be": "СТ «Ветэран»",
         "short_name:ru": "СТ «Ветеран»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -25462,7 +25462,7 @@ const Data =
         "short_name:be": "СТ «Заходняя Бярэзіна»",
         "short_name:ru": "СТ «Западная Березина»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -26001,7 +26001,7 @@ const Data =
         "short_name:be": "СТ «Бярозка-17»",
         "short_name:ru": "СТ «Берёзка-17»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -26084,7 +26084,7 @@ const Data =
         "place": "allotments",
         "start_date": "2019-04-23",
         "ref:vatin": "BY590194858",
-        "status": "red"
+        "status": "orange"
       }
     },
     {
@@ -26558,7 +26558,7 @@ const Data =
         "short_name:be": "СТ «Наша Дача»",
         "short_name:ru": "СТ «Наша Дача»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -27074,7 +27074,7 @@ const Data =
         "short_name:be": "СТ «Сонечная паляна Анусіна»",
         "short_name:ru": "СТ «Солнечная поляна Анусино»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -27128,7 +27128,7 @@ const Data =
         "short_name:be": "СТ «Рагачоўское Прыазер'е»",
         "short_name:ru": "СТ «Рогачёвское Приозерье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -28189,7 +28189,7 @@ const Data =
         "short_name:be": "СТ «Садавод»",
         "short_name:ru": "СТ «Садовод»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -28216,7 +28216,7 @@ const Data =
         "short_name:be": "СТ «Вышукальнік»",
         "short_name:ru": "СТ «Вышукальник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -28804,7 +28804,7 @@ const Data =
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ «Надежда»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -28831,7 +28831,7 @@ const Data =
         "short_name:be": "СТ «Пенсіянер»",
         "short_name:ru": "СТ «Пенсионер»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -30105,7 +30105,7 @@ const Data =
         "short_name:be": "СТ «Крынічанка»",
         "short_name:ru": "СТ «Криничанка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -30132,7 +30132,7 @@ const Data =
         "short_name:be": "СТ «Баравінка»",
         "short_name:ru": "СТ «Боровинка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -30186,7 +30186,7 @@ const Data =
         "short_name:be": "СТ «Дубраўка-2016»",
         "short_name:ru": "СТ «Дубравка-2016»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -31401,7 +31401,7 @@ const Data =
         "short_name:be": "СТ «Беразіна»",
         "short_name:ru": "СТ «Березина»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -31428,7 +31428,7 @@ const Data =
         "short_name:be": "СТ «Беразіна»",
         "short_name:ru": "СТ «Березина»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -31455,7 +31455,7 @@ const Data =
         "short_name:be": "СТ «Беразіна»",
         "short_name:ru": "СТ «Березина»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -32553,7 +32553,7 @@ const Data =
         "short_name:be": "СТ «Газаперапрацоўшчык»",
         "short_name:ru": "СТ «Газопереработчик»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -32769,7 +32769,7 @@ const Data =
         "short_name:be": "СТ «Усход»",
         "short_name:ru": "СТ «Восход»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -33648,7 +33648,7 @@ const Data =
         "short_name:be": "СТ «Зялёны Бераг»",
         "short_name:ru": "СТ «Зелёный Берег»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -39609,7 +39609,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -41465,7 +41465,7 @@ const Data =
         "short_name:be": "СТ «Механізатар»",
         "short_name:ru": "СТ «Механизатор»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -44381,7 +44381,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -44975,7 +44975,7 @@ const Data =
         "short_name:be": "СТ «Лукаморʼе»",
         "short_name:ru": "СТ «Лукоморье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -45002,7 +45002,7 @@ const Data =
         "short_name:be": "СТ «Крыніца-95»",
         "short_name:ru": "СТ «Родник-95»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -48510,7 +48510,7 @@ const Data =
         "short_name:be": "СТ «Аўтамабіліст»",
         "short_name:ru": "СТ «Автомобилист»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -49988,7 +49988,7 @@ const Data =
         "short_name:be": "СТ «Вясёлка» НПА Сейсматэхніка",
         "short_name:ru": "СТ «Радуга» НПО Сейсмотехника",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -50015,7 +50015,7 @@ const Data =
         "short_name:be": "СТ «Прыазёрны-ГЗПД»",
         "short_name:ru": "СТ «Приозёрный-ГЗПД»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -51041,7 +51041,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -51068,7 +51068,7 @@ const Data =
         "short_name:be": "СТ «Сасновы Бор-1»",
         "short_name:ru": "СТ «Сосновый Бор-1»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -51095,7 +51095,7 @@ const Data =
         "short_name:be": "СТ «Сасновы Бор-2»",
         "short_name:ru": "СТ «Сосновый Бор-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -51122,7 +51122,7 @@ const Data =
         "short_name:be": "СТ «Сасновы Бор-2»",
         "short_name:ru": "СТ «Сосновый Бор-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -51176,7 +51176,7 @@ const Data =
         "short_name:be": "СТ «Крынічка ЛВЗ»",
         "short_name:ru": "СТ «Криничка ЛВЗ»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -54986,7 +54986,7 @@ const Data =
         "short_name:be": "СТ «Будаўнік ААТ МПМК-142»",
         "short_name:ru": "СТ «Строитель ОАО МПМК-142»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -55721,7 +55721,7 @@ const Data =
         "short_name:be": "СТ «Будаўнік-сантэхнік»",
         "short_name:ru": "СТ «Строитель-сантехник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -57100,7 +57100,7 @@ const Data =
         "short_name:be": "СТ «Баранаўка»",
         "short_name:ru": "СТ «Барановка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -57289,7 +57289,7 @@ const Data =
         "short_name:be": "СТ «Дубрава»",
         "short_name:ru": "СТ «Дубрава»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -57316,7 +57316,7 @@ const Data =
         "short_name:be": "СТ «Дубрава»",
         "short_name:ru": "СТ «Дубрава»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -57343,7 +57343,7 @@ const Data =
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Криничка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -63391,7 +63391,7 @@ const Data =
         "short_name:be": "СТ «Благавічы»",
         "short_name:ru": "СТ «Благовичи»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -63526,7 +63526,7 @@ const Data =
         "short_name:be": "СТ «Разліў»",
         "short_name:ru": "СТ «Разлив»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -65055,7 +65055,7 @@ const Data =
         "short_name:be": "СТ «Мір»",
         "short_name:ru": "СТ «Мир»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -66383,7 +66383,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75603,7 +75603,7 @@ const Data =
         "short_name:be": "СТ «Беражок-2008»",
         "short_name:ru": "СТ «Бережок-2008»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75630,7 +75630,7 @@ const Data =
         "short_name:be": "СТ «Дружба-88»",
         "short_name:ru": "СТ «Дружба-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75657,7 +75657,7 @@ const Data =
         "short_name:be": "СТ «Камыш»",
         "short_name:ru": "СТ «Камыш»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75738,7 +75738,7 @@ const Data =
         "short_name:be": "СТ «Вясёлка-1990»",
         "short_name:ru": "СТ «Вясёлка-1990»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75765,7 +75765,7 @@ const Data =
         "short_name:be": "СТ «Агеньчык»",
         "short_name:ru": "СТ «Огонёк»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75792,7 +75792,7 @@ const Data =
         "short_name:be": "СТ «Яблынька»",
         "short_name:ru": "СТ «Яблонька»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75819,7 +75819,7 @@ const Data =
         "short_name:be": "СТ «Утульнасць-2»",
         "short_name:ru": "СТ «Уют-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -75846,7 +75846,7 @@ const Data =
         "short_name:be": "СТ «Церамок»",
         "short_name:ru": "СТ «Теремок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76035,7 +76035,7 @@ const Data =
         "short_name:be": "СТ «Швейнік-1»",
         "short_name:ru": "СТ «Швейник-1»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76089,7 +76089,7 @@ const Data =
         "short_name:be": "СТ «Вітамін-1»",
         "short_name:ru": "СТ «Витамин-1»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76116,7 +76116,7 @@ const Data =
         "short_name:be": "СТ «Кабельшчык-2»",
         "short_name:ru": "СТ «Кабельщик-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76143,7 +76143,7 @@ const Data =
         "short_name:be": "СТ «Ніва»",
         "short_name:ru": "СТ «Нива»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76170,7 +76170,7 @@ const Data =
         "short_name:be": "СТ «Лукаморʼе»",
         "short_name:ru": "СТ «Лукоморье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76197,7 +76197,7 @@ const Data =
         "short_name:be": "СТ «Прудкоўскі яблык»",
         "short_name:ru": "СТ «Прудковское яблоко»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76440,7 +76440,7 @@ const Data =
         "short_name:be": "СТ «Крышталь-2»",
         "short_name:ru": "СТ «Кристалл-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76575,7 +76575,7 @@ const Data =
         "short_name:be": "СТ «Лоша»",
         "short_name:ru": "СТ «Лоша»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -76768,7 +76768,7 @@ const Data =
         "place": "allotments",
         "start_date": "1992-06-23",
         "ref:vatin": "BY500233355",
-        "status": "red"
+        "status": "orange"
       }
     },
     {
@@ -76971,7 +76971,7 @@ const Data =
         "place": "allotments",
         "start_date": "1992-04-21",
         "ref:vatin": "BY500233687",
-        "status": "red"
+        "status": "orange"
       }
     },
     {
@@ -77376,7 +77376,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Криница»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77430,7 +77430,7 @@ const Data =
         "short_name:be": "СТ «Світаначак-2016»",
         "short_name:ru": "СТ «Свитаночек-2016»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77457,7 +77457,7 @@ const Data =
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Радуга»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77484,7 +77484,7 @@ const Data =
         "short_name:be": "СТ «Крынічная вада»",
         "short_name:ru": "СТ «Родниковая вода»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77511,7 +77511,7 @@ const Data =
         "short_name:be": "СТ «Усход-2009»",
         "short_name:ru": "СТ «Восток-2009»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77538,7 +77538,7 @@ const Data =
         "short_name:be": "СТ «Алгарытм-2008»",
         "short_name:ru": "СТ «Алгоритм-2008»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77565,7 +77565,7 @@ const Data =
         "short_name:be": "СТ «Сігнал-2009»",
         "short_name:ru": "СТ «Сигнал-2009»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77592,7 +77592,7 @@ const Data =
         "short_name:be": "СТ «Вымпел» УУС",
         "short_name:ru": "СТ «Вымпел» УВД",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77619,7 +77619,7 @@ const Data =
         "short_name:be": "СТ «Авіатар-4»",
         "short_name:ru": "СТ «Авиатор-4»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77646,7 +77646,7 @@ const Data =
         "short_name:be": "СТ «Мірнае»",
         "short_name:ru": "СТ «Мирное»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77754,7 +77754,7 @@ const Data =
         "short_name:be": "СТ «Палессе-88»",
         "short_name:ru": "СТ «Полесье-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77781,7 +77781,7 @@ const Data =
         "short_name:be": "СТ «Меркурый»",
         "short_name:ru": "СТ «Меркурий»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77808,7 +77808,7 @@ const Data =
         "short_name:be": "СТ «Жамчужына-1988»",
         "short_name:ru": "СТ «Жемчужина-1988»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77835,7 +77835,7 @@ const Data =
         "short_name:be": "СТ «Кааператар-94»",
         "short_name:ru": "СТ «Кооператор-94»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77862,7 +77862,7 @@ const Data =
         "short_name:be": "СТ «Бярозка-87»",
         "short_name:ru": "СТ «Берёзка-87»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77889,7 +77889,7 @@ const Data =
         "short_name:be": "СТ «Камунальнік-88»",
         "short_name:ru": "СТ «Коммунальник-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77916,7 +77916,7 @@ const Data =
         "short_name:be": "СТ «Балагое»",
         "short_name:ru": "СТ «Балагое»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77943,7 +77943,7 @@ const Data =
         "short_name:be": "СТ «Лясная Паляна»",
         "short_name:ru": "СТ «Лесная Поляна»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77970,7 +77970,7 @@ const Data =
         "short_name:be": "СТ «Крышталь-100»",
         "short_name:ru": "СТ «Кристалл-100»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -77997,7 +77997,7 @@ const Data =
         "short_name:be": "СТ «Крынічка-86»",
         "short_name:ru": "СТ «Родничок-86»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78024,7 +78024,7 @@ const Data =
         "short_name:be": "СТ «Зялёны Бор»",
         "short_name:ru": "СТ «Зелёный Бор»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78051,7 +78051,7 @@ const Data =
         "short_name:be": "СТ «Бярозавы гай»",
         "short_name:ru": "СТ «Берёзовая роща»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78078,7 +78078,7 @@ const Data =
         "short_name:be": "СТ «Энергетык»",
         "short_name:ru": "СТ «Энергетик»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78105,7 +78105,7 @@ const Data =
         "short_name:be": "СТ «Факел-88»",
         "short_name:ru": "СТ «Факел-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78132,7 +78132,7 @@ const Data =
         "short_name:be": "СТ «Бярозка»",
         "short_name:ru": "СТ «Берёзка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78159,7 +78159,7 @@ const Data =
         "short_name:be": "СТ «Прамень»",
         "short_name:ru": "СТ «Прамень»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78186,7 +78186,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Криница»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78213,7 +78213,7 @@ const Data =
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Вясёлка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78240,7 +78240,7 @@ const Data =
         "short_name:be": "СТ «Бярозавы Гай-2»",
         "short_name:ru": "СТ «Берёзовый Гай-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78267,7 +78267,7 @@ const Data =
         "short_name:be": "СТ «Бытавік-Жабінка»",
         "short_name:ru": "СТ «Бытовик-Жабинка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78294,7 +78294,7 @@ const Data =
         "short_name:be": "СТ «Будаўнік»",
         "short_name:ru": "СТ «Строитель»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78321,7 +78321,7 @@ const Data =
         "short_name:be": "СТ «Крыніца ПМК-19»",
         "short_name:ru": "СТ «Родник ПМК-19»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78348,7 +78348,7 @@ const Data =
         "short_name:be": "СТ «Світанак»",
         "short_name:ru": "СТ «Свитанок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78375,7 +78375,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78402,7 +78402,7 @@ const Data =
         "short_name:be": "СТ «Космас»",
         "short_name:ru": "СТ «Космос»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78429,7 +78429,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78456,7 +78456,7 @@ const Data =
         "short_name:be": "СТ «Авіятар»",
         "short_name:ru": "СТ «Авиатор»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78483,7 +78483,7 @@ const Data =
         "short_name:be": "СТ «Зялёная паляна»",
         "short_name:ru": "СТ «Зелёная Поляна»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78510,7 +78510,7 @@ const Data =
         "short_name:be": "СТ «Інструментальшчык»",
         "short_name:ru": "СТ «Инструментальщик»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78537,7 +78537,7 @@ const Data =
         "short_name:be": "СТ «Дасуг»",
         "short_name:ru": "СТ «Досуг»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78564,7 +78564,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78591,7 +78591,7 @@ const Data =
         "short_name:be": "СТ «Садружнасць»",
         "short_name:ru": "СТ «Садружнасць»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78618,7 +78618,7 @@ const Data =
         "short_name:be": "СТ «Бярозка-4»",
         "short_name:ru": "СТ «Берёзка-4»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78645,7 +78645,7 @@ const Data =
         "short_name:be": "СТ «Заранак»",
         "short_name:ru": "СТ «Заранак»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78672,7 +78672,7 @@ const Data =
         "short_name:be": "СТ «Бярозка-5»",
         "short_name:ru": "СТ «Берёзка-5»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78699,7 +78699,7 @@ const Data =
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Криничка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78726,7 +78726,7 @@ const Data =
         "short_name:be": "СТ «Ніва»",
         "short_name:ru": "СТ «Нива»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78753,7 +78753,7 @@ const Data =
         "short_name:be": "СТ «Крыніца-Вяляцічы»",
         "short_name:ru": "СТ «Криница-Велятичи»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78780,7 +78780,7 @@ const Data =
         "short_name:be": "СТ «Ураджай»",
         "short_name:ru": "СТ «Урожай»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78807,7 +78807,7 @@ const Data =
         "short_name:be": "СТ «Машынабудаўнік»",
         "short_name:ru": "СТ «Машиностроитель»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78834,7 +78834,7 @@ const Data =
         "short_name:be": "СТ «Верасок»",
         "short_name:ru": "СТ «Вересок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78861,7 +78861,7 @@ const Data =
         "short_name:be": "СТ «Будаўнік»",
         "short_name:ru": "СТ «Строитель»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78888,7 +78888,7 @@ const Data =
         "short_name:be": "СТ «Прыпяць»",
         "short_name:ru": "СТ «Припять»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78915,7 +78915,7 @@ const Data =
         "short_name:be": "СТ «Ліра Азёрная»",
         "short_name:ru": "СТ «Лира Озёрная»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78942,7 +78942,7 @@ const Data =
         "short_name:be": "СТ «Рабінушка Азёрная»",
         "short_name:ru": "СТ «Рябинушка Озёрная»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78969,7 +78969,7 @@ const Data =
         "short_name:be": "СТ «Аўтамабіліст АП №3»",
         "short_name:ru": "СТ «Автомобилист АП №3»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -78996,7 +78996,7 @@ const Data =
         "short_name:be": "СТ «Журавінка Мікс»",
         "short_name:ru": "СТ «Журавинка Микс»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79023,7 +79023,7 @@ const Data =
         "short_name:be": "СТ «Яблынька»",
         "short_name:ru": "СТ «Яблонька»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79050,7 +79050,7 @@ const Data =
         "short_name:be": "СТ «Бабры»",
         "short_name:ru": "СТ «Бобры»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79077,7 +79077,7 @@ const Data =
         "short_name:be": "СТ «Іскрыстае»",
         "short_name:ru": "СТ «Искристое»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79104,7 +79104,7 @@ const Data =
         "short_name:be": "СТ «Журавінка Гарадзішчанская»",
         "short_name:ru": "СТ «Журавинка Городищенская»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79131,7 +79131,7 @@ const Data =
         "short_name:be": "СТ «Яблычка»",
         "short_name:ru": "СТ «Яблочко»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79158,7 +79158,7 @@ const Data =
         "short_name:be": "СТ «Журавінка-1»",
         "short_name:ru": "СТ «Журавинка-1»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79185,7 +79185,7 @@ const Data =
         "short_name:be": "СТ «Расінка»",
         "short_name:ru": "СТ «Росинка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79212,7 +79212,7 @@ const Data =
         "short_name:be": "СТ «Дружнае»",
         "short_name:ru": "СТ «Дружное»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79239,7 +79239,7 @@ const Data =
         "short_name:be": "СТ «Рабінушка-Сушычкае»",
         "short_name:ru": "СТ «Рябинушка-Сушицкое»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79266,7 +79266,7 @@ const Data =
         "short_name:be": "СТ «Алёнушка»",
         "short_name:ru": "СТ «Алёнушка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79293,7 +79293,7 @@ const Data =
         "short_name:be": "СТ «Здароўʼе»",
         "short_name:ru": "СТ «Здоровье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79320,7 +79320,7 @@ const Data =
         "short_name:be": "СТ «Дарʼя»",
         "short_name:ru": "СТ «Дарья»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79347,7 +79347,7 @@ const Data =
         "short_name:be": "СТ «Рассвет»",
         "short_name:ru": "СТ «Рассвет»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79374,7 +79374,7 @@ const Data =
         "short_name:be": "СТ «Расінушка»",
         "short_name:ru": "СТ «Росинушка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79401,7 +79401,7 @@ const Data =
         "short_name:be": "СТ «Рамонак»",
         "short_name:ru": "СТ «Ромашка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79428,7 +79428,7 @@ const Data =
         "short_name:be": "СТ «Сяброўкі»",
         "short_name:ru": "СТ «Сяброуки»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79455,7 +79455,7 @@ const Data =
         "short_name:be": "СТ «Азёрнае-Гарадзішчанскае»",
         "short_name:ru": "СТ «Озёрное-Городищенское»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79482,7 +79482,7 @@ const Data =
         "short_name:be": "СТ «Крыніца в. Ляхі»",
         "short_name:ru": "СТ «Родник д. Ляхи»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79509,7 +79509,7 @@ const Data =
         "short_name:be": "СТ «Мечта»",
         "short_name:ru": "СТ «Мечта»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79536,7 +79536,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79563,7 +79563,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79590,7 +79590,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79617,7 +79617,7 @@ const Data =
         "short_name:be": "СТ «Заронава»",
         "short_name:ru": "СТ «Зароново»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79644,7 +79644,7 @@ const Data =
         "short_name:be": "СТ «Заронаўскае»",
         "short_name:ru": "СТ «Зароновское»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79671,7 +79671,7 @@ const Data =
         "short_name:be": "СТ «Дарожнік»",
         "short_name:ru": "СТ «Дорожник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79698,7 +79698,7 @@ const Data =
         "short_name:be": "СТ «Берасценава»",
         "short_name:ru": "СТ «Берестеново»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79725,7 +79725,7 @@ const Data =
         "short_name:be": "СТ «Сож»",
         "short_name:ru": "СТ «Сож»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79752,7 +79752,7 @@ const Data =
         "short_name:be": "СТ «Іпуць-Клёнкі»",
         "short_name:ru": "СТ «Ипуть-Клёнки»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79779,7 +79779,7 @@ const Data =
         "short_name:be": "СТ «Раднік-Палессе»",
         "short_name:ru": "СТ «Родник-Полесье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79806,7 +79806,7 @@ const Data =
         "short_name:be": "СТ «Расінка-2»",
         "short_name:ru": "СТ «Росинка-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79833,7 +79833,7 @@ const Data =
         "short_name:be": "СТ «Гарадзкія дачы»",
         "short_name:ru": "СТ «Городские Дачи»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79860,7 +79860,7 @@ const Data =
         "short_name:be": "СТ «Спутнік»",
         "short_name:ru": "СТ «Спутник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79887,7 +79887,7 @@ const Data =
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79914,7 +79914,7 @@ const Data =
         "short_name:be": "СТ «Космас»",
         "short_name:ru": "СТ «Космос»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79941,7 +79941,7 @@ const Data =
         "short_name:be": "СТ «Рабатка»",
         "short_name:ru": "СТ «Робатка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79968,7 +79968,7 @@ const Data =
         "short_name:be": "СТ «Тубус»",
         "short_name:ru": "СТ «Тубус»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -79995,7 +79995,7 @@ const Data =
         "short_name:be": "СТ «Спутнік-56»",
         "short_name:ru": "СТ «Спутник-56»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80022,7 +80022,7 @@ const Data =
         "short_name:be": "СТ «Лясное» ПШО Камінтэрн",
         "short_name:ru": "СТ «Лесное» ПШО Коминтерн",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80076,7 +80076,7 @@ const Data =
         "short_name:be": "СТ «Паўднёвы»",
         "short_name:ru": "СТ «Южный»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80103,7 +80103,7 @@ const Data =
         "short_name:be": "СТ «Дружба ДРСУ-150»",
         "short_name:ru": "СТ «Дружба ДРСУ-150»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80130,7 +80130,7 @@ const Data =
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80157,7 +80157,7 @@ const Data =
         "short_name:be": "СТ «Вяснянка»",
         "short_name:ru": "СТ «Веснянка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80184,7 +80184,7 @@ const Data =
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ «Надежда»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80211,7 +80211,7 @@ const Data =
         "short_name:be": "СТ «Папернік-2»",
         "short_name:ru": "СТ «Паперник-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80238,7 +80238,7 @@ const Data =
         "short_name:be": "СТ «Бярозкі»",
         "short_name:ru": "СТ «Берёзки»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80265,7 +80265,7 @@ const Data =
         "short_name:be": "СТ «Колас»",
         "short_name:ru": "СТ «Колос»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80292,7 +80292,7 @@ const Data =
         "short_name:be": "СТ «Азярэц»",
         "short_name:ru": "СТ «Озерец»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80319,7 +80319,7 @@ const Data =
         "short_name:be": "СТ «Бярозкі»",
         "short_name:ru": "СТ «Берёзки»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80346,7 +80346,7 @@ const Data =
         "short_name:be": "СТ «Садкі-2»",
         "short_name:ru": "СТ «Садки-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80373,7 +80373,7 @@ const Data =
         "short_name:be": "СТ «Гудок»",
         "short_name:ru": "СТ «Гудок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80400,7 +80400,7 @@ const Data =
         "short_name:be": "СТ «Садкі»",
         "short_name:ru": "СТ «Садки»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80427,7 +80427,7 @@ const Data =
         "short_name:be": "СТ «Палессе»",
         "short_name:ru": "СТ «Полесье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80454,7 +80454,7 @@ const Data =
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80481,7 +80481,7 @@ const Data =
         "short_name:be": "СТ «Светлячок»",
         "short_name:ru": "СТ «Светлячок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80508,7 +80508,7 @@ const Data =
         "short_name:be": "СТ «Вясна»",
         "short_name:ru": "СТ «Весна»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80535,7 +80535,7 @@ const Data =
         "short_name:be": "СТ «Палессе»",
         "short_name:ru": "СТ «Полесье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80562,7 +80562,7 @@ const Data =
         "short_name:be": "СТ «Кааператар»",
         "short_name:ru": "СТ «Кооператор»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80589,7 +80589,7 @@ const Data =
         "short_name:be": "СТ «Лясное»",
         "short_name:ru": "СТ «Лесное»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80616,7 +80616,7 @@ const Data =
         "short_name:be": "СТ «Еланы»",
         "short_name:ru": "СТ «Еланы»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80643,7 +80643,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80670,7 +80670,7 @@ const Data =
         "short_name:be": "СТ «Савінка-Плюс»",
         "short_name:ru": "СТ «Савинка-Плюс»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80697,7 +80697,7 @@ const Data =
         "short_name:be": "СТ «Будаўнік-Савінка»",
         "short_name:ru": "СТ «Строитель-Савинка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80724,7 +80724,7 @@ const Data =
         "short_name:be": "СТ «Васілёк»",
         "short_name:ru": "СТ «Василёк»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80751,7 +80751,7 @@ const Data =
         "short_name:be": "СТ «Вішнёвы сад»",
         "short_name:ru": "СТ «Вишнёвый Сад»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80778,7 +80778,7 @@ const Data =
         "short_name:be": "СТ «Гай»",
         "short_name:ru": "СТ «Гай»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80805,7 +80805,7 @@ const Data =
         "short_name:be": "СТ «Вішанька-Савінка»",
         "short_name:ru": "СТ «Вишенка-Савинка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80832,7 +80832,7 @@ const Data =
         "short_name:be": "СТ «Крыніца-Ніва»",
         "short_name:ru": "СТ «Криница-Нива»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80859,7 +80859,7 @@ const Data =
         "short_name:be": "СТ «Лясная Паляна»",
         "short_name:ru": "СТ «Лесная Поляна»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80886,7 +80886,7 @@ const Data =
         "short_name:be": "СТ «Дружны ландыш»",
         "short_name:ru": "СТ «Дружный Ландыш»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80913,7 +80913,7 @@ const Data =
         "short_name:be": "СТ «Аккорд-88»",
         "short_name:ru": "СТ «Аккорд-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -80940,7 +80940,7 @@ const Data =
         "short_name:be": "СТ «Лясная Паляна»",
         "short_name:ru": "СТ «Лесная Поляна»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -81291,7 +81291,7 @@ const Data =
         "short_name:be": "СТ «Ветэран-7»",
         "short_name:ru": "СТ «Ветеран-7»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -81480,7 +81480,7 @@ const Data =
         "short_name:be": "СТ «Вясёлка-2015»",
         "short_name:ru": "СТ «Вясёлка-2015»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -82857,7 +82857,7 @@ const Data =
         "short_name:be": "СТ «Гаспадар-2002»",
         "short_name:ru": "СТ «Гаспадар-2002»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -82884,7 +82884,7 @@ const Data =
         "short_name:be": "СТ «Зарэчанская Дружба»",
         "short_name:ru": "СТ «Зареченская Дружба»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -82911,7 +82911,7 @@ const Data =
         "short_name:be": "СТ «Дарожнік»",
         "short_name:ru": "СТ «Дорожник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -82938,7 +82938,7 @@ const Data =
         "short_name:be": "СТ «Аўтамабіліст-82»",
         "short_name:ru": "СТ «Автомобилист-82»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -82965,7 +82965,7 @@ const Data =
         "short_name:be": "СТ «Абутнік-5»",
         "short_name:ru": "СТ «Обувщик-5»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -82992,7 +82992,7 @@ const Data =
         "short_name:be": "СТ «Аўтатранспартнік-2002»",
         "short_name:ru": "СТ «Автотранспортник-2002»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83019,7 +83019,7 @@ const Data =
         "short_name:be": "СТ «Зарэчанскі будаўнік»",
         "short_name:ru": "СТ «Зареченский строитель»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83046,7 +83046,7 @@ const Data =
         "short_name:be": "СТ «Таксі»",
         "short_name:ru": "СТ «Такси»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83073,7 +83073,7 @@ const Data =
         "short_name:be": "СТ «Наша крыніца»",
         "short_name:ru": "СТ «Наш родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83100,7 +83100,7 @@ const Data =
         "short_name:be": "СТ «Таксі»",
         "short_name:ru": "СТ «Такси»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83127,7 +83127,7 @@ const Data =
         "short_name:be": "СТ «Замасточча»",
         "short_name:ru": "СТ «Замосточье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83154,7 +83154,7 @@ const Data =
         "short_name:be": "СТ «Таксі»",
         "short_name:ru": "СТ «Такси»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83343,7 +83343,7 @@ const Data =
         "short_name:be": "СТ «Крыніца-90»",
         "short_name:ru": "СТ «Родник-90»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83370,7 +83370,7 @@ const Data =
         "short_name:be": "СТ «Крынічка-Пціч»",
         "short_name:ru": "СТ «Родничок-Птичь»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83397,7 +83397,7 @@ const Data =
         "short_name:be": "СТ «Журавінка-БНТУ»",
         "short_name:ru": "СТ «Журавинка-БНТУ»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83424,7 +83424,7 @@ const Data =
         "short_name:be": "СТ «Дружба-86»",
         "short_name:ru": "СТ «Дружба-86»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83451,7 +83451,7 @@ const Data =
         "short_name:be": "СТ «Спадчына-88»",
         "short_name:ru": "СТ «Спадчина-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83478,7 +83478,7 @@ const Data =
         "short_name:be": "СТ «Спадчына-88»",
         "short_name:ru": "СТ «Спадчина-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83505,7 +83505,7 @@ const Data =
         "short_name:be": "СТ «Крыніца-Зялёнбуд»",
         "short_name:ru": "СТ «Криница-Зеленстрой»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83532,7 +83532,7 @@ const Data =
         "short_name:be": "СТ «Світанак-2002»",
         "short_name:ru": "СТ «Свитанок-2002»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83559,7 +83559,7 @@ const Data =
         "short_name:be": "СТ «Крынічка-96»",
         "short_name:ru": "СТ «Родничок-96»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83586,7 +83586,7 @@ const Data =
         "short_name:be": "СТ «Вяснянка»",
         "short_name:ru": "СТ «Веснянка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83613,7 +83613,7 @@ const Data =
         "short_name:be": "СТ «Маёнтак»",
         "short_name:ru": "СТ «Маёнтак»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83640,7 +83640,7 @@ const Data =
         "short_name:be": "СТ «Пралеска»",
         "short_name:ru": "СТ «Пролеска»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83667,7 +83667,7 @@ const Data =
         "short_name:be": "СТ «Расінка-88»",
         "short_name:ru": "СТ «Росинка-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83694,7 +83694,7 @@ const Data =
         "short_name:be": "СТ «Бульбяш»",
         "short_name:ru": "СТ «Бульбяш»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83721,7 +83721,7 @@ const Data =
         "short_name:be": "СТ «Зорачка-2002»",
         "short_name:ru": "СТ «Звёздочка-2002»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83748,7 +83748,7 @@ const Data =
         "short_name:be": "СТ «Вадаспад»",
         "short_name:ru": "СТ «Водопад»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83775,7 +83775,7 @@ const Data =
         "short_name:be": "СТ «Курган Славы»",
         "short_name:ru": "СТ «Курган Славы»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83802,7 +83802,7 @@ const Data =
         "short_name:be": "СТ «Гарняк-94»",
         "short_name:ru": "СТ «Горняк-94»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83829,7 +83829,7 @@ const Data =
         "short_name:be": "СТ «Загорʼе-3»",
         "short_name:ru": "СТ «Загорье-3»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83856,7 +83856,7 @@ const Data =
         "short_name:be": "СТ «Дубрава МЗСМ»",
         "short_name:ru": "СТ «Дубрава МЗСМ»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83883,7 +83883,7 @@ const Data =
         "short_name:be": "СТ «Галург»",
         "short_name:ru": "СТ «Галург»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83910,7 +83910,7 @@ const Data =
         "short_name:be": "СТ «Інфарматыка-89»",
         "short_name:ru": "СТ «Информатика-89»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83937,7 +83937,7 @@ const Data =
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83964,7 +83964,7 @@ const Data =
         "short_name:be": "СТ «Экран»",
         "short_name:ru": "СТ «Экран»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -83991,7 +83991,7 @@ const Data =
         "short_name:be": "СТ «Агра БелОІ-1»",
         "short_name:ru": "СТ «Агро БелОИ-1»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84045,7 +84045,7 @@ const Data =
         "short_name:be": "СТ «Чыстая крынічка»",
         "short_name:ru": "СТ «Чистый родничок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84126,7 +84126,7 @@ const Data =
         "short_name:be": "СТ «Хімік-2010»",
         "short_name:ru": "СТ «Химик-2010»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84153,7 +84153,7 @@ const Data =
         "short_name:be": "СТ «Ляжнёўка»",
         "short_name:ru": "СТ «Лежневка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84180,7 +84180,7 @@ const Data =
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84207,7 +84207,7 @@ const Data =
         "short_name:be": "СТ «Надзея-Бел»",
         "short_name:ru": "СТ «Надежда-Бел»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84234,7 +84234,7 @@ const Data =
         "short_name:be": "СТ «Ягадка-Бел»",
         "short_name:ru": "СТ «Ягодка-Бел»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84261,7 +84261,7 @@ const Data =
         "short_name:be": "СТ «Ягадка-Бел»",
         "short_name:ru": "СТ «Ягодка-Бел»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84288,7 +84288,7 @@ const Data =
         "short_name:be": "СТ «Ягадка-Бел»",
         "short_name:ru": "СТ «Ягодка-Бел»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84315,7 +84315,7 @@ const Data =
         "short_name:be": "СТ «Крынічка-Грунцік»",
         "short_name:ru": "СТ «Родничок-Грунтик»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84342,7 +84342,7 @@ const Data =
         "short_name:be": "СТ «Друць-Пруды»",
         "short_name:ru": "СТ «Друть-Пруды»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84396,7 +84396,7 @@ const Data =
         "short_name:be": "СТ «Дарожнік»",
         "short_name:ru": "СТ «Дорожник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84423,7 +84423,7 @@ const Data =
         "short_name:be": "СТ «Усход» дарожна-будаўнічага ўпраўлення №10",
         "short_name:ru": "СТ «Восток» дорожно-строительного управления №10",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84450,7 +84450,7 @@ const Data =
         "short_name:be": "СТ «Хімік»",
         "short_name:ru": "СТ «Химик»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84477,7 +84477,7 @@ const Data =
         "short_name:be": "СТ «Вішанька-2008»",
         "short_name:ru": "СТ «Вишенка-2008»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84504,7 +84504,7 @@ const Data =
         "short_name:be": "СТ «Усход»",
         "short_name:ru": "СТ «Восход»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84666,7 +84666,7 @@ const Data =
         "short_name:be": "СТ «Лянок»",
         "short_name:ru": "СТ «Лянок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84693,7 +84693,7 @@ const Data =
         "short_name:be": "СТ «Верасы-3»",
         "short_name:ru": "СТ «Верасы-3»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84720,7 +84720,7 @@ const Data =
         "short_name:be": "СТ «Верасы»",
         "short_name:ru": "СТ «Верасы»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84774,7 +84774,7 @@ const Data =
         "short_name:be": "СТ «Рамонак»",
         "short_name:ru": "СТ «Ромашка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84801,7 +84801,7 @@ const Data =
         "short_name:be": "СТ «Металург-2»",
         "short_name:ru": "СТ «Металлург-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84828,7 +84828,7 @@ const Data =
         "short_name:be": "СТ «Рамонак-2»",
         "short_name:ru": "СТ «Ромашка-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84855,7 +84855,7 @@ const Data =
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ «Надежда»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84882,7 +84882,7 @@ const Data =
         "short_name:be": "СТ «Спартак-Рудня»",
         "short_name:ru": "СТ «Спартак-Рудня»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84909,7 +84909,7 @@ const Data =
         "short_name:be": "СТ «Руднянскі пячатнік»",
         "short_name:ru": "СТ «Руднянский печатник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84936,7 +84936,7 @@ const Data =
         "short_name:be": "СТ «Кіравец»",
         "short_name:ru": "СТ «Кировец»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84963,7 +84963,7 @@ const Data =
         "short_name:be": "СТ «Зялёны грудок»",
         "short_name:ru": "СТ «Зелёный бугорок»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -84990,7 +84990,7 @@ const Data =
         "short_name:be": "СТ «Руднянскі вадаканал»",
         "short_name:ru": "СТ «Руднянский водоканал»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85017,7 +85017,7 @@ const Data =
         "short_name:be": "СТ «Лясное-Белмедпрэпараты»",
         "short_name:ru": "СТ «Лесное-Белмедпрепараты»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85044,7 +85044,7 @@ const Data =
         "short_name:be": "СТ «Авіятар-407»",
         "short_name:ru": "СТ «Авиатор-407»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85071,7 +85071,7 @@ const Data =
         "short_name:be": "СТ «Благадатнае»",
         "short_name:ru": "СТ «Благодатное»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85098,7 +85098,7 @@ const Data =
         "short_name:be": "СТ «Граніт»",
         "short_name:ru": "СТ «Гранит»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85125,7 +85125,7 @@ const Data =
         "short_name:be": "СТ «Садовая Рамашка»",
         "short_name:ru": "СТ «Садовая Ромашка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85152,7 +85152,7 @@ const Data =
         "short_name:be": "СТ «Электрык-5»",
         "short_name:ru": "СТ «Электрик-5»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85179,7 +85179,7 @@ const Data =
         "short_name:be": "СТ «Будаўнік» ПРСУ бытавога абслугоўвання",
         "short_name:ru": "СТ «Строитель» ПРСУ бытового обслуживания",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85206,7 +85206,7 @@ const Data =
         "short_name:be": "СТ «Ягадка-Хутаранка»",
         "short_name:ru": "СТ «Ягодка-Хуторянка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85233,7 +85233,7 @@ const Data =
         "short_name:be": "СТ «Світанак-Хутаранка»",
         "short_name:ru": "СТ «Рассвет-Хуторянка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85260,7 +85260,7 @@ const Data =
         "short_name:be": "СТ «Хутаранка»",
         "short_name:ru": "СТ «Хуторянка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85287,7 +85287,7 @@ const Data =
         "short_name:be": "СТ «Ручаёк»",
         "short_name:ru": "СТ «Ручеёк»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85314,7 +85314,7 @@ const Data =
         "short_name:be": "СТ «Пабужжа»",
         "short_name:ru": "СТ «Побужье»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85341,7 +85341,7 @@ const Data =
         "short_name:be": "СТ «Ягадны край»",
         "short_name:ru": "СТ «Ягодный край»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85368,7 +85368,7 @@ const Data =
         "short_name:be": "СТ «Ягадка»",
         "short_name:ru": "СТ «Ягодка»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85395,7 +85395,7 @@ const Data =
         "short_name:be": "СТ «Сялітранкі»",
         "short_name:ru": "СТ «Селитренки»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85422,7 +85422,7 @@ const Data =
         "short_name:be": "СТ «Дамашаны-2»",
         "short_name:ru": "СТ «Домошаны-2»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85449,7 +85449,7 @@ const Data =
         "short_name:be": "СТ «Журналіст-ІНФО»",
         "short_name:ru": "СТ «Журналист-ИНФО»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85476,7 +85476,7 @@ const Data =
         "short_name:be": "СТ «Дамашаны»",
         "short_name:ru": "СТ «Домошаны»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85503,7 +85503,7 @@ const Data =
         "short_name:be": "СТ «Геолаг-СМ»",
         "short_name:ru": "СТ «Геолог-СМ»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85530,7 +85530,7 @@ const Data =
         "short_name:be": "СТ «Сонечны сад»",
         "short_name:ru": "СТ «Солнечный сад»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85557,7 +85557,7 @@ const Data =
         "short_name:be": "СТ «Пралеска-88»",
         "short_name:ru": "СТ «Пролеска-88»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85584,7 +85584,7 @@ const Data =
         "short_name:be": "СТ «Узгорак-2002»",
         "short_name:ru": "СТ «Узгорье-2002»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85611,7 +85611,7 @@ const Data =
         "short_name:be": "СТ «Адпачынак»",
         "short_name:ru": "СТ «Отдых»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -85638,7 +85638,7 @@ const Data =
         "short_name:be": "СТ «Мечта»",
         "short_name:ru": "СТ «Мечта»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -86385,7 +86385,7 @@ const Data =
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ \"Надежда\"",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -88390,7 +88390,7 @@ const Data =
         "short_name:be": "СТ «Звездочка-432»",
         "short_name:ru": "СТ «Звездочка-432»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -88417,7 +88417,7 @@ const Data =
         "short_name:be": "СТ «Дорожник»",
         "short_name:ru": "СТ «Дорожник»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
@@ -88444,7 +88444,7 @@ const Data =
         "short_name:be": "СТ «Радуга Белавтомаз»",
         "short_name:ru": "СТ «Радуга Белавтомаз»",
         "place": "allotments",
-        "status": "red"
+        "status": "blue"
       }
     },
     {
