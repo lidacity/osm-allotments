@@ -123,6 +123,9 @@ def Generate():
     FeatureCollection = geojson.FeatureCollection(Features)
     SaveGeoJson(f"{TEMP}/allotments.json", FeatureCollection)
     SaveGeoJson(f"{DOCS}/allotments.data.js", FeatureCollection, Const="Data")
+
+
+def Git():
     #python ./Git.py
     logger.info("git push")
     DateTime = datetime.now().strftime('%Y-%m-%d')
@@ -144,4 +147,5 @@ if __name__ == "__main__":
     Generate()
     DateTime = datetime.now().strftime("%Y-%m-%dT%H:%M:00Z")
     SetDate(f"{DOCS}/allotments.date.js", 'Update', DateTime)
+    Git()
     logger.info("Done")
