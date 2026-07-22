@@ -105,7 +105,7 @@ API = "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
 def Generate():
     logger.info("read overpass")
 #    Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[landuse=allotments](area);out geom;", URL=API)
-    Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[landuse=allotments](area);out center;", URL=API)
+    Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[place=allotments](area);out center;", URL=API)
     SaveJson(f"{TEMP}/overpass.json", Allotments)
     Allotments = PrepareElements(Allotments)
     #
