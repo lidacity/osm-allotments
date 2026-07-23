@@ -25,8 +25,7 @@ const Data =
         "short_name": "СТ \"Комплекс\"",
         "short_name:be": "СТ \"Комплекс\"",
         "short_name:ru": "СТ \"Комплекс\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -52,8 +51,7 @@ const Data =
         "short_name": "СТ \"Кунцаўшчына\"",
         "short_name:be": "СТ \"Кунцаўшчына\"",
         "short_name:ru": "СТ \"Кунцевщина\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -79,8 +77,7 @@ const Data =
         "short_name": "СТ \"Кіравец\"",
         "short_name:be": "СТ \"Кіравец\"",
         "short_name:ru": "СТ \"Кировец\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -106,8 +103,7 @@ const Data =
         "short_name": "СТ \"Ягадка\"",
         "short_name:be": "СТ \"Ягадка\"",
         "short_name:ru": "СТ \"Ягодка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -133,8 +129,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Меліяратар\"",
         "short_name:be": "СТ \"Крыніца-Меліяратар\"",
         "short_name:ru": "СТ \"Родник-Мелиоратор\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -160,8 +155,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык\"",
         "short_name:be": "СТ \"Тэкстыльшчык\"",
         "short_name:ru": "СТ \"Текстильщик\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -187,8 +181,7 @@ const Data =
         "short_name": "СТ \"Калініна\"",
         "short_name:be": "СТ \"Калініна\"",
         "short_name:ru": "СТ \"Калинино\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -214,8 +207,7 @@ const Data =
         "short_name": "СТ \"Аганёк\"",
         "short_name:be": "СТ \"Аганёк\"",
         "short_name:ru": "СТ \"Огонёк\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -241,8 +233,7 @@ const Data =
         "short_name": "СТ \"Вяршына\"",
         "short_name:be": "СТ \"Вяршына\"",
         "short_name:ru": "СТ \"Вершина\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -268,8 +259,7 @@ const Data =
         "short_name": "СТ \"Гарняк-1\"",
         "short_name:be": "СТ \"Гарняк-1\"",
         "short_name:ru": "СТ \"Горняк-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -295,8 +285,7 @@ const Data =
         "short_name": "СТ \"Плянта-9\"",
         "short_name:be": "СТ \"Плянта-9\"",
         "short_name:ru": "СТ \"Плянта-9\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -322,8 +311,7 @@ const Data =
         "short_name": "СТ \"Вясёлка-5\"",
         "short_name:be": "СТ \"Вясёлка-5\"",
         "short_name:ru": "СТ \"Радуга-5\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -349,8 +337,7 @@ const Data =
         "short_name": "СТ \"Саюз\"",
         "short_name:be": "СТ \"Саюз\"",
         "short_name:ru": "СТ \"Союз\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -376,8 +363,7 @@ const Data =
         "short_name": "СТ \"Верасок\"",
         "short_name:be": "СТ \"Верасок\"",
         "short_name:ru": "СТ \"Верасок\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -403,8 +389,7 @@ const Data =
         "short_name": "СТ \"Зорка\"",
         "short_name:be": "СТ \"Зорка\"",
         "short_name:ru": "СТ \"Зорька\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -430,8 +415,7 @@ const Data =
         "short_name": "СТ \"Азярное\"",
         "short_name:be": "СТ \"Азярное\"",
         "short_name:ru": "СТ \"Озёрное\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -457,8 +441,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Элітны\"",
         "short_name:be": "СТ \"Крыніца-Элітны\"",
         "short_name:ru": "СТ \"Родник-Элитный\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -484,8 +467,7 @@ const Data =
         "short_name": "СТ \"Дубрава\"",
         "short_name:be": "СТ \"Дубрава\"",
         "short_name:ru": "СТ \"Дубрава\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -511,8 +493,7 @@ const Data =
         "short_name": "СТ \"Ураджай-2002\"",
         "short_name:be": "СТ \"Ураджай-2002\"",
         "short_name:ru": "СТ \"Урожай-2002\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -538,8 +519,7 @@ const Data =
         "short_name": "СТ \"Верасок\"",
         "short_name:be": "СТ \"Верасок\"",
         "short_name:ru": "СТ \"Верасок\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -565,8 +545,7 @@ const Data =
         "short_name": "СТ \"Мара-Расінка\"",
         "short_name:be": "СТ \"Мара-Расінка\"",
         "short_name:ru": "СТ \"Мара-Росинка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -592,8 +571,7 @@ const Data =
         "short_name": "СТ \"Ламіпрынт\"",
         "short_name:be": "СТ \"Ламіпрынт\"",
         "short_name:ru": "СТ \"Ламипринт\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -619,8 +597,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -646,8 +623,7 @@ const Data =
         "short_name": "СТ \"Халмагорʼе\"",
         "short_name:be": "СТ \"Халмагорʼе\"",
         "short_name:ru": "СТ \"Холмогорье\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -673,8 +649,7 @@ const Data =
         "short_name": "СТ \"Надзея-Шчарбіны\"",
         "short_name:be": "СТ \"Надзея-Шчарбіны\"",
         "short_name:ru": "СТ \"Надежда-Щербины\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -700,8 +675,7 @@ const Data =
         "short_name": "СТ \"Заранак\"",
         "short_name:be": "СТ \"Заранак\"",
         "short_name:ru": "СТ \"Заранак\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -727,8 +701,7 @@ const Data =
         "short_name": "СТ \"Эканаміст\"",
         "short_name:be": "СТ \"Эканаміст\"",
         "short_name:ru": "СТ \"Экономист\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -754,8 +727,7 @@ const Data =
         "short_name": "СТ \"Саюз\"",
         "short_name:be": "СТ \"Саюз\"",
         "short_name:ru": "СТ \"Союз\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -781,8 +753,7 @@ const Data =
         "short_name": "СТ \"Світанак 1993\"",
         "short_name:be": "СТ \"Світанак 1993\"",
         "short_name:ru": "СТ \"Свитанок\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -808,8 +779,7 @@ const Data =
         "short_name": "СТ \"Саюз-1\"",
         "short_name:be": "СТ \"Саюз-1\"",
         "short_name:ru": "СТ \"Союз-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -835,8 +805,7 @@ const Data =
         "short_name": "СТ \"Саюз-2\"",
         "short_name:be": "СТ \"Саюз-2\"",
         "short_name:ru": "СТ \"Союз-2\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -862,8 +831,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -889,8 +857,7 @@ const Data =
         "short_name": "СТ \"Сонечная Паляна\"",
         "short_name:be": "СТ \"Сонечная Паляна\"",
         "short_name:ru": "СТ \"Солнечная Поляна\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -916,8 +883,7 @@ const Data =
         "short_name": "СТ \"Узгорʼе-2\"",
         "short_name:be": "СТ \"Узгорʼе-2\"",
         "short_name:ru": "СТ \"Взгорье-2\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -943,8 +909,7 @@ const Data =
         "short_name": "СТ \"Іскра-Плюс\"",
         "short_name:be": "СТ \"Іскра-Плюс\"",
         "short_name:ru": "СТ \"Искра-Плюс\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -970,8 +935,7 @@ const Data =
         "short_name": "СТ \"Таццяна\"",
         "short_name:be": "СТ \"Таццяна\"",
         "short_name:ru": "СТ \"Татьяна\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -997,8 +961,7 @@ const Data =
         "short_name": "СТ \"Маяк\"",
         "short_name:be": "СТ \"Маяк\"",
         "short_name:ru": "СТ \"Маяк\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1024,8 +987,7 @@ const Data =
         "short_name": "СТ \"Вадалей\"",
         "short_name:be": "СТ \"Вадалей\"",
         "short_name:ru": "СТ \"Водолей\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1051,8 +1013,7 @@ const Data =
         "short_name": "СТ \"Планета Плюс\"",
         "short_name:be": "СТ \"Планета Плюс\"",
         "short_name:ru": "СТ \"Планета Плюс\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1078,8 +1039,7 @@ const Data =
         "short_name": "СТ \"Вязы\"",
         "short_name:be": "СТ \"Вязы\"",
         "short_name:ru": "СТ \"Вязы\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1105,8 +1065,7 @@ const Data =
         "short_name": "СТ \"Лясныя Паляны\"",
         "short_name:be": "СТ \"Лясныя Паляны\"",
         "short_name:ru": "СТ \"Лесные Поляны\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1132,8 +1091,7 @@ const Data =
         "short_name": "СТ \"Лысая Гара\"",
         "short_name:be": "СТ \"Лысая Гара\"",
         "short_name:ru": "СТ \"Лысая Гора\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1159,8 +1117,7 @@ const Data =
         "short_name": "СТ \"Здароўе-67\"",
         "short_name:be": "СТ \"Здароўе-67\"",
         "short_name:ru": "СТ \"Здоровье-67\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1186,8 +1143,7 @@ const Data =
         "short_name": "СТ \"Экран\"",
         "short_name:be": "СТ \"Экран\"",
         "short_name:ru": "СТ \"Экран\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1213,8 +1169,7 @@ const Data =
         "short_name": "СТ \"Зялёнае\"",
         "short_name:be": "СТ \"Зялёнае\"",
         "short_name:ru": "СТ \"Зелёное\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1240,8 +1195,7 @@ const Data =
         "short_name": "СТ \"Ліцейшчык\"",
         "short_name:be": "СТ \"Ліцейшчык\"",
         "short_name:ru": "СТ \"Литейщик\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1267,8 +1221,7 @@ const Data =
         "short_name": "СТ \"Узгорʼе-1\"",
         "short_name:be": "СТ \"Узгорʼе-1\"",
         "short_name:ru": "СТ \"Взгорье-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1294,8 +1247,7 @@ const Data =
         "short_name": "СТ \"Прырода\"",
         "short_name:be": "СТ \"Прырода\"",
         "short_name:ru": "СТ \"Природа\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1321,8 +1273,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1348,8 +1299,7 @@ const Data =
         "short_name": "СТ \"Флора-Сад\"",
         "short_name:be": "СТ \"Флора-Сад\"",
         "short_name:ru": "СТ \"Флора-Сад\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1375,8 +1325,7 @@ const Data =
         "short_name": "СТ \"Гарошкі\"",
         "short_name:be": "СТ \"Гарошкі\"",
         "short_name:ru": "СТ \"Горошки\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1402,8 +1351,7 @@ const Data =
         "short_name": "СТ \"Чыгуначнік-Крыжоўка\"",
         "short_name:be": "СТ \"Чыгуначнік-Крыжоўка\"",
         "short_name:ru": "СТ \"Железнодорожник-Крыжовка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1429,8 +1377,7 @@ const Data =
         "short_name": "СТ \"Простаквашына\"",
         "short_name:be": "СТ \"Простаквашына\"",
         "short_name:ru": "СТ \"Простоквашино\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1456,8 +1403,7 @@ const Data =
         "short_name": "СТ \"Крынічанька-Любімая\"",
         "short_name:be": "СТ \"Крынічанька-Любімая\"",
         "short_name:ru": "СТ \"Криниченька Любимая\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1483,8 +1429,7 @@ const Data =
         "short_name": "СТ \"Узгоркі\"",
         "short_name:be": "СТ \"Узгоркі\"",
         "short_name:ru": "СТ \"Холмы\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1510,8 +1455,7 @@ const Data =
         "short_name": "СТ \"Белая Бярозка-2\"",
         "short_name:be": "СТ \"Белая Бярозка-2\"",
         "short_name:ru": "СТ \"Белая Берёзка-2\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1537,8 +1481,7 @@ const Data =
         "short_name": "СТ \"Пціч\"",
         "short_name:be": "СТ \"Пціч\"",
         "short_name:ru": "СТ \"Птич\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1564,8 +1507,7 @@ const Data =
         "short_name": "СТ \"Метрабуд\"",
         "short_name:be": "СТ \"Метрабуд\"",
         "short_name:ru": "СТ \"Метрострой\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1591,8 +1533,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1618,8 +1559,7 @@ const Data =
         "short_name": "СТ \"Спадарожнік\"",
         "short_name:be": "СТ \"Спадарожнік\"",
         "short_name:ru": "СТ \"Спутник\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1645,8 +1585,7 @@ const Data =
         "short_name": "СТ \"Метрабуд\"",
         "short_name:be": "СТ \"Метрабуд\"",
         "short_name:ru": "СТ \"Метрострой\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1672,8 +1611,7 @@ const Data =
         "short_name": "СТ \"Гаспадар-2002\"",
         "short_name:be": "СТ \"Гаспадар-2002\"",
         "short_name:ru": "СТ \"Гаспадар-2002\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1699,8 +1637,7 @@ const Data =
         "short_name": "СТ \"Педагог\"",
         "short_name:be": "СТ \"Педагог\"",
         "short_name:ru": "СТ \"Педагог\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1726,8 +1663,7 @@ const Data =
         "short_name": "СТ \"Ніва-2002\"",
         "short_name:be": "СТ \"Ніва-2002\"",
         "short_name:ru": "СТ \"Нива-2002\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1753,8 +1689,7 @@ const Data =
         "short_name": "СТ \"Мічурынец-58\"",
         "short_name:be": "СТ \"Мічурынец-58\"",
         "short_name:ru": "СТ \"Мичуринец-58\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1780,8 +1715,7 @@ const Data =
         "short_name": "СТ \"Арбіта-82\"",
         "short_name:be": "СТ \"Арбіта-82\"",
         "short_name:ru": "СТ \"Орбита-82\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1807,7 +1741,7 @@ const Data =
         "short_name": "СТ \"Золушка\"",
         "short_name:be": "СТ \"Золушка\"",
         "short_name:ru": "СТ \"Золушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -1834,7 +1768,7 @@ const Data =
         "short_name": "СТ \"Камсамольнік\"",
         "short_name:be": "СТ \"Камсамольнік\"",
         "short_name:ru": "СТ \"Комсомольник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -1861,8 +1795,7 @@ const Data =
         "short_name": "СТ \"За Ўраджай\"",
         "short_name:be": "СТ \"За Ўраджай\"",
         "short_name:ru": "СТ \"За Урожай\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1888,8 +1821,7 @@ const Data =
         "short_name": "СТ \"Гідратэхнік\"",
         "short_name:be": "СТ \"Гідратэхнік\"",
         "short_name:ru": "СТ \"Гидротехник\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1915,8 +1847,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1942,8 +1873,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1969,8 +1899,7 @@ const Data =
         "short_name": "СТ \"Ясная Паляна\"",
         "short_name:be": "СТ \"Ясная Паляна\"",
         "short_name:ru": "СТ \"Ясная Поляна\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -1996,8 +1925,7 @@ const Data =
         "short_name": "СТ \"Армеец-3\"",
         "short_name:be": "СТ \"Армеец-3\"",
         "short_name:ru": "СТ \"Армеец-3\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2023,8 +1951,7 @@ const Data =
         "short_name": "СТ \"Шэметава-1\"",
         "short_name:be": "СТ \"Шэметава-1\"",
         "short_name:ru": "СТ \"Шеметово-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2050,8 +1977,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2077,8 +2003,7 @@ const Data =
         "short_name": "СТ \"Сонечная Паляна-1\"",
         "short_name:be": "СТ \"Сонечная Паляна-1\"",
         "short_name:ru": "СТ \"Солнечная Поляна-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2104,8 +2029,7 @@ const Data =
         "short_name": "СТ \"Сосны-Сад\"",
         "short_name:be": "СТ \"Сосны-Сад\"",
         "short_name:ru": "СТ \"Сосны-Сад\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2131,8 +2055,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива-2\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2158,8 +2081,7 @@ const Data =
         "short_name": "СТ \"Палянка-1\"",
         "short_name:be": "СТ \"Палянка-1\"",
         "short_name:ru": "СТ \"Полянка-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2185,8 +2107,7 @@ const Data =
         "short_name": "СТ \"Металіст\"",
         "short_name:be": "СТ \"Металіст\"",
         "short_name:ru": "СТ \"Металлист\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2212,8 +2133,7 @@ const Data =
         "short_name": "СТ \"Палітэхнік\"",
         "short_name:be": "СТ \"Палітэхнік\"",
         "short_name:ru": "СТ \"Политехник\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2239,8 +2159,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2266,8 +2185,7 @@ const Data =
         "short_name": "СТ \"Белы Бераг\"",
         "short_name:be": "СТ \"Белы Бераг\"",
         "short_name:ru": "СТ \"Белый Берег\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2293,8 +2211,7 @@ const Data =
         "short_name": "СТ \"Жыта\"",
         "short_name:be": "СТ \"Жыта\"",
         "short_name:ru": "СТ \"Рожь\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2320,8 +2237,7 @@ const Data =
         "short_name": "СТ \"Бусел\"",
         "short_name:be": "СТ \"Бусел\"",
         "short_name:ru": "СТ \"Аист\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2347,8 +2263,7 @@ const Data =
         "short_name": "СТ \"Сунічка\"",
         "short_name:be": "СТ \"Сунічка\"",
         "short_name:ru": "СТ \"Суничка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2374,8 +2289,7 @@ const Data =
         "short_name": "СТ \"Квітнеючая Яблынька\"",
         "short_name:be": "СТ \"Квітнеючая Яблынька\"",
         "short_name:ru": "СТ \"Цветущая Яблонька\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2401,8 +2315,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2428,8 +2341,7 @@ const Data =
         "short_name": "СТ \"Вішанька\"",
         "short_name:be": "СТ \"Вішанька\"",
         "short_name:ru": "СТ \"Вишенка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2455,8 +2367,7 @@ const Data =
         "short_name": "СТ \"Бяроза\"",
         "short_name:be": "СТ \"Бяроза\"",
         "short_name:ru": "СТ \"Берёза\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2482,8 +2393,7 @@ const Data =
         "short_name": "СТ \"Бярозка-2\"",
         "short_name:be": "СТ \"Бярозка-2\"",
         "short_name:ru": "СТ \"Березка-2\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2509,8 +2419,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Березка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2536,8 +2445,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2563,8 +2471,7 @@ const Data =
         "short_name": "СТ \"Воднік-1\"",
         "short_name:be": "СТ \"Воднік-1\"",
         "short_name:ru": "СТ \"Водник-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2590,7 +2497,7 @@ const Data =
         "short_name": "СТ \"Гігіяніст\"",
         "short_name:be": "СТ \"Гігіяніст\"",
         "short_name:ru": "СТ \"Гигиенист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -2617,8 +2524,7 @@ const Data =
         "short_name": "СТ \"Наладчык\"",
         "short_name:be": "СТ \"Наладчык\"",
         "short_name:ru": "СТ \"Наладчик\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2644,8 +2550,7 @@ const Data =
         "short_name": "СТ \"Антаніна\"",
         "short_name:be": "СТ \"Антаніна\"",
         "short_name:ru": "СТ \"Антонина\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2671,8 +2576,7 @@ const Data =
         "short_name": "СТ \"Дубок-83\"",
         "short_name:be": "СТ \"Дубок-83\"",
         "short_name:ru": "СТ \"Дубок-83\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2698,8 +2602,7 @@ const Data =
         "short_name": "СТ \"Івушка-1\"",
         "short_name:be": "СТ \"Івушка-1\"",
         "short_name:ru": "СТ \"Ивушка-1\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2725,8 +2628,7 @@ const Data =
         "short_name": "СТ \"Чабарок-3\"",
         "short_name:be": "СТ \"Чабарок-3\"",
         "short_name:ru": "СТ \"Чаборок-3\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2752,8 +2654,7 @@ const Data =
         "short_name": "СТ \"Зара-1990\"",
         "short_name:be": "СТ \"Зара-1990\"",
         "short_name:ru": "СТ \"Заря-1990\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2779,8 +2680,7 @@ const Data =
         "short_name": "СТ \"Пчалавод\"",
         "short_name:be": "СТ \"Пчалавод\"",
         "short_name:ru": "СТ \"Пчеловод\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2806,8 +2706,7 @@ const Data =
         "short_name": "СТ \"Крыніца-1982\"",
         "short_name:be": "СТ \"Крыніца-1982\"",
         "short_name:ru": "СТ \"Родник-1982\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2833,8 +2732,7 @@ const Data =
         "short_name": "СТ \"Энергетык\"",
         "short_name:be": "СТ \"Энергетык\"",
         "short_name:ru": "СТ \"Энергетик\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2860,8 +2758,7 @@ const Data =
         "short_name": "СТ \"Сельскі Будаўнік\"",
         "short_name:be": "СТ \"Сельскі Будаўнік\"",
         "short_name:ru": "СТ \"Сельский Строитель\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2887,7 +2784,7 @@ const Data =
         "short_name": "СТ \"Купалінка-Вязынка\"",
         "short_name:be": "СТ \"Купалінка-Вязынка\"",
         "short_name:ru": "СТ \"Купалинка-Вязынка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -2914,7 +2811,7 @@ const Data =
         "short_name": "СТ \"Зялёныя Халмы\"",
         "short_name:be": "СТ \"Зялёныя Халмы\"",
         "short_name:ru": "СТ \"Зелёные холмы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -2941,8 +2838,7 @@ const Data =
         "short_name": "СТ \"Барсукі-Агра\"",
         "short_name:be": "СТ \"Барсукі-Агра\"",
         "short_name:ru": "СТ \"Барсуки-Агро\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2968,8 +2864,7 @@ const Data =
         "short_name": "СТ \"Дынамавец\"",
         "short_name:be": "СТ \"Дынамавец\"",
         "short_name:ru": "СТ \"Динамовец\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -2995,8 +2890,7 @@ const Data =
         "short_name": "СТ \"Плянта-8\"",
         "short_name:be": "СТ \"Плянта-8\"",
         "short_name:ru": "СТ \"Антонина\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -3022,8 +2916,7 @@ const Data =
         "short_name": "СТ \"Інтэрнацыяналіст\"",
         "short_name:be": "СТ \"Інтэрнацыяналіст\"",
         "short_name:ru": "СТ \"Интернационалист\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -3049,8 +2942,7 @@ const Data =
         "short_name": "СТ \"Пальмінка\"",
         "short_name:be": "СТ \"Пальмінка\"",
         "short_name:ru": "СТ \"Пальминка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -3076,8 +2968,7 @@ const Data =
         "short_name": "СТ \"Лосвіда\"",
         "short_name:be": "СТ \"Лосвіда\"",
         "short_name:ru": "СТ \"Лосвидо\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -3103,8 +2994,7 @@ const Data =
         "short_name": "СТ \"Крынічанка\"",
         "short_name:be": "СТ \"Крынічанка\"",
         "short_name:ru": "СТ \"Крыничанка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -3130,7 +3020,7 @@ const Data =
         "short_name": "СТ \"Паўднёвае ГАП-5\"",
         "short_name:be": "СТ \"Паўднёвае ГАП-5\"",
         "short_name:ru": "СТ \"Южное ГАП-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -3149,7 +3039,6 @@ const Data =
         "name:be": "Энергетык-91",
         "short_name": "СТ \"Энергетык-91\"",
         "short_name:be": "СТ \"Энергетык-91\"",
-        "place": "allotments",
         "status": "black"
       }
     },
@@ -3176,8 +3065,7 @@ const Data =
         "short_name": "СТ \"Эфект-21\"",
         "short_name:be": "СТ \"Эфект-21\"",
         "short_name:ru": "СТ \"Эффект-21\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -3203,7 +3091,6 @@ const Data =
         "short_name": "СТ \"Пролеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пролеска\"",
-        "place": "allotments",
         "status": "black"
       }
     },
@@ -3230,7 +3117,7 @@ const Data =
         "short_name": "СТ \"Чырвоны Друкар\"",
         "short_name:be": "СТ \"Чырвоны Друкар\"",
         "short_name:ru": "СТ \"Красный Печатник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3257,7 +3144,7 @@ const Data =
         "short_name": "СТ \"Пціч\"",
         "short_name:be": "СТ \"Пціч\"",
         "short_name:ru": "СТ \"Птичь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3284,7 +3171,7 @@ const Data =
         "short_name": "СТ \"Светлы\"",
         "short_name:be": "СТ \"Светлы\"",
         "short_name:ru": "СТ \"Светлый\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3311,7 +3198,7 @@ const Data =
         "short_name": "СТ \"Забач\"",
         "short_name:be": "СТ \"Забач\"",
         "short_name:ru": "СТ \"Забочь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3338,7 +3225,7 @@ const Data =
         "short_name": "СТ \"Скіток-4\"",
         "short_name:be": "СТ \"Скіток-4\"",
         "short_name:ru": "СТ \"Скиток-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3365,7 +3252,7 @@ const Data =
         "short_name": "СТ \"Зялёны Бераг\"",
         "short_name:be": "СТ \"Зялёны Бераг\"",
         "short_name:ru": "СТ \"Зелёный Берег\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3392,7 +3279,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3419,7 +3306,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Рассвет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3435,7 +3322,7 @@ const Data =
       },
       "properties": {
         "name": "СТ Малое Кашо",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -3450,7 +3337,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -3477,7 +3364,7 @@ const Data =
         "short_name": "СТ \"Геолаг\"",
         "short_name:be": "СТ \"Геолаг\"",
         "short_name:ru": "СТ \"Геолог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3492,7 +3379,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -3519,7 +3406,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3534,7 +3421,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -3561,7 +3448,7 @@ const Data =
         "short_name": "СТ \"Горкі-1\"",
         "short_name:be": "СТ \"Горкі-1\"",
         "short_name:ru": "СТ \"Горки-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3588,7 +3475,7 @@ const Data =
         "short_name": "СТ \"Станкабудаўнік\"",
         "short_name:be": "СТ \"Станкабудаўнік\"",
         "short_name:ru": "СТ \"Станкостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3615,7 +3502,7 @@ const Data =
         "short_name": "ДСК \"Тапограф-1\"",
         "short_name:be": "ДСК \"Тапограф-1\"",
         "short_name:ru": "ДПК \"Топограф-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -3642,7 +3529,7 @@ const Data =
         "short_name": "СТ \"Гарызонт-82\"",
         "short_name:be": "СТ \"Гарызонт-82\"",
         "short_name:ru": "СТ \"Горизонт-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3669,7 +3556,7 @@ const Data =
         "short_name": "СТ \"Бярозка-68\"",
         "short_name:be": "СТ \"Бярозка-68\"",
         "short_name:ru": "СТ \"Берёзка-68\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3696,7 +3583,7 @@ const Data =
         "short_name": "СТ \"Прыгожы Сад\"",
         "short_name:be": "СТ \"Прыгожы Сад\"",
         "short_name:ru": "СТ \"Красивый Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3723,7 +3610,7 @@ const Data =
         "short_name": "СТ \"Завілле\"",
         "short_name:be": "СТ \"Завілле\"",
         "short_name:ru": "СТ \"Завилье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3750,7 +3637,7 @@ const Data =
         "short_name": "СТ \"Дубрава-Міхалін\"",
         "short_name:be": "СТ \"Дубрава-Міхалін\"",
         "short_name:ru": "СТ \"Дубрава-Михалин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3777,7 +3664,7 @@ const Data =
         "short_name": "СТ \"Суніца\"",
         "short_name:be": "СТ \"Суніца\"",
         "short_name:ru": "СТ \"Суница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3804,7 +3691,7 @@ const Data =
         "short_name": "СТ \"Машынабудаўнік\"",
         "short_name:be": "СТ \"Машынабудаўнік\"",
         "short_name:ru": "СТ \"Машиностроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3831,7 +3718,7 @@ const Data =
         "short_name": "СТ \"Кветка-92\"",
         "short_name:be": "СТ \"Кветка-92\"",
         "short_name:ru": "СТ \"Кветка-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3858,7 +3745,7 @@ const Data =
         "short_name": "СТ \"Лясное-88\"",
         "short_name:be": "СТ \"Лясное-88\"",
         "short_name:ru": "СТ \"Лесное-88\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3885,7 +3772,7 @@ const Data =
         "short_name": "СТ \"Кераміка\"",
         "short_name:be": "СТ \"Кераміка\"",
         "short_name:ru": "СТ \"Керамика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3912,7 +3799,7 @@ const Data =
         "short_name": "СТ \"Прыазёрнае\"",
         "short_name:be": "СТ \"Прыазёрнае\"",
         "short_name:ru": "СТ \"Приозёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3939,7 +3826,7 @@ const Data =
         "short_name": "СТ \"Вадзяны\"",
         "short_name:be": "СТ \"Вадзяны\"",
         "short_name:ru": "СТ \"Водяной\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -3954,7 +3841,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -3981,7 +3868,7 @@ const Data =
         "short_name": "СТ \"Ветэран Працы\"",
         "short_name:be": "СТ \"Ветэран Працы\"",
         "short_name:ru": "СТ \"Ветеран Труда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4008,7 +3895,7 @@ const Data =
         "short_name": "СТ \"Лучоса\"",
         "short_name:be": "СТ \"Лучоса\"",
         "short_name:ru": "СТ \"Лучёса\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4035,7 +3922,7 @@ const Data =
         "short_name": "СТ \"Зялёны Бераг\"",
         "short_name:be": "СТ \"Зялёны Бераг\"",
         "short_name:ru": "СТ \"Зелёный Берег\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4062,7 +3949,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4089,7 +3976,7 @@ const Data =
         "short_name": "СТ \"Энергетык\"",
         "short_name:be": "СТ \"Энергетык\"",
         "short_name:ru": "СТ \"Энергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4116,7 +4003,7 @@ const Data =
         "short_name": "СТ \"Тэхнолаг\"",
         "short_name:be": "СТ \"Тэхнолаг\"",
         "short_name:ru": "СТ \"Технолог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4143,7 +4030,7 @@ const Data =
         "short_name": "СТ \"Віцьба\"",
         "short_name:be": "СТ \"Віцьба\"",
         "short_name:ru": "СТ \"Витьба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4170,7 +4057,7 @@ const Data =
         "short_name": "СТ \"Заточнік\"",
         "short_name:be": "СТ \"Заточнік\"",
         "short_name:ru": "СТ \"Заточник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4197,7 +4084,7 @@ const Data =
         "short_name": "СТ \"Усход\"",
         "short_name:be": "СТ \"Усход\"",
         "short_name:ru": "СТ \"Восток\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4224,7 +4111,7 @@ const Data =
         "short_name": "СТ \"Уланавічы-2\"",
         "short_name:be": "СТ \"Уланавічы-2\"",
         "short_name:ru": "СТ \"Улановичи-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4251,7 +4138,7 @@ const Data =
         "short_name": "СТ \"Усход\"",
         "short_name:be": "СТ \"Усход\"",
         "short_name:ru": "СТ \"Восток\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4278,7 +4165,7 @@ const Data =
         "short_name": "СТ \"Ураджайныя Соткі\"",
         "short_name:be": "СТ \"Ураджайныя Соткі\"",
         "short_name:ru": "СТ \"Урожайные Сотки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4305,7 +4192,7 @@ const Data =
         "short_name": "СТ \"Луцікі\"",
         "short_name:be": "СТ \"Луцікі\"",
         "short_name:ru": "СТ \"Лутики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4332,7 +4219,7 @@ const Data =
         "short_name": "СТ \"Бібіраўка\"",
         "short_name:be": "СТ \"Бібіраўка\"",
         "short_name:ru": "СТ \"Бибиревка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -4359,7 +4246,7 @@ const Data =
         "short_name": "СТ \"Перамога\"",
         "short_name:be": "СТ \"Перамога\"",
         "short_name:ru": "СТ \"Победа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4386,7 +4273,7 @@ const Data =
         "short_name": "СТ \"Майскі\"",
         "short_name:be": "СТ \"Майскі\"",
         "short_name:ru": "СТ \"Майский\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4413,7 +4300,7 @@ const Data =
         "short_name": "СТ \"Мара-66\"",
         "short_name:be": "СТ \"Мара-66\"",
         "short_name:ru": "СТ \"Мечта-66\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4440,7 +4327,7 @@ const Data =
         "short_name": "СТ \"50 год Кастрычніка\"",
         "short_name:be": "СТ \"50 год Кастрычніка\"",
         "short_name:ru": "СТ \"50 Лет Октября\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4467,7 +4354,7 @@ const Data =
         "short_name": "СТ \"Яблынька\"",
         "short_name:be": "СТ \"Яблынька\"",
         "short_name:ru": "СТ \"Яблонька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4494,7 +4381,7 @@ const Data =
         "short_name": "СТ \"Спутнік\"",
         "short_name:be": "СТ \"Спутнік\"",
         "short_name:ru": "СТ \"Спутник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4521,7 +4408,7 @@ const Data =
         "short_name": "СТ \"Кунцаўшчына\"",
         "short_name:be": "СТ \"Кунцаўшчына\"",
         "short_name:ru": "СТ \"Кунцевщина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4548,7 +4435,7 @@ const Data =
         "short_name": "СТ \"Азот-Кулёўцы\"",
         "short_name:be": "СТ \"Азот-Кулёўцы\"",
         "short_name:ru": "СТ \"Азот-Кулёвцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4575,7 +4462,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\"",
         "short_name:be": "СТ \"Лакаматыў\"",
         "short_name:ru": "СТ \"Локомотив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4602,7 +4489,7 @@ const Data =
         "short_name": "СТ \"Азот-Кулёўцы\"",
         "short_name:be": "СТ \"Азот-Кулёўцы\"",
         "short_name:ru": "СТ \"Азот-Кулёвцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4629,7 +4516,7 @@ const Data =
         "short_name": "СТ \"Лукаморʼе\"",
         "short_name:be": "СТ \"Лукаморʼе\"",
         "short_name:ru": "СТ \"Лукоморье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4656,7 +4543,7 @@ const Data =
         "short_name": "СТ \"Сялена-89\"",
         "short_name:be": "СТ \"Сялена-89\"",
         "short_name:ru": "СТ \"Селена-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4683,7 +4570,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4710,7 +4597,7 @@ const Data =
         "short_name": "СТ \"Крыніца-1989\"",
         "short_name:be": "СТ \"Крыніца-1989\"",
         "short_name:ru": "СТ \"Криница-1989\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4737,7 +4624,7 @@ const Data =
         "short_name": "СТ \"Кіравец\"",
         "short_name:be": "СТ \"Кіравец\"",
         "short_name:ru": "СТ \"Кировец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4764,7 +4651,7 @@ const Data =
         "short_name": "СТ \"Экспрэс\"",
         "short_name:be": "СТ \"Экспрэс\"",
         "short_name:ru": "СТ \"Экспресс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4791,7 +4678,7 @@ const Data =
         "short_name": "СТ \"Хімік\"",
         "short_name:be": "СТ \"Хімік\"",
         "short_name:ru": "СТ \"Химик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4818,7 +4705,7 @@ const Data =
         "short_name": "СТ \"Пралеска-10\"",
         "short_name:be": "СТ \"Пралеска-10\"",
         "short_name:ru": "СТ \"Пралеска-10\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4845,7 +4732,7 @@ const Data =
         "short_name": "СТ \"Квант\"",
         "short_name:be": "СТ \"Квант\"",
         "short_name:ru": "СТ \"Квант\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4872,7 +4759,7 @@ const Data =
         "short_name": "СТ \"Атам\"",
         "short_name:be": "СТ \"Атам\"",
         "short_name:ru": "СТ \"Атом\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4899,7 +4786,7 @@ const Data =
         "short_name": "СТ \"Сябры-2002\"",
         "short_name:be": "СТ \"Сябры-2002\"",
         "short_name:ru": "СТ \"Сябры-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4926,7 +4813,7 @@ const Data =
         "short_name": "СТ \"Цюльпан\"",
         "short_name:be": "СТ \"Цюльпан\"",
         "short_name:ru": "СТ \"Тюльпан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4953,7 +4840,7 @@ const Data =
         "short_name": "СТ \"Люстраное\"",
         "short_name:be": "СТ \"Люстраное\"",
         "short_name:ru": "СТ \"Зеркальное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -4980,7 +4867,7 @@ const Data =
         "short_name": "СТ \"Дачнае\"",
         "short_name:be": "СТ \"Дачнае\"",
         "short_name:ru": "СТ \"Дачное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5007,7 +4894,7 @@ const Data =
         "short_name": "СТ \"Крынічнае-94\"",
         "short_name:be": "СТ \"Крынічнае-94\"",
         "short_name:ru": "СТ \"Криничное-94\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5034,7 +4921,7 @@ const Data =
         "short_name": "СТ \"Керамін\"",
         "short_name:be": "СТ \"Керамін\"",
         "short_name:ru": "СТ \"Керамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5061,7 +4948,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна\"",
         "short_name:be": "СТ \"Лясная паляна\"",
         "short_name:ru": "СТ \"Лесная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5088,7 +4975,7 @@ const Data =
         "short_name": "СТ \"Дубок-2009\"",
         "short_name:be": "СТ \"Дубок-2009\"",
         "short_name:ru": "СТ \"Дубок-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5115,7 +5002,7 @@ const Data =
         "short_name": "СТ \"Калініна\"",
         "short_name:be": "СТ \"Калініна\"",
         "short_name:ru": "СТ \"Калинино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5142,7 +5029,7 @@ const Data =
         "short_name": "СТ \"Каларыт\" Лідскага раёна",
         "short_name:be": "СТ \"Каларыт\" Лідскага раёна",
         "short_name:ru": "СТ \"Колорит\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1996-09-17",
         "ref:vatin": "BY590074887",
         "status": "orange"
@@ -5171,7 +5058,7 @@ const Data =
         "short_name": "СТ \"Спектр\"",
         "short_name:be": "СТ \"Спектр\"",
         "short_name:ru": "СТ \"Спектр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5198,7 +5085,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"; \"Падрэцкае Поле\"",
         "short_name:be": "СТ \"Ветэран\"; \"Падрэцкае Поле\"",
         "short_name:ru": "СТ \"Ветеран\"; \"Подрецкое Поле\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -5225,7 +5112,7 @@ const Data =
         "short_name": "СТ \"Бярозка УУС Магілёўскага аблвыканкама\"",
         "short_name:be": "СТ \"Бярозка УУС Магілёўскага аблвыканкама\"",
         "short_name:ru": "СТ \"Березка УВД Могилевского облисполкома\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5252,7 +5139,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5279,7 +5166,7 @@ const Data =
         "short_name": "СТ \"Зялёная Паляна\"",
         "short_name:be": "СТ \"Зялёная Паляна\"",
         "short_name:ru": "СТ \"Зелёная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5306,7 +5193,7 @@ const Data =
         "short_name": "СТ \"Аўтатранспартнік\"",
         "short_name:be": "СТ \"Аўтатранспартнік\"",
         "short_name:ru": "СТ \"Автотранспортник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5333,7 +5220,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5360,7 +5247,7 @@ const Data =
         "short_name": "СТ \"Юбілейнае\"",
         "short_name:be": "СТ \"Юбілейнае\"",
         "short_name:ru": "СТ \"Юбилейное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5387,7 +5274,7 @@ const Data =
         "short_name": "СТ \"Баршчэўнік\"",
         "short_name:be": "СТ \"Баршчэўнік\"",
         "short_name:ru": "СТ \"Борщевник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5414,7 +5301,7 @@ const Data =
         "short_name": "СТ \"Лазавец дачы\"",
         "short_name:be": "СТ \"Лазавец дачы\"",
         "short_name:ru": "СТ \"Лазовец дачи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5441,7 +5328,7 @@ const Data =
         "short_name": "СТ \"Спецбудаўнік\"",
         "short_name:be": "СТ \"Спецбудаўнік\"",
         "short_name:ru": "СТ \"Спецстроевец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5468,7 +5355,7 @@ const Data =
         "short_name": "СТ \"Выток-Т\"",
         "short_name:be": "СТ \"Выток-Т\"",
         "short_name:ru": "СТ \"Исток-Т\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5495,7 +5382,7 @@ const Data =
         "short_name": "СТ \"Лясное-Вялікае\"",
         "short_name:be": "СТ \"Лясное-Вялікае\"",
         "short_name:ru": "СТ \"Лесное-Великое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5522,7 +5409,7 @@ const Data =
         "short_name": "СТ \"Дубрава\"",
         "short_name:be": "СТ \"Дубрава\"",
         "short_name:ru": "СТ \"Дубрава\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5549,7 +5436,7 @@ const Data =
         "short_name": "СТ \"Бурштын\"",
         "short_name:be": "СТ \"Бурштын\"",
         "short_name:ru": "СТ \"Янтарь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -5577,7 +5464,7 @@ const Data =
         "short_name": "СТ \"Ягадка\"",
         "short_name:be": "СТ \"Ягадка\"",
         "short_name:ru": "СТ \"Ягодка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5604,7 +5491,7 @@ const Data =
         "short_name": "СТ \"Ягаднае\"",
         "short_name:be": "СТ \"Ягаднае\"",
         "short_name:ru": "СТ \"Ягодное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5631,7 +5518,7 @@ const Data =
         "short_name": "СТ \"Заслаўскі Труд\"",
         "short_name:be": "СТ \"Заслаўскі Труд\"",
         "short_name:ru": "СТ \"Заславльский Труд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5658,7 +5545,7 @@ const Data =
         "short_name": "СТ \"Луч-Крыжоўка\"",
         "short_name:be": "СТ \"Луч-Крыжоўка\"",
         "short_name:ru": "СТ \"Луч-Крыжовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5685,7 +5572,7 @@ const Data =
         "short_name": "СТ \"Сасёнкі\"",
         "short_name:be": "СТ \"Сасёнкі\"",
         "short_name:ru": "СТ \"Сосенки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5712,7 +5599,7 @@ const Data =
         "short_name": "СТ \"Асееўка\"",
         "short_name:be": "СТ \"Асееўка\"",
         "short_name:ru": "СТ \"Асеевка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5739,7 +5626,7 @@ const Data =
         "short_name": "СТ \"Асееўка-2\"",
         "short_name:be": "СТ \"Асееўка-2\"",
         "short_name:ru": "СТ \"Асеевка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5766,7 +5653,7 @@ const Data =
         "short_name": "СТ \"Мерыдыян\"",
         "short_name:be": "СТ \"Мерыдыян\"",
         "short_name:ru": "СТ \"Меридиан-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5793,7 +5680,7 @@ const Data =
         "short_name": "СТ \"Атлант-2\"",
         "short_name:be": "СТ \"Атлант-2\"",
         "short_name:ru": "СТ \"Атлант-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5820,7 +5707,7 @@ const Data =
         "short_name": "СТ \"Сябры-83\"",
         "short_name:be": "СТ \"Сябры-83\"",
         "short_name:ru": "СТ \"Сябры-83\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5847,7 +5734,7 @@ const Data =
         "short_name": "СТ \"Садавод\"",
         "short_name:be": "СТ \"Садавод\"",
         "short_name:ru": "СТ \"Садовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5874,7 +5761,7 @@ const Data =
         "short_name": "СТ «Дубовы лес»",
         "short_name:be": "СТ «Дубовы лес»",
         "short_name:ru": "СТ «Дубовый лес»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5889,7 +5776,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -5916,7 +5803,7 @@ const Data =
         "short_name": "СТ \"Птушкавод\"",
         "short_name:be": "СТ \"Птушкавод\"",
         "short_name:ru": "СТ \"Птицевод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5943,7 +5830,7 @@ const Data =
         "short_name": "СТ \"Сігнал-2\"",
         "short_name:be": "СТ \"Сігнал-2\"",
         "short_name:ru": "СТ \"Сигнал-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -5970,7 +5857,7 @@ const Data =
         "short_name": "СТ \"Геофизик\"",
         "short_name:be": "СТ \"Геафізік\"",
         "short_name:ru": "СТ \"Геофизик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -5997,7 +5884,7 @@ const Data =
         "short_name": "СТ \"Зуброўка\"",
         "short_name:be": "СТ \"Зуброўка\"",
         "short_name:ru": "СТ \"Зубровка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6015,7 +5902,7 @@ const Data =
         "name": "СТ «Паліграфіст»",
         "name:be": "СТ «Паліграфіст»",
         "name:ru": "СТ «Полиграфист»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -6042,7 +5929,7 @@ const Data =
         "short_name": "СТ \"Надзея-Шчарбіны\"",
         "short_name:be": "СТ \"Надзея-Шчарбіны\"",
         "short_name:ru": "СТ \"Надежда-Щербины\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6069,7 +5956,7 @@ const Data =
         "short_name": "СТ \"Бусел\"",
         "short_name:be": "СТ \"Бусел\"",
         "short_name:ru": "СТ \"Аист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6096,7 +5983,7 @@ const Data =
         "short_name": "СТ \"Ганор\"",
         "short_name:be": "СТ \"Ганор\"",
         "short_name:ru": "СТ \"Гонор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6123,7 +6010,7 @@ const Data =
         "short_name": "СТ \"Светлая паляна\"",
         "short_name:be": "СТ \"Светлая паляна\"",
         "short_name:ru": "СТ \"Светлая Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6150,7 +6037,7 @@ const Data =
         "short_name": "СТ \"Лада А\"",
         "short_name:be": "СТ \"Лада А\"",
         "short_name:ru": "СТ \"Лада А\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6177,7 +6064,7 @@ const Data =
         "short_name": "СТ \"Іскра Ракава\"",
         "short_name:be": "СТ \"Іскра Ракава\"",
         "short_name:ru": "СТ \"Искра Ракова\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6204,7 +6091,7 @@ const Data =
         "short_name": "СТ \"Бытавік\"",
         "short_name:be": "СТ \"Бытавік\"",
         "short_name:ru": "СТ \"Бытовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6231,7 +6118,7 @@ const Data =
         "short_name": "СТ \"Мікрабіёлаг\"",
         "short_name:be": "СТ \"Мікрабіёлаг\"",
         "short_name:ru": "СТ \"Микробиолог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6258,7 +6145,7 @@ const Data =
         "short_name": "СТ \"Інжынер\"",
         "short_name:be": "СТ \"Інжынер\"",
         "short_name:ru": "СТ \"Инженер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6285,7 +6172,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надзея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6312,7 +6199,7 @@ const Data =
         "short_name": "СТ \"Ламіпрынт\"",
         "short_name:be": "СТ \"Ламіпрынт\"",
         "short_name:ru": "СТ \"Ламипринт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6339,7 +6226,7 @@ const Data =
         "short_name": "СТ \"Раднік\"",
         "short_name:be": "СТ \"Раднік\"",
         "short_name:ru": "СТ \"Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6366,7 +6253,7 @@ const Data =
         "short_name": "СТ \"Крыніца-2009\"",
         "short_name:be": "СТ \"Крыніца-2009\"",
         "short_name:ru": "СТ \"Родник-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6393,7 +6280,7 @@ const Data =
         "short_name": "СТ \"Гарані\"",
         "short_name:be": "СТ \"Гарані\"",
         "short_name:ru": "СТ \"Гарани\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6420,7 +6307,7 @@ const Data =
         "short_name": "СТ \"Наваселле\"",
         "short_name:be": "СТ \"Наваселле\"",
         "short_name:ru": "СТ \"Новоселье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6447,7 +6334,7 @@ const Data =
         "short_name": "СТ \"Атлант-1\"",
         "short_name:be": "СТ \"Атлант-1\"",
         "short_name:ru": "СТ \"Атлант-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6474,7 +6361,7 @@ const Data =
         "short_name": "СТ \"Сонечная Паляна-1\"",
         "short_name:be": "СТ \"Сонечная Паляна-1\"",
         "short_name:ru": "СТ \"Солнечная Поляна-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6501,7 +6388,7 @@ const Data =
         "short_name": "СТ \"Ніва-2002\"",
         "short_name:be": "СТ \"Ніва-2002\"",
         "short_name:ru": "СТ \"Нива-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6528,7 +6415,7 @@ const Data =
         "short_name": "СТ \"Сосны-Сад\"",
         "short_name:be": "СТ \"Сосны-Сад\"",
         "short_name:ru": "СТ \"Сосны-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6555,7 +6442,7 @@ const Data =
         "short_name": "СТ \"Экран\"",
         "short_name:be": "СТ \"Экран\"",
         "short_name:ru": "СТ \"Экран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6582,7 +6469,7 @@ const Data =
         "short_name": "СТ \"Педагог\"",
         "short_name:be": "СТ \"Педагог\"",
         "short_name:ru": "СТ \"Педагог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6609,7 +6496,7 @@ const Data =
         "short_name": "СТ \"Сокал\"",
         "short_name:be": "СТ \"Сокал\"",
         "short_name:ru": "СТ \"Сокол\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6636,7 +6523,7 @@ const Data =
         "short_name": "СТ \"Зорка\"",
         "short_name:be": "СТ \"Зорка\"",
         "short_name:ru": "СТ \"Зорька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "plots": "124",
         "status": "blue"
       }
@@ -6664,7 +6551,7 @@ const Data =
         "short_name": "СТ \"Зялёнае\"",
         "short_name:be": "СТ \"Зялёнае\"",
         "short_name:ru": "СТ \"Зелёное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6691,7 +6578,7 @@ const Data =
         "short_name": "СТ \"Таццяна\"",
         "short_name:be": "СТ \"Таццяна\"",
         "short_name:ru": "СТ \"Татьяна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6718,7 +6605,7 @@ const Data =
         "short_name": "СТ \"Дражня\"",
         "short_name:be": "СТ \"Дражня\"",
         "short_name:ru": "СТ \"Дражня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6745,7 +6632,7 @@ const Data =
         "short_name": "СТ «Рамонак Саламарэчанскі»",
         "short_name:be": "СТ «Рамонак Саламарэчанскі»",
         "short_name:ru": "СТ «Ромашка Соломореченская»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6772,7 +6659,7 @@ const Data =
         "short_name": "СТ \"Фізік\"",
         "short_name:be": "СТ \"Фізік\"",
         "short_name:ru": "СТ \"Физик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6799,7 +6686,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6826,7 +6713,7 @@ const Data =
         "short_name": "СТ \"Маяк\"",
         "short_name:be": "СТ \"Маяк\"",
         "short_name:ru": "СТ \"Маяк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6853,7 +6740,7 @@ const Data =
         "short_name": "СТ \"Скокі\"",
         "short_name:be": "СТ \"Скокі\"",
         "short_name:ru": "СТ \"Скоки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6880,7 +6767,7 @@ const Data =
         "short_name": "СТ \"Крынічка БМК\"",
         "short_name:be": "СТ \"Крынічка БМК\"",
         "short_name:ru": "СТ \"Родничок БМК\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6907,7 +6794,7 @@ const Data =
         "short_name": "СТ \"Рабінаўка\"",
         "short_name:be": "СТ \"Рабінаўка\"",
         "short_name:ru": "СТ \"Рябиновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6922,7 +6809,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -6949,7 +6836,7 @@ const Data =
         "short_name": "СТ \"Вежа-89\"",
         "short_name:be": "СТ \"Вежа-89\"",
         "short_name:ru": "СТ \"Вежа-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -6976,7 +6863,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-5\"",
         "short_name:be": "СТ \"Будаўнік-5\"",
         "short_name:ru": "СТ \"Строитель-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7003,7 +6890,7 @@ const Data =
         "short_name": "СТ \"Сасновыя Далі\"",
         "short_name:be": "СТ \"Сасновыя Далі\"",
         "short_name:ru": "СТ \"Сосновые Дали\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7030,7 +6917,7 @@ const Data =
         "short_name": "СТ \"Трактар-Каланіцы\"",
         "short_name:be": "СТ \"Трактар-Каланіцы\"",
         "short_name:ru": "СТ \"Трактор-Колоницы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7057,7 +6944,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7084,7 +6971,7 @@ const Data =
         "short_name": "СТ \"Спектр\"",
         "short_name:be": "СТ \"Спектр\"",
         "short_name:ru": "СТ \"Спектр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7111,7 +6998,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\"",
         "short_name:be": "СТ \"Лакаматыў\"",
         "short_name:ru": "СТ \"Локомотив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7138,7 +7025,7 @@ const Data =
         "short_name": "СТ \"Каменка\"",
         "short_name:be": "СТ \"Каменка\"",
         "short_name:ru": "СТ \"Каменка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -7165,7 +7052,7 @@ const Data =
         "short_name": "СТ \"Зянітчык\"",
         "short_name:be": "СТ \"Зянітчык\"",
         "short_name:ru": "СТ \"Зенитчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7192,7 +7079,7 @@ const Data =
         "short_name": "СТ \"Вучоны\"",
         "short_name:be": "СТ \"Вучоны\"",
         "short_name:ru": "СТ \"Ученый\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7219,7 +7106,7 @@ const Data =
         "short_name": "СТ \"Ікар\"",
         "short_name:be": "СТ \"Ікар\"",
         "short_name:ru": "СТ \"Икар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7246,7 +7133,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык\"",
         "short_name:be": "СТ \"Тэкстыльшчык\"",
         "short_name:ru": "СТ \"Текстильщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7273,7 +7160,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7300,7 +7187,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7327,7 +7214,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7354,7 +7241,7 @@ const Data =
         "short_name": "СТ \"Бярозка 2010\"",
         "short_name:be": "СТ \"Бярозка 2010\"",
         "short_name:ru": "СТ \"Берёзка 2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7369,7 +7256,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -7396,7 +7283,7 @@ const Data =
         "short_name": "СТ \"Металург\"",
         "short_name:be": "СТ \"Металург\"",
         "short_name:ru": "СТ \"Металург\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7423,7 +7310,7 @@ const Data =
         "short_name": "СТ \"Рамантык\"",
         "short_name:be": "СТ \"Рамантык\"",
         "short_name:ru": "СТ \"Романтик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7450,7 +7337,7 @@ const Data =
         "short_name": "СТ \"Малінаўка-Сад\"",
         "short_name:be": "СТ \"Малінаўка-Сад\"",
         "short_name:ru": "СТ \"Малиновка-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7477,7 +7364,7 @@ const Data =
         "short_name": "СТ \"Бярозавы гай-1\"",
         "short_name:be": "СТ \"Бярозавы гай-1\"",
         "short_name:ru": "СТ \"Берёзовая роща-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7504,7 +7391,7 @@ const Data =
         "short_name": "СТ \"Радыст\"",
         "short_name:be": "СТ \"Радыст\"",
         "short_name:ru": "СТ \"Радист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7531,7 +7418,7 @@ const Data =
         "short_name": "СТ \"Аганёк\"",
         "short_name:be": "СТ \"Аганёк\"",
         "short_name:ru": "СТ \"Огонёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7558,7 +7445,7 @@ const Data =
         "short_name": "СТ \"Трактарыст\"",
         "short_name:be": "СТ \"Трактарыст\"",
         "short_name:ru": "СТ \"Тракторист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7585,7 +7472,7 @@ const Data =
         "short_name": "СТ \"Электрык\"",
         "short_name:be": "СТ \"Электрык\"",
         "short_name:ru": "СТ \"Электрик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7612,7 +7499,7 @@ const Data =
         "short_name": "СТ «Атлант-3»",
         "short_name:be": "СТ «Атлант-3»",
         "short_name:ru": "СТ «Атлант-3»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7639,7 +7526,7 @@ const Data =
         "short_name": "СТ \"Лясны\"",
         "short_name:be": "СТ \"Лясны\"",
         "short_name:ru": "СТ \"Лесной\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7666,7 +7553,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7693,7 +7580,7 @@ const Data =
         "short_name": "СТ \"Шчокі-Лясное\"",
         "short_name:be": "СТ \"Шчокі-Лясное\"",
         "short_name:ru": "СТ \"Щеки-Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7720,7 +7607,7 @@ const Data =
         "short_name": "СТ \"Раманаўка\"",
         "short_name:be": "СТ \"Раманаўка\"",
         "short_name:ru": "СТ \"Романовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7747,7 +7634,7 @@ const Data =
         "short_name": "СТ \"Вішнёвы сад\"",
         "short_name:be": "СТ \"Вішнёвы сад\"",
         "short_name:ru": "СТ \"Вишневый сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7774,7 +7661,7 @@ const Data =
         "short_name": "СТ \"Аганёк\"",
         "short_name:be": "СТ \"Аганёк\"",
         "short_name:ru": "СТ \"Огонёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7801,7 +7688,7 @@ const Data =
         "short_name": "СТ \"Клёны\"",
         "short_name:be": "СТ \"Клёны\"",
         "short_name:ru": "СТ \"Клёны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7828,7 +7715,7 @@ const Data =
         "short_name": "СТ \"Домабудаўнік\"",
         "short_name:be": "СТ \"Домабудаўнік\"",
         "short_name:ru": "СТ \"Домостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7855,7 +7742,7 @@ const Data =
         "short_name": "СТ \"Волга\"",
         "short_name:be": "СТ \"Волга\"",
         "short_name:ru": "СТ \"Волга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7882,7 +7769,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7909,7 +7796,7 @@ const Data =
         "short_name": "СТ \"Канкурэнт-Каменка\"",
         "short_name:be": "СТ \"Канкурэнт-Каменка\"",
         "short_name:ru": "СТ \"Конкурент-Каменка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7936,7 +7823,7 @@ const Data =
         "short_name": "СТ \"Быкачына\"",
         "short_name:be": "СТ \"Быкачына\"",
         "short_name:ru": "СТ \"Быкачено\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -7951,7 +7838,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -7978,7 +7865,7 @@ const Data =
         "short_name": "СТ \"Спорт-2\"",
         "short_name:be": "СТ \"Спорт-2\"",
         "short_name:ru": "СТ \"Спорт-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8005,7 +7892,7 @@ const Data =
         "short_name": "СТ \"Гарняк-1\"",
         "short_name:be": "СТ \"Гарняк-1\"",
         "short_name:ru": "СТ \"Горняк-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8032,7 +7919,7 @@ const Data =
         "short_name": "СТ \"Вясёлка-5\"",
         "short_name:be": "СТ \"Вясёлка-5\"",
         "short_name:ru": "СТ \"Радуга-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8059,7 +7946,7 @@ const Data =
         "short_name": "СТ \"Хімік-4\"",
         "short_name:be": "СТ \"Хімік-4\"",
         "short_name:ru": "СТ \"Химик-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8086,7 +7973,7 @@ const Data =
         "short_name": "СТ \"Сыманчыцы-2\"",
         "short_name:be": "СТ \"Сыманчыцы-2\"",
         "short_name:ru": "СТ \"Сымончицы-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8113,7 +8000,7 @@ const Data =
         "short_name": "СТ \"Сасна\"",
         "short_name:be": "СТ \"Сасна\"",
         "short_name:ru": "СТ \"Сосна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8140,7 +8027,7 @@ const Data =
         "short_name": "СТ \"Іскра-Плюс\"",
         "short_name:be": "СТ \"Іскра-Плюс\"",
         "short_name:ru": "СТ \"Искра-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8167,7 +8054,7 @@ const Data =
         "short_name": "СТ \"Лувр\"",
         "short_name:be": "СТ \"Лувр\"",
         "short_name:ru": "СТ \"Лувр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8194,7 +8081,7 @@ const Data =
         "short_name": "СТ \"Аўтапілот\"",
         "short_name:be": "СТ \"Аўтапілот\"",
         "short_name:ru": "СТ \"Автопилот\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8221,7 +8108,7 @@ const Data =
         "short_name": "СТ \"Мара-Расінка\"",
         "short_name:be": "СТ \"Мара-Расінка\"",
         "short_name:ru": "СТ \"Мара-Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8248,7 +8135,7 @@ const Data =
         "short_name": "СТ \"Саюз-2\"",
         "short_name:be": "СТ \"Саюз-2\"",
         "short_name:ru": "СТ \"Союз-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8275,7 +8162,7 @@ const Data =
         "short_name": "СТ \"Алмаз\"",
         "short_name:be": "СТ \"Алмаз\"",
         "short_name:ru": "СТ \"Алмаз\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8302,7 +8189,7 @@ const Data =
         "short_name": "СТ «Энергетык-5»",
         "short_name:be": "СТ «Энергетык-5»",
         "short_name:ru": "СТ «Энергетик-5»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8329,7 +8216,7 @@ const Data =
         "short_name": "СТ \"Прыазернае\"",
         "short_name:be": "СТ \"Прыазернае\"",
         "short_name:ru": "СТ \"Приозёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8356,7 +8243,7 @@ const Data =
         "short_name": "СТ \"Баравая\"",
         "short_name:be": "СТ \"Баравая\"",
         "short_name:ru": "СТ \"Боровая\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -8383,7 +8270,7 @@ const Data =
         "short_name": "СТ \"Ніва-2\"",
         "short_name:be": "СТ \"Ніва-2\"",
         "short_name:ru": "СТ \"Нива-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8410,7 +8297,7 @@ const Data =
         "short_name": "СТ \"Ліцейшчык\"",
         "short_name:be": "СТ \"Ліцейшчык\"",
         "short_name:ru": "СТ \"Литейщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8437,7 +8324,7 @@ const Data =
         "short_name": "СТ \"Форт\"",
         "short_name:be": "СТ \"Форт\"",
         "short_name:ru": "СТ \"Форт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8464,7 +8351,7 @@ const Data =
         "short_name": "СТ \"Авіятар\"",
         "short_name:be": "СТ \"Авіятар\"",
         "short_name:ru": "СТ \"Авиатор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8491,7 +8378,7 @@ const Data =
         "short_name": "СТ \"Бярозка-1998\"",
         "short_name:be": "СТ \"Бярозка-1998\"",
         "short_name:ru": "СТ \"Берёзка-1998\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8518,7 +8405,7 @@ const Data =
         "short_name": "СТ «Азёрнае»",
         "short_name:be": "СТ «Азёрнае»",
         "short_name:ru": "СТ «Озёрное»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8545,7 +8432,7 @@ const Data =
         "short_name": "СТ \"Грозы\"",
         "short_name:be": "СТ \"Грозы\"",
         "short_name:ru": "СТ \"Грозы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8572,7 +8459,7 @@ const Data =
         "short_name": "СТ «Зарэчны-05»",
         "short_name:be": "СТ «Зарэчны-05»",
         "short_name:ru": "СТ «Заречный-05»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8599,7 +8486,7 @@ const Data =
         "short_name": "СТ \"Сябрынь\"",
         "short_name:be": "СТ \"Сябрынь\"",
         "short_name:ru": "СТ \"Сябрынь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8626,7 +8513,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Элітны\"",
         "short_name:be": "СТ \"Крыніца-Элітны\"",
         "short_name:ru": "СТ \"Родник-Элитный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8653,7 +8540,7 @@ const Data =
         "short_name": "СТ \"Дубрава-88\"",
         "short_name:be": "СТ \"Дубрава-88\"",
         "short_name:ru": "СТ \"Дубрава-88\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8680,7 +8567,7 @@ const Data =
         "short_name": "СТ \"Купалінскае\"",
         "short_name:be": "СТ \"Купалінскае\"",
         "short_name:ru": "СТ \"Купалинское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8707,7 +8594,7 @@ const Data =
         "short_name": "СТ \"Дубрава на Цітоўцы\"",
         "short_name:be": "СТ \"Дубрава на Цітоўцы\"",
         "short_name:ru": "СТ \"Дубрава на Титовке\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8734,7 +8621,7 @@ const Data =
         "short_name": "СТ \"Падгорʼе\"",
         "short_name:be": "СТ \"Падгорʼе\"",
         "short_name:ru": "СТ \"Подгорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8761,7 +8648,7 @@ const Data =
         "short_name": "СТ \"Юбілейнае-68\"",
         "short_name:be": "СТ \"Юбілейнае-68\"",
         "short_name:ru": "СТ \"Юбилейное-68\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8788,7 +8675,7 @@ const Data =
         "short_name": "СТ \"Пролеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пролеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -8815,7 +8702,7 @@ const Data =
         "short_name": "СТ \"Зялёны Луг\"",
         "short_name:be": "СТ \"Зялёны Луг\"",
         "short_name:ru": "СТ \"Зелёный Луг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8842,7 +8729,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі\"",
         "short_name:be": "СТ \"Чаромушкі\"",
         "short_name:ru": "СТ \"Черёмушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8869,7 +8756,7 @@ const Data =
         "short_name": "СТ \"Руба\"",
         "short_name:be": "СТ \"Руба\"",
         "short_name:ru": "СТ \"Руба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8888,7 +8775,7 @@ const Data =
         "name:ru": "Хомковщина-Окменица",
         "official_status": "Садоводческое товарищество",
         "official_status:ru": "садоводческое товарищество",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -8915,7 +8802,7 @@ const Data =
         "short_name": "СТ \"Прыбярэжны Сад\"",
         "short_name:be": "СТ \"Прыбярэжны Сад\"",
         "short_name:ru": "СТ \"Прибрежный Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8942,7 +8829,7 @@ const Data =
         "short_name": "СТ \"Узгорʼе-Н\"",
         "short_name:be": "СТ \"Узгорʼе-Н\"",
         "short_name:ru": "СТ \"Взгорье-Н\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8969,7 +8856,7 @@ const Data =
         "short_name": "СТ \"Каменка\"",
         "short_name:be": "СТ \"Каменка\"",
         "short_name:ru": "СТ \"Каменка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -8996,7 +8883,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9023,7 +8910,7 @@ const Data =
         "short_name": "СТ \"Першамайскі\"",
         "short_name:be": "СТ \"Першамайскі\"",
         "short_name:ru": "СТ \"Первомайский\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9050,7 +8937,7 @@ const Data =
         "short_name": "СТ \"Фруктовы\"",
         "short_name:be": "СТ \"Фруктовы\"",
         "short_name:ru": "СТ \"Фруктовый\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9077,7 +8964,7 @@ const Data =
         "short_name": "СТ \"Бурштыновае\"",
         "short_name:be": "СТ \"Бурштыновае\"",
         "short_name:ru": "СТ \"Янтарное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9104,7 +8991,7 @@ const Data =
         "short_name": "СТ \"Імя Мічурына\"",
         "short_name:be": "СТ \"Імя Мічурына\"",
         "short_name:ru": "СТ \"Имени Мичурина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9131,7 +9018,7 @@ const Data =
         "short_name": "СТ \"Адпачынак-2000\"",
         "short_name:be": "СТ \"Адпачынак-2000\"",
         "short_name:ru": "СТ \"Отдых-2000\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9158,7 +9045,7 @@ const Data =
         "short_name": "СТ \"Сялюты\"",
         "short_name:be": "СТ \"Сялюты\"",
         "short_name:ru": "СТ \"Селюты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9185,7 +9072,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Криница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9212,7 +9099,7 @@ const Data =
         "short_name": "СТ \"Рабінушка\"",
         "short_name:be": "СТ \"Рабінушка\"",
         "short_name:ru": "СТ \"Рябинушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9239,7 +9126,7 @@ const Data =
         "short_name": "СТ \"Дударава\"",
         "short_name:be": "СТ \"Дударава\"",
         "short_name:ru": "СТ \"Дударево\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9266,7 +9153,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9293,7 +9180,7 @@ const Data =
         "short_name": "СТ \"Урочышча\"",
         "short_name:be": "СТ \"Урочышча\"",
         "short_name:ru": "СТ \"Урочище\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9320,7 +9207,7 @@ const Data =
         "short_name": "СТ \"Сакалянка\"",
         "short_name:be": "СТ \"Сакалянка\"",
         "short_name:ru": "СТ \"Соколянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9347,7 +9234,7 @@ const Data =
         "short_name": "СТ \"Елачка\"",
         "short_name:be": "СТ \"Елачка\"",
         "short_name:ru": "СТ \"Ёлочка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9374,7 +9261,7 @@ const Data =
         "short_name": "СТ \"№9 Жлобінскага раёна\"",
         "short_name:be": "СТ \"№9 Жлобінскага раёна\"",
         "short_name:ru": "СТ \"№9 Жлобинского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9401,7 +9288,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9428,7 +9315,7 @@ const Data =
         "short_name": "СТ \"Віцьба\"",
         "short_name:be": "СТ \"Віцьба\"",
         "short_name:ru": "СТ \"Витьба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9455,7 +9342,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9482,7 +9369,7 @@ const Data =
         "short_name": "СТ \"Забалоцінка\"",
         "short_name:be": "СТ \"Забалоцінка\"",
         "short_name:ru": "СТ \"Заболотинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9509,7 +9396,7 @@ const Data =
         "short_name": "СТ \"Выток-М\"",
         "short_name:be": "СТ \"Выток\"",
         "short_name:ru": "СТ \"Исток-М\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -9536,7 +9423,7 @@ const Data =
         "short_name": "СТ \"Светлячок\"",
         "short_name:be": "СТ \"Светлячок\"",
         "short_name:ru": "СТ \"Светлячок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9563,7 +9450,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9590,7 +9477,7 @@ const Data =
         "short_name": "СТ \"Цюльпан-2\"",
         "short_name:be": "СТ \"Цюльпан-2\"",
         "short_name:ru": "СТ \"Тюльпан-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9617,7 +9504,7 @@ const Data =
         "short_name": "СТ \"Друкава\"",
         "short_name:be": "СТ \"Друкава\"",
         "short_name:ru": "СТ \"Дрюково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9644,7 +9531,7 @@ const Data =
         "short_name": "СТ \"Хімік-2\"",
         "short_name:be": "СТ \"Хімік-2\"",
         "short_name:ru": "СТ \"Химик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9671,7 +9558,7 @@ const Data =
         "short_name": "СТ \"Хімік-1\"",
         "short_name:be": "СТ \"Хімік-1\"",
         "short_name:ru": "СТ \"Химик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9698,7 +9585,7 @@ const Data =
         "short_name": "СТ \"Копці\"",
         "short_name:be": "СТ \"Копці\"",
         "short_name:ru": "СТ \"Копти\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9725,7 +9612,7 @@ const Data =
         "short_name": "СТ \"Маладосць\"",
         "short_name:be": "СТ \"Маладосць\"",
         "short_name:ru": "СТ \"Молодость\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9752,7 +9639,7 @@ const Data =
         "short_name": "СТ \"Транспартны Будаўнік\"",
         "short_name:be": "СТ \"Транспартны Будаўнік\"",
         "short_name:ru": "СТ \"Транспортный строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9779,7 +9666,7 @@ const Data =
         "short_name": "СТ \"Транспартны Будаўнік\"",
         "short_name:be": "СТ \"Транспартны Будаўнік\"",
         "short_name:ru": "СТ \"Транспортный строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9806,7 +9693,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9833,7 +9720,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9860,7 +9747,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Садовае\"",
         "short_name:be": "СТ \"Журавінка-Садовае\"",
         "short_name:ru": "СТ \"Журавинка-Садовое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9887,7 +9774,7 @@ const Data =
         "short_name": "СТ \"Нейтрон\"",
         "short_name:be": "СТ \"Нейтрон\"",
         "short_name:ru": "СТ \"Нейтрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9914,7 +9801,7 @@ const Data =
         "short_name": "СТ \"Берасцянка\"",
         "short_name:be": "СТ \"Берасцянка\"",
         "short_name:ru": "СТ \"Берестянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9941,7 +9828,7 @@ const Data =
         "short_name": "СТ \"Надзея ў Міхалях\"",
         "short_name:be": "СТ \"Надзея ў Міхалях\"",
         "short_name:ru": "СТ \"Надежда в Михалях\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9968,7 +9855,7 @@ const Data =
         "short_name": "СТ «Крыніца-4»",
         "short_name:be": "СТ «Крыніца-4»",
         "short_name:ru": "СТ «Криница-4»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -9995,7 +9882,7 @@ const Data =
         "short_name": "СТ «Шчадрэц»",
         "short_name:be": "СТ «Шчадрэц»",
         "short_name:ru": "СТ «Щедрец»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10022,7 +9909,7 @@ const Data =
         "short_name": "СТ \"Дукі\"",
         "short_name:be": "СТ \"Дукі\"",
         "short_name:ru": "СТ \"Дуки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10049,7 +9936,7 @@ const Data =
         "short_name": "СТ \"Ліцвінкі\"",
         "short_name:be": "СТ \"Ліцвінкі\"",
         "short_name:ru": "СТ \"Литвинки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10076,7 +9963,7 @@ const Data =
         "short_name": "СТ \"Верас-91\"",
         "short_name:be": "СТ \"Верас-91\"",
         "short_name:ru": "СТ \"Верас-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10103,7 +9990,7 @@ const Data =
         "short_name": "СТ \"Мед-Вяча\"",
         "short_name:be": "СТ \"Мед-Вяча\"",
         "short_name:ru": "СТ \"Мед-Вяча\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10130,7 +10017,7 @@ const Data =
         "short_name": "СТ \"Спутнік\"",
         "short_name:be": "СТ \"Спутнік\"",
         "short_name:ru": "СТ \"Спутник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10157,7 +10044,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10173,7 +10060,7 @@ const Data =
       },
       "properties": {
         "name": "Зрок-2",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -10200,7 +10087,7 @@ const Data =
         "short_name": "СТ \"Пуцявішча\"",
         "short_name:be": "СТ \"Пуцявішча\"",
         "short_name:ru": "СТ \"Путевище\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10227,7 +10114,7 @@ const Data =
         "short_name": "СТ \"Надзея ў Міхалях\"",
         "short_name:be": "СТ \"Надзея ў Міхалях\"",
         "short_name:ru": "СТ \"Надежда в Михалях\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10254,7 +10141,7 @@ const Data =
         "short_name": "СТ \"Лётцы\"",
         "short_name:be": "СТ \"Лётцы\"",
         "short_name:ru": "СТ \"Лётцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10281,7 +10168,7 @@ const Data =
         "short_name": "СТ \"Сокал\"",
         "short_name:be": "СТ \"Сокал\"",
         "short_name:ru": "СТ \"Сокол\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10308,7 +10195,7 @@ const Data =
         "short_name": "СТ \"Хутарок\"",
         "short_name:be": "СТ \"Хутарок\"",
         "short_name:ru": "СТ \"Хуторок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10335,7 +10222,7 @@ const Data =
         "short_name": "СТ \"Сонечная Паляна-85\"",
         "short_name:be": "СТ \"Сонечная Паляна-85\"",
         "short_name:ru": "СТ \"Солнечная Поляна-85\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10362,7 +10249,7 @@ const Data =
         "short_name": "СТ \"Чараўніца\"",
         "short_name:be": "СТ \"Чараўніца\"",
         "short_name:ru": "СТ \"Чаровница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10389,7 +10276,7 @@ const Data =
         "short_name": "СТ \"Энергетык\"",
         "short_name:be": "СТ \"Энергетык\"",
         "short_name:ru": "СТ \"Энергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10416,7 +10303,7 @@ const Data =
         "short_name": "СТ \"Нафтавік-1\"",
         "short_name:be": "СТ \"Нафтавік-1\"",
         "short_name:ru": "СТ \"Нефтяник-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10443,7 +10330,7 @@ const Data =
         "short_name": "СТ \"Кветка\"",
         "short_name:be": "СТ \"Кветка\"",
         "short_name:ru": "СТ \"Кветка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10470,7 +10357,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2003\"",
         "short_name:be": "СТ \"Будаўнік-2003\"",
         "short_name:ru": "СТ \"Строитель-2003\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10497,7 +10384,7 @@ const Data =
         "short_name": "СТ \"Паляўнічая-2\"",
         "short_name:be": "СТ \"Паляўнічая-2\"",
         "short_name:ru": "СТ \"Охотница-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10524,7 +10411,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2003\"",
         "short_name:be": "СТ \"Будаўнік-2003\"",
         "short_name:ru": "СТ \"Строитель-2003\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10551,7 +10438,7 @@ const Data =
         "short_name": "СТ \"Сонечны\"",
         "short_name:be": "СТ \"Сонечны\"",
         "short_name:ru": "СТ \"Солнечный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10578,7 +10465,7 @@ const Data =
         "short_name": "СТ \"Журавінка-сад\"",
         "short_name:be": "СТ \"Журавінка-сад\"",
         "short_name:ru": "СТ \"Журавинка-сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10605,7 +10492,7 @@ const Data =
         "short_name": "СТ \"Чыгуначнік\"",
         "short_name:be": "СТ \"Чыгуначнік\"",
         "short_name:ru": "СТ \"Железнодорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10632,7 +10519,7 @@ const Data =
         "short_name": "СТ \"Круглае\"",
         "short_name:be": "СТ \"Круглае\"",
         "short_name:ru": "СТ \"Круглое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10659,7 +10546,7 @@ const Data =
         "short_name": "СТ \"Івалга\"",
         "short_name:be": "СТ \"Івалга\"",
         "short_name:ru": "СТ \"Иволга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10686,7 +10573,7 @@ const Data =
         "short_name": "СТ \"Дубок\"",
         "short_name:be": "СТ \"Дубок\"",
         "short_name:ru": "СТ \"Дубок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10713,7 +10600,7 @@ const Data =
         "short_name": "СТ \"Халадзінка\"",
         "short_name:be": "СТ \"Халадзінка\"",
         "short_name:ru": "СТ \"Холодинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10740,7 +10627,7 @@ const Data =
         "short_name": "СТ \"Кветкавод\"",
         "short_name:be": "СТ \"Кветкавод\"",
         "short_name:ru": "СТ \"Цветовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10767,7 +10654,7 @@ const Data =
         "short_name": "СТ \"Алімпія-80\"",
         "short_name:be": "СТ \"Алімпія-80\"",
         "short_name:ru": "СТ \"Олимпия-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10794,7 +10681,7 @@ const Data =
         "short_name": "СТ \"Вяча\"",
         "short_name:be": "СТ \"Вяча\"",
         "short_name:ru": "СТ \"Вяча\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10821,7 +10708,7 @@ const Data =
         "short_name": "СТ \"Луч\" Лідскага раёна",
         "short_name:be": "СТ \"Луч\" Лідскага раёна",
         "short_name:ru": "СТ \"Луч\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1988-08-02",
         "ref:vatin": "BY500060376",
         "status": "orange"
@@ -10850,7 +10737,7 @@ const Data =
         "short_name": "СТ \"Хімік\" Лідскага раёна",
         "short_name:be": "СТ \"Хімік\" Лідскага раёна",
         "short_name:ru": "СТ \"Химик\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500059994",
         "status": "orange"
@@ -10879,7 +10766,7 @@ const Data =
         "short_name": "СТ \"Тарфянік-2008\"",
         "short_name:be": "СТ \"Тарфянік-2008\"",
         "short_name:ru": "СТ \"Торфяник-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10906,7 +10793,7 @@ const Data =
         "short_name": "СТ \"Вяснянка-1\"",
         "short_name:be": "СТ \"Вяснянка-1\"",
         "short_name:ru": "СТ \"Веснянка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10933,7 +10820,7 @@ const Data =
         "short_name": "СТ \"Здароўе Плюс\"",
         "short_name:be": "СТ \"Здароўе Плюс\"",
         "short_name:ru": "СТ \"Здоровье Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10960,7 +10847,7 @@ const Data =
         "short_name": "СТ \"Антосіна\"",
         "short_name:be": "СТ \"Антосіна\"",
         "short_name:ru": "СТ \"Антосино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -10987,7 +10874,7 @@ const Data =
         "short_name": "СТ \"Палёт\"",
         "short_name:be": "СТ \"Палёт\"",
         "short_name:ru": "СТ \"Полёт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11014,7 +10901,7 @@ const Data =
         "short_name": "СТ \"Машынабудаўнік-2\"",
         "short_name:be": "СТ \"Машынабудаўнік-2\"",
         "short_name:ru": "СТ \"Машиностроитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11041,7 +10928,7 @@ const Data =
         "short_name": "СТ \"Металург-1\"",
         "short_name:be": "СТ \"Металург-1\"",
         "short_name:ru": "СТ \"Металлург-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11068,7 +10955,7 @@ const Data =
         "short_name": "СТ \"Крыніца Матыкальская\"",
         "short_name:be": "СТ \"Крыніца Матыкальская\"",
         "short_name:ru": "СТ \"Криница Мотыкальская\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11095,7 +10982,7 @@ const Data =
         "short_name": "СТ \"Чыстая крыніца\"",
         "short_name:be": "СТ \"Чыстая крыніца\"",
         "short_name:ru": "СТ \"Чистая криница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11122,7 +11009,7 @@ const Data =
         "short_name": "СТ \"Колас БДУ\"",
         "short_name:be": "СТ \"Колас БДУ\"",
         "short_name:ru": "СТ \"Колос БГУ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -11149,7 +11036,7 @@ const Data =
         "short_name": "СТ \"Надзея-ПЕД\"",
         "short_name:be": "СТ \"Надзея-ПЕД\"",
         "short_name:ru": "СТ \"Надзея-ПЕД\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11176,7 +11063,7 @@ const Data =
         "short_name": "СТ \"Лосвіда\"",
         "short_name:be": "СТ \"Лосвіда\"",
         "short_name:ru": "СТ \"Лосвидо\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11203,7 +11090,7 @@ const Data =
         "short_name": "СТ \"Прагрэс\"",
         "short_name:be": "СТ \"Прагрэс\"",
         "short_name:ru": "СТ \"Прогресс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11230,7 +11117,7 @@ const Data =
         "short_name": "СТ \"Паддубʼе\"",
         "short_name:be": "СТ \"Паддубʼе\"",
         "short_name:ru": "СТ \"Поддубье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11257,7 +11144,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11284,7 +11171,7 @@ const Data =
         "short_name": "СТ \"Юбілейнае-1\"",
         "short_name:be": "СТ \"Юбілейнае-1\"",
         "short_name:ru": "СТ \"Юбилейное-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11311,7 +11198,7 @@ const Data =
         "short_name": "СТ \"Світанак-Пярхурава\"",
         "short_name:be": "СТ \"Світанак-Пярхурава\"",
         "short_name:ru": "СТ \"Свитанок-Перхурово\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11338,7 +11225,7 @@ const Data =
         "short_name": "СТ \"Крутая Гара\"",
         "short_name:be": "СТ \"Крутая Гара\"",
         "short_name:ru": "СТ \"Крутая Гора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11365,7 +11252,7 @@ const Data =
         "short_name": "СТ \"Чабарок\"",
         "short_name:be": "СТ \"Чабарок\"",
         "short_name:ru": "СТ \"Чабарок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11392,7 +11279,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11419,7 +11306,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пролеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11446,7 +11333,7 @@ const Data =
         "short_name": "СТ \"Малінаўка\"",
         "short_name:be": "СТ \"Малінаўка\"",
         "short_name:ru": "СТ \"Малиновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11473,7 +11360,7 @@ const Data =
         "short_name": "СТ \"Сосенка\"",
         "short_name:be": "СТ \"Сосенка\"",
         "short_name:ru": "СТ \"Сосенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11500,7 +11387,7 @@ const Data =
         "short_name": "СТ \"Зялёны Гай\"",
         "short_name:be": "СТ \"Зялёны Гай\"",
         "short_name:ru": "СТ \"Зеленая Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11527,7 +11414,7 @@ const Data =
         "short_name": "СТ \"Сельскі будаўнік\" Лідскага раёна",
         "short_name:be": "СТ \"Сельскі будаўнік\" Лідскага раёна",
         "short_name:ru": "СТ \"Сельский строитель\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060271",
         "status": "orange"
@@ -11556,7 +11443,7 @@ const Data =
         "short_name": "СТ \"Лясное\" вёскі Гуды Лідскага раёна",
         "short_name:be": "СТ \"Лясное\" вёскі Гуды Лідскага раёна",
         "short_name:ru": "СТ \"Лесное\" деревни Гуды Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500060468",
         "status": "orange"
@@ -11585,7 +11472,7 @@ const Data =
         "short_name": "СТ \"Энергетык-2\" Лідскага раёна",
         "short_name:be": "СТ \"Энергетык-2\" Лідскага раёна",
         "short_name:ru": "СТ \"Энергетик-2\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-05-25",
         "ref:vatin": "BY590591664",
         "status": "orange"
@@ -11614,7 +11501,7 @@ const Data =
         "short_name": "СТ \"Ветэран\" Лідскага раёна",
         "short_name:be": "СТ \"Ветэран\" Лідскага раёна",
         "short_name:ru": "СТ \"Ветеран\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-01-24",
         "ref:vatin": "BY500060590",
         "status": "orange"
@@ -11643,7 +11530,7 @@ const Data =
         "short_name": "СТ \"Збожжапрадукты-1992\"",
         "short_name:be": "СТ \"Збожжапрадукты-1992\"",
         "short_name:ru": "СТ \"Хлебопродукты-1992\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-10+20",
         "ref:vatin": "BY500060945",
         "status": "orange"
@@ -11672,7 +11559,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\" деревни Владиславово",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-05-28",
         "ref:vatin": "BY500060575",
         "status": "orange"
@@ -11701,7 +11588,7 @@ const Data =
         "short_name": "СТ \"Кадаўбы\" Лідскага раёна",
         "short_name:be": "СТ \"Кадаўбы Лідскага раёна",
         "short_name:ru": "СТ \"Кадолбы\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060917",
         "status": "black"
@@ -11730,7 +11617,7 @@ const Data =
         "short_name": "СТ \"Дзвіна\"",
         "short_name:be": "СТ \"Дзвіна\"",
         "short_name:ru": "СТ \"Двина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11757,7 +11644,7 @@ const Data =
         "short_name": "СТ \"Верасок-1\"",
         "short_name:be": "СТ \"Верасок-1\"",
         "short_name:ru": "СТ \"Верасок-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11784,7 +11671,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11811,7 +11698,7 @@ const Data =
         "short_name": "СТ \"Метролаг\"",
         "short_name:be": "СТ \"Метролаг\"",
         "short_name:ru": "СТ \"Метролог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11838,7 +11725,7 @@ const Data =
         "short_name": "СТ \"Вітамін\"",
         "short_name:be": "СТ \"Вітамін\"",
         "short_name:ru": "СТ \"Витамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11865,7 +11752,7 @@ const Data =
         "short_name": "СТ \"Кедр\"",
         "short_name:be": "СТ \"Кедр\"",
         "short_name:ru": "СТ \"Кедр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11892,7 +11779,7 @@ const Data =
         "short_name": "СТ \"Лясное-4\"",
         "short_name:be": "СТ \"Лясное-4\"",
         "short_name:ru": "СТ \"Лесное-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11919,7 +11806,7 @@ const Data =
         "short_name": "СТ \"Імя Карбышава\"",
         "short_name:be": "СТ \"Імя Карбышава\"",
         "short_name:ru": "СТ \"Имени Карбышева\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11946,7 +11833,7 @@ const Data =
         "short_name": "СТ \"Гай-Каробчыцы\"",
         "short_name:be": "СТ \"Гай-Каробчыцы\"",
         "short_name:ru": "СТ \"Роща-Коробчицы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -11973,7 +11860,7 @@ const Data =
         "short_name": "СТ \"Зорачка-2008\"",
         "short_name:be": "СТ \"Зорачка-2008\"",
         "short_name:ru": "СТ \"Звездочка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12000,7 +11887,7 @@ const Data =
         "short_name": "СТ \"Лясное-2\"",
         "short_name:be": "СТ \"Лясное-2\"",
         "short_name:ru": "СТ \"Лесное-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12027,7 +11914,7 @@ const Data =
         "short_name": "СТ \"Сябры\"",
         "short_name:be": "СТ \"Сябры\"",
         "short_name:ru": "СТ \"Друзья\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12054,7 +11941,7 @@ const Data =
         "short_name": "СТ \"Смародзінка\"",
         "short_name:be": "СТ \"Смародзінка\"",
         "short_name:ru": "СТ \"Смородинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12081,7 +11968,7 @@ const Data =
         "short_name": "СТ \"Малінаўка-2001\"",
         "short_name:be": "СТ \"Малінаўка-2001\"",
         "short_name:ru": "СТ \"Малиновка-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12108,7 +11995,7 @@ const Data =
         "short_name": "СТ \"Сасновае\"",
         "short_name:be": "СТ \"Сасновае\"",
         "short_name:ru": "СТ \"Сосновое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12135,7 +12022,7 @@ const Data =
         "short_name": "СТ \"Сокал\"",
         "short_name:be": "СТ \"Сокал\"",
         "short_name:ru": "СТ \"Сокол\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12162,7 +12049,7 @@ const Data =
         "short_name": "СТ \"Іскра\"",
         "short_name:be": "СТ \"Іскра\"",
         "short_name:ru": "СТ \"Искра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12189,7 +12076,7 @@ const Data =
         "short_name": "СТ \"Пішчавік\"",
         "short_name:be": "СТ \"Пішчавік\"",
         "short_name:ru": "СТ \"Пищевик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12216,7 +12103,7 @@ const Data =
         "short_name": "СТ \"Усход-6\"",
         "short_name:be": "СТ \"Усход-6\"",
         "short_name:ru": "СТ \"Восход-6\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12243,7 +12130,7 @@ const Data =
         "short_name": "СТ \"Паліграфіст\"",
         "short_name:be": "СТ \"Паліграфіст\"",
         "short_name:ru": "СТ \"Полиграфист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12270,7 +12157,7 @@ const Data =
         "short_name": "СТ \"Газ-Магістраль\"",
         "short_name:be": "СТ \"Газ-Магістраль\"",
         "short_name:ru": "СТ \"Газ-Магистраль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12297,7 +12184,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12324,7 +12211,7 @@ const Data =
         "short_name": "СТ «Крынічка»",
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Крыничка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12351,7 +12238,7 @@ const Data =
         "short_name": "СТ \"Памежнік\"",
         "short_name:be": "СТ \"Памежнік\"",
         "short_name:ru": "СТ \"Пограничник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12378,7 +12265,7 @@ const Data =
         "short_name": "СТ \"Днепр-1\"",
         "short_name:be": "СТ \"Днепр-1\"",
         "short_name:ru": "СТ \"Днепр-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12405,7 +12292,7 @@ const Data =
         "short_name": "СТ \"Ясная Паляна\"",
         "short_name:be": "СТ \"Ясная Паляна\"",
         "short_name:ru": "СТ \"Ясная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12432,7 +12319,7 @@ const Data =
         "short_name": "СТ \"Надзея-Латва\"",
         "short_name:be": "СТ \"Надзея-Латва\"",
         "short_name:ru": "СТ \"Надея-Лотва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12459,7 +12346,7 @@ const Data =
         "short_name": "СТ \"Рэпарцёр\"",
         "short_name:be": "СТ \"Рэпарцёр\"",
         "short_name:ru": "СТ \"Репортер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12486,7 +12373,7 @@ const Data =
         "short_name": "СТ \"Сонечнае\"",
         "short_name:be": "СТ \"Сонечнае\"",
         "short_name:ru": "СТ \"Солнечное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12513,7 +12400,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12540,7 +12427,7 @@ const Data =
         "short_name": "СТ \"Верасок Плюс\"",
         "short_name:be": "СТ \"Верасок Плюс\"",
         "short_name:ru": "СТ \"Верасок Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12567,7 +12454,7 @@ const Data =
         "short_name": "СТ \"Грыбное\"",
         "short_name:be": "СТ \"Грыбное\"",
         "short_name:ru": "СТ \"Грибное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12594,7 +12481,7 @@ const Data =
         "short_name": "СТ \"Лесавод\"",
         "short_name:be": "СТ \"Лесавод\"",
         "short_name:ru": "СТ \"Лесовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12621,7 +12508,7 @@ const Data =
         "short_name": "СТ \"Зялёны луг\"",
         "short_name:be": "СТ \"Зялёны луг\"",
         "short_name:ru": "СТ \"Зелёный луг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12648,7 +12535,7 @@ const Data =
         "short_name": "СТ \"Бусел\"",
         "short_name:be": "СТ \"Бусел\"",
         "short_name:ru": "СТ \"Аист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12675,7 +12562,7 @@ const Data =
         "short_name": "СТ \"Дубравушка\"",
         "short_name:be": "СТ \"Дубравушка\"",
         "short_name:ru": "СТ \"Дубравушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12702,7 +12589,7 @@ const Data =
         "short_name": "СТ \"Электрык\"",
         "short_name:be": "СТ \"Электрык\"",
         "short_name:ru": "СТ \"Электрик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12729,7 +12616,7 @@ const Data =
         "short_name": "СТ \"Адпачынак-Гожа\"",
         "short_name:be": "СТ \"Адпачынак-Гожа\"",
         "short_name:ru": "СТ \"Адпачынак-Гожа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12756,7 +12643,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-80\"",
         "short_name:be": "СТ \"Будаўнік-80\"",
         "short_name:ru": "СТ \"Строитель-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12783,7 +12670,7 @@ const Data =
         "short_name": "СТ \"Ручаёк\"",
         "short_name:be": "СТ \"Ручаёк\"",
         "short_name:ru": "СТ \"Ручеёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12810,7 +12697,7 @@ const Data =
         "short_name": "СТ \"Лужкі\"",
         "short_name:be": "СТ \"Лужкі\"",
         "short_name:ru": "СТ \"Лужки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12837,7 +12724,7 @@ const Data =
         "short_name": "СТ «Палянка»",
         "short_name:be": "СТ «Палянка»",
         "short_name:ru": "СТ «Полянка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12864,7 +12751,7 @@ const Data =
         "short_name": "СТ \"Хімік-3\"",
         "short_name:be": "СТ \"Хімік-3\"",
         "short_name:ru": "СТ \"Химик-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12891,7 +12778,7 @@ const Data =
         "short_name": "СТ \"Топаль\"",
         "short_name:be": "СТ \"Топаль\"",
         "short_name:ru": "СТ \"Тополь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12918,7 +12805,7 @@ const Data =
         "short_name": "СТ \"Прынёманскае\"",
         "short_name:be": "СТ \"Прынёманскае\"",
         "short_name:ru": "СТ \"Принеманское-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -12945,7 +12832,7 @@ const Data =
         "short_name": "СТ \"Матор\"",
         "short_name:be": "СТ \"Матор\"",
         "short_name:ru": "СТ \"Мотор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12972,7 +12859,7 @@ const Data =
         "short_name": "СТ \"Кааператар\"",
         "short_name:be": "СТ \"Кааператар\"",
         "short_name:ru": "СТ \"Кооператор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -12999,7 +12886,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13026,7 +12913,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13053,7 +12940,7 @@ const Data =
         "short_name": "СТ \"Дубкі-Воранава\"",
         "short_name:be": "СТ \"Дубкі-Воранава\"",
         "short_name:ru": "СТ \"Дубки-Вороново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-19",
         "ref:vatin": "BY500068349",
         "status": "orange"
@@ -13082,7 +12969,7 @@ const Data =
         "short_name": "СТ \"Інструментальная Верхні\"",
         "short_name:be": "СТ \"Інструментальная Верхні\"",
         "short_name:ru": "СТ \"Инструментальная Верхний\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13109,7 +12996,7 @@ const Data =
         "short_name": "СТ \"Зялёная Дубравушка\"",
         "short_name:be": "СТ \"Зялёная Дубравушка\"",
         "short_name:ru": "СТ \"Зелёная Дубравушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13136,7 +13023,7 @@ const Data =
         "short_name": "СТ \"Загараднае\"",
         "short_name:be": "СТ \"Загараднае\"",
         "short_name:ru": "СТ \"Загороднее\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13163,7 +13050,7 @@ const Data =
         "short_name": "СТ \"Бярозавая Гара\"",
         "short_name:be": "СТ \"Бярозавая Гара\"",
         "short_name:ru": "СТ \"Берёзовая Гора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13190,7 +13077,7 @@ const Data =
         "short_name": "СТ \"Залескае\"",
         "short_name:be": "СТ \"Залескае\"",
         "short_name:ru": "СТ \"Залесское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13217,7 +13104,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13244,7 +13131,7 @@ const Data =
         "short_name": "СТ \"Мукамол\"",
         "short_name:be": "СТ \"Мукамол\"",
         "short_name:ru": "СТ \"Мукомол\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13271,7 +13158,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-2\"",
         "short_name:be": "СТ \"Аўтамабіліст-2\"",
         "short_name:ru": "СТ \"Автомобилист-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13298,7 +13185,7 @@ const Data =
         "short_name": "СТ \"Халмагорʼе\"",
         "short_name:be": "СТ \"Халмагорʼе\"",
         "short_name:ru": "СТ \"Холмогорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13325,7 +13212,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13352,7 +13239,7 @@ const Data =
         "short_name": "СТ \"Васілёк\"",
         "short_name:be": "СТ \"Васілёк\"",
         "short_name:ru": "СТ \"Василёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13379,7 +13266,7 @@ const Data =
         "short_name": "СТ \"Дубкі\"",
         "short_name:be": "СТ \"Дубкі\"",
         "short_name:ru": "СТ \"Дубки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13406,7 +13293,7 @@ const Data =
         "short_name": "СТ \"Буйнічы\"",
         "short_name:be": "СТ \"Буйнічы\"",
         "short_name:ru": "СТ \"Буйничи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13433,7 +13320,7 @@ const Data =
         "short_name": "СТ \"Алеся-2002\"",
         "short_name:be": "СТ \"Алеся-2002\"",
         "short_name:ru": "СТ \"Алеся-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13460,7 +13347,7 @@ const Data =
         "short_name": "СТ \"Бярэжа\"",
         "short_name:be": "СТ \"Бярэжа\"",
         "short_name:ru": "СТ \"Бережа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13487,7 +13374,7 @@ const Data =
         "short_name": "СТ \"Надзея Інв\"",
         "short_name:be": "СТ \"Надзея Інв\"",
         "short_name:ru": "СТ \"Надежда Инв\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13514,7 +13401,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13541,7 +13428,7 @@ const Data =
         "short_name": "СТ \"Цеплаэнергетык\"",
         "short_name:be": "СТ \"Цеплаэнергетык\"",
         "short_name:ru": "СТ \"Теплоэнергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13568,7 +13455,7 @@ const Data =
         "short_name": "СТ «Вясёлка»",
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Радуга»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13595,7 +13482,7 @@ const Data =
         "short_name": "СТ \"Радуга ст. Вязынка\"",
         "short_name:be": "СТ \"Радуга ст. Вязынка\"",
         "short_name:ru": "СТ \"Радуга ст. Вязынка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13622,7 +13509,7 @@ const Data =
         "short_name": "СТ \"Пілот\"",
         "short_name:be": "СТ \"Пілот\"",
         "short_name:ru": "СТ \"Пилот\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13649,7 +13536,7 @@ const Data =
         "short_name": "СТ \"Нектар-2009\"",
         "short_name:be": "СТ \"Нектар-2009\"",
         "short_name:ru": "СТ \"Нектар-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13676,7 +13563,7 @@ const Data =
         "short_name": "СТ \"Парэчкі\"",
         "short_name:be": "СТ \"Парэчкі\"",
         "short_name:ru": "СТ \"Поречки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13703,7 +13590,7 @@ const Data =
         "short_name": "СТ \"Мухавец-2\"",
         "short_name:be": "СТ \"Мухавец-2\"",
         "short_name:ru": "СТ \"Муховец-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13730,7 +13617,7 @@ const Data =
         "short_name": "СТ \"Аграхімік\"",
         "short_name:be": "СТ \"Аграхімік\"",
         "short_name:ru": "СТ \"Агрохимик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13757,7 +13644,7 @@ const Data =
         "short_name": "СТ \"Янтарэнерга\"",
         "short_name:be": "СТ \"Янтарэнерга\"",
         "short_name:ru": "СТ \"Янтарьэнерго\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13784,7 +13671,7 @@ const Data =
         "short_name": "СТ \"Сож-Новыя Цярэшкавічы\"",
         "short_name:be": "СТ \"Сож-Новыя Цярэшкавічы\"",
         "short_name:ru": "СТ \"Сож-Новые Терешковичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13811,7 +13698,7 @@ const Data =
         "short_name": "СТ \"Радуга\"",
         "short_name:be": "СТ \"Радуга\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13838,7 +13725,7 @@ const Data =
         "short_name": "СТ \"Керамік\"",
         "short_name:be": "СТ \"Керамік\"",
         "short_name:ru": "СТ \"Керамик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13865,7 +13752,7 @@ const Data =
         "short_name": "СТ \"Нафтавік-2\"",
         "short_name:be": "СТ \"Нафтавік-2\"",
         "short_name:ru": "СТ \"Нефтяник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13892,7 +13779,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13919,7 +13806,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13946,7 +13833,7 @@ const Data =
         "short_name": "СТ \"Перамога\"",
         "short_name:be": "СТ \"Перамога\"",
         "short_name:ru": "СТ \"Победа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -13973,7 +13860,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14000,7 +13887,7 @@ const Data =
         "short_name": "СТ \"Татаршчына\"",
         "short_name:be": "СТ \"Татаршчына\"",
         "short_name:ru": "СТ \"Татарщина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14027,7 +13914,7 @@ const Data =
         "short_name": "СТ \"Вертнікі\"",
         "short_name:be": "СТ \"Вертнікі\"",
         "short_name:ru": "СТ \"Вертники\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14054,7 +13941,7 @@ const Data =
         "short_name": "СТ \"Маяк\"",
         "short_name:be": "СТ \"Маяк\"",
         "short_name:ru": "СТ \"Маяк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14081,7 +13968,7 @@ const Data =
         "short_name": "СТ \"Пціч-219\"",
         "short_name:be": "СТ \"Пціч-219\"",
         "short_name:ru": "СТ \"Птичь-219\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14108,7 +13995,7 @@ const Data =
         "short_name": "СТ \"Керамік\"",
         "short_name:be": "СТ \"Керамік\"",
         "short_name:ru": "СТ \"Керамик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14135,7 +14022,7 @@ const Data =
         "short_name": "СТ \"Фарфарыст\"",
         "short_name:be": "СТ \"Фарфарыст\"",
         "short_name:ru": "СТ \"Фарфорист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14162,7 +14049,7 @@ const Data =
         "short_name": "СТ \"Камвольшчык\"",
         "short_name:be": "СТ \"Камвольшчык\"",
         "short_name:ru": "СТ \"Камвольщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14189,7 +14076,7 @@ const Data =
         "short_name": "СТ \"Верасок\"",
         "short_name:be": "СТ \"Верасок\"",
         "short_name:ru": "СТ \"Верасок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14216,7 +14103,7 @@ const Data =
         "short_name": "СТ \"Электрон\"",
         "short_name:be": "СТ \"Электрон\"",
         "short_name:ru": "СТ \"Электрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14243,7 +14130,7 @@ const Data =
         "short_name": "СТ \"Плёсы\"",
         "short_name:be": "СТ \"Плёсы\"",
         "short_name:ru": "СТ \"Плёсы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14270,7 +14157,7 @@ const Data =
         "short_name": "СТ \"Ветэран-Ваўкавыск\"",
         "short_name:be": "СТ \"Ветэран-Ваўкавыск\"",
         "short_name:ru": "СТ \"Ветеран-Волковыск\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14297,7 +14184,7 @@ const Data =
         "short_name": "СТ \"Секунда\"",
         "short_name:be": "СТ \"Секунда\"",
         "short_name:ru": "СТ \"Секунда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14324,7 +14211,7 @@ const Data =
         "short_name": "СТ \"Сутокі\"",
         "short_name:be": "СТ \"Сутокі\"",
         "short_name:ru": "СТ \"Сутоки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14351,7 +14238,7 @@ const Data =
         "short_name": "СТ \"Азёрнае-2\"",
         "short_name:be": "СТ \"Азёрнае-2\"",
         "short_name:ru": "СТ \"Озёрное-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2000",
         "status": "blue"
       }
@@ -14379,7 +14266,7 @@ const Data =
         "short_name": "СТ \"Алмаз-2002\"",
         "short_name:be": "СТ \"Алмаз-2002\"",
         "short_name:ru": "СТ \"Алмаз-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14406,7 +14293,7 @@ const Data =
         "short_name": "СТ \"Раднікі-1\"",
         "short_name:be": "СТ \"Раднікі-1\"",
         "short_name:ru": "СТ \"Родники-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14433,7 +14320,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14460,7 +14347,7 @@ const Data =
         "short_name": "СТ \"Камунар\"",
         "short_name:be": "СТ \"Камунар\"",
         "short_name:ru": "СТ \"Коммунар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14487,7 +14374,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пралеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14514,7 +14401,7 @@ const Data =
         "short_name": "СТ \"Гаяны\"",
         "short_name:be": "СТ \"Гаяны\"",
         "short_name:ru": "СТ \"Гаяны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14541,7 +14428,7 @@ const Data =
         "short_name": "СТ \"Паўлава\"",
         "short_name:be": "СТ \"Паўлава\"",
         "short_name:ru": "СТ \"Павлово\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14568,7 +14455,7 @@ const Data =
         "short_name": "СТ \"Крыніца-92\"",
         "short_name:be": "СТ \"Крыніца-92\"",
         "short_name:ru": "СТ \"Крыница-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14595,7 +14482,7 @@ const Data =
         "short_name": "СТ \"Ручаёк\"",
         "short_name:be": "СТ \"Ручаёк\"",
         "short_name:ru": "СТ \"Ручеёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14622,7 +14509,7 @@ const Data =
         "short_name": "СТ \"Сняжынка\"",
         "short_name:be": "СТ \"Сняжынка\"",
         "short_name:ru": "СТ \"Снежинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14649,7 +14536,7 @@ const Data =
         "short_name": "СТ \"Ліцейшчык-2\"",
         "short_name:be": "СТ \"Ліцейшчык-2\"",
         "short_name:ru": "СТ \"Литейщик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14676,7 +14563,7 @@ const Data =
         "short_name": "СТ \"Васілёк\"",
         "short_name:be": "СТ \"Васілёк\"",
         "short_name:ru": "СТ \"Василёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14703,7 +14590,7 @@ const Data =
         "short_name": "СТ \"Сасноўка-2\"",
         "short_name:be": "СТ \"Сасноўка-2\"",
         "short_name:ru": "СТ \"Сосновка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14730,7 +14617,7 @@ const Data =
         "short_name": "СТ \"Зялёны Дол\"",
         "short_name:be": "СТ \"Зялёны Дол\"",
         "short_name:ru": "СТ \"Зелёный Дол\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14757,7 +14644,7 @@ const Data =
         "short_name": "СТ \"Хімік-80\"",
         "short_name:be": "СТ \"Хімік-80\"",
         "short_name:ru": "СТ \"Химик-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14784,7 +14671,7 @@ const Data =
         "short_name": "СТ \"Аўтастрада\"",
         "short_name:be": "СТ \"Аўтастрада\"",
         "short_name:ru": "СТ \"Автострада\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14811,7 +14698,7 @@ const Data =
         "short_name": "СТ \"Мелькавічы\"",
         "short_name:be": "СТ \"Мелькавічы\"",
         "short_name:ru": "СТ \"Мельковичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14838,7 +14725,7 @@ const Data =
         "short_name": "СТ \"Арбіта-82\"",
         "short_name:be": "СТ \"Арбіта-82\"",
         "short_name:ru": "СТ \"Орбита-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14865,7 +14752,7 @@ const Data =
         "short_name": "СТ \"Іва-1988\"",
         "short_name:be": "СТ \"Іва-1988\"",
         "short_name:ru": "СТ \"Ива-1988\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14892,7 +14779,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пралеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14919,7 +14806,7 @@ const Data =
         "short_name": "СТ \"Вясёлы Турыст\"",
         "short_name:be": "СТ \"Вясёлы Турыст\"",
         "short_name:ru": "СТ \"Весёлый Турист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -14946,7 +14833,7 @@ const Data =
         "short_name": "СТ \"Надзея-Шчэжар\"",
         "short_name:be": "СТ \"Надзея-Щэжар\"",
         "short_name:ru": "СТ \"Надея-Щежерь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -14973,7 +14860,7 @@ const Data =
         "short_name": "СТ \"Бярозаўскае\"",
         "short_name:be": "СТ \"Бярозаўскае\"",
         "short_name:ru": "СТ \"Берёзовское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991",
         "status": "blue"
       }
@@ -15001,7 +14888,7 @@ const Data =
         "short_name": "СТ \"Колас Залаты\"",
         "short_name:be": "СТ \"Колас Залаты\"",
         "short_name:ru": "СТ \"Колос золотой\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15028,7 +14915,7 @@ const Data =
         "short_name": "СТ \"Маліннікі\"",
         "short_name:be": "СТ \"Маліннікі\"",
         "short_name:ru": "СТ \"Малинники\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15055,7 +14942,7 @@ const Data =
         "short_name": "СТ \"Расінка-1\"",
         "short_name:be": "СТ \"Расінка-1\"",
         "short_name:ru": "СТ \"Росинка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15082,7 +14969,7 @@ const Data =
         "short_name": "СТ \"Спорт\"",
         "short_name:be": "СТ \"Спорт\"",
         "short_name:ru": "СТ \"Спорт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15109,7 +14996,7 @@ const Data =
         "short_name": "СТ \"Буравеснік\"",
         "short_name:be": "СТ \"Буравеснік\"",
         "short_name:ru": "СТ \"Буревестник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15136,7 +15023,7 @@ const Data =
         "short_name": "СТ \"Роскі Авіатар\"",
         "short_name:be": "СТ \"Роскі Авіатар\"",
         "short_name:ru": "СТ \"Росский Авиатор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15163,7 +15050,7 @@ const Data =
         "short_name": "СТ \"Зялёны Гай\"",
         "short_name:be": "СТ \"Зялёны Гай\"",
         "short_name:ru": "СТ \"Зеленая Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15190,7 +15077,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15217,7 +15104,7 @@ const Data =
         "short_name": "СТ \"Дружба-2\"",
         "short_name:be": "СТ \"Дружба-2\"",
         "short_name:ru": "СТ \"Дружба-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15244,7 +15131,7 @@ const Data =
         "short_name": "СТ \"Дружба-2\"",
         "short_name:be": "СТ \"Дружба-2\"",
         "short_name:ru": "СТ \"Дружба-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15271,7 +15158,7 @@ const Data =
         "short_name": "СТ \"Азёрнае\"",
         "short_name:be": "СТ \"Азёрнае\"",
         "short_name:ru": "СТ \"Озёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15298,7 +15185,7 @@ const Data =
         "short_name": "СТ \"Турыст\"",
         "short_name:be": "СТ \"Турыст\"",
         "short_name:ru": "СТ \"Турист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15325,7 +15212,7 @@ const Data =
         "short_name": "СТ \"Навука-1\"",
         "short_name:be": "СТ \"Навука-1\"",
         "short_name:ru": "СТ \"Наука-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15352,7 +15239,7 @@ const Data =
         "short_name": "СТ \"Дружба-1\"",
         "short_name:be": "СТ \"Дружба-1\"",
         "short_name:ru": "СТ \"Дружба-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15379,7 +15266,7 @@ const Data =
         "short_name": "СТ \"Зара-1990\"",
         "short_name:be": "СТ \"Зара-1990\"",
         "short_name:ru": "СТ \"Заря-1990\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15406,7 +15293,7 @@ const Data =
         "short_name": "СТ \"Лугавое\"",
         "short_name:be": "СТ \"Лугавое\"",
         "short_name:ru": "СТ \"Луговое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15433,7 +15320,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі\"",
         "short_name:be": "СТ \"Чаромушкі\"",
         "short_name:ru": "СТ \"Черёмушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15460,7 +15347,7 @@ const Data =
         "short_name": "СТ \"Масток\"",
         "short_name:be": "СТ \"Масток\"",
         "short_name:ru": "СТ \"Мосток\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15487,7 +15374,7 @@ const Data =
         "short_name": "СТ \"Дубрава\"",
         "short_name:be": "СТ \"Дубрава\"",
         "short_name:ru": "СТ \"Дубрава\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -15514,7 +15401,7 @@ const Data =
         "short_name": "СТ \"Азёрнае\"",
         "short_name:be": "СТ \"Азёрнае\"",
         "short_name:ru": "СТ \"Озёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15541,7 +15428,7 @@ const Data =
         "short_name": "СТ \"Аліміпіец-88\"",
         "short_name:be": "СТ \"Аліміпіец-88\"",
         "short_name:ru": "СТ \"Олимпиец-88\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15568,7 +15455,7 @@ const Data =
         "short_name": "СТ \"Заронаўка-1\"",
         "short_name:be": "СТ \"Заронаўка-1\"",
         "short_name:ru": "СТ \"Зароновка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15595,7 +15482,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15610,7 +15497,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -15637,7 +15524,7 @@ const Data =
         "short_name": "СТ \"Бярозка-7\"",
         "short_name:be": "СТ \"Бярозка-7\"",
         "short_name:ru": "СТ \"Берёзка-7\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15664,7 +15551,7 @@ const Data =
         "short_name": "СТ «Сігма-2002»",
         "short_name:be": "СТ «Сігма-2002»",
         "short_name:ru": "СТ «Сигма-2002»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15691,7 +15578,7 @@ const Data =
         "short_name": "СТ \"Керамін\"",
         "short_name:be": "СТ \"Керамін\"",
         "short_name:ru": "СТ \"Керамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15718,7 +15605,7 @@ const Data =
         "short_name": "СТ \"Прынёманскае-2\"",
         "short_name:be": "СТ \"Прынёманскае-2\"",
         "short_name:ru": "СТ \"Принеманское-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15745,7 +15632,7 @@ const Data =
         "short_name": "СТ \"Бусел\"",
         "short_name:be": "СТ \"Бусел\"",
         "short_name:ru": "СТ \"Аист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15772,7 +15659,7 @@ const Data =
         "short_name": "СТ \"Старынкі\"",
         "short_name:be": "СТ \"Старынкі\"",
         "short_name:ru": "СТ \"Старинки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15799,7 +15686,7 @@ const Data =
         "short_name": "СТ \"Савецкі\" Лідскага раёна",
         "short_name:be": "СТ \"Савецкі\" Лідскага раёна",
         "short_name:ru": "СТ \"Советский\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500061025",
         "status": "orange"
@@ -15828,7 +15715,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15855,7 +15742,7 @@ const Data =
         "short_name": "СТ \"Дачнае\"",
         "short_name:be": "СТ \"Дачнае\"",
         "short_name:ru": "СТ \"Дачное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15882,7 +15769,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15909,7 +15796,7 @@ const Data =
         "short_name": "СТ \"Лучоса\"",
         "short_name:be": "СТ \"Лучоса\"",
         "short_name:ru": "СТ \"Лучеса\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15936,7 +15823,7 @@ const Data =
         "short_name": "СТ \"Лесная Быль\"",
         "short_name:be": "СТ \"Лясная Быль\"",
         "short_name:ru": "СТ \"Лесная Быль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -15963,7 +15850,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -15990,7 +15877,7 @@ const Data =
         "short_name": "СТ \"Кастрычніцкае\"",
         "short_name:be": "СТ \"Кастрычніцкае\"",
         "short_name:ru": "СТ \"Октябрьское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16017,7 +15904,7 @@ const Data =
         "short_name": "СТ \"Оптык\"",
         "short_name:be": "СТ \"Оптык\"",
         "short_name:ru": "СТ \"Оптик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16044,7 +15931,7 @@ const Data =
         "short_name": "СТ \"Дзвіжэнец\" Лідскага раёна",
         "short_name:be": "СТ \"Дзвіжэнец\" Лідскага раёна",
         "short_name:ru": "СТ \"Движенец\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "ref:vatin": "BY500060695",
         "status": "orange"
@@ -16073,7 +15960,7 @@ const Data =
         "short_name": "СТ «Дружба-2008»",
         "short_name:be": "СТ «Дружба-2008»",
         "short_name:ru": "СТ «Дружба-2008»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16100,7 +15987,7 @@ const Data =
         "short_name": "СТ \"Віцябчанка\"",
         "short_name:be": "СТ \"Віцябчанка\"",
         "short_name:ru": "СТ \"Витебчанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16127,7 +16014,7 @@ const Data =
         "short_name": "СТ \"Ветэран-2\"",
         "short_name:be": "СТ \"Ветэран-2\"",
         "short_name:ru": "СТ \"Ветеран-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16154,7 +16041,7 @@ const Data =
         "short_name": "СТ \"Азернае\"",
         "short_name:be": "СТ \"Азернае\"",
         "short_name:ru": "СТ \"Озерное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16181,7 +16068,7 @@ const Data =
         "short_name": "СТ \"Сельскі будаўнік-2\"",
         "short_name:be": "СТ \"Сельскі будаўнік-2\"",
         "short_name:ru": "СТ \"Сельский строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16208,7 +16095,7 @@ const Data =
         "short_name": "СТ \"Ракета\"",
         "short_name:be": "СТ \"Ракета\"",
         "short_name:ru": "СТ \"Ракета\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16235,7 +16122,7 @@ const Data =
         "short_name": "СТ \"Універсітэцкае\"",
         "short_name:be": "СТ \"Універсітэцкае\"",
         "short_name:ru": "СТ \"Университетское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16262,7 +16149,7 @@ const Data =
         "short_name": "СТ \"Аўтатранспартнік\"",
         "short_name:be": "СТ \"Аўтатранспартнік\"",
         "short_name:ru": "СТ \"Автотранспортник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16289,7 +16176,7 @@ const Data =
         "short_name": "СТ \"Патрыёт-1\"",
         "short_name:be": "СТ \"Патрыёт-1\"",
         "short_name:ru": "СТ \"Патриот-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16316,7 +16203,7 @@ const Data =
         "short_name": "СТ \"Шэметава-1\"",
         "short_name:be": "СТ \"Шэметава-1\"",
         "short_name:ru": "СТ \"Шеметово-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16343,7 +16230,7 @@ const Data =
         "short_name": "СТ \"Дняпроўскі край\"",
         "short_name:be": "СТ \"Дняпроўскі край\"",
         "short_name:ru": "СТ \"Днепровский край\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16370,7 +16257,7 @@ const Data =
         "short_name": "СТ \"Урэчча\"",
         "short_name:be": "СТ \"Урэчча\"",
         "short_name:ru": "СТ \"Уречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16397,7 +16284,7 @@ const Data =
         "short_name": "СТ \"Меліаратар-1\"",
         "short_name:be": "СТ \"Меліаратар-1\"",
         "short_name:ru": "СТ \"Мелиоратор-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16424,7 +16311,7 @@ const Data =
         "short_name": "СТ \"Натураліст\"",
         "short_name:be": "СТ \"Натураліст\"",
         "short_name:ru": "СТ \"Натуралист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16451,7 +16338,7 @@ const Data =
         "short_name": "СТ \"Камунальнік Магілёўскага раёна\"",
         "short_name:be": "СТ \"Камунальнік Магілёўскага раёна\"",
         "short_name:ru": "СТ \"Коммунальник Могилевского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16478,7 +16365,7 @@ const Data =
         "short_name": "СТ \"Жураўлік-2008\"",
         "short_name:be": "СТ \"Жураўлік-2008\"",
         "short_name:ru": "СТ \"Журавлик-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16505,7 +16392,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Заронава\"",
         "short_name:be": "СТ \"Крыніца-Заронава\"",
         "short_name:ru": "СТ \"Родник-Зароново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16532,7 +16419,7 @@ const Data =
         "short_name": "СТ «Крымок»",
         "short_name:be": "СТ «Крымок»",
         "short_name:ru": "СТ «Крымок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16559,7 +16446,7 @@ const Data =
         "short_name": "СТ \"Аптэчны Рамонак\"",
         "short_name:be": "СТ \"Аптэчны Рамонак\"",
         "short_name:ru": "СТ \"Аптечная Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16586,7 +16473,7 @@ const Data =
         "short_name": "СТ \"Пламя\"",
         "short_name:be": "СТ \"Пламя\"",
         "short_name:ru": "СТ \"Пламя\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16613,7 +16500,7 @@ const Data =
         "short_name": "СТ \"Татарка\"",
         "short_name:be": "СТ \"Татарка\"",
         "short_name:ru": "СТ \"Татарка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16640,7 +16527,7 @@ const Data =
         "short_name": "СТ \"Спутнік Кароліна\"",
         "short_name:be": "СТ \"Спутнік Кароліна\"",
         "short_name:ru": "СТ \"Спутник Королино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16667,7 +16554,7 @@ const Data =
         "short_name": "СТ «Іпа»",
         "short_name:be": "СТ «Іпа»",
         "short_name:ru": "СТ «Иппа»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16694,7 +16581,7 @@ const Data =
         "short_name": "СТ «Іпа»",
         "short_name:be": "СТ «Іпа»",
         "short_name:ru": "СТ «Иппа»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16721,7 +16608,7 @@ const Data =
         "short_name": "СТ «Іпа»",
         "short_name:be": "СТ «Іпа»",
         "short_name:ru": "СТ «Иппа»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16748,7 +16635,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16775,7 +16662,7 @@ const Data =
         "short_name": "СТ \"Золакі Ведрыча\"",
         "short_name:be": "СТ \"Золакі Ведрыча\"",
         "short_name:ru": "СТ \"Зори Ведрича\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16802,7 +16689,7 @@ const Data =
         "short_name": "СТ \"Ведрыч\"",
         "short_name:be": "СТ \"Ведрыч\"",
         "short_name:ru": "СТ \"Ведрич\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16829,7 +16716,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16856,7 +16743,7 @@ const Data =
         "short_name": "СТ \"Жаваронак\"",
         "short_name:be": "СТ \"Жаваронак\"",
         "short_name:ru": "СТ \"Жаворонок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16883,7 +16770,7 @@ const Data =
         "short_name": "СТ \"Надзея Ветэранаў\"",
         "short_name:be": "СТ \"Надзея Ветэранаў\"",
         "short_name:ru": "СТ \"Надея Ветеранов\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16910,7 +16797,7 @@ const Data =
         "short_name": "СТ \"Аістава\"",
         "short_name:be": "СТ \"Аістава\"",
         "short_name:ru": "СТ \"Аистово\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16937,7 +16824,7 @@ const Data =
         "short_name": "СТ \"Бярозка ў Мілаградзе\"",
         "short_name:be": "СТ \"Бярозка ў Мілаградзе\"",
         "short_name:ru": "СТ \"Берёзка в Милограде\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16964,7 +16851,7 @@ const Data =
         "short_name": "СТ \"Граніт-91\"",
         "short_name:be": "СТ \"Граніт-91\"",
         "short_name:ru": "СТ \"Гранит-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -16991,7 +16878,7 @@ const Data =
         "short_name": "СТ \"Граніт-81\"",
         "short_name:be": "СТ \"Граніт-81\"",
         "short_name:ru": "СТ \"Гранит-81\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17018,7 +16905,7 @@ const Data =
         "short_name": "СТ \"Рачная хваля\"",
         "short_name:be": "СТ \"Рачная хваля\"",
         "short_name:ru": "СТ \"Речная волна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17045,7 +16932,7 @@ const Data =
         "short_name": "СТ \"Блакітныя далі\"",
         "short_name:be": "СТ \"Блакітныя далі\"",
         "short_name:ru": "СТ \"Голубые дали\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17072,7 +16959,7 @@ const Data =
         "short_name": "СТ \"Паўднёвы\"",
         "short_name:be": "СТ \"Паўднёвы\"",
         "short_name:ru": "СТ \"Южный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17099,7 +16986,7 @@ const Data =
         "short_name": "СТ \"Скіток-2\"",
         "short_name:be": "СТ \"Скіток-2\"",
         "short_name:ru": "СТ \"Скиток-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17126,7 +17013,7 @@ const Data =
         "short_name": "СТ \"Лясное-90\"",
         "short_name:be": "СТ \"Лясное-90\"",
         "short_name:ru": "СТ \"Лесное-90\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17153,7 +17040,7 @@ const Data =
         "short_name": "СТ \"Страхоўшчык\"",
         "short_name:be": "СТ \"Страхоўшчык\"",
         "short_name:ru": "СТ \"Страховщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17180,7 +17067,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17207,7 +17094,7 @@ const Data =
         "short_name": "СТ \"Металург-2 в.Бароўка\"",
         "short_name:be": "СТ \"Металург-2 в.Бароўка\"",
         "short_name:ru": "СТ \"Металлург-2 д.Боровка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17234,7 +17121,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-2008\"",
         "short_name:be": "СТ \"Аўтамабіліст-2008\"",
         "short_name:ru": "СТ \"Автомобилист-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17261,7 +17148,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17288,7 +17175,7 @@ const Data =
         "short_name": "СТ \"Гарняк-2\"",
         "short_name:be": "СТ \"Гарняк-2\"",
         "short_name:ru": "СТ \"Горняк-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17315,7 +17202,7 @@ const Data =
         "short_name": "СТ \"Сонейка\"",
         "short_name:be": "СТ \"Сонейка\"",
         "short_name:ru": "СТ \"Солнышко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17342,7 +17229,7 @@ const Data =
         "short_name": "СТ \"Кукалі\"",
         "short_name:be": "СТ \"Кукалі\"",
         "short_name:ru": "СТ \"Куколи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17369,7 +17256,7 @@ const Data =
         "short_name": "СТ \"Пчолка\"",
         "short_name:be": "СТ \"Пчолка\"",
         "short_name:ru": "СТ \"Пчёлка-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17396,7 +17283,7 @@ const Data =
         "short_name": "СТ \"Сасна\"",
         "short_name:be": "СТ \"Сасна\"",
         "short_name:ru": "СТ \"Сосна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17423,7 +17310,7 @@ const Data =
         "short_name": "СТ \"Друць\"",
         "short_name:be": "СТ \"Друць\"",
         "short_name:ru": "СТ \"Друть\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17450,7 +17337,7 @@ const Data =
         "short_name": "СТ \"Дабрыца\"",
         "short_name:be": "СТ \"Дабрыца\"",
         "short_name:ru": "СТ \"Добрица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17477,7 +17364,7 @@ const Data =
         "short_name": "СТ \"Дубок-2\"",
         "short_name:be": "СТ \"Дубок-2\"",
         "short_name:ru": "СТ \"Дубок-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17504,7 +17391,7 @@ const Data =
         "short_name": "СТ \"Віта-3\"",
         "short_name:be": "СТ \"Віта-3\"",
         "short_name:ru": "СТ \"Вита-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17531,7 +17418,7 @@ const Data =
         "short_name": "СТ \"Панізоў\"",
         "short_name:be": "СТ \"Панізоў\"",
         "short_name:ru": "СТ \"Понизов\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17558,7 +17445,7 @@ const Data =
         "short_name": "СТ \"Хімік-2\"",
         "short_name:be": "СТ \"Хімік-2\"",
         "short_name:ru": "СТ \"Химик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17585,7 +17472,7 @@ const Data =
         "short_name": "СТ \"Банкавец-2009\"",
         "short_name:be": "СТ \"Банкавец-2009\"",
         "short_name:ru": "СТ \"Банковец-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17612,7 +17499,7 @@ const Data =
         "short_name": "СТ \"Панізоў\"",
         "short_name:be": "СТ \"Панізоў\"",
         "short_name:ru": "СТ \"Понизов\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17639,7 +17526,7 @@ const Data =
         "short_name": "СТ \"Нафтаразведчык\"",
         "short_name:be": "СТ \"Нафтаразведчык\"",
         "short_name:ru": "СТ \"Нефтеразведчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17666,7 +17553,7 @@ const Data =
         "short_name": "СТ \"Знаходка\"",
         "short_name:be": "СТ \"Знаходка\"",
         "short_name:ru": "СТ \"Находка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17693,7 +17580,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17720,7 +17607,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17747,7 +17634,7 @@ const Data =
         "short_name": "СТ \"Забалоцінка\"",
         "short_name:be": "СТ \"Забалоцінка\"",
         "short_name:ru": "СТ \"Заболотинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17774,7 +17661,7 @@ const Data =
         "short_name": "СТ \"Лесаўпарадчык\"",
         "short_name:be": "СТ \"Лесаўпарадчык\"",
         "short_name:ru": "СТ \"Лесоустроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17801,7 +17688,7 @@ const Data =
         "short_name": "СТ \"Гароднінавод\"",
         "short_name:be": "СТ \"Гароднінавод\"",
         "short_name:ru": "СТ \"Овощевод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17828,7 +17715,7 @@ const Data =
         "short_name": "СТ \"Вераскі-92\"",
         "short_name:be": "СТ \"Вераскі-92\"",
         "short_name:ru": "СТ \"Верески-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17855,7 +17742,7 @@ const Data =
         "short_name": "СТ «Экран-Тарасікі»",
         "short_name:be": "СТ «Экран-Тарасікі»",
         "short_name:ru": "СТ «Экран-Тарасики»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17882,7 +17769,7 @@ const Data =
         "short_name": "СТ \"Крыніца-98\"",
         "short_name:be": "СТ \"Крыніца-98\"",
         "short_name:ru": "СТ \"Крыница-98\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17909,7 +17796,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-Тарасікі\"",
         "short_name:be": "СТ \"Будаўнік-Тарасікі\"",
         "short_name:ru": "СТ \"Строитель-Тарасики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17936,7 +17823,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17963,7 +17850,7 @@ const Data =
         "short_name": "СТ \"Двурэчча\"",
         "short_name:be": "СТ \"Двурэчча\"",
         "short_name:ru": "СТ \"Двуречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -17990,7 +17877,7 @@ const Data =
         "short_name": "СТ \"Фізік-1980\"",
         "short_name:be": "СТ \"Фізік-1980\"",
         "short_name:ru": "СТ \"Физик-1980\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18017,7 +17904,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18044,7 +17931,7 @@ const Data =
         "short_name": "СТ \"Чарніцы\"",
         "short_name:be": "СТ \"Чарніцы\"",
         "short_name:ru": "СТ \"Черницы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18071,7 +17958,7 @@ const Data =
         "short_name": "СТ \"Чарніцы\"",
         "short_name:be": "СТ \"Чарніцы\"",
         "short_name:ru": "СТ \"Черницы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18098,7 +17985,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18125,7 +18012,7 @@ const Data =
         "short_name": "СТ \"Сады Палесся\"",
         "short_name:be": "СТ \"Сады Палесся\"",
         "short_name:ru": "СТ \"Сады Полесья\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18152,7 +18039,7 @@ const Data =
         "short_name": "СТ \"Прыдняпроўскае\"",
         "short_name:be": "СТ \"Прыдняпроўскае\"",
         "short_name:ru": "СТ \"Приднепровское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18179,7 +18066,7 @@ const Data =
         "short_name": "СТ \"Раніца-96\"",
         "short_name:be": "СТ \"Раніца-96\"",
         "short_name:ru": "СТ \"Раница-96\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18206,7 +18093,7 @@ const Data =
         "short_name": "СТ \"Прыбярэжнае\"",
         "short_name:be": "СТ \"Прыбярэжнае\"",
         "short_name:ru": "СТ \"Прибрежное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18233,7 +18120,7 @@ const Data =
         "short_name": "СТ \"Дружба-Прынта\"",
         "short_name:be": "СТ \"Дружба-Прынта\"",
         "short_name:ru": "СТ \"Дружба-Принта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18260,7 +18147,7 @@ const Data =
         "short_name": "СТ \"Вяснянка\"",
         "short_name:be": "СТ \"Вяснянка\"",
         "short_name:ru": "СТ \"Веснянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18287,7 +18174,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18314,7 +18201,7 @@ const Data =
         "short_name": "СТ \"Пасека\"",
         "short_name:be": "СТ \"Пасека\"",
         "short_name:ru": "СТ \"Пасека\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18341,7 +18228,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18368,7 +18255,7 @@ const Data =
         "short_name": "СТ \"Чырвоны бераг\"",
         "short_name:be": "СТ \"Чырвоны бераг\"",
         "short_name:ru": "СТ \"Красный Берег\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18395,7 +18282,7 @@ const Data =
         "short_name": "СТ \"Сасновая Балка-1\"",
         "short_name:be": "СТ \"Сасновая Балка-1\"",
         "short_name:ru": "СТ \"Сосновая Балка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18422,7 +18309,7 @@ const Data =
         "short_name": "СТ \"Агароднікі-1\"",
         "short_name:be": "СТ \"Агароднікі-1\"",
         "short_name:ru": "СТ \"Овощевод-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18449,7 +18336,7 @@ const Data =
         "short_name": "СТ \"Сунічка\"",
         "short_name:be": "СТ \"Сунічка\"",
         "short_name:ru": "СТ \"Суничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18476,7 +18363,7 @@ const Data =
         "short_name": "СТ \"Прыволле\"",
         "short_name:be": "СТ \"Прыволле\"",
         "short_name:ru": "СТ \"Приволье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18503,7 +18390,7 @@ const Data =
         "short_name": "СТ \"Кабачок\"",
         "short_name:be": "СТ \"Кабачок\"",
         "short_name:ru": "СТ \"Кабачок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18530,7 +18417,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-2\"",
         "short_name:be": "СТ \"Аўтамабіліст-2\"",
         "short_name:ru": "СТ \"Автомобилист-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18557,7 +18444,7 @@ const Data =
         "short_name": "СТ «Нафтапераапрацоўшчык»",
         "short_name:be": "СТ «Нафтапераапрацоўшчык»",
         "short_name:ru": "СТ «Нефтепереработчик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18584,7 +18471,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі у Стасяўкі\"",
         "short_name:be": "СТ \"Чаромушкі у Стасяўкі\"",
         "short_name:ru": "СТ \"Черемушки в Стасевке\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18611,7 +18498,7 @@ const Data =
         "short_name": "СТ \"Ззянне вады\"",
         "short_name:be": "СТ \"Ззянне вады\"",
         "short_name:ru": "СТ \"Сияние воды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18638,7 +18525,7 @@ const Data =
         "short_name": "СТ \"Буравік-1\"",
         "short_name:be": "СТ \"Буравік-1\"",
         "short_name:ru": "СТ \"Буровик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18665,7 +18552,7 @@ const Data =
         "short_name": "СТ \"Вішанька\"",
         "short_name:be": "СТ \"Вішанька\"",
         "short_name:ru": "СТ \"Вишенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18692,7 +18579,7 @@ const Data =
         "short_name": "СТ \"Зарэчнае 2008\"",
         "short_name:be": "СТ \"Зарэчнае 2008\"",
         "short_name:ru": "СТ \"Заречное 2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18719,7 +18606,7 @@ const Data =
         "short_name": "СТ \"Каласок\"",
         "short_name:be": "СТ \"Каласок\"",
         "short_name:ru": "СТ \"Колосок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18746,7 +18633,7 @@ const Data =
         "short_name": "ВСК «Ураджай»",
         "short_name:be": "ВСК «Ураджай»",
         "short_name:ru": "ПСК «Урожай»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -18773,7 +18660,7 @@ const Data =
         "short_name": "СТ \"Бярозка-1\"",
         "short_name:be": "СТ \"Бярозка-1\"",
         "short_name:ru": "СТ \"Берёзка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18800,7 +18687,7 @@ const Data =
         "short_name": "СТ \"Вішнёвы Сад\"",
         "short_name:be": "СТ \"Вішнёвы Сад\"",
         "short_name:ru": "СТ \"Вишнёвый Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18827,7 +18714,7 @@ const Data =
         "short_name": "СТ \"Полюшка\"",
         "short_name:be": "СТ \"Полюшка\"",
         "short_name:ru": "СТ \"Полюшко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18854,7 +18741,7 @@ const Data =
         "short_name": "СТ \"Вална\"",
         "short_name:be": "СТ \"Вална\"",
         "short_name:ru": "СТ \"Волна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18881,7 +18768,7 @@ const Data =
         "short_name": "СТ \"Яблынька\"",
         "short_name:be": "СТ \"Яблынька\"",
         "short_name:ru": "СТ \"Яблонька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18908,7 +18795,7 @@ const Data =
         "short_name": "СТ \"Сосны\"",
         "short_name:be": "СТ \"Сосны\"",
         "short_name:ru": "СТ \"Сосны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18935,7 +18822,7 @@ const Data =
         "short_name": "СТ \"Саколка\"",
         "short_name:be": "СТ \"Саколка\"",
         "short_name:ru": "СТ \"Соколка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18962,7 +18849,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -18989,7 +18876,7 @@ const Data =
         "short_name": "СТ \"Сафіева\"",
         "short_name:be": "СТ \"Сафіева\"",
         "short_name:ru": "СТ \"Софиево\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19016,7 +18903,7 @@ const Data =
         "short_name": "СТ \"Багатыры Польныя\"",
         "short_name:be": "СТ \"Багатыры Польныя\"",
         "short_name:ru": "СТ \"Богатыри Польные\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19043,7 +18930,7 @@ const Data =
         "short_name": "СТ \"Салют-3\"",
         "short_name:be": "СТ \"Салют-3\"",
         "short_name:ru": "СТ \"Салют-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19070,7 +18957,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19091,7 +18978,7 @@ const Data =
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -19118,7 +19005,7 @@ const Data =
         "short_name": "СТ \"Лясное-3\"",
         "short_name:be": "СТ \"Лясное-3\"",
         "short_name:ru": "СТ \"Лесное-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19145,7 +19032,7 @@ const Data =
         "short_name": "СТ «Хваля»",
         "short_name:be": "СТ «Хваля»",
         "short_name:ru": "СТ «Волна»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19172,7 +19059,7 @@ const Data =
         "short_name": "СТ «Каштан»",
         "short_name:be": "СТ «Каштан»",
         "short_name:ru": "СТ «Каштан»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19199,7 +19086,7 @@ const Data =
         "short_name": "СТ «Вясёлка»",
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Радуга»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19226,7 +19113,7 @@ const Data =
         "short_name": "СТ \"Леснічанка\"",
         "short_name:be": "СТ \"Леснічанка\"",
         "short_name:ru": "СТ \"Лесничанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19253,7 +19140,7 @@ const Data =
         "short_name": "СТ \"У трох дубоў\"",
         "short_name:be": "СТ \"У трох дубоў\"",
         "short_name:ru": "СТ \"У трех дубов\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19280,7 +19167,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19307,7 +19194,7 @@ const Data =
         "short_name": "СТ \"Дынама ў Дзеражні\"",
         "short_name:be": "СТ \"Дынама ў Дзеражні\"",
         "short_name:ru": "СТ \"Динамо в Деражне\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19334,7 +19221,7 @@ const Data =
         "short_name": "СТ \"Сувязіст-Дзеражня\"",
         "short_name:be": "СТ \"Сувязіст-Дзеражня\"",
         "short_name:ru": "СТ \"Связист-Деражня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19361,7 +19248,7 @@ const Data =
         "short_name": "СТ \"Аматары саду\"",
         "short_name:be": "СТ \"Аматары саду\"",
         "short_name:ru": "СТ \"Любители сада\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19388,7 +19275,7 @@ const Data =
         "short_name": "СТ \"Буда\"",
         "short_name:be": "СТ \"Буда\"",
         "short_name:ru": "СТ \"Буда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19415,7 +19302,7 @@ const Data =
         "short_name": "СТ \"Алеся\"",
         "short_name:be": "СТ \"Алеся\"",
         "short_name:ru": "СТ \"Алеся\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19442,7 +19329,7 @@ const Data =
         "short_name": "СТ \"Ніва-Ф\"",
         "short_name:be": "СТ \"Ніва-Ф\"",
         "short_name:ru": "СТ \"Нива-Ф\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19469,7 +19356,7 @@ const Data =
         "short_name": "СТ \"Падбярэжжа\"",
         "short_name:be": "СТ \"Падбярэжжа\"",
         "short_name:ru": "СТ \"Подбережье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19496,7 +19383,7 @@ const Data =
         "short_name": "СТ \"Уза-1\"",
         "short_name:be": "СТ \"Уза-1\"",
         "short_name:ru": "СТ \"Уза-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19523,7 +19410,7 @@ const Data =
         "short_name": "СТ \"Родны Куток-2002\"",
         "short_name:be": "СТ \"Родны Куток-2002\"",
         "short_name:ru": "СТ \"Родной Уголок-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19550,7 +19437,7 @@ const Data =
         "short_name": "СТ \"Ведрыч-сад\"",
         "short_name:be": "СТ \"Ведрыч-сад\"",
         "short_name:ru": "СТ \"Ведрич-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19577,7 +19464,7 @@ const Data =
         "short_name": "СТ \"Ранет\"",
         "short_name:be": "СТ \"Ранет\"",
         "short_name:ru": "СТ \"Ранет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19604,7 +19491,7 @@ const Data =
         "short_name": "СТ \"Навука\"",
         "short_name:be": "СТ \"Навука\"",
         "short_name:ru": "СТ \"Наука\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19631,7 +19518,7 @@ const Data =
         "short_name": "СТ \"Лазурнае\"",
         "short_name:be": "СТ \"Лазурнае\"",
         "short_name:ru": "СТ \"Лазурное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19658,7 +19545,7 @@ const Data =
         "short_name": "СТ \"Мічурынец-87\"",
         "short_name:be": "СТ \"Мічурынец-87\"",
         "short_name:ru": "СТ \"Мичуринец-87\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19685,7 +19572,7 @@ const Data =
         "short_name": "СТ \"Аграрнік-С\"",
         "short_name:be": "СТ \"Аграрнік-С\"",
         "short_name:ru": "СТ \"Аграрник-С\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19712,7 +19599,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Крыница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19739,7 +19626,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19766,7 +19653,7 @@ const Data =
         "short_name": "СТ \"Звязда\"",
         "short_name:be": "СТ \"Звязда\"",
         "short_name:ru": "СТ \"Звезда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19793,7 +19680,7 @@ const Data =
         "short_name": "СТ \"Купалінка-1981\"",
         "short_name:be": "СТ \"Купалінка-1981\"",
         "short_name:ru": "СТ \"Купалинка-1981\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19820,7 +19707,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык-2002\"",
         "short_name:be": "СТ \"Тэкстыльшчык-2002\"",
         "short_name:ru": "СТ \"Текстильщик-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19847,7 +19734,7 @@ const Data =
         "short_name": "СТ \"Лясныя Паляны\"",
         "short_name:be": "СТ \"Лясныя Паляны\"",
         "short_name:ru": "СТ \"Лесные Поляны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19874,7 +19761,7 @@ const Data =
         "short_name": "СТ \"Вяселка-РТВ\"",
         "short_name:be": "СТ \"Вяселка-РТВ\"",
         "short_name:ru": "СТ \"Вясёлка-РТВ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19901,7 +19788,7 @@ const Data =
         "short_name": "СТ \"Цэнтральны плюс\"",
         "short_name:be": "СТ \"Цэнтральны плюс\"",
         "short_name:ru": "СТ \"Центральный плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19928,7 +19815,7 @@ const Data =
         "short_name": "СТ \"Новая Ніва\"",
         "short_name:be": "СТ \"Новая Ніва\"",
         "short_name:ru": "СТ \"Новая Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19955,7 +19842,7 @@ const Data =
         "short_name": "СТ «Друць» Беларуска-Расійскага ўніверсітэту",
         "short_name:be": "СТ «Друць» Беларуска-Расійскага ўніверсітэту",
         "short_name:ru": "СТ «Друть» Белорусско-Российского университета",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -19982,7 +19869,7 @@ const Data =
         "short_name": "СТ \"Рамотнік-Друць\"",
         "short_name:be": "СТ \"Рамотнік-Друць\"",
         "short_name:ru": "СТ \"Ремонтник-Друть\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20009,7 +19896,7 @@ const Data =
         "short_name": "СТ \"Хонава\"",
         "short_name:be": "СТ \"Хонава\"",
         "short_name:ru": "СТ \"Хоново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20036,7 +19923,7 @@ const Data =
         "short_name": "СТ \"Энергетык\"",
         "short_name:be": "СТ \"Энергетык\"",
         "short_name:ru": "СТ \"Энергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20063,7 +19950,7 @@ const Data =
         "short_name": "СТ «Гідраўлік»",
         "short_name:be": "СТ «Гідраўлік»",
         "short_name:ru": "СТ «Гидравлик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20090,7 +19977,7 @@ const Data =
         "short_name": "СТ «Руднянскі пячатнік»",
         "short_name:be": "СТ «Руднянскі пячатнік»",
         "short_name:ru": "СТ «Руднянский печатник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20117,7 +20004,7 @@ const Data =
         "short_name": "СТ \"Дубок-83\"",
         "short_name:be": "СТ \"Дубок-83\"",
         "short_name:ru": "СТ \"Дубок-83\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20144,7 +20031,7 @@ const Data =
         "short_name": "СТ \"Дубравы-1982\"",
         "short_name:be": "СТ \"Дубравы-1982\"",
         "short_name:ru": "СТ \"Дубравы-1982\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20171,7 +20058,7 @@ const Data =
         "short_name": "СТ \"Мерыдыян-92\"",
         "short_name:be": "СТ \"Мерыдыян-92\"",
         "short_name:ru": "СТ \"Меридиан-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20198,7 +20085,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20225,7 +20112,7 @@ const Data =
         "short_name": "СТ «Брыльянт-1982»",
         "short_name:be": "СТ «Брыльянт-1982»",
         "short_name:ru": "СТ «Бриллиант-1982»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -20252,7 +20139,7 @@ const Data =
         "short_name": "СТ \"Баяры-86\"",
         "short_name:be": "СТ \"Баяры-86\"",
         "short_name:ru": "СТ \"Бояры-86\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20279,7 +20166,7 @@ const Data =
         "short_name": "СТ \"Зялёныя Халмы\"",
         "short_name:be": "СТ \"Зялёныя Халмы\"",
         "short_name:ru": "СТ \"Зелёные Холмы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20306,7 +20193,7 @@ const Data =
         "short_name": "СТ \"Вяснянка-2004\"",
         "short_name:be": "СТ \"Вяснянка-2004\"",
         "short_name:ru": "СТ \"Веснянка-2004\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20323,7 +20210,7 @@ const Data =
       "properties": {
         "name": "Ромашка белая",
         "name:ru": "Ромашка белая",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -20350,7 +20237,7 @@ const Data =
         "short_name": "СТ \"Паляна\"",
         "short_name:be": "СТ \"Паляна\"",
         "short_name:ru": "СТ \"Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20377,7 +20264,7 @@ const Data =
         "short_name": "СТ \"Імпульс-Садавод\"",
         "short_name:be": "СТ \"Імпульс-Садавод\"",
         "short_name:ru": "СТ \"Импульс-Садовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20404,7 +20291,7 @@ const Data =
         "short_name": "СТ \"Прамбурвод\"",
         "short_name:be": "СТ \"Прамбурвод\"",
         "short_name:ru": "СТ \"Промбурвод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20431,7 +20318,7 @@ const Data =
         "short_name": "СТ \"Кааператар-Укропенка\"",
         "short_name:be": "СТ \"Кааператар-Укропенка\"",
         "short_name:ru": "СТ \"Кооператор-Укропенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20458,7 +20345,7 @@ const Data =
         "short_name": "СТ \"Сонечны Бераг\"",
         "short_name:be": "СТ \"Сонечны Бераг\"",
         "short_name:ru": "СТ \"Солнечный Берег\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20485,7 +20372,7 @@ const Data =
         "short_name": "СТ \"Механізатар\"",
         "short_name:be": "СТ \"Механізатар\"",
         "short_name:ru": "СТ \"Механизатор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20512,7 +20399,7 @@ const Data =
         "short_name": "СТ \"Горадабудаўнік\"",
         "short_name:be": "СТ \"Горадабудаўнік\"",
         "short_name:ru": "СТ \"Градостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20539,7 +20426,7 @@ const Data =
         "short_name": "СТ \"Татарка\"",
         "short_name:be": "СТ \"Татарка\"",
         "short_name:ru": "СТ \"Татарка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20566,7 +20453,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20593,7 +20480,7 @@ const Data =
         "short_name": "СТ \"Агароднік\"",
         "short_name:be": "СТ \"Агароднік\"",
         "short_name:ru": "СТ \"Огородник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20620,7 +20507,7 @@ const Data =
         "short_name": "СТ \"Вадалей\"",
         "short_name:be": "СТ \"Вадалей\"",
         "short_name:ru": "СТ \"Водолей\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20647,7 +20534,7 @@ const Data =
         "short_name": "СТ «Дубовы лес»",
         "short_name:be": "СТ «Дубовы лес»",
         "short_name:ru": "СТ «Дубовый лес»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20674,7 +20561,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20701,7 +20588,7 @@ const Data =
         "short_name": "СТ «Журавінка-91»",
         "short_name:be": "СТ «Журавінка-91»",
         "short_name:ru": "СТ «Журавинка-91»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20728,7 +20615,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20755,7 +20642,7 @@ const Data =
         "short_name": "СТ «Дружны Востраў»",
         "short_name:be": "СТ «Дружны Востраў»",
         "short_name:ru": "СТ «Дружный Остров»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20782,7 +20669,7 @@ const Data =
         "short_name": "СТ \"Падсаддзе\"",
         "short_name:be": "СТ \"Падсаддзе\"",
         "short_name:ru": "СТ \"Подсадье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20809,7 +20696,7 @@ const Data =
         "short_name": "СТ \"За Рулём\"",
         "short_name:be": "СТ \"За Рулём\"",
         "short_name:ru": "СТ \"За Рулем\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20836,7 +20723,7 @@ const Data =
         "short_name": "СТ \"Мара-2001\"",
         "short_name:be": "СТ \"Мара-2001\"",
         "short_name:ru": "СТ \"Мара-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20863,7 +20750,7 @@ const Data =
         "short_name": "СТ \"Пціч-2\"",
         "short_name:be": "СТ \"Пціч-2\"",
         "short_name:ru": "СТ \"Птичь-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20890,7 +20777,7 @@ const Data =
         "short_name": "СТ \"Чайка\"",
         "short_name:be": "СТ \"Чайка\"",
         "short_name:ru": "СТ \"Чайка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20917,7 +20804,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20944,7 +20831,7 @@ const Data =
         "short_name": "СТ \"Здароўе-1\"",
         "short_name:be": "СТ \"Здароўе-1\"",
         "short_name:ru": "СТ \"Здоровье-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20971,7 +20858,7 @@ const Data =
         "short_name": "СТ \"Казімірава\"",
         "short_name:be": "СТ \"Казімірава\"",
         "short_name:ru": "СТ \"Казимирово\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -20998,7 +20885,7 @@ const Data =
         "short_name": "СТ \"Марыяна\"",
         "short_name:be": "СТ \"Марыяна\"",
         "short_name:ru": "СТ \"Марианна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21025,7 +20912,7 @@ const Data =
         "short_name": "СТ \"Агароднік-Плюс\"",
         "short_name:be": "СТ \"Агароднік-Плюс\"",
         "short_name:ru": "СТ \"Овощник-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21052,7 +20939,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21079,7 +20966,7 @@ const Data =
         "short_name": "СТ \"Суднікі\"",
         "short_name:be": "СТ \"Суднікі\"",
         "short_name:ru": "СТ \"Судники\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21106,7 +20993,7 @@ const Data =
         "short_name": "СТ \"Сямʼя\"",
         "short_name:be": "СТ \"Сямʼя\"",
         "short_name:ru": "СТ \"Семья\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21133,7 +21020,7 @@ const Data =
         "short_name": "СТ \"Агат-93\"",
         "short_name:be": "СТ \"Агат-93\"",
         "short_name:ru": "СТ \"Агат-93\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21160,7 +21047,7 @@ const Data =
         "short_name": "СТ \"Этʼек\"",
         "short_name:be": "СТ \"Этʼек\"",
         "short_name:ru": "СТ \"Этьек\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21187,7 +21074,7 @@ const Data =
         "short_name": "СТ \"Электрон\"",
         "short_name:be": "СТ \"Электрон\"",
         "short_name:ru": "СТ \"Электрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21202,7 +21089,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -21229,7 +21116,7 @@ const Data =
         "short_name": "СТ \"Спелыя Ажыны\"",
         "short_name:be": "СТ \"Спелыя Ажыны\"",
         "short_name:ru": "СТ \"Спелая Ежевика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21256,7 +21143,7 @@ const Data =
         "short_name": "СТ \"Юбілейнае\"",
         "short_name:be": "СТ \"Юбілейнае\"",
         "short_name:ru": "СТ \"Юбилейное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21283,7 +21170,7 @@ const Data =
         "short_name": "СТ \"Юбілейнае\"",
         "short_name:be": "СТ \"Юбілейнае\"",
         "short_name:ru": "СТ \"Юбилейное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21310,7 +21197,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21331,7 +21218,7 @@ const Data =
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -21358,7 +21245,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21385,7 +21272,7 @@ const Data =
         "short_name": "СТ \"Электрык-2002\"",
         "short_name:be": "СТ \"Электрык-2002\"",
         "short_name:ru": "СТ \"Электрик-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21412,7 +21299,7 @@ const Data =
         "short_name": "СТ \"Высокае\"",
         "short_name:be": "СТ \"Высокае\"",
         "short_name:ru": "СТ \"Высокое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21439,7 +21326,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21466,7 +21353,7 @@ const Data =
         "short_name": "СТ \"Мічурынец-58\"",
         "short_name:be": "СТ \"Мічурынец-58\"",
         "short_name:ru": "СТ \"Мичуринец-58\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21493,7 +21380,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\"",
         "short_name:be": "СТ \"Лакаматыў\"",
         "short_name:ru": "СТ \"Локомотив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21520,7 +21407,7 @@ const Data =
         "short_name": "СТ \"Западгорʼе\"",
         "short_name:be": "СТ \"Западгорʼе\"",
         "short_name:ru": "СТ \"Заподгорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21547,7 +21434,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пралеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21574,7 +21461,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Лесніца\"",
         "short_name:be": "СТ \"Крыніца-Лесніца\"",
         "short_name:ru": "СТ \"Криница-Лесница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21601,7 +21488,7 @@ const Data =
         "short_name": "СТ \"Ялінка\"",
         "short_name:be": "СТ \"Ялінка\"",
         "short_name:ru": "СТ \"Ялинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21628,7 +21515,7 @@ const Data =
         "short_name": "СТ \"Лясная Палянка\"",
         "short_name:be": "СТ \"Лясная Палянка\"",
         "short_name:ru": "СТ \"Лесная Полянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21655,7 +21542,7 @@ const Data =
         "short_name": "СТ \"Касалапінка\"",
         "short_name:be": "СТ \"Касалапінка\"",
         "short_name:ru": "СТ \"Косолапинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21682,7 +21569,7 @@ const Data =
         "short_name": "СТ \"Насенневод\"",
         "short_name:be": "СТ \"Насенневод\"",
         "short_name:ru": "СТ \"Семеновод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21709,7 +21596,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21736,7 +21623,7 @@ const Data =
         "short_name": "СТ \"Ракіта\"",
         "short_name:be": "СТ \"Ракіта\"",
         "short_name:ru": "СТ \"Ракита\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21763,7 +21650,7 @@ const Data =
         "short_name": "СТ \"Усходняе\"",
         "short_name:be": "СТ \"Усходняе\"",
         "short_name:ru": "СТ \"Восточное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21790,7 +21677,7 @@ const Data =
         "short_name": "СТ \"Калужніца\"",
         "short_name:be": "СТ \"Калужніца\"",
         "short_name:ru": "СТ \"Калужница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21817,7 +21704,7 @@ const Data =
         "short_name": "СТ \"Цюльпан\"",
         "short_name:be": "СТ \"Цюльпан\"",
         "short_name:ru": "СТ \"Тюльпан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21844,7 +21731,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі-1\"",
         "short_name:be": "СТ \"Чаромушкі-1\"",
         "short_name:ru": "СТ \"Черёмушки-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21871,7 +21758,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі\"",
         "short_name:be": "СТ \"Чаромушкі\"",
         "short_name:ru": "СТ \"Черёмушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21898,7 +21785,7 @@ const Data =
         "short_name": "СТ \"Жэмчуг\"",
         "short_name:be": "СТ \"Жэмчуг\"",
         "short_name:ru": "СТ \"Жемчуг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21925,7 +21812,7 @@ const Data =
         "short_name": "СТ \"Авангард-2004\"",
         "short_name:be": "СТ \"Авангард-2004\"",
         "short_name:ru": "СТ \"Авангард-2004\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21952,7 +21839,7 @@ const Data =
         "short_name": "СТ \"Кааператар\"",
         "short_name:be": "СТ \"Кааператар\"",
         "short_name:ru": "СТ \"Кооператор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -21979,7 +21866,7 @@ const Data =
         "short_name": "СТ \"Краева\"",
         "short_name:be": "СТ \"Краева\"",
         "short_name:ru": "СТ \"Краево\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22006,7 +21893,7 @@ const Data =
         "short_name": "СТ \"Вясёлка-Колар\"",
         "short_name:be": "СТ \"Вясёлка-Колар\"",
         "short_name:ru": "СТ \"Радуга-Колор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22033,7 +21920,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22060,7 +21947,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік-5\"",
         "short_name:be": "СТ \"Рамонтнік-5\"",
         "short_name:ru": "СТ \"Ремонтник-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22087,7 +21974,7 @@ const Data =
         "short_name": "СТ \"Старое Сяло-2\"",
         "short_name:be": "СТ \"Старое Сяло-2\"",
         "short_name:ru": "СТ \"Старое Село-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22114,7 +22001,7 @@ const Data =
         "short_name": "СТ \"Старое Сяло\"",
         "short_name:be": "СТ \"Старое Сяло\"",
         "short_name:ru": "СТ \"Старое Село\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22141,7 +22028,7 @@ const Data =
         "short_name": "СТ \"Ціраспаль\"",
         "short_name:be": "СТ \"Ціраспаль\"",
         "short_name:ru": "СТ \"Тирасполь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22168,7 +22055,7 @@ const Data =
         "short_name": "СТ \"Хімік\"",
         "short_name:be": "СТ \"Хімік\"",
         "short_name:ru": "СТ \"Химик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22195,7 +22082,7 @@ const Data =
         "short_name": "СТ \"Чыстая Крыніца\"",
         "short_name:be": "СТ \"Чыстая Крыніца\"",
         "short_name:ru": "СТ \"Чистый Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22222,7 +22109,7 @@ const Data =
         "short_name": "СТ \"Швейнік\"",
         "short_name:be": "СТ \"Швейнік\"",
         "short_name:ru": "СТ \"Швейник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22249,7 +22136,7 @@ const Data =
         "short_name": "СТ \"Жалезнякі-2\"",
         "short_name:be": "СТ \"Жалезнякі-2\"",
         "short_name:ru": "СТ \"Железняки-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22276,7 +22163,7 @@ const Data =
         "short_name": "СТ \"Заазерʼе\"",
         "short_name:be": "СТ \"Заазерʼе\"",
         "short_name:ru": "СТ \"Заозерье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22303,7 +22190,7 @@ const Data =
         "short_name": "СТ \"Крыніцы-Мазонава\"",
         "short_name:be": "СТ \"Крыніцы-Мазонава\"",
         "short_name:ru": "СТ \"Крыницы-Мазоново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22330,7 +22217,7 @@ const Data =
         "short_name": "СТ \"Надзея-4\"",
         "short_name:be": "СТ \"Надзея-4\"",
         "short_name:ru": "СТ \"Надежда-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22357,7 +22244,7 @@ const Data =
         "short_name": "СТ \"Настаўнік\"",
         "short_name:be": "СТ \"Настаўнік\"",
         "short_name:ru": "СТ \"Наставник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22384,7 +22271,7 @@ const Data =
         "short_name": "СТ \"Дружба-2009\"",
         "short_name:be": "СТ \"Дружба-2009\"",
         "short_name:ru": "СТ \"Дружба-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22411,7 +22298,7 @@ const Data =
         "short_name": "СТ \"Заветнае\"",
         "short_name:be": "СТ \"Заветнае\"",
         "short_name:ru": "СТ \"Заветное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22438,7 +22325,7 @@ const Data =
         "short_name": "СТ \"Зара\"",
         "short_name:be": "СТ \"Зара\"",
         "short_name:ru": "СТ \"Заря\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22465,7 +22352,7 @@ const Data =
         "short_name": "СТ \"Паляна\"",
         "short_name:be": "СТ \"Паляна\"",
         "short_name:ru": "СТ \"Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22492,7 +22379,7 @@ const Data =
         "short_name": "СТ \"Хімпласт\"",
         "short_name:be": "СТ \"Хімпласт\"",
         "short_name:ru": "СТ \"Химпласт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22519,7 +22406,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\"",
         "short_name:be": "СТ \"Лакаматыў\"",
         "short_name:ru": "СТ \"Локомотив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22546,7 +22433,7 @@ const Data =
         "short_name": "СТ \"Дзвінскае\"",
         "short_name:be": "СТ \"Дзвінскае\"",
         "short_name:ru": "СТ \"Двинское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22573,7 +22460,7 @@ const Data =
         "short_name": "СТ \"Мірная Праца\"",
         "short_name:be": "СТ \"Мірная Праца\"",
         "short_name:ru": "СТ \"Мирный Труд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22600,7 +22487,7 @@ const Data =
         "short_name": "СТ \"Бор\"",
         "short_name:be": "СТ \"Бор\"",
         "short_name:ru": "СТ \"Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22627,7 +22514,7 @@ const Data =
         "short_name": "СТ \"Аэрафлот\"",
         "short_name:be": "СТ \"Аэрафлот\"",
         "short_name:ru": "СТ \"Аэрофлот\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22654,7 +22541,7 @@ const Data =
         "short_name": "СТ \"Вікторыя\"",
         "short_name:be": "СТ \"Вікторыя\"",
         "short_name:ru": "СТ \"Виктория\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22681,7 +22568,7 @@ const Data =
         "short_name": "СТ \"За Труд і Адпачынак\"",
         "short_name:be": "СТ \"За Труд і Адпачынак\"",
         "short_name:ru": "СТ \"За Труд и Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22708,7 +22595,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22735,7 +22622,7 @@ const Data =
         "short_name": "СТ \"Садоўнік\"",
         "short_name:be": "СТ \"Садоўнік\"",
         "short_name:ru": "СТ \"Садовник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22762,7 +22649,7 @@ const Data =
         "short_name": "СТ \"Уланавічы-1\"",
         "short_name:be": "СТ \"Уланавічы-1\"",
         "short_name:ru": "СТ \"Улановичи-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22789,7 +22676,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22816,7 +22703,7 @@ const Data =
         "short_name": "СТ \"Лучоса-Май\"",
         "short_name:be": "СТ \"Лучоса-Май\"",
         "short_name:ru": "СТ \"Лучёса-Май\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22843,7 +22730,7 @@ const Data =
         "short_name": "СТ \"Садавод\"",
         "short_name:be": "СТ \"Садавод\"",
         "short_name:ru": "СТ \"Садовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22870,7 +22757,7 @@ const Data =
         "short_name": "СТ \"Падбярэззе\"",
         "short_name:be": "СТ \"Падбярэззе\"",
         "short_name:ru": "СТ \"Подберезье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22897,7 +22784,7 @@ const Data =
         "short_name": "СТ \"Заронаўскае\"",
         "short_name:be": "СТ \"Заронаўскае\"",
         "short_name:ru": "СТ \"Зароновское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22924,7 +22811,7 @@ const Data =
         "short_name": "СТ \"Дойлід\"",
         "short_name:be": "СТ \"Дойлід\"",
         "short_name:ru": "СТ \"Зодчий\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22951,7 +22838,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -22978,7 +22865,7 @@ const Data =
         "short_name": "СТ \"Сябры\"",
         "short_name:be": "СТ \"Сябры\"",
         "short_name:ru": "СТ \"Сябры\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23005,7 +22892,7 @@ const Data =
         "short_name": "СТ \"Усход-2\"",
         "short_name:be": "СТ \"Усход-2\"",
         "short_name:ru": "СТ \"Усход-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23032,7 +22919,7 @@ const Data =
         "short_name": "СТ \"Флора\"",
         "short_name:be": "СТ \"Флора\"",
         "short_name:ru": "СТ \"Флора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23059,7 +22946,7 @@ const Data =
         "short_name": "СТ \"Шалкавік\"",
         "short_name:be": "СТ \"Шалкавік\"",
         "short_name:ru": "СТ \"Шелковик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23086,7 +22973,7 @@ const Data =
         "short_name": "СТ \"Бярозкі\"",
         "short_name:be": "СТ \"Бярозкі\"",
         "short_name:ru": "СТ \"Берёзки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23113,7 +23000,7 @@ const Data =
         "short_name": "СТ \"Сонейка\"",
         "short_name:be": "СТ \"Сонейка\"",
         "short_name:ru": "СТ \"Солнышко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23140,7 +23027,7 @@ const Data =
         "short_name": "СТ \"Спадарожнік\"",
         "short_name:be": "СТ \"Спадарожнік\"",
         "short_name:ru": "СТ \"Спутник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23167,7 +23054,7 @@ const Data =
         "short_name": "СТ \"Бароўка\" Лідскага раёна",
         "short_name:be": "СТ \"Бароўка\" Лідскага раёна",
         "short_name:ru": "СТ \"Боровка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-05-06",
         "ref:vatin": "BY500060879",
         "status": "orange"
@@ -23196,7 +23083,7 @@ const Data =
         "short_name": "СТ \"Банк\"",
         "short_name:be": "СТ \"Банк\"",
         "short_name:ru": "СТ \"Банк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23223,7 +23110,7 @@ const Data =
         "short_name": "СТ \"Чайка\"",
         "short_name:be": "СТ \"Чайка\"",
         "short_name:ru": "СТ \"Чайка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23250,7 +23137,7 @@ const Data =
         "short_name": "СТ \"Ельніца\"",
         "short_name:be": "СТ \"Ельніца\"",
         "short_name:ru": "СТ \"Ельница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23277,7 +23164,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23304,7 +23191,7 @@ const Data =
         "short_name": "СТ \"Кальнікі\"",
         "short_name:be": "СТ \"Кальнікі\"",
         "short_name:ru": "СТ \"Кальники\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23331,7 +23218,7 @@ const Data =
         "short_name": "СТ \"Зара\"",
         "short_name:be": "СТ \"Зара\"",
         "short_name:ru": "СТ \"Заря\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23358,7 +23245,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23385,7 +23272,7 @@ const Data =
         "short_name": "СТ \"Домабудаўнік - Собалеўка\"",
         "short_name:be": "СТ \"Домабудаўнік - Собалеўка\"",
         "short_name:ru": "СТ \"Домостроитель - Соболевка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23412,7 +23299,7 @@ const Data =
         "short_name": "СТ «Будаўнік-МЭЗ»",
         "short_name:be": "СТ «Будаўнік-МЭЗ»",
         "short_name:ru": "СТ «Строитель-МЭЗ»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -23439,7 +23326,7 @@ const Data =
         "short_name": "СТ \"Півавар\"",
         "short_name:be": "СТ \"Півавар\"",
         "short_name:ru": "СТ \"Пивовар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23466,7 +23353,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23493,7 +23380,7 @@ const Data =
         "short_name": "СТ \"Азёрнае\"",
         "short_name:be": "СТ \"Азёрнае\"",
         "short_name:ru": "СТ \"Озёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23520,7 +23407,7 @@ const Data =
         "short_name": "СТ \"Медык-2\"",
         "short_name:be": "СТ \"Медык-2\"",
         "short_name:ru": "СТ \"Медик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23547,7 +23434,7 @@ const Data =
         "short_name": "СТ \"Сонечнае\"",
         "short_name:be": "СТ \"Сонечнае\"",
         "short_name:ru": "СТ \"Солнечное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23574,7 +23461,7 @@ const Data =
         "short_name": "СТ \"Медык-2\"",
         "short_name:be": "СТ \"Медык-2\"",
         "short_name:ru": "СТ \"Медик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23601,7 +23488,7 @@ const Data =
         "short_name": "СТ \"Медык-2\"",
         "short_name:be": "СТ \"Медык-2\"",
         "short_name:ru": "СТ \"Медик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23628,7 +23515,7 @@ const Data =
         "short_name": "СТ \"Сонечная паляна-2008\"",
         "short_name:be": "СТ \"Сонечная паляна-2008\"",
         "short_name:ru": "СТ \"Солнечная поляна-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23655,7 +23542,7 @@ const Data =
         "short_name": "СТ \"Прафілактык-СЭС\"",
         "short_name:be": "СТ \"Прафілактык-СЭС\"",
         "short_name:ru": "СТ \"Профилактик-СЭС\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23682,7 +23569,7 @@ const Data =
         "short_name": "СТ \"Зялёны гай-2008\"",
         "short_name:be": "СТ \"Зялёны гай-2008\"",
         "short_name:ru": "СТ \"Зелёная роща-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23709,7 +23596,7 @@ const Data =
         "short_name": "СТ \"Райскі вуглік\"",
         "short_name:be": "СТ \"Райскі вуглік\"",
         "short_name:ru": "СТ \"Райский уголок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23736,7 +23623,7 @@ const Data =
         "short_name": "СТ \"Матэматык\"",
         "short_name:be": "СТ \"Матэматык\"",
         "short_name:ru": "СТ \"Математик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23763,7 +23650,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23790,7 +23677,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23817,7 +23704,7 @@ const Data =
         "short_name": "СТ \"Мастак\"",
         "short_name:be": "СТ \"Мастак\"",
         "short_name:ru": "СТ \"Мастак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23844,7 +23731,7 @@ const Data =
         "short_name": "СТ \"Мілашы\"",
         "short_name:be": "СТ \"Мілашы\"",
         "short_name:ru": "СТ \"Милаши\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23871,7 +23758,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23898,7 +23785,7 @@ const Data =
         "short_name": "СТ \"Мантажнік\"",
         "short_name:be": "СТ \"Мантажнік\"",
         "short_name:ru": "СТ \"Монтажник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23925,7 +23812,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23952,7 +23839,7 @@ const Data =
         "short_name": "СТ \"Мары Палесся\"",
         "short_name:be": "СТ \"Мары Палесся\"",
         "short_name:ru": "СТ \"Мечты Полесья\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -23979,7 +23866,7 @@ const Data =
         "short_name": "СТ \"Чыжоўка\"",
         "short_name:be": "СТ \"Чыжоўка\"",
         "short_name:ru": "СТ \"Чижовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24006,7 +23893,7 @@ const Data =
         "short_name": "СТ \"Мара-5\"",
         "short_name:be": "СТ \"Мара-5\"",
         "short_name:ru": "СТ \"Мечта-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24033,7 +23920,7 @@ const Data =
         "short_name": "СТ \"Ляскі\"",
         "short_name:be": "СТ \"Ляскі\"",
         "short_name:ru": "СТ \"Лески\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24060,7 +23947,7 @@ const Data =
         "short_name": "СТ \"Глыбінка\"",
         "short_name:be": "СТ \"Глыбінка\"",
         "short_name:ru": "СТ \"Глубинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24087,7 +23974,7 @@ const Data =
         "short_name": "САТ \"Чыжоўка\"",
         "short_name:be": "САТ \"Чыжоўка\"",
         "short_name:ru": "СОТ \"Чижовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -24114,7 +24001,7 @@ const Data =
         "short_name": "СТ \"Бярозка-1\"",
         "short_name:be": "СТ \"Бярозка-1\"",
         "short_name:ru": "СТ \"Берёзка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24141,7 +24028,7 @@ const Data =
         "short_name": "СТ «Металург-4»",
         "short_name:be": "СТ «Металург-4»",
         "short_name:ru": "СТ «Металлург-4»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24168,7 +24055,7 @@ const Data =
         "short_name": "СТ \"Поплаў\"",
         "short_name:be": "СТ \"Поплаў\"",
         "short_name:ru": "СТ \"Поплав\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24195,7 +24082,7 @@ const Data =
         "short_name": "СТ \"Рамантыка\"",
         "short_name:be": "СТ \"Рамантыка\"",
         "short_name:ru": "СТ \"Романтика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24222,7 +24109,7 @@ const Data =
         "short_name": "СТ «Крыніца СПМК-49»",
         "short_name:be": "СТ «Крыніца СПМК-49»",
         "short_name:ru": "СТ «Родник СПМК-49»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24249,7 +24136,7 @@ const Data =
         "short_name": "СТ «Іпуць-4»",
         "short_name:be": "СТ «Іпуць-4»",
         "short_name:ru": "СТ «Ипуть-4»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24276,7 +24163,7 @@ const Data =
         "short_name": "СТ «Ветэран»",
         "short_name:be": "СТ «Ветэран»",
         "short_name:ru": "СТ «Ветеран»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24303,7 +24190,7 @@ const Data =
         "short_name": "СТ \"Люстэрачка\"",
         "short_name:be": "СТ \"Люстэрачка\"",
         "short_name:ru": "СТ \"Зеркальце\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24330,7 +24217,7 @@ const Data =
         "short_name": "СТ \"Вясна-93\"",
         "short_name:be": "СТ \"Вясна-93\"",
         "short_name:ru": "СТ \"Весна-93\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24357,7 +24244,7 @@ const Data =
         "short_name": "СТ \"Камунальнік-Бокаў\"",
         "short_name:be": "СТ \"Камунальнік-Бокаў\"",
         "short_name:ru": "СТ \"Коммунальник-Боков\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24384,7 +24271,7 @@ const Data =
         "short_name": "СТ \"Палёт\"",
         "short_name:be": "СТ \"Палёт\"",
         "short_name:ru": "СТ \"Полёт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24411,7 +24298,7 @@ const Data =
         "short_name": "СТ \"Керамін\"",
         "short_name:be": "СТ \"Керамін\"",
         "short_name:ru": "СТ \"Керамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24438,7 +24325,7 @@ const Data =
         "short_name": "СТ \"Вітамін\"",
         "short_name:be": "СТ \"Вітамін\"",
         "short_name:ru": "СТ \"Витамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24465,7 +24352,7 @@ const Data =
         "short_name": "СТ \"Энергетык\"",
         "short_name:be": "СТ \"Энергетык\"",
         "short_name:ru": "СТ \"Энергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24480,7 +24367,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -24507,7 +24394,7 @@ const Data =
         "short_name": "СТ \"Ззянне саду\"",
         "short_name:be": "СТ \"Ззянне саду\"",
         "short_name:ru": "СТ \"Сияние сада\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24534,7 +24421,7 @@ const Data =
         "short_name": "СТ \"Зара\"",
         "short_name:be": "СТ \"Зара\"",
         "short_name:ru": "СТ \"Заря\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24561,7 +24448,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна ААТ \"Паліміз\"\"",
         "short_name:be": "СТ \"Лясная Паляна ААТ \"Паліміз\"\"",
         "short_name:ru": "СТ \"Лесная Поляна ОАО \"Полимиз\"\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -24588,7 +24475,7 @@ const Data =
         "short_name": "СТ \"Раднік\"",
         "short_name:be": "СТ \"Раднік\"",
         "short_name:ru": "СТ \"Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24615,7 +24502,7 @@ const Data =
         "short_name": "СТ \"Рамонак-1\"",
         "short_name:be": "СТ \"Рамонак-1\"",
         "short_name:ru": "СТ \"Ромашка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24642,7 +24529,7 @@ const Data =
         "short_name": "СТ \"Вішневы\"",
         "short_name:be": "СТ \"Вішневы\"",
         "short_name:ru": "СТ \"Вишнёвый\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24669,7 +24556,7 @@ const Data =
         "short_name": "СТ \"Кааператар\"",
         "short_name:be": "СТ \"Кааператар\"",
         "short_name:ru": "СТ \"Кооператор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24696,7 +24583,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -24723,7 +24610,7 @@ const Data =
         "short_name": "СТ \"Перамога\"",
         "short_name:be": "СТ \"Перамога\"",
         "short_name:ru": "СТ \"Победа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24750,7 +24637,7 @@ const Data =
         "short_name": "СТ \"Сасноўка\"",
         "short_name:be": "СТ \"Сасноўка\"",
         "short_name:ru": "СТ \"Сосновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24765,7 +24652,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -24792,7 +24679,7 @@ const Data =
         "short_name": "СТ \"Рамашка-87\"",
         "short_name:be": "СТ \"Рамашка-87\"",
         "short_name:ru": "СТ \"Ромашка-87\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24807,7 +24694,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -24822,7 +24709,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -24837,7 +24724,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -24864,7 +24751,7 @@ const Data =
         "short_name": "СТ \"Вікторыя\"",
         "short_name:be": "СТ \"Вікторыя\"",
         "short_name:ru": "СТ \"Виктория\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24891,7 +24778,7 @@ const Data =
         "short_name": "СТ \"Бярозка-82\"",
         "short_name:be": "СТ \"Бярозка-82\"",
         "short_name:ru": "СТ \"Берёзка-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24918,7 +24805,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24945,7 +24832,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24972,7 +24859,7 @@ const Data =
         "short_name": "СТ \"Расінка в.Лахва\"",
         "short_name:be": "СТ \"Расінка в.Лахва\"",
         "short_name:ru": "СТ \"Росинка д.Лахва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -24999,7 +24886,7 @@ const Data =
         "short_name": "СТ \"Спадчына\"",
         "short_name:be": "СТ \"Спадчына\"",
         "short_name:ru": "СТ \"Спадчына\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25026,7 +24913,7 @@ const Data =
         "short_name": "СТ \"Бярозавы Гай\"",
         "short_name:be": "СТ \"Бярозавы Гай\"",
         "short_name:ru": "СТ \"Березовая Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25053,7 +24940,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25080,7 +24967,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25107,7 +24994,7 @@ const Data =
         "short_name": "СТ \"Лянок\"",
         "short_name:be": "СТ \"Лянок\"",
         "short_name:ru": "СТ \"Ленок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25134,7 +25021,7 @@ const Data =
         "short_name": "СТ \"Спадарожнік\"",
         "short_name:be": "СТ \"Спадарожнік\"",
         "short_name:ru": "СТ \"Спутник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25161,7 +25048,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25188,7 +25075,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык\"",
         "short_name:be": "СТ \"Тэкстыльшчык\"",
         "short_name:ru": "СТ \"Текстильщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25215,7 +25102,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык\"",
         "short_name:be": "СТ \"Тэкстыльшчык\"",
         "short_name:ru": "СТ \"Текстильщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25242,7 +25129,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Свитанок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25257,7 +25144,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25284,7 +25171,7 @@ const Data =
         "short_name": "СТ \"Берасцянка\"",
         "short_name:be": "СТ \"Берасцянка\"",
         "short_name:ru": "СТ \"Берестянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25311,7 +25198,7 @@ const Data =
         "short_name": "СТ \"Крыніца-2\"",
         "short_name:be": "СТ \"Крыніца-2\"",
         "short_name:ru": "СТ \"Родник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25338,7 +25225,7 @@ const Data =
         "short_name": "СТ \"Прыбор\"",
         "short_name:be": "СТ \"Прыбор\"",
         "short_name:ru": "СТ \"Прибор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25353,7 +25240,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25380,7 +25267,7 @@ const Data =
         "short_name": "СТ \"Дубаўка\"",
         "short_name:be": "СТ \"Дубаўка\"",
         "short_name:ru": "СТ \"Дубовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25407,7 +25294,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25434,7 +25321,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25461,7 +25348,7 @@ const Data =
         "short_name": "СТ «Заходняя Бярэзіна»",
         "short_name:be": "СТ «Заходняя Бярэзіна»",
         "short_name:ru": "СТ «Западная Березина»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25477,7 +25364,7 @@ const Data =
       },
       "properties": {
         "name": "Колос",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25504,7 +25391,7 @@ const Data =
         "short_name": "СТ \"Усход-1\"",
         "short_name:be": "СТ \"Усход-1\"",
         "short_name:ru": "СТ \"Восход-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25531,7 +25418,7 @@ const Data =
         "short_name": "СТ \"Сунічка\"",
         "short_name:be": "СТ \"Сунічка\"",
         "short_name:ru": "СТ \"Земляничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25558,7 +25445,7 @@ const Data =
         "short_name": "СТ \"Кааператар-2\"",
         "short_name:be": "СТ \"Кааператар-2\"",
         "short_name:ru": "СТ \"Кооператор-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25573,7 +25460,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25588,7 +25475,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25603,7 +25490,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25618,7 +25505,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25645,7 +25532,7 @@ const Data =
         "short_name": "СТ \"Вымпел\"",
         "short_name:be": "СТ \"Вымпел\"",
         "short_name:ru": "СТ \"Вымпел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25672,7 +25559,7 @@ const Data =
         "short_name": "СТ \"Купалінка\"",
         "short_name:be": "СТ \"Купалінка\"",
         "short_name:ru": "СТ \"Купалинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25699,7 +25586,7 @@ const Data =
         "short_name": "СТ \"Сувязіст-Прам\"",
         "short_name:be": "СТ \"Сувязіст-Прам\"",
         "short_name:ru": "СТ \"Связист-Пром\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25726,7 +25613,7 @@ const Data =
         "short_name": "СТ \"Фізкультурнік\"",
         "short_name:be": "СТ \"Фізкультурнік\"",
         "short_name:ru": "СТ \"Физкультурник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25753,7 +25640,7 @@ const Data =
         "short_name": "СТ \"Дубрава-МАПІД\"",
         "short_name:be": "СТ \"Дубрава-МАПІД\"",
         "short_name:ru": "СТ \"Дубрава-МАПИД\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25769,7 +25656,7 @@ const Data =
       },
       "properties": {
         "name": "СТ «Дубровка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25796,7 +25683,7 @@ const Data =
         "short_name": "СТ \"Зялёныя Халмы-2\"",
         "short_name:be": "СТ \"Зялёныя Халмы-2\"",
         "short_name:ru": "СТ \"Зелёные Холмы-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25823,7 +25710,7 @@ const Data =
         "short_name": "СТ \"Прытулак\"",
         "short_name:be": "СТ \"Прытулак\"",
         "short_name:ru": "СТ \"Прытулак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25838,7 +25725,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -25865,7 +25752,7 @@ const Data =
         "short_name": "СТ \"Майскае\"",
         "short_name:be": "СТ \"Майскае\"",
         "short_name:ru": "СТ \"Майское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25892,7 +25779,7 @@ const Data =
         "short_name": "СТ \"Арэхавы Гай\"",
         "short_name:be": "СТ \"Арэхавы Гай\"",
         "short_name:ru": "СТ \"Ореховая Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25919,7 +25806,7 @@ const Data =
         "short_name": "СТ \"Аўган-2\"",
         "short_name:be": "СТ \"Аўган-2\"",
         "short_name:ru": "СТ \"Афган-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25946,7 +25833,7 @@ const Data =
         "short_name": "СТ \"Варнэлі\"",
         "short_name:be": "СТ \"Варнэлі\"",
         "short_name:ru": "СТ \"Варнели\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -25973,7 +25860,7 @@ const Data =
         "short_name": "СТ \"Вішня\"",
         "short_name:be": "СТ \"Вішня\"",
         "short_name:ru": "СТ \"Вишня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26000,7 +25887,7 @@ const Data =
         "short_name": "СТ «Бярозка-17»",
         "short_name:be": "СТ «Бярозка-17»",
         "short_name:ru": "СТ «Берёзка-17»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26027,7 +25914,7 @@ const Data =
         "short_name": "СТ \"Летні Вечар\"",
         "short_name:be": "СТ \"Летні Вечар\"",
         "short_name:ru": "СТ \"Летний Вечер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26054,7 +25941,7 @@ const Data =
         "short_name": "СТ \"Калібр\"",
         "short_name:be": "СТ \"Калібр\"",
         "short_name:ru": "СТ \"Калибр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26081,7 +25968,7 @@ const Data =
         "short_name": "СТ «Крыніца на Івенцы»",
         "short_name:be": "СТ «Крыніца на Івенцы»",
         "short_name:ru": "СТ «Родник на Ивенке»",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2019-04-23",
         "ref:vatin": "BY590194858",
         "status": "orange"
@@ -26110,7 +25997,7 @@ const Data =
         "short_name": "СТ \"Буравік\"",
         "short_name:be": "СТ \"Буравік\"",
         "short_name:ru": "СТ \"Буровик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26137,7 +26024,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Березка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26164,7 +26051,7 @@ const Data =
         "short_name": "СТ \"Сцежка\"",
         "short_name:be": "СТ \"Сцежка\"",
         "short_name:ru": "СТ \"Тропинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26191,7 +26078,7 @@ const Data =
         "short_name": "СТ \"Ручаёк-Тарусічы\"",
         "short_name:be": "СТ \"Ручаёк-Тарусічы\"",
         "short_name:ru": "СТ \"Ручеек-Тарусичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26218,7 +26105,7 @@ const Data =
         "short_name": "СТ \"Шкляр\"",
         "short_name:be": "СТ \"Шкляр\"",
         "short_name:ru": "СТ \"Стекольщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26245,7 +26132,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26272,7 +26159,7 @@ const Data =
         "short_name": "СТ \"Махнаты Чмель\"",
         "short_name:be": "СТ \"Махнаты Чмель\"",
         "short_name:ru": "СТ \"Мохнатый Шмель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26299,7 +26186,7 @@ const Data =
         "short_name": "СТ \"Дыстанціі пуці\"",
         "short_name:be": "СТ \"Дыстанціі пуці\"",
         "short_name:ru": "СТ \"Дистанции пути\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26326,7 +26213,7 @@ const Data =
         "short_name": "СТ \"Бялянка\"",
         "short_name:be": "СТ \"Бялянка\"",
         "short_name:ru": "СТ \"Белянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26341,7 +26228,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -26368,7 +26255,7 @@ const Data =
         "short_name": "СТ \"Вялікая Гута\"",
         "short_name:be": "СТ \"Вялікая Гута\"",
         "short_name:ru": "СТ \"Большая Гута\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26395,7 +26282,7 @@ const Data =
         "short_name": "СТ \"Медык-03\"",
         "short_name:be": "СТ \"Медык-03\"",
         "short_name:ru": "СТ \"Медик-03\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26422,7 +26309,7 @@ const Data =
         "short_name": "СТ \"Горадабудаўнік\"",
         "short_name:be": "СТ \"Горадабудаўнік\"",
         "short_name:ru": "СТ \"Градостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26449,7 +26336,7 @@ const Data =
         "short_name": "СТ \"Вітамін\"",
         "short_name:be": "СТ \"Вітамін\"",
         "short_name:ru": "СТ \"Витамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26476,7 +26363,7 @@ const Data =
         "short_name": "СТ \"Садко\"",
         "short_name:be": "СТ \"САДКО\"",
         "short_name:ru": "СТ \"САДКО\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -26503,7 +26390,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст №2\"",
         "short_name:be": "СТ \"Аўтамабіліст №2\"",
         "short_name:ru": "СТ \"Автомобилист №2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26530,7 +26417,7 @@ const Data =
         "short_name": "СТ \"Оптык\"",
         "short_name:be": "СТ \"Оптык\"",
         "short_name:ru": "СТ \"Оптик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26557,7 +26444,7 @@ const Data =
         "short_name": "СТ «Наша Дача»",
         "short_name:be": "СТ «Наша Дача»",
         "short_name:ru": "СТ «Наша Дача»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26584,7 +26471,7 @@ const Data =
         "short_name": "СТ \"Зялёны Кіравец\"",
         "short_name:be": "СТ \"Зялёны Кіравец\"",
         "short_name:ru": "СТ \"Зелёный Кировец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26611,7 +26498,7 @@ const Data =
         "short_name": "СТ \"Глобус-9\"",
         "short_name:be": "СТ \"Глобус-9\"",
         "short_name:ru": "СТ \"Глобус-9\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26638,7 +26525,7 @@ const Data =
         "short_name": "СТ \"Раніца\"",
         "short_name:be": "СТ \"Раніца\"",
         "short_name:ru": "СТ \"Утро\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26665,7 +26552,7 @@ const Data =
         "short_name": "СТ \"Блакітнае Неба\"",
         "short_name:be": "СТ \"Блакітнае Неба\"",
         "short_name:ru": "СТ \"Голубое Небо\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26692,7 +26579,7 @@ const Data =
         "short_name": "СТ \"Землядзелец\"",
         "short_name:be": "СТ \"Землядзелец\"",
         "short_name:ru": "СТ \"Земледелец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26719,7 +26606,7 @@ const Data =
         "short_name": "СТ \"Малая Гута\"",
         "short_name:be": "СТ \"Малая Гута\"",
         "short_name:ru": "СТ \"Малая Гута\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26746,7 +26633,7 @@ const Data =
         "short_name": "СТ \"БаштаПлюс\"",
         "short_name:be": "СТ \"БаштаПлюс\"",
         "short_name:ru": "СТ \"БаштаПлюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26761,7 +26648,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -26788,7 +26675,7 @@ const Data =
         "short_name": "СТ \"Пянькі\"",
         "short_name:be": "СТ \"Пянькі\"",
         "short_name:ru": "СТ \"Пеньки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26815,7 +26702,7 @@ const Data =
         "short_name": "СТ \"Пянькоўскае\"",
         "short_name:be": "СТ \"Пянькоўскае\"",
         "short_name:ru": "СТ \"Пеньковское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26842,7 +26729,7 @@ const Data =
         "short_name": "СТ \"Пянькоўскае\"",
         "short_name:be": "СТ \"Пянькоўскае\"",
         "short_name:ru": "СТ \"Пеньковское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26857,7 +26744,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -26884,7 +26771,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26911,7 +26798,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26938,7 +26825,7 @@ const Data =
         "short_name": "СТ \"Сузорʼе\"",
         "short_name:be": "СТ \"Сузорʼе\"",
         "short_name:ru": "СТ \"Сузорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26965,7 +26852,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -26992,7 +26879,7 @@ const Data =
         "short_name": "СТ \"Пішчавік\"",
         "short_name:be": "СТ \"Пішчавік\"",
         "short_name:ru": "СТ \"Пищевик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27019,7 +26906,7 @@ const Data =
         "short_name": "СТ \"Абутнік\"",
         "short_name:be": "СТ \"Абутнік\"",
         "short_name:ru": "СТ \"Обувщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27046,7 +26933,7 @@ const Data =
         "short_name": "СТ \"Зеніт-Кардон\"",
         "short_name:be": "СТ \"Зеніт-Кардон\"",
         "short_name:ru": "СТ \"Зенит-Кардон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27073,7 +26960,7 @@ const Data =
         "short_name": "СТ «Сонечная паляна Анусіна»",
         "short_name:be": "СТ «Сонечная паляна Анусіна»",
         "short_name:ru": "СТ «Солнечная поляна Анусино»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27100,7 +26987,7 @@ const Data =
         "short_name": "СТ \"Мадорскае\"",
         "short_name:be": "СТ \"Мадорскае\"",
         "short_name:ru": "СТ \"Мадорское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27127,7 +27014,7 @@ const Data =
         "short_name": "СТ «Рагачоўское Прыазер'е»",
         "short_name:be": "СТ «Рагачоўское Прыазер'е»",
         "short_name:ru": "СТ «Рогачёвское Приозерье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27154,7 +27041,7 @@ const Data =
         "short_name": "СТ \"Падрэчча\"",
         "short_name:be": "СТ \"Падрэчча\"",
         "short_name:ru": "СТ \"Подречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27181,7 +27068,7 @@ const Data =
         "short_name": "СТ \"Крылава-2012\"",
         "short_name:be": "СТ \"Крылава-2012\"",
         "short_name:ru": "СТ \"Крылово-2012\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27208,7 +27095,7 @@ const Data =
         "short_name": "СТ \"Дубок\" Лідскага раёна",
         "short_name:be": "СТ \"Дубок\" Лідскага раёна",
         "short_name:ru": "СТ \"Дубок\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-09",
         "ref:vatin": "BY500060442",
         "status": "orange"
@@ -27225,7 +27112,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -27252,7 +27139,7 @@ const Data =
         "short_name": "СТ \"Лясное-Рыбніца\"",
         "short_name:be": "СТ \"Лясное-Рыбніца\"",
         "short_name:ru": "СТ \"Лесное-Рыбница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27279,7 +27166,7 @@ const Data =
         "short_name": "СТ \"Хімік\"",
         "short_name:be": "СТ \"Хімік\"",
         "short_name:ru": "СТ \"Химик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27306,7 +27193,7 @@ const Data =
         "short_name": "СТ \"Хімік-2\"",
         "short_name:be": "СТ \"Хімік-2\"",
         "short_name:ru": "СТ \"Химик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27333,7 +27220,7 @@ const Data =
         "short_name": "СТ \"Дарʼюшка\"",
         "short_name:be": "СТ \"Дарʼюшка\"",
         "short_name:ru": "СТ \"Дарьюшка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27360,7 +27247,7 @@ const Data =
         "short_name": "СТ \"Энергетык-1989\"",
         "short_name:be": "СТ \"Энергетык-1989\"",
         "short_name:ru": "СТ \"Энергетик-1989\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27387,7 +27274,7 @@ const Data =
         "short_name": "СТ \"Віта-1\"",
         "short_name:be": "СТ \"Віта-1\"",
         "short_name:ru": "СТ \"Вита-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27414,7 +27301,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна\"",
         "short_name:be": "СТ \"Лясная паляна\"",
         "short_name:ru": "СТ \"Лесная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27441,7 +27328,7 @@ const Data =
         "short_name": "СТ \"Клубнічка\"",
         "short_name:be": "СТ \"Клубнічка\"",
         "short_name:ru": "СТ \"Клубничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27468,7 +27355,7 @@ const Data =
         "short_name": "СТ \"Светлячок\"",
         "short_name:be": "СТ \"Светлячок\"",
         "short_name:ru": "СТ \"Светлячок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27495,7 +27382,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27522,7 +27409,7 @@ const Data =
         "short_name": "СТ \"Белыя Росы\"",
         "short_name:be": "СТ \"Белыя Росы\"",
         "short_name:ru": "СТ \"Белые Росы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27549,7 +27436,7 @@ const Data =
         "short_name": "СТ \"Магнолія\"",
         "short_name:be": "СТ \"Магнолія\"",
         "short_name:ru": "СТ \"Магнолия\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27576,7 +27463,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27603,7 +27490,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27630,7 +27517,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік Лепельскага раёну\"",
         "short_name:be": "СТ \"Рамонтнік Лепельскага раёну\"",
         "short_name:ru": "СТ \"Ремонтник Лепельского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27657,7 +27544,7 @@ const Data =
         "short_name": "СТ \"Маставік\"",
         "short_name:be": "СТ \"Маставік\"",
         "short_name:ru": "СТ \"Мостовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27684,7 +27571,7 @@ const Data =
         "short_name": "СТ \"Палянка\"",
         "short_name:be": "СТ \"Палянка\"",
         "short_name:ru": "СТ \"Полянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27711,7 +27598,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27738,7 +27625,7 @@ const Data =
         "short_name": "СТ \"Транспартны Будаўнік\"",
         "short_name:be": "СТ \"Транспартны Будаўнік\"",
         "short_name:ru": "СТ \"Транспортный строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27765,7 +27652,7 @@ const Data =
         "short_name": "СТ \"Незабудка\"",
         "short_name:be": "СТ \"Незабудка\"",
         "short_name:ru": "СТ \"Незабудка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27792,7 +27679,7 @@ const Data =
         "short_name": "СТ \"Медык-82\"",
         "short_name:be": "СТ \"Медык-82\"",
         "short_name:ru": "СТ \"Медик-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -27819,7 +27706,7 @@ const Data =
         "short_name": "СТ \"Глядкоўскае\"",
         "short_name:be": "СТ \"Глядкоўскае\"",
         "short_name:ru": "СТ \"Глядковское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27846,7 +27733,7 @@ const Data =
         "short_name": "СТ \"Канструктар\"",
         "short_name:be": "СТ \"Канструктар\"",
         "short_name:ru": "СТ \"Конструктор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27861,7 +27748,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -27888,7 +27775,7 @@ const Data =
         "short_name": "СТ \"Усход-Корасцень\"",
         "short_name:be": "СТ \"Усход-Корасцень\"",
         "short_name:ru": "СТ \"Восход-Коростень\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27915,7 +27802,7 @@ const Data =
         "short_name": "СТ \"Сухары\"",
         "short_name:be": "СТ \"Сухары\"",
         "short_name:ru": "СТ \"Сухари\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27942,7 +27829,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Криница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -27957,7 +27844,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -27984,7 +27871,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28011,7 +27898,7 @@ const Data =
         "short_name": "СТ \"Дружба-2\"",
         "short_name:be": "СТ \"Дружба-2\"",
         "short_name:ru": "СТ \"Дружба-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28038,7 +27925,7 @@ const Data =
         "short_name": "СТ \"Заранка-плюс\"",
         "short_name:be": "СТ \"Заранка-плюс\"",
         "short_name:ru": "СТ \"Зарянка-плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28065,7 +27952,7 @@ const Data =
         "short_name": "СТ \"Лясное 5\"",
         "short_name:be": "СТ \"Лясное 5\"",
         "short_name:ru": "СТ \"Лесное 5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28092,7 +27979,7 @@ const Data =
         "short_name": "СТ \"Елачка-Шклоў\"",
         "short_name:be": "СТ \"Елачка-Шклоў\"",
         "short_name:ru": "СТ \"Елочка-Шклов\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28119,7 +28006,7 @@ const Data =
         "short_name": "СТ \"Цвыркава\"",
         "short_name:be": "СТ \"Цвыркава\"",
         "short_name:ru": "СТ \"Цвырково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28146,7 +28033,7 @@ const Data =
         "short_name": "СТ \"Магілёўдрэў-2014\"",
         "short_name:be": "СТ \"Магілёўдрэў-2014\"",
         "short_name:ru": "СТ \"Могилевдрев-2014\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28161,7 +28048,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -28188,7 +28075,7 @@ const Data =
         "short_name": "СТ «Садавод»",
         "short_name:be": "СТ «Садавод»",
         "short_name:ru": "СТ «Садовод»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28215,7 +28102,7 @@ const Data =
         "short_name": "СТ «Вышукальнік»",
         "short_name:be": "СТ «Вышукальнік»",
         "short_name:ru": "СТ «Вышукальник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28242,7 +28129,7 @@ const Data =
         "short_name": "СТ \"Памежнік\"",
         "short_name:be": "СТ \"Памежнік\"",
         "short_name:ru": "СТ \"Пограничник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28269,7 +28156,7 @@ const Data =
         "short_name": "СТ \"Зара-Каробчыцы\"",
         "short_name:be": "СТ \"Зара-Каробчыцы\"",
         "short_name:ru": "СТ \"Заря-Коробчицы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28296,7 +28183,7 @@ const Data =
         "short_name": "СТ \"Лебедзь\"",
         "short_name:be": "СТ \"Лебедзь\"",
         "short_name:ru": "СТ \"Лебедь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28323,7 +28210,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28350,7 +28237,7 @@ const Data =
         "short_name": "СТ \"Перамога-Каробчыцы\"",
         "short_name:be": "СТ \"Перамога-Каробчыцы\"",
         "short_name:ru": "СТ \"Победа-Коробчицы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28377,7 +28264,7 @@ const Data =
         "short_name": "СТ \"Цішыня-Каробчыцы\"",
         "short_name:be": "СТ \"Цішыня-Каробчыцы\"",
         "short_name:ru": "СТ \"Тишина-Коробчицы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28404,7 +28291,7 @@ const Data =
         "short_name": "СТ \"Зара-Каробчыцы\"",
         "short_name:be": "СТ \"Зара-Каробчыцы\"",
         "short_name:ru": "СТ \"Заря-Коробчицы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28431,7 +28318,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28458,7 +28345,7 @@ const Data =
         "short_name": "СТ \"Дубок\"",
         "short_name:be": "СТ \"Дубок\"",
         "short_name:ru": "СТ \"Дубок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28485,7 +28372,7 @@ const Data =
         "short_name": "СТ \"Золак-2008\"",
         "short_name:be": "СТ \"Золак-2008\"",
         "short_name:ru": "СТ \"Заря-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28512,7 +28399,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28527,7 +28414,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -28542,7 +28429,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -28569,7 +28456,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28596,7 +28483,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28623,7 +28510,7 @@ const Data =
         "short_name": "СТ \"Выпрабавальнік\"",
         "short_name:be": "СТ \"Выпрабавальнік\"",
         "short_name:ru": "СТ \"Испытатель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28650,7 +28537,7 @@ const Data =
         "short_name": "СТ \"Вікторыя\"",
         "short_name:be": "СТ \"Вікторыя\"",
         "short_name:ru": "СТ \"Виктория\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28665,7 +28552,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -28680,7 +28567,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -28695,7 +28582,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -28722,7 +28609,7 @@ const Data =
         "short_name": "СТ \"Энергетык 3\"",
         "short_name:be": "СТ \"Энергетык 3\"",
         "short_name:ru": "СТ \"Энергетик 3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28749,7 +28636,7 @@ const Data =
         "short_name": "СТ \"Сасновы\"",
         "short_name:be": "СТ \"Сасновы\"",
         "short_name:ru": "СТ \"Сосновый\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28776,7 +28663,7 @@ const Data =
         "short_name": "СТ \"Навука 2\"",
         "short_name:be": "СТ \"Навука 2\"",
         "short_name:ru": "СТ \"Наука 2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28803,7 +28690,7 @@ const Data =
         "short_name": "СТ «Надзея»",
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ «Надежда»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28830,7 +28717,7 @@ const Data =
         "short_name": "СТ «Пенсіянер»",
         "short_name:be": "СТ «Пенсіянер»",
         "short_name:ru": "СТ «Пенсионер»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28857,7 +28744,7 @@ const Data =
         "short_name": "СТ \"Паліграфіст\"",
         "short_name:be": "СТ \"Паліграфіст\"",
         "short_name:ru": "СТ \"Полиграфист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28884,7 +28771,7 @@ const Data =
         "short_name": "СТ \"Аўтасэрвіс\"",
         "short_name:be": "СТ \"Аўтасэрвіс\"",
         "short_name:ru": "СТ \"Автосервис\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28911,7 +28798,7 @@ const Data =
         "short_name": "СТ \"Прыгажосць\"",
         "short_name:be": "СТ \"Прыгажосць\"",
         "short_name:ru": "СТ \"Прыгажосць\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28938,7 +28825,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28965,7 +28852,7 @@ const Data =
         "short_name": "СТ \"Артыст\"",
         "short_name:be": "СТ \"Артыст\"",
         "short_name:ru": "СТ \"Артист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -28992,7 +28879,7 @@ const Data =
         "short_name": "СТ \"Сістэма\"",
         "short_name:be": "СТ \"Сістэма\"",
         "short_name:ru": "СТ \"Система\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29019,7 +28906,7 @@ const Data =
         "short_name": "СТ \"Фартуна\"",
         "short_name:be": "СТ \"Фартуна\"",
         "short_name:ru": "СТ \"Фортуна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29046,7 +28933,7 @@ const Data =
         "short_name": "СТ \"Малінаўка\"",
         "short_name:be": "СТ \"Малінаўка\"",
         "short_name:ru": "СТ \"Малиновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29073,7 +28960,7 @@ const Data =
         "short_name": "СТ \"Зарніца-5\"",
         "short_name:be": "СТ \"Зарніца-5\"",
         "short_name:ru": "СТ \"Зарница-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29100,7 +28987,7 @@ const Data =
         "short_name": "СТ \"Сосны-2\"",
         "short_name:be": "СТ \"Сосны-2\"",
         "short_name:ru": "СТ \"Сосны-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29127,7 +29014,7 @@ const Data =
         "short_name": "СТ \"Сосны-3\"",
         "short_name:be": "СТ \"Сосны-3\"",
         "short_name:ru": "СТ \"Сосны-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "plots": "20",
         "status": "blue"
       }
@@ -29155,7 +29042,7 @@ const Data =
         "short_name": "СТ \"Эвярэст-Лойкі\"",
         "short_name:be": "СТ \"Эвярэст-Лойкі\"",
         "short_name:ru": "СТ \"Эверест-Лойки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29182,7 +29069,7 @@ const Data =
         "short_name": "СТ \"Сузорʼе\"",
         "short_name:be": "СТ \"Сузорʼе\"",
         "short_name:ru": "СТ \"Сузорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29209,7 +29096,7 @@ const Data =
         "short_name": "СТ \"Халмістае\"",
         "short_name:be": "СТ \"Халмістае\"",
         "short_name:ru": "СТ \"Холмистое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29236,7 +29123,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29263,7 +29150,7 @@ const Data =
         "short_name": "СТ \"Церуха\"",
         "short_name:be": "СТ \"Церуха\"",
         "short_name:ru": "СТ \"Терюха\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29290,7 +29177,7 @@ const Data =
         "short_name": "СТ \"Геолаг-1992\"",
         "short_name:be": "СТ \"Геолаг-1992\"",
         "short_name:ru": "СТ \"Геолог-1992\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29317,7 +29204,7 @@ const Data =
         "short_name": "СТ \"Аўтазаводзец\"",
         "short_name:be": "СТ \"Аўтазаводзец\"",
         "short_name:ru": "СТ \"Автозаводец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29344,7 +29231,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29371,7 +29258,7 @@ const Data =
         "short_name": "СТ \"Каласок\"",
         "short_name:be": "СТ \"Каласок\"",
         "short_name:ru": "СТ \"Каласок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29398,7 +29285,7 @@ const Data =
         "short_name": "СТ \"Шчара\"",
         "short_name:be": "СТ \"Шчара\"",
         "short_name:ru": "СТ \"Щара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29413,7 +29300,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -29440,7 +29327,7 @@ const Data =
         "short_name": "СТ \"Будаўнікі\"",
         "short_name:be": "СТ \"Будаўнікі\"",
         "short_name:ru": "СТ \"Строители\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29456,7 +29343,7 @@ const Data =
       },
       "properties": {
         "name": "Минута",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -29483,7 +29370,7 @@ const Data =
         "short_name": "СТ \"Янкава\"",
         "short_name:be": "СТ \"Янкава\"",
         "short_name:ru": "СТ \"Янкова\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29510,7 +29397,7 @@ const Data =
         "short_name": "СТ \"Залаты корань\"",
         "short_name:be": "СТ \"Залаты корань\"",
         "short_name:ru": "СТ \"Золотой корень\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29537,7 +29424,7 @@ const Data =
         "short_name": "СТ \"Маналіт-92\"",
         "short_name:be": "СТ \"Маналіт-92\"",
         "short_name:ru": "СТ \"Монолит-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29564,7 +29451,7 @@ const Data =
         "short_name": "СТ \"Астравок-Кукалі\"",
         "short_name:be": "СТ \"Астравок-Кукалі\"",
         "short_name:ru": "СТ \"Островок-Куколи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29591,7 +29478,7 @@ const Data =
         "short_name": "СТ \"Палёт-2002\"",
         "short_name:be": "СТ \"Палёт-2002\"",
         "short_name:ru": "СТ \"Полёт-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29618,7 +29505,7 @@ const Data =
         "short_name": "СТ \"МПМК-5 Малютка\"",
         "short_name:be": "СТ \"МПМК-5 Малютка\"",
         "short_name:ru": "СТ \"МПМК-5 Малютка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29645,7 +29532,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29672,7 +29559,7 @@ const Data =
         "short_name": "СТ \"Факел\"",
         "short_name:be": "СТ \"Факел\"",
         "short_name:ru": "СТ \"Факел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29699,7 +29586,7 @@ const Data =
         "short_name": "СТ \"Ландыш\"",
         "short_name:be": "СТ \"Ландыш\"",
         "short_name:ru": "СТ \"Ландыш\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29726,7 +29613,7 @@ const Data =
         "short_name": "СТ \"Ландыш\"",
         "short_name:be": "СТ \"Ландыш\"",
         "short_name:ru": "СТ \"Ландыш\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29753,7 +29640,7 @@ const Data =
         "short_name": "СТ \"Гудок-80\"",
         "short_name:be": "СТ \"Гудок-80\"",
         "short_name:ru": "СТ \"Гудок-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29780,7 +29667,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29807,7 +29694,7 @@ const Data =
         "short_name": "СТ \"Антаніна\"",
         "short_name:be": "СТ \"Антаніна\"",
         "short_name:ru": "СТ \"Антонина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29834,7 +29721,7 @@ const Data =
         "short_name": "СТ \"Віёла\"",
         "short_name:be": "СТ \"Віёла\"",
         "short_name:ru": "СТ \"Виола\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29861,7 +29748,7 @@ const Data =
         "short_name": "СТ \"Зялёны Сад\"",
         "short_name:be": "СТ \"Зялёны Сад\"",
         "short_name:ru": "СТ \"Зелёный Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29888,7 +29775,7 @@ const Data =
         "short_name": "СТ \"Верагі\"",
         "short_name:be": "СТ \"Верагі\"",
         "short_name:ru": "СТ \"Веряги\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29915,7 +29802,7 @@ const Data =
         "short_name": "СТ \"Вяснянка-Новікі\"",
         "short_name:be": "СТ \"Вяснянка-Новікі\"",
         "short_name:ru": "СТ \"Веснянка-Новики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29942,7 +29829,7 @@ const Data =
         "short_name": "СТ \"Шухвасты\"",
         "short_name:be": "СТ \"Шухвасты\"",
         "short_name:ru": "СТ \"Шухвосты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29969,7 +29856,7 @@ const Data =
         "short_name": "СТ \"Захацінава\"",
         "short_name:be": "СТ \"Захацінава\"",
         "short_name:ru": "СТ \"Захотиново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -29996,7 +29883,7 @@ const Data =
         "short_name": "СТ \"Верас\"",
         "short_name:be": "СТ \"Верас\"",
         "short_name:ru": "СТ \"Верас\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30023,7 +29910,7 @@ const Data =
         "short_name": "СТ \"Мерыдыян\"",
         "short_name:be": "СТ \"Мерыдыян\"",
         "short_name:ru": "СТ \"Меридиан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30050,7 +29937,7 @@ const Data =
         "short_name": "СТ \"Сустрэча\"",
         "short_name:be": "СТ \"Сустрэча\"",
         "short_name:ru": "СТ \"Встреча\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30077,7 +29964,7 @@ const Data =
         "short_name": "СТ \"Рамантыка\"",
         "short_name:be": "СТ \"Рамантыка\"",
         "short_name:ru": "СТ \"Романтика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30104,7 +29991,7 @@ const Data =
         "short_name": "СТ «Крынічанка»",
         "short_name:be": "СТ «Крынічанка»",
         "short_name:ru": "СТ «Криничанка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30131,7 +30018,7 @@ const Data =
         "short_name": "СТ «Баравінка»",
         "short_name:be": "СТ «Баравінка»",
         "short_name:ru": "СТ «Боровинка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30158,7 +30045,7 @@ const Data =
         "short_name": "СТ \"Камунальнік\"",
         "short_name:be": "СТ \"Камунальнік\"",
         "short_name:ru": "СТ \"Коммунальник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30185,7 +30072,7 @@ const Data =
         "short_name": "СТ «Дубраўка-2016»",
         "short_name:be": "СТ «Дубраўка-2016»",
         "short_name:ru": "СТ «Дубравка-2016»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30212,7 +30099,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык-Жукевічы\"",
         "short_name:be": "СТ \"Тэкстыльшчык-Жукевічы\"",
         "short_name:ru": "СТ \"Текстильщик-Жукевичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30239,7 +30126,7 @@ const Data =
         "short_name": "СТ \"Скурнік-Жукевічы\"",
         "short_name:be": "СТ \"Скурнік-Жукевічы\"",
         "short_name:ru": "СТ \"Кожевник-Жукевичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30266,7 +30153,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30293,7 +30180,7 @@ const Data =
         "short_name": "СТ \"Светнік\"",
         "short_name:be": "СТ \"Светнік\"",
         "short_name:ru": "СТ \"Горицвет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30320,7 +30207,7 @@ const Data =
         "short_name": "СТ \"Жалезнякі-1\"",
         "short_name:be": "СТ \"Жалезнякі-1\"",
         "short_name:ru": "СТ \"Железняки-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30347,7 +30234,7 @@ const Data =
         "short_name": "СТ \"Ветэран Вайны\"",
         "short_name:be": "СТ \"Ветэран Вайны\"",
         "short_name:ru": "СТ \"Ветеран Войны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30374,7 +30261,7 @@ const Data =
         "short_name": "СТ \"Аэрафлот\"",
         "short_name:be": "СТ \"Аэрафлот\"",
         "short_name:ru": "СТ \"Аэрофлот\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30401,7 +30288,7 @@ const Data =
         "short_name": "СТ \"Цыбулька\"",
         "short_name:be": "СТ \"Цыбулька\"",
         "short_name:ru": "СТ \"Цыбулька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30428,7 +30315,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30455,7 +30342,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30482,7 +30369,7 @@ const Data =
         "short_name": "СТ \"Цюльпан\"",
         "short_name:be": "СТ \"Цюльпан\"",
         "short_name:ru": "СТ \"Тюльпан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30509,7 +30396,7 @@ const Data =
         "short_name": "СТ \"Пціч-Пегасава\"",
         "short_name:be": "СТ \"Пціч-Пегасава\"",
         "short_name:ru": "СТ \"Птичь-Пегасово\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30536,7 +30423,7 @@ const Data =
         "short_name": "СТ \"Жывіца\"",
         "short_name:be": "СТ \"Жывіца\"",
         "short_name:ru": "СТ \"Живица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30563,7 +30450,7 @@ const Data =
         "short_name": "СТ \"Краснае-2\"",
         "short_name:be": "СТ \"Краснае-2\"",
         "short_name:ru": "СТ \"Красное-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30590,7 +30477,7 @@ const Data =
         "short_name": "СТ \"Сонечная Паляна\"",
         "short_name:be": "СТ \"Сонечная Паляна\"",
         "short_name:ru": "СТ \"Солнечная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30617,7 +30504,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30644,7 +30531,7 @@ const Data =
         "short_name": "СТ \"Глядкоўскае\"",
         "short_name:be": "СТ \"Глядкоўскае\"",
         "short_name:ru": "СТ \"Глядковское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30671,7 +30558,7 @@ const Data =
         "short_name": "СТ \"Эканаміст-3\"",
         "short_name:be": "СТ \"Эканаміст-3\"",
         "short_name:ru": "СТ \"Экономист-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30698,7 +30585,7 @@ const Data =
         "short_name": "СТ \"Дружнае-Прывалкі\"",
         "short_name:be": "СТ \"Дружнае-Прывалкі\"",
         "short_name:ru": "СТ \"Дружное-Привалки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30725,7 +30612,7 @@ const Data =
         "short_name": "СТ \"Вярба\"",
         "short_name:be": "СТ \"Вярба\"",
         "short_name:ru": "СТ \"Верба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30752,7 +30639,7 @@ const Data =
         "short_name": "СТ \"Маяк-БелдарНДІ\"",
         "short_name:be": "СТ \"Маяк-БелдарНДІ\"",
         "short_name:ru": "СТ \"Маяк-БелдорНИИ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30779,7 +30666,7 @@ const Data =
         "short_name": "СТ \"Кааператар\"",
         "short_name:be": "СТ \"Кааператар\"",
         "short_name:ru": "СТ \"Кооператор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30806,7 +30693,7 @@ const Data =
         "short_name": "СТ \"Палёт\"",
         "short_name:be": "СТ \"Палёт\"",
         "short_name:ru": "СТ \"Полет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30833,7 +30720,7 @@ const Data =
         "short_name": "СТ \"Грыбок 2017\"",
         "short_name:be": "СТ \"Грыбок 2017\"",
         "short_name:ru": "СТ \"Грибок 2017\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30860,7 +30747,7 @@ const Data =
         "short_name": "СТ \"Грыбок 2017\"",
         "short_name:be": "СТ \"Грыбок 2017\"",
         "short_name:ru": "СТ \"Грибок 2017\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30887,7 +30774,7 @@ const Data =
         "short_name": "СТ \"Энергетык-4\"",
         "short_name:be": "СТ \"Энергетык-4\"",
         "short_name:ru": "СТ \"Энергетик-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30914,7 +30801,7 @@ const Data =
         "short_name": "СТ \"Забудоўнік\"",
         "short_name:be": "СТ \"Забудоўнік\"",
         "short_name:ru": "СТ \"Застройщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30941,7 +30828,7 @@ const Data =
         "short_name": "СТ \"Сонейка\"",
         "short_name:be": "СТ \"Сонейка\"",
         "short_name:ru": "СТ \"Солнышко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30968,7 +30855,7 @@ const Data =
         "short_name": "СТ \"Піянер\"",
         "short_name:be": "СТ \"Піянер\"",
         "short_name:ru": "СТ \"Пионер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -30995,7 +30882,7 @@ const Data =
         "short_name": "СТ \"Сігнал-Тарусічы\"",
         "short_name:be": "СТ \"Сігнал-Тарусічы\"",
         "short_name:ru": "СТ \"Сигнал-Тарусичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31022,7 +30909,7 @@ const Data =
         "short_name": "СТ \"Піражок\"",
         "short_name:be": "СТ \"Піражок\"",
         "short_name:ru": "СТ \"Пирожок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31049,7 +30936,7 @@ const Data =
         "short_name": "СТ \"Сасновая Балка\"",
         "short_name:be": "СТ \"Сасновая Балка\"",
         "short_name:ru": "СТ \"Сосновая Балка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31076,7 +30963,7 @@ const Data =
         "short_name": "СТ \"Новікі-2\"",
         "short_name:be": "СТ \"Новікі-2\"",
         "short_name:ru": "СТ \"Новики-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31103,7 +30990,7 @@ const Data =
         "short_name": "СТ \"Сасновая Балка-3\"",
         "short_name:be": "СТ \"Сасновая Балка-3\"",
         "short_name:ru": "СТ \"Сосновая Балка-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31130,7 +31017,7 @@ const Data =
         "short_name": "СТ \"Кронан\"",
         "short_name:be": "СТ \"Кронан\"",
         "short_name:ru": "СТ \"Кронон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31157,7 +31044,7 @@ const Data =
         "short_name": "СТ \"Сатурн Зялёны\"",
         "short_name:be": "СТ \"Сатурн Зялёны\"",
         "short_name:ru": "СТ \"Сатурн Зелёный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31184,7 +31071,7 @@ const Data =
         "short_name": "СТ \"Сасновая Балка-1\"",
         "short_name:be": "СТ \"Сасновая Балка-1\"",
         "short_name:ru": "СТ \"Сосновая Балка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31211,7 +31098,7 @@ const Data =
         "short_name": "СТ \"Новікі\"",
         "short_name:be": "СТ \"Новікі\"",
         "short_name:ru": "СТ \"Новики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31238,7 +31125,7 @@ const Data =
         "short_name": "СТ \"Забудоўнік\"",
         "short_name:be": "СТ \"Забудоўнік\"",
         "short_name:ru": "СТ \"Застройщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31265,7 +31152,7 @@ const Data =
         "short_name": "СТ \"Выток ГМЦ\"",
         "short_name:be": "СТ \"Выток ГМЦ\"",
         "short_name:ru": "СТ \"Выток ГМЦ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31292,7 +31179,7 @@ const Data =
         "short_name": "СТ \"Купалінка-34\"",
         "short_name:be": "СТ \"Купалінка-34\"",
         "short_name:ru": "СТ \"Купалинка-34\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31319,7 +31206,7 @@ const Data =
         "short_name": "СТ \"Спутнік-83\"",
         "short_name:be": "СТ \"Спутнік-83\"",
         "short_name:ru": "СТ \"Спутник-83\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31346,7 +31233,7 @@ const Data =
         "short_name": "СТ \"Нарцыс Магілёўскага раёна\"",
         "short_name:be": "СТ \"Нарцыс Магілёўскага раёна\"",
         "short_name:ru": "СТ \"Нарцисс Могилевского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31373,7 +31260,7 @@ const Data =
         "short_name": "СТ \"Аршыца\"",
         "short_name:be": "СТ \"Аршыца\"",
         "short_name:ru": "СТ \"Оршица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31400,7 +31287,7 @@ const Data =
         "short_name": "СТ «Беразіна»",
         "short_name:be": "СТ «Беразіна»",
         "short_name:ru": "СТ «Березина»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31427,7 +31314,7 @@ const Data =
         "short_name": "СТ «Беразіна»",
         "short_name:be": "СТ «Беразіна»",
         "short_name:ru": "СТ «Березина»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31454,7 +31341,7 @@ const Data =
         "short_name": "СТ «Беразіна»",
         "short_name:be": "СТ «Беразіна»",
         "short_name:ru": "СТ «Березина»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31481,7 +31368,7 @@ const Data =
         "short_name": "СТ \"Няктар\"",
         "short_name:be": "СТ \"Няктар\"",
         "short_name:ru": "СТ \"Нектар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31508,7 +31395,7 @@ const Data =
         "short_name": "СТ \"Пралеска-1\"",
         "short_name:be": "СТ \"Пралеска-1\"",
         "short_name:ru": "СТ \"Пралеска-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31535,7 +31422,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Рамонак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31562,7 +31449,7 @@ const Data =
         "short_name": "СТ \"Чайка-89\"",
         "short_name:be": "СТ \"Чайка-89\"",
         "short_name:ru": "СТ \"Чайка-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31589,7 +31476,7 @@ const Data =
         "short_name": "СТ \"Плёсы-2\"",
         "short_name:be": "СТ \"Плёсы-2\"",
         "short_name:ru": "СТ \"Плёсы-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31616,7 +31503,7 @@ const Data =
         "short_name": "СТ \"НОД-4 Сож Плёсы-1\"",
         "short_name:be": "СТ \"НОД-4 Сож Плёсы-1\"",
         "short_name:ru": "СТ \"НОД-4 Сож Плёсы-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31643,7 +31530,7 @@ const Data =
         "short_name": "СТ \"Наладчык-2\"",
         "short_name:be": "СТ \"Наладчык-2\"",
         "short_name:ru": "СТ \"Наладчик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31670,7 +31557,7 @@ const Data =
         "short_name": "СТ \"Плёсы\"",
         "short_name:be": "СТ \"Плёсы\"",
         "short_name:ru": "СТ \"Плёсы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31697,7 +31584,7 @@ const Data =
         "short_name": "СТ \"Жамчужная Паляна\"",
         "short_name:be": "СТ \"Жамчужная Паляна\"",
         "short_name:ru": "СТ \"Жемчужная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31724,7 +31611,7 @@ const Data =
         "short_name": "СТ \"Любамір-Сад\"",
         "short_name:be": "СТ \"Любамір-Сад\"",
         "short_name:ru": "СТ \"Любомир-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31739,7 +31626,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -31766,7 +31653,7 @@ const Data =
         "short_name": "СТ \"Лісічкі\"",
         "short_name:be": "СТ \"Лісічкі\"",
         "short_name:ru": "СТ \"Лисички\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31793,7 +31680,7 @@ const Data =
         "short_name": "СТ \"Лісічкі\"",
         "short_name:be": "СТ \"Лісічкі\"",
         "short_name:ru": "СТ \"Лисички\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31820,7 +31707,7 @@ const Data =
         "short_name": "СТ \"Зорачка-2008\"",
         "short_name:be": "СТ \"Зорачка-2008\"",
         "short_name:ru": "СТ \"Звездочка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31847,7 +31734,7 @@ const Data =
         "short_name": "СТ \"Усмешка-1\"",
         "short_name:be": "СТ \"Усмешка-1\"",
         "short_name:ru": "СТ \"Улыбка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31874,7 +31761,7 @@ const Data =
         "short_name": "СТ \"Каліна-1\"",
         "short_name:be": "СТ \"Каліна-1\"",
         "short_name:ru": "СТ \"Калина-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31901,7 +31788,7 @@ const Data =
         "short_name": "СТ \"Паляна-2\"",
         "short_name:be": "СТ \"Паляна-2\"",
         "short_name:ru": "СТ \"Поляна-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31928,7 +31815,7 @@ const Data =
         "short_name": "СТ \"Бярозы\"",
         "short_name:be": "СТ \"Бярозы\"",
         "short_name:ru": "СТ \"Берёзы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31955,7 +31842,7 @@ const Data =
         "short_name": "СТ \"Лесавод-Чэхаўшчызна\"",
         "short_name:be": "СТ \"Лесавод-Чэхаўшчызна\"",
         "short_name:ru": "СТ \"Лесовод-Чеховщизна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -31982,7 +31869,7 @@ const Data =
         "short_name": "СТ \"На Пцічы\"",
         "short_name:be": "СТ \"На Пцічы\"",
         "short_name:ru": "СТ \"На Птичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32009,7 +31896,7 @@ const Data =
         "short_name": "СТ \"Журавінка-2\"",
         "short_name:be": "СТ \"Журавінка-2\"",
         "short_name:ru": "СТ \"Журавинка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32024,7 +31911,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -32051,7 +31938,7 @@ const Data =
         "short_name": "СТ \"Бярозка-3\"",
         "short_name:be": "СТ \"Бярозка-3\"",
         "short_name:ru": "СТ \"Берёзка-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32078,7 +31965,7 @@ const Data =
         "short_name": "СТ \"Бярозка-3\"",
         "short_name:be": "СТ \"Бярозка-3\"",
         "short_name:ru": "СТ \"Берёзка-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32105,7 +31992,7 @@ const Data =
         "short_name": "СТ \"Арыён\"",
         "short_name:be": "СТ \"Арыён\"",
         "short_name:ru": "СТ \"Орион\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32132,7 +32019,7 @@ const Data =
         "short_name": "СТ \"Выток\"",
         "short_name:be": "СТ \"Выток\"",
         "short_name:ru": "СТ \"Исток\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32159,7 +32046,7 @@ const Data =
         "short_name": "СТ \"Рэчанька\"",
         "short_name:be": "СТ \"Рэчанька\"",
         "short_name:ru": "СТ \"Рэчанька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32186,7 +32073,7 @@ const Data =
         "short_name": "СТ \"Наладчык\"",
         "short_name:be": "СТ \"Наладчык\"",
         "short_name:ru": "СТ \"Наладчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32213,7 +32100,7 @@ const Data =
         "short_name": "СТ \"Шукацель-Зарачанка\"",
         "short_name:be": "СТ \"Шукацель-Зарачанка\"",
         "short_name:ru": "СТ \"Искатель-Заречанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32240,7 +32127,7 @@ const Data =
         "short_name": "СТ \"Лета\"",
         "short_name:be": "СТ \"Лета\"",
         "short_name:ru": "СТ \"Лето\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32267,7 +32154,7 @@ const Data =
         "short_name": "СТ \"Чарніца\"",
         "short_name:be": "СТ \"Чарніца\"",
         "short_name:ru": "СТ \"Черница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32294,7 +32181,7 @@ const Data =
         "short_name": "СТ \"Вішнёўка\"",
         "short_name:be": "СТ \"Вішнёўка\"",
         "short_name:ru": "СТ \"Вишнёвка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32321,7 +32208,7 @@ const Data =
         "short_name": "СТ \"Зялёны Гай\"",
         "short_name:be": "СТ \"Зялёны Гай\"",
         "short_name:ru": "СТ \"Зелёная Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32348,7 +32235,7 @@ const Data =
         "short_name": "СТ \"Прастор-2\"",
         "short_name:be": "СТ \"Прастор-2\"",
         "short_name:ru": "СТ \"Простор-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32375,7 +32262,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32402,7 +32289,7 @@ const Data =
         "short_name": "СТ \"50 год БССР\"",
         "short_name:be": "СТ \"50 год БССР\"",
         "short_name:ru": "СТ \"50 Лет БССР\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32429,7 +32316,7 @@ const Data =
         "short_name": "СТ \"Тэатральнае-Стрэльчыкі\"",
         "short_name:be": "СТ \"Тэатральнае-Стрэльчыкі\"",
         "short_name:ru": "СТ \"Театральное-Стрельчики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32456,7 +32343,7 @@ const Data =
         "short_name": "СТ \"Сунічка\"",
         "short_name:be": "СТ \"Сунічка\"",
         "short_name:ru": "СТ \"Суничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32483,7 +32370,7 @@ const Data =
         "short_name": "СТ \"Квітнеючая Яблынька\"",
         "short_name:be": "СТ \"Квітнеючая Яблынька\"",
         "short_name:ru": "СТ \"Цветущая Яблонька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32510,7 +32397,7 @@ const Data =
         "short_name": "СТ \"Дзяржынец\"",
         "short_name:be": "СТ \"Дзяржынец\"",
         "short_name:ru": "СТ \"Дзержинец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32525,7 +32412,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -32552,7 +32439,7 @@ const Data =
         "short_name": "СТ «Газаперапрацоўшчык»",
         "short_name:be": "СТ «Газаперапрацоўшчык»",
         "short_name:ru": "СТ «Газопереработчик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32579,7 +32466,7 @@ const Data =
         "short_name": "СТ \"Удачнае\"",
         "short_name:be": "СТ \"Удачнае\"",
         "short_name:ru": "СТ \"Удачное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32606,7 +32493,7 @@ const Data =
         "short_name": "СТ \"Раднічок-КЭТВ\"",
         "short_name:be": "СТ \"Раднічок-КЭТВ\"",
         "short_name:ru": "СТ \"Родничок-КЭТИ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32633,7 +32520,7 @@ const Data =
         "short_name": "СТ \"Марʼянава\"",
         "short_name:be": "СТ \"Марʼянава\"",
         "short_name:ru": "СТ \"Марьяново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32660,7 +32547,7 @@ const Data =
         "short_name": "СТ \"Колас-10\"",
         "short_name:be": "СТ \"Колас-10\"",
         "short_name:ru": "СТ \"Колос-10\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32687,7 +32574,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32714,7 +32601,7 @@ const Data =
         "short_name": "СТ \"Луч-3\"",
         "short_name:be": "СТ \"Луч-3\"",
         "short_name:ru": "СТ \"Луч-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32741,7 +32628,7 @@ const Data =
         "short_name": "СТ \"Флора-Сад\"",
         "short_name:be": "СТ \"Флора-Сад\"",
         "short_name:ru": "СТ \"Флора-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32768,7 +32655,7 @@ const Data =
         "short_name": "СТ «Усход»",
         "short_name:be": "СТ «Усход»",
         "short_name:ru": "СТ «Восход»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32795,7 +32682,7 @@ const Data =
         "short_name": "СТ \"Урэчча\"",
         "short_name:be": "СТ \"Урэчча\"",
         "short_name:ru": "СТ \"Уречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32822,7 +32709,7 @@ const Data =
         "short_name": "СТ \"Вітамін\"",
         "short_name:be": "СТ \"Вітамін\"",
         "short_name:ru": "СТ \"Витамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32849,7 +32736,7 @@ const Data =
         "short_name": "СТ \"Рачнік\"",
         "short_name:be": "СТ \"Рачнік\"",
         "short_name:ru": "СТ \"Речник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32876,7 +32763,7 @@ const Data =
         "short_name": "СТ \"Верас\"",
         "short_name:be": "СТ \"Верас\"",
         "short_name:ru": "СТ \"Верас\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32903,7 +32790,7 @@ const Data =
         "short_name": "СТ \"Энергетык-1\"",
         "short_name:be": "СТ \"Энергетык-1\"",
         "short_name:ru": "СТ \"Энергетик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32930,7 +32817,7 @@ const Data =
         "short_name": "СТ \"Праметэй\"",
         "short_name:be": "СТ \"Праметэй\"",
         "short_name:ru": "СТ \"Прометей\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32957,7 +32844,7 @@ const Data =
         "short_name": "СТ \"Яблынька\"",
         "short_name:be": "СТ \"Яблынька\"",
         "short_name:ru": "СТ \"Яблонька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -32984,7 +32871,7 @@ const Data =
         "short_name": "СТ \"Сувянір-90\"",
         "short_name:be": "СТ \"Сувянір-90\"",
         "short_name:ru": "СТ \"Сувенир-90\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33011,7 +32898,7 @@ const Data =
         "short_name": "СТ \"Пралеска-2\"",
         "short_name:be": "СТ \"Пралеска-2\"",
         "short_name:ru": "СТ \"Пралеска-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33038,7 +32925,7 @@ const Data =
         "short_name": "СТ \"Гандмаш-2\"",
         "short_name:be": "СТ \"Гандмаш-2\"",
         "short_name:ru": "СТ \"Торгмаш-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33065,7 +32952,7 @@ const Data =
         "short_name": "СТ \"Палітэхнік\"",
         "short_name:be": "СТ \"Палітэхнік\"",
         "short_name:ru": "СТ \"Политехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33092,7 +32979,7 @@ const Data =
         "short_name": "СТ \"Верас\"",
         "short_name:be": "СТ \"Верас\"",
         "short_name:ru": "СТ \"Верас\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -33119,7 +33006,7 @@ const Data =
         "short_name": "СТ \"806-ы кіламетр\"",
         "short_name:be": "СТ \"806-ы кіламетр\"",
         "short_name:ru": "СТ \"806-ой километр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33146,7 +33033,7 @@ const Data =
         "short_name": "СТ \"Грыбны Гай\"",
         "short_name:be": "СТ \"Грыбны Гай\"",
         "short_name:ru": "СТ \"Грибная Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33173,7 +33060,7 @@ const Data =
         "short_name": "СТ \"Сельскі будаўнік\"",
         "short_name:be": "СТ \"Сельскі будаўнік\"",
         "short_name:ru": "СТ \"Сельский Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33200,7 +33087,7 @@ const Data =
         "short_name": "СТ \"Прыазернае\"",
         "short_name:be": "СТ \"Прыазернае\"",
         "short_name:ru": "СТ \"Приозёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33227,7 +33114,7 @@ const Data =
         "short_name": "СТ \"Пальмінка\"",
         "short_name:be": "СТ \"Пальмінка\"",
         "short_name:ru": "СТ \"Пальминка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33254,7 +33141,7 @@ const Data =
         "short_name": "СТ \"Інтэрнацыяналіст\"",
         "short_name:be": "СТ \"Інтэрнацыяналіст\"",
         "short_name:ru": "СТ \"Интернационалист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33281,7 +33168,7 @@ const Data =
         "short_name": "СТ \"Кардыолаг\"",
         "short_name:be": "СТ \"Кардыолаг\"",
         "short_name:ru": "СТ \"Кардиолог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33308,7 +33195,7 @@ const Data =
         "short_name": "СТ \"Мэта\"",
         "short_name:be": "СТ \"Мэта\"",
         "short_name:ru": "СТ \"Цель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33335,7 +33222,7 @@ const Data =
         "short_name": "СТ \"Сузорʼе\"",
         "short_name:be": "СТ \"Сузорʼе\"",
         "short_name:ru": "СТ \"Сузорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33362,7 +33249,7 @@ const Data =
         "short_name": "СТ \"Трыкатаж\"",
         "short_name:be": "СТ \"Трыкатаж\"",
         "short_name:ru": "СТ \"Трикотаж\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33389,7 +33276,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33416,7 +33303,7 @@ const Data =
         "short_name": "СТ \"Адпачынак-1\"",
         "short_name:be": "СТ \"Адпачынак-1\"",
         "short_name:ru": "СТ \"Отдых-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33443,7 +33330,7 @@ const Data =
         "short_name": "СТ \"Вадалей-2010\"",
         "short_name:be": "СТ \"Вадалей-2010\"",
         "short_name:ru": "СТ \"Водолей-2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33470,7 +33357,7 @@ const Data =
         "short_name": "СТ \"Заря-81\"",
         "short_name:be": "СТ \"Зара-81\"",
         "short_name:ru": "СТ \"Заря-81\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -33497,7 +33384,7 @@ const Data =
         "short_name": "СТ \"Горнае\"",
         "short_name:be": "СТ \"Горнае\"",
         "short_name:ru": "СТ \"Горное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33512,7 +33399,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -33539,7 +33426,7 @@ const Data =
         "short_name": "СТ \"Тэлепашня\"",
         "short_name:be": "СТ \"Тэлепашня\"",
         "short_name:ru": "СТ \"Телепашня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33566,7 +33453,7 @@ const Data =
         "short_name": "СТ \"Беражаны\"",
         "short_name:be": "СТ \"Беражаны\"",
         "short_name:ru": "СТ \"Бережаны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33593,7 +33480,7 @@ const Data =
         "short_name": "СТ \"Энергетык-6\"",
         "short_name:be": "СТ \"Энергетык-6\"",
         "short_name:ru": "СТ \"Энергетик-6\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33620,7 +33507,7 @@ const Data =
         "short_name": "СТ \"Хутаране\"",
         "short_name:be": "СТ \"Хутаране\"",
         "short_name:ru": "СТ \"Хуторяне\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33647,7 +33534,7 @@ const Data =
         "short_name": "СТ «Зялёны Бераг»",
         "short_name:be": "СТ «Зялёны Бераг»",
         "short_name:ru": "СТ «Зелёный Берег»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33674,7 +33561,7 @@ const Data =
         "short_name": "СТ \"Скіток-3\"",
         "short_name:be": "СТ \"Скіток-3\"",
         "short_name:ru": "СТ \"Скиток-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33701,7 +33588,7 @@ const Data =
         "short_name": "СТ \"Скіток-1\"",
         "short_name:be": "СТ \"Скіток-1\"",
         "short_name:ru": "СТ \"Скиток-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33728,7 +33615,7 @@ const Data =
         "short_name": "СТ \"Рэчанька\"",
         "short_name:be": "СТ \"Рэчанька\"",
         "short_name:ru": "СТ \"Реченька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33755,7 +33642,7 @@ const Data =
         "short_name": "СТ \"Абутнік-Прамень\"",
         "short_name:be": "СТ \"Абутнік-Прамень\"",
         "short_name:ru": "СТ \"Обувщик-Луч\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33782,7 +33669,7 @@ const Data =
         "short_name": "СТ \"Сумскае\"",
         "short_name:be": "СТ \"Сумскае\"",
         "short_name:ru": "СТ \"Сумское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33809,7 +33696,7 @@ const Data =
         "short_name": "СТ \"Прагрэсіўны\"",
         "short_name:be": "СТ \"Прагрэсіўны\"",
         "short_name:ru": "СТ \"Прогрессивный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33836,7 +33723,7 @@ const Data =
         "short_name": "СТ \"Татарцы\"Лідскага раёна",
         "short_name:be": "СТ \"Татарцы\"Лідскага раёна",
         "short_name:ru": "СТ \"Татарцы\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-10-19",
         "ref:vatin": "BY500060733",
         "status": "orange"
@@ -33865,7 +33752,7 @@ const Data =
         "short_name": "СТ \"Лакафарба\" Лідскага раёна",
         "short_name:be": "СТ \"Лакафарба\" Лідскага раёна",
         "short_name:ru": "СТ \"Лакокраска\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-05-28",
         "ref:vatin": "BY500060335",
         "status": "orange"
@@ -33894,7 +33781,7 @@ const Data =
         "short_name": "СТ \"Пралеска-Грыўкі\"",
         "short_name:be": "СТ \"Пралеска-Грыўкі\"",
         "short_name:ru": "СТ \"Подснежник-Гривки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33921,7 +33808,7 @@ const Data =
         "short_name": "СТ \"Грыбкі\"",
         "short_name:be": "СТ \"Грыбкі\"",
         "short_name:ru": "СТ \"Грибки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33948,7 +33835,7 @@ const Data =
         "short_name": "СТ \"Ландыш\"",
         "short_name:be": "СТ \"Ландыш\"",
         "short_name:ru": "СТ \"Ландыш\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -33975,7 +33862,7 @@ const Data =
         "short_name": "СТ \"Малінаўка Гожа\"",
         "short_name:be": "СТ \"Малінаўка Гожа\"",
         "short_name:ru": "СТ \"Малиновка Гожа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34002,7 +33889,7 @@ const Data =
         "short_name": "СТ \"Факел-Горніца\"",
         "short_name:be": "СТ \"Факел-Горніца\"",
         "short_name:ru": "СТ \"Факел-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34029,7 +33916,7 @@ const Data =
         "short_name": "СТ \"Пагараны\"",
         "short_name:be": "СТ \"Пагараны\"",
         "short_name:ru": "СТ \"Погораны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34056,7 +33943,7 @@ const Data =
         "short_name": "СТ \"Планета\"",
         "short_name:be": "СТ \"Планета\"",
         "short_name:ru": "СТ \"Планета\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34083,7 +33970,7 @@ const Data =
         "short_name": "СТ \"Інтурыст\"",
         "short_name:be": "СТ \"Інтурыст\"",
         "short_name:ru": "СТ \"Интурист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34110,7 +33997,7 @@ const Data =
         "short_name": "СТ \"Смарагд\"",
         "short_name:be": "СТ \"Смарагд\"",
         "short_name:ru": "СТ \"Изумруд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34137,7 +34024,7 @@ const Data =
         "short_name": "СТ \"Каласок-Плюс\"",
         "short_name:be": "СТ \"Каласок-Плюс\"",
         "short_name:ru": "СТ \"Колосок-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34164,7 +34051,7 @@ const Data =
         "short_name": "СТ \"Вітамін\"",
         "short_name:be": "СТ \"Вітамін\"",
         "short_name:ru": "СТ \"Витамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34191,7 +34078,7 @@ const Data =
         "short_name": "СТ \"Каласок-2\"",
         "short_name:be": "СТ \"Каласок-2\"",
         "short_name:ru": "СТ \"Колосок-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34218,7 +34105,7 @@ const Data =
         "short_name": "СТ \"Праект-1\"",
         "short_name:be": "СТ \"Праект-1\"",
         "short_name:ru": "СТ \"Проект-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34245,7 +34132,7 @@ const Data =
         "short_name": "СТ \"Летні Адпачынак\"",
         "short_name:be": "СТ \"Летні Адпачынак\"",
         "short_name:ru": "СТ \"Летний Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34272,7 +34159,7 @@ const Data =
         "short_name": "СТ \"Каласнік\"",
         "short_name:be": "СТ \"Каласнік\"",
         "short_name:ru": "СТ \"Колосник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34290,7 +34177,7 @@ const Data =
         "name": "Дзвіна-91",
         "name:be": "Дзвіна-91",
         "name:ru": "Двина-91",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -34317,7 +34204,7 @@ const Data =
         "short_name": "СТ \"Прыгожае\"",
         "short_name:be": "СТ \"Прыгожае\"",
         "short_name:ru": "СТ \"Красивое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34344,7 +34231,7 @@ const Data =
         "short_name": "СТ \"Здароўе-67\"",
         "short_name:be": "СТ \"Здароўе-67\"",
         "short_name:ru": "СТ \"Здоровье-67\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34371,7 +34258,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34398,7 +34285,7 @@ const Data =
         "short_name": "СТ \"Лысая Гара\"",
         "short_name:be": "СТ \"Лысая Гара\"",
         "short_name:ru": "СТ \"Лысая Гора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34425,7 +34312,7 @@ const Data =
         "short_name": "СТ \"Машынабудаўнік\"",
         "short_name:be": "СТ \"Машынабудаўнік\"",
         "short_name:ru": "СТ \"Машиностроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34452,7 +34339,7 @@ const Data =
         "short_name": "СТ \"Мясцпрам\"",
         "short_name:be": "СТ \"Мясцпрам\"",
         "short_name:ru": "СТ \"Местпром\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34479,7 +34366,7 @@ const Data =
         "short_name": "СТ \"Верас\"",
         "short_name:be": "СТ \"Верас\"",
         "short_name:ru": "СТ \"Верас\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34506,7 +34393,7 @@ const Data =
         "short_name": "СТ \"Халмы-95\"",
         "short_name:be": "СТ \"Халмы-95\"",
         "short_name:ru": "СТ \"Холмы-95\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34533,7 +34420,7 @@ const Data =
         "short_name": "СТ \"Пралеска-2002\"",
         "short_name:be": "СТ \"Пралеска-2002\"",
         "short_name:ru": "СТ \"Пралеска-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34560,7 +34447,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Дэпо\"",
         "short_name:be": "СТ \"Журавінка-Дэпо\"",
         "short_name:ru": "СТ \"Журавинка-Депо\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34587,7 +34474,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Дэпо\"",
         "short_name:be": "СТ \"Журавінка-Дэпо\"",
         "short_name:ru": "СТ \"Журавинка-Депо\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34614,7 +34501,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Дэпо\"",
         "short_name:be": "СТ \"Журавінка-Дэпо\"",
         "short_name:ru": "СТ \"Журавинка-Депо\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34641,7 +34528,7 @@ const Data =
         "short_name": "СТ \"Факел-Трэці Век\"",
         "short_name:be": "СТ \"Факел-Трэці Век\"",
         "short_name:ru": "СТ \"Факел-Третий Век\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34668,7 +34555,7 @@ const Data =
         "short_name": "СТ \"Ясная Вясёлка\"",
         "short_name:be": "СТ \"Ясная Вясёлка\"",
         "short_name:ru": "СТ \"Ясная Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34695,7 +34582,7 @@ const Data =
         "short_name": "СТ \"Ганніны вочкі\"",
         "short_name:be": "СТ \"Ганніны вочкі\"",
         "short_name:ru": "СТ \"Анютины глазки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34722,7 +34609,7 @@ const Data =
         "short_name": "СТ \"Калезея\"",
         "short_name:be": "СТ \"Калезея\"",
         "short_name:ru": "СТ \"Калезея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34740,7 +34627,7 @@ const Data =
         "name": "Жалезабетоншчык 95",
         "name:be": "Жалезабетоншчык 95",
         "name:ru": "Железобетонщик 95",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -34767,7 +34654,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Криница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34794,7 +34681,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34821,7 +34708,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34848,7 +34735,7 @@ const Data =
         "short_name": "СТ \"Бастуны\" Лідскага раёна",
         "short_name:be": "СТ \"Бастуны\" Лідскага раёна",
         "short_name:ru": "СТ \"Бастуны\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1996-08-20",
         "ref:vatin": "BY591347629",
         "status": "orange"
@@ -34877,7 +34764,7 @@ const Data =
         "short_name": "СТ \"Праектыроўшчык\"",
         "short_name:be": "СТ \"Праектыроўшчык\"",
         "short_name:ru": "СТ \"Проектировщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34904,7 +34791,7 @@ const Data =
         "short_name": "СТ \"Хвойнае\"",
         "short_name:be": "СТ \"Хвойнае\"",
         "short_name:ru": "СТ \"Хвойное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34931,7 +34818,7 @@ const Data =
         "short_name": "СТ \"Радыётэхнік-94\"",
         "short_name:be": "СТ \"Радыётэхнік-94\"",
         "short_name:ru": "СТ \"Радиотехник-94\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34958,7 +34845,7 @@ const Data =
         "short_name": "СТ \"Прыгранічнае\"",
         "short_name:be": "СТ \"Прыгранічнае\"",
         "short_name:ru": "СТ \"Приграничное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -34985,7 +34872,7 @@ const Data =
         "short_name": "СТ \"Зорка-Тарусічы\"",
         "short_name:be": "СТ \"Зорка-Тарусічы\"",
         "short_name:ru": "СТ \"Зорька-Тарусичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35012,7 +34899,7 @@ const Data =
         "short_name": "СТ \"Лотас\"",
         "short_name:be": "СТ \"Лотас\"",
         "short_name:ru": "СТ \"Лотос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35039,7 +34926,7 @@ const Data =
         "short_name": "СТ \"Пуцеец\"",
         "short_name:be": "СТ \"Пуцеец\"",
         "short_name:ru": "СТ \"Путеец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35066,7 +34953,7 @@ const Data =
         "short_name": "СТ \"Канкурэнт-Каменка\"",
         "short_name:be": "СТ \"Канкурэнт-Каменка\"",
         "short_name:ru": "СТ \"Конкурент-Каменка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35093,7 +34980,7 @@ const Data =
         "short_name": "СТ \"Інструментальная Ніжні\"",
         "short_name:be": "СТ \"Інструментальная Ніжні\"",
         "short_name:ru": "СТ \"Инструментальная Нижний\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35120,7 +35007,7 @@ const Data =
         "short_name": "СТ \"Баравое\"",
         "short_name:be": "СТ \"Баравое\"",
         "short_name:ru": "СТ \"Боровое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35147,7 +35034,7 @@ const Data =
         "short_name": "СТ \"Далёкі востраў\"",
         "short_name:be": "СТ \"Далёкі востраў\"",
         "short_name:ru": "СТ \"Дальний остров\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35174,7 +35061,7 @@ const Data =
         "short_name": "СТ \"Дары Прыроды\"",
         "short_name:be": "СТ \"Дары Прыроды\"",
         "short_name:ru": "СТ \"Дары Природы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35201,7 +35088,7 @@ const Data =
         "short_name": "СТ \"Ударнік\"",
         "short_name:be": "СТ \"Ударнік\"",
         "short_name:ru": "СТ \"Ударник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35228,7 +35115,7 @@ const Data =
         "short_name": "СТ \"Раднікі-2\"",
         "short_name:be": "СТ \"Раднікі-2\"",
         "short_name:ru": "СТ \"Родники-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35255,7 +35142,7 @@ const Data =
         "short_name": "СТ \"Раднікі-1\"",
         "short_name:be": "СТ \"Раднікі-1\"",
         "short_name:ru": "СТ \"Родники-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35282,7 +35169,7 @@ const Data =
         "short_name": "СТ \"Верасок-80\"",
         "short_name:be": "СТ \"Верасок-80\"",
         "short_name:ru": "СТ \"Верасок-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35309,7 +35196,7 @@ const Data =
         "short_name": "СТ \"Авіятар-1\"",
         "short_name:be": "СТ \"Авіятар-1\"",
         "short_name:ru": "СТ \"Авиатор-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35336,7 +35223,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35363,7 +35250,7 @@ const Data =
         "short_name": "СТ \"Труд-2008\"",
         "short_name:be": "СТ \"Труд-2008\"",
         "short_name:ru": "СТ \"Труд-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35390,7 +35277,7 @@ const Data =
         "short_name": "СТ \"За Ураджай\"",
         "short_name:be": "СТ \"За Ураджай\"",
         "short_name:ru": "СТ \"За Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35417,7 +35304,7 @@ const Data =
         "short_name": "СТ \"Бярозавае\"",
         "short_name:be": "СТ \"Бярозавае\"",
         "short_name:ru": "СТ \"Берёзовое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35444,7 +35331,7 @@ const Data =
         "short_name": "СТ \"Раніца-3\"",
         "short_name:be": "СТ \"Раніца-3\"",
         "short_name:ru": "СТ \"Утро-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35471,7 +35358,7 @@ const Data =
         "short_name": "СТ \"Чахаўшчызна\"",
         "short_name:be": "СТ \"Чахаўшчызна\"",
         "short_name:ru": "СТ \"Чеховщизна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35489,7 +35376,7 @@ const Data =
         "name": "СТ \"Ясная Паляна\"",
         "name:be": "СТ \"Ясная Паляна\"",
         "name:ru": "СТ \"Ясная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -35516,7 +35403,7 @@ const Data =
         "short_name": "СТ \"Гідратэхнік\"",
         "short_name:be": "СТ \"Гідратэхнік\"",
         "short_name:ru": "СТ \"Гидротехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35543,7 +35430,7 @@ const Data =
         "short_name": "СТ \"Шкло\"",
         "short_name:be": "СТ \"Шкло\"",
         "short_name:ru": "СТ \"Шкло\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35570,7 +35457,7 @@ const Data =
         "short_name": "СТ \"Прастор\"",
         "short_name:be": "СТ \"Прастор\"",
         "short_name:ru": "СТ \"Простор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35597,7 +35484,7 @@ const Data =
         "short_name": "СТ \"Лясная Казка\"",
         "short_name:be": "СТ \"Лясная Казка\"",
         "short_name:ru": "СТ \"Лесная Сказка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35624,7 +35511,7 @@ const Data =
         "short_name": "СТ \"Зялёны Бор\"",
         "short_name:be": "СТ \"Зялёны Бор\"",
         "short_name:ru": "СТ \"Зелёный Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35651,7 +35538,7 @@ const Data =
         "short_name": "СТ \"Муравей\"",
         "short_name:be": "СТ \"Муравей\"",
         "short_name:ru": "СТ \"Муравей\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35678,7 +35565,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Копанькі\"",
         "short_name:be": "СТ \"Крыніца-Копанькі\"",
         "short_name:ru": "СТ \"Криница-Копаньки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35705,7 +35592,7 @@ const Data =
         "short_name": "СТ \"Умелец\"",
         "short_name:be": "СТ \"Умелец\"",
         "short_name:ru": "СТ \"Умелец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35732,7 +35619,7 @@ const Data =
         "short_name": "СТ \"Бэз-1\"",
         "short_name:be": "СТ \"Бэз-1\"",
         "short_name:ru": "СТ \"Сирень-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35759,7 +35646,7 @@ const Data =
         "short_name": "СТ \"Сялена\"",
         "short_name:be": "СТ \"Сялена\"",
         "short_name:ru": "СТ \"Селена\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35786,7 +35673,7 @@ const Data =
         "short_name": "СТ \"Чаравічкі-2\"",
         "short_name:be": "СТ \"Чаравічкі-2\"",
         "short_name:ru": "СТ \"Чаравички-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35813,7 +35700,7 @@ const Data =
         "short_name": "СТ \"Малінаўка\"",
         "short_name:be": "СТ \"Малінаўка\"",
         "short_name:ru": "СТ \"Малиновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35840,7 +35727,7 @@ const Data =
         "short_name": "СТ \"Гудок\"",
         "short_name:be": "СТ \"Гудок\"",
         "short_name:ru": "СТ \"Гудок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35867,7 +35754,7 @@ const Data =
         "short_name": "СТ \"Лужок\"",
         "short_name:be": "СТ \"Лужок\"",
         "short_name:ru": "СТ \"Лужок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35894,7 +35781,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі-3\"",
         "short_name:be": "СТ \"Чаромушкі-3\"",
         "short_name:ru": "СТ \"Черемушки-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35921,7 +35808,7 @@ const Data =
         "short_name": "СТ \"Каменная Горка\"",
         "short_name:be": "СТ \"Каменная Горка\"",
         "short_name:ru": "СТ \"Каменная Горка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35948,7 +35835,7 @@ const Data =
         "short_name": "СТ \"Сунічная Паляна\"",
         "short_name:be": "СТ \"Сунічная Паляна\"",
         "short_name:ru": "СТ \"Земляничная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35975,7 +35862,7 @@ const Data =
         "short_name": "СТ \"Металіст\"",
         "short_name:be": "СТ \"Металіст\"",
         "short_name:ru": "СТ \"Металлист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -35990,7 +35877,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -36017,7 +35904,7 @@ const Data =
         "short_name": "СТ \"Чырвоны Аганёк\"",
         "short_name:be": "СТ \"Чырвоны Аганёк\"",
         "short_name:ru": "СТ \"Красный Огонёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36044,7 +35931,7 @@ const Data =
         "short_name": "СТ \"Энтузіасты\"",
         "short_name:be": "СТ \"Энтузіасты\"",
         "short_name:ru": "СТ \"Энтузиасты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36071,7 +35958,7 @@ const Data =
         "short_name": "СТ \"Авіятар\"",
         "short_name:be": "СТ \"Авіятар\"",
         "short_name:ru": "СТ \"Авиатор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36098,7 +35985,7 @@ const Data =
         "short_name": "СТ \"Чарэшня\"",
         "short_name:be": "СТ \"Чарэшня\"",
         "short_name:ru": "СТ \"Черешня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36125,7 +36012,7 @@ const Data =
         "short_name": "СТ \"Лесавод-Чахаўшчызна\"",
         "short_name:be": "СТ \"Лесавод-Чахаўшчызна\"",
         "short_name:ru": "СТ \"Лесовод-Чеховщизна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36152,7 +36039,7 @@ const Data =
         "short_name": "СТ \"Магістраль-2\"",
         "short_name:be": "СТ \"Магістраль-2\"",
         "short_name:ru": "СТ \"Магистраль-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36179,7 +36066,7 @@ const Data =
         "short_name": "СТ \"Магістраль\"",
         "short_name:be": "СТ \"Магістраль\"",
         "short_name:ru": "СТ \"Магистраль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36206,7 +36093,7 @@ const Data =
         "short_name": "СТ \"Вішнеўка-Новікі\"",
         "short_name:be": "СТ \"Вішнеўка-Новікі\"",
         "short_name:ru": "СТ \"Вишневка-Новики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36233,7 +36120,7 @@ const Data =
         "short_name": "СТ \"Пятушкі-Новікі\"",
         "short_name:be": "СТ \"Пятушкі-Новікі\"",
         "short_name:ru": "СТ \"Петушки-Новики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36260,7 +36147,7 @@ const Data =
         "short_name": "СТ \"Шыпшына\"",
         "short_name:be": "СТ \"Шыпшына\"",
         "short_name:ru": "СТ \"Шиповник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36287,7 +36174,7 @@ const Data =
         "short_name": "СТ \"Мір\"",
         "short_name:be": "СТ \"Мір\"",
         "short_name:ru": "СТ \"Мир\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36314,7 +36201,7 @@ const Data =
         "short_name": "СТ \"Чыгуначнік-Крыжоўка\"",
         "short_name:be": "СТ \"Чыгуначнік-Крыжоўка\"",
         "short_name:ru": "СТ \"Железнодорожник-Крыжовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36341,7 +36228,7 @@ const Data =
         "short_name": "СТ \"Сафія\"",
         "short_name:be": "СТ \"Сафія\"",
         "short_name:ru": "СТ \"София\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -36368,7 +36255,7 @@ const Data =
         "short_name": "СТ \"Аграрнік\"",
         "short_name:be": "СТ \"Аграрнік\"",
         "short_name:ru": "СТ \"Аграрник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36395,7 +36282,7 @@ const Data =
         "short_name": "СТ \"Спадар\"",
         "short_name:be": "СТ \"Спадар\"",
         "short_name:ru": "СТ \"Спадар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36422,7 +36309,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Луцкаўляны\"",
         "short_name:be": "СТ \"Крыніца-Луцкаўляны\"",
         "short_name:ru": "СТ \"Крыница-Луцковляны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36449,7 +36336,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Луцкаўляны\"",
         "short_name:be": "СТ \"Крыніца-Луцкаўляны\"",
         "short_name:ru": "СТ \"Крыница-Луцковляны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36476,7 +36363,7 @@ const Data =
         "short_name": "СТ \"Яскевічы\"",
         "short_name:be": "СТ \"Яскевічы\"",
         "short_name:ru": "СТ \"Яскевичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36503,7 +36390,7 @@ const Data =
         "short_name": "СТ \"Белы Бераг - 1\"",
         "short_name:be": "СТ \"Белы Бераг - 1\"",
         "short_name:ru": "СТ \"Белый берег - 1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36530,7 +36417,7 @@ const Data =
         "short_name": "СТ \"Стары Замак\"",
         "short_name:be": "СТ \"Стары Замак\"",
         "short_name:ru": "СТ \"Старый Замок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36557,7 +36444,7 @@ const Data =
         "short_name": "СТ \"Салют-4\"",
         "short_name:be": "СТ \"Салют-4\"",
         "short_name:ru": "СТ \"Салют-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36584,7 +36471,7 @@ const Data =
         "short_name": "СТ \"Віта\"",
         "short_name:be": "СТ \"Віта\"",
         "short_name:ru": "СТ \"Вита\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36611,7 +36498,7 @@ const Data =
         "short_name": "СТ \"Путна\"",
         "short_name:be": "СТ \"Путна\"",
         "short_name:ru": "СТ \"Путно\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36638,7 +36525,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі-2\"",
         "short_name:be": "СТ \"Чаромушкі-2\"",
         "short_name:ru": "СТ \"Черемушки-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36665,7 +36552,7 @@ const Data =
         "short_name": "СТ \"Зямляне-Малое Дзямідкава\"",
         "short_name:be": "СТ \"Зямляне-Малое Дзямідкава\"",
         "short_name:ru": "СТ \"Земляне-М.Демидково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36692,7 +36579,7 @@ const Data =
         "short_name": "СТ \"Дружба-Будбытрамонт\"",
         "short_name:be": "СТ \"Дружба-Будбытрамонт\"",
         "short_name:ru": "СТ \"Дружба-Стройбытремонт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36719,7 +36606,7 @@ const Data =
         "short_name": "СТ \"Дзямідкава\"",
         "short_name:be": "СТ \"Дзямідкава\"",
         "short_name:ru": "СТ \"Демидково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36746,7 +36633,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Рамонак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36773,7 +36660,7 @@ const Data =
         "short_name": "СТ \"Чыстыя пруды\"",
         "short_name:be": "СТ \"Чыстыя пруды\"",
         "short_name:ru": "СТ \"Чистые Пруды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36800,7 +36687,7 @@ const Data =
         "short_name": "СТ \"Крушына\"",
         "short_name:be": "СТ \"Крушына\"",
         "short_name:ru": "СТ \"Крушина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36827,7 +36714,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пролеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36854,7 +36741,7 @@ const Data =
         "short_name": "СТ \"Верасы\"",
         "short_name:be": "СТ \"Верасы\"",
         "short_name:ru": "СТ \"Верасы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36881,7 +36768,7 @@ const Data =
         "short_name": "СТ \"Лаванда\"",
         "short_name:be": "СТ \"Лаванда\"",
         "short_name:ru": "СТ \"Лаванда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36908,7 +36795,7 @@ const Data =
         "short_name": "СТ \"Лазурнае\"",
         "short_name:be": "СТ \"Лазурнае\"",
         "short_name:ru": "СТ \"Лазурное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36935,7 +36822,7 @@ const Data =
         "short_name": "СТ \"Нарцыс\"",
         "short_name:be": "СТ \"Нарцыс\"",
         "short_name:ru": "СТ \"Нарцисс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36962,7 +36849,7 @@ const Data =
         "short_name": "СТ \"Праменьчык\"",
         "short_name:be": "СТ \"Праменьчык\"",
         "short_name:ru": "СТ \"Лучик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -36989,7 +36876,7 @@ const Data =
         "short_name": "СТ \"Гарант\"",
         "short_name:be": "СТ \"Гарант\"",
         "short_name:ru": "СТ \"Гарант\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37016,7 +36903,7 @@ const Data =
         "short_name": "СТ \"Гарант\"",
         "short_name:be": "СТ \"Гарант\"",
         "short_name:ru": "СТ \"Гарант\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37043,7 +36930,7 @@ const Data =
         "short_name": "СТ \"Лілея\"",
         "short_name:be": "СТ \"Лілея\"",
         "short_name:ru": "СТ \"Лилея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37070,7 +36957,7 @@ const Data =
         "short_name": "СТ \"Каласок-Грыўкі\"",
         "short_name:be": "СТ \"Каласок-Грыўкі\"",
         "short_name:ru": "СТ \"Колосок-Гривки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37097,7 +36984,7 @@ const Data =
         "short_name": "СТ \"Чырвоная Гваздзіка\"",
         "short_name:be": "СТ \"Чырвоная Гваздзіка\"",
         "short_name:ru": "СТ \"Красная Гвоздика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37124,7 +37011,7 @@ const Data =
         "short_name": "СТ \"Грыўкі\"",
         "short_name:be": "СТ \"Грыўкі\"",
         "short_name:ru": "СТ \"Гривки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37151,7 +37038,7 @@ const Data =
         "short_name": "СТ \"Грыўкі\"",
         "short_name:be": "СТ \"Грыўкі\"",
         "short_name:ru": "СТ \"Гривки-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37178,7 +37065,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37205,7 +37092,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37232,7 +37119,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37259,7 +37146,7 @@ const Data =
         "short_name": "СТ \"Ранет\"",
         "short_name:be": "СТ \"Ранет\"",
         "short_name:ru": "СТ \"Ранет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37286,7 +37173,7 @@ const Data =
         "short_name": "СТ \"Садавод\"",
         "short_name:be": "СТ \"Садавод\"",
         "short_name:ru": "СТ \"Садовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37313,7 +37200,7 @@ const Data =
         "short_name": "СТ \"Яблыня\"",
         "short_name:be": "СТ \"Яблыня\"",
         "short_name:ru": "СТ \"Яблоня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37340,7 +37227,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37367,7 +37254,7 @@ const Data =
         "short_name": "СТ \"Сцежка\"",
         "short_name:be": "СТ \"Сцежка\"",
         "short_name:ru": "СТ \"Тропинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37394,7 +37281,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37421,7 +37308,7 @@ const Data =
         "short_name": "СТ \"Зарэчча\"",
         "short_name:be": "СТ \"Зарэчча\"",
         "short_name:ru": "СТ \"Заречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37448,7 +37335,7 @@ const Data =
         "short_name": "СТ \"Пчолка\"",
         "short_name:be": "СТ \"Пчолка\"",
         "short_name:ru": "СТ \"Пчёлка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37475,7 +37362,7 @@ const Data =
         "short_name": "СТ \"Дынама-15\"",
         "short_name:be": "СТ \"Дынама-15\"",
         "short_name:ru": "СТ \"Динамо-15\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37502,7 +37389,7 @@ const Data =
         "short_name": "СТ \"Алімпійскае\"",
         "short_name:be": "СТ \"Алімпійскае\"",
         "short_name:ru": "СТ \"Олимпийское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37529,7 +37416,7 @@ const Data =
         "short_name": "СТ \"Світанак-82\"",
         "short_name:be": "СТ \"Світанак-82\"",
         "short_name:ru": "СТ \"Рассвет-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37556,7 +37443,7 @@ const Data =
         "short_name": "СТ \"Дружная Праца\"",
         "short_name:be": "СТ \"Дружная Праца\"",
         "short_name:ru": "СТ \"Дружный Труд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37583,7 +37470,7 @@ const Data =
         "short_name": "СТ \"Белыя Росы-Пагараны\"",
         "short_name:be": "СТ \"Белыя Росы-Пагараны\"",
         "short_name:ru": "СТ \"Белые Росы-Погораны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37610,7 +37497,7 @@ const Data =
         "short_name": "СТ \"Ніва-2\"",
         "short_name:be": "СТ \"Ніва-2\"",
         "short_name:ru": "СТ \"Нива-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37637,7 +37524,7 @@ const Data =
         "short_name": "СТ \"Энергетык-2\"",
         "short_name:be": "СТ \"Энергетык-2\"",
         "short_name:ru": "СТ \"Энергетик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37664,7 +37551,7 @@ const Data =
         "short_name": "СТ \"Машынабудаўнік-БелТАПАЗ\"",
         "short_name:be": "СТ \"Машынабудаўнік-БелТАПАЗ\"",
         "short_name:ru": "СТ \"Машиностроитель-БелТАПАЗ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37691,7 +37578,7 @@ const Data =
         "short_name": "СТ \"Жыллёвік\"",
         "short_name:be": "СТ \"Жыллёвік\"",
         "short_name:ru": "СТ \"Жилищник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37718,7 +37605,7 @@ const Data =
         "short_name": "СТ \"Луч\"",
         "short_name:be": "СТ \"Луч\"",
         "short_name:ru": "СТ \"Луч\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37745,7 +37632,7 @@ const Data =
         "short_name": "СТ \"Сілуэт-Горніца\"",
         "short_name:be": "СТ \"Сілуэт-Горніца\"",
         "short_name:ru": "СТ \"Силуэт-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37772,7 +37659,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі-80\"",
         "short_name:be": "СТ \"Чаромушкі-80\"",
         "short_name:ru": "СТ \"Черёмушки-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37799,7 +37686,7 @@ const Data =
         "short_name": "СТ \"Экран\"",
         "short_name:be": "СТ \"Экран\"",
         "short_name:ru": "СТ \"Экран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37826,7 +37713,7 @@ const Data =
         "short_name": "СТ \"Фізкультурнік-Горніца\"",
         "short_name:be": "СТ \"Фізкультурнік-Горніца\"",
         "short_name:ru": "СТ \"Физкультурник-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37853,7 +37740,7 @@ const Data =
         "short_name": "СТ \"Залаты Ранэт\"",
         "short_name:be": "СТ \"Залаты Ранэт\"",
         "short_name:ru": "СТ \"Золотой Ронет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37880,7 +37767,7 @@ const Data =
         "short_name": "СТ \"Крыжачок\"",
         "short_name:be": "СТ \"Крыжачок\"",
         "short_name:ru": "СТ \"Крыжачок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37907,7 +37794,7 @@ const Data =
         "short_name": "СТ \"Карданнік\"",
         "short_name:be": "СТ \"Карданнік\"",
         "short_name:ru": "СТ \"Карданник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37934,7 +37821,7 @@ const Data =
         "short_name": "СТ \"Аптымісты\"",
         "short_name:be": "СТ \"Аптымісты\"",
         "short_name:ru": "СТ \"Оптимисты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37961,7 +37848,7 @@ const Data =
         "short_name": "СТ \"Зарніца-Горніца\"",
         "short_name:be": "СТ \"Зарніца-Горніца\"",
         "short_name:ru": "СТ \"Зарница-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -37988,7 +37875,7 @@ const Data =
         "short_name": "СТ \"Ягадка\"",
         "short_name:be": "СТ \"Ягадка\"",
         "short_name:ru": "СТ \"Ягодка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38015,7 +37902,7 @@ const Data =
         "short_name": "СТ \"Вясёлка-Горніца\"",
         "short_name:be": "СТ \"Вясёлка-Горніца\"",
         "short_name:ru": "СТ \"Радуга-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38042,7 +37929,7 @@ const Data =
         "short_name": "СТ \"Біруза-1\"",
         "short_name:be": "СТ \"Біруза-1\"",
         "short_name:ru": "СТ \"Бирюза-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38069,7 +37956,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38096,7 +37983,7 @@ const Data =
         "short_name": "СТ \"Верасок\"",
         "short_name:be": "СТ \"Верасок\"",
         "short_name:ru": "СТ \"Вересок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38123,7 +38010,7 @@ const Data =
         "short_name": "СТ \"Энергетык-5\"",
         "short_name:be": "СТ \"Энергетык-5\"",
         "short_name:ru": "СТ \"Энергетик-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38150,7 +38037,7 @@ const Data =
         "short_name": "СТ \"Цяплічнае\"",
         "short_name:be": "СТ \"Цяплічнае\"",
         "short_name:ru": "СТ \"Тепличное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38177,7 +38064,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-1\"",
         "short_name:be": "СТ \"Будаўнік-1\"",
         "short_name:ru": "СТ \"Строитель-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38204,7 +38091,7 @@ const Data =
         "short_name": "СТ \"Бярозка-1\"",
         "short_name:be": "СТ \"Бярозка-1\"",
         "short_name:ru": "СТ \"Берёзка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38231,7 +38118,7 @@ const Data =
         "short_name": "СТ \"Стайкі-Дашкоўка\"",
         "short_name:be": "СТ \"Стайкі-Дашкоўка\"",
         "short_name:ru": "СТ \"Стайки-Дашковка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38258,7 +38145,7 @@ const Data =
         "short_name": "СТ \"Натураліст-Горніца\"",
         "short_name:be": "СТ \"Натураліст-Горніца\"",
         "short_name:ru": "СТ \"Натуралист-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38285,7 +38172,7 @@ const Data =
         "short_name": "СТ \"Аўтасэрвіс\"",
         "short_name:be": "СТ \"Аўтасэрвіс\"",
         "short_name:ru": "СТ \"Автосервис\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38312,7 +38199,7 @@ const Data =
         "short_name": "СТ \"Талісман\"",
         "short_name:be": "СТ \"Талісман\"",
         "short_name:ru": "СТ \"Талисман\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38339,7 +38226,7 @@ const Data =
         "short_name": "СТ \"Лотас\"",
         "short_name:be": "СТ \"Лотас\"",
         "short_name:ru": "СТ \"Лотос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38366,7 +38253,7 @@ const Data =
         "short_name": "СТ \"Брыганціна-Горніца\"",
         "short_name:be": "СТ \"Брыганціна-Горніца\"",
         "short_name:ru": "СТ \"Бригантина-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38393,7 +38280,7 @@ const Data =
         "short_name": "СТ \"Шкатулачка\"",
         "short_name:be": "СТ \"Шкатулачка\"",
         "short_name:ru": "СТ \"Шкатулочка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38420,7 +38307,7 @@ const Data =
         "short_name": "СТ \"Вышукальнік-2\"",
         "short_name:be": "СТ \"Вышукальнік-2\"",
         "short_name:ru": "СТ \"Изыскатель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38447,7 +38334,7 @@ const Data =
         "short_name": "СТ \"Мебельшчык-Горніца\"",
         "short_name:be": "СТ \"Мебельшчык-Горніца\"",
         "short_name:ru": "СТ \"Мебельщик-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38474,7 +38361,7 @@ const Data =
         "short_name": "СТ \"Блакітная Крыніца\"",
         "short_name:be": "СТ \"Блакітная Крыніца\"",
         "short_name:ru": "СТ \"Голубой Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38501,7 +38388,7 @@ const Data =
         "short_name": "СТ \"Азон\"",
         "short_name:be": "СТ \"Азон\"",
         "short_name:ru": "СТ \"Озон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38528,7 +38415,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38555,7 +38442,7 @@ const Data =
         "short_name": "СТ \"Светлафор\"",
         "short_name:be": "СТ \"Светлафор\"",
         "short_name:ru": "СТ \"Светофор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38582,7 +38469,7 @@ const Data =
         "short_name": "СТ \"Табачнік\"",
         "short_name:be": "СТ \"Табачнік\"",
         "short_name:ru": "СТ \"Табачник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38609,7 +38496,7 @@ const Data =
         "short_name": "СТ \"Камета\"",
         "short_name:be": "СТ \"Камета\"",
         "short_name:ru": "СТ \"Комета\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38636,7 +38523,7 @@ const Data =
         "short_name": "СТ \"Васілёк\"",
         "short_name:be": "СТ \"Васілёк\"",
         "short_name:ru": "СТ \"Василек\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38663,7 +38550,7 @@ const Data =
         "short_name": "СТ \"Мастак\"",
         "short_name:be": "СТ \"Мастак\"",
         "short_name:ru": "СТ \"Художник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38690,7 +38577,7 @@ const Data =
         "short_name": "СТ \"Аптавік\"",
         "short_name:be": "СТ \"Аптавік\"",
         "short_name:ru": "СТ \"Оптовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38717,7 +38604,7 @@ const Data =
         "short_name": "СТ \"Вавёрачка\"",
         "short_name:be": "СТ \"Вавёрачка\"",
         "short_name:ru": "СТ \"Белочка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38744,7 +38631,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38771,7 +38658,7 @@ const Data =
         "short_name": "СТ \"Гандмаш-Горніца\"",
         "short_name:be": "СТ \"Гандмаш-Горніца\"",
         "short_name:ru": "СТ \"Торгмаш-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38798,7 +38685,7 @@ const Data =
         "short_name": "СТ \"Чаравічкі\"",
         "short_name:be": "СТ \"Чаравічкі\"",
         "short_name:ru": "СТ \"Чаравички\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38825,7 +38712,7 @@ const Data =
         "short_name": "СТ \"Ірына\"",
         "short_name:be": "СТ \"Ірына\"",
         "short_name:ru": "СТ \"Ирина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38852,7 +38739,7 @@ const Data =
         "short_name": "СТ \"Навука\"",
         "short_name:be": "СТ \"Навука\"",
         "short_name:ru": "СТ \"Наука\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38879,7 +38766,7 @@ const Data =
         "short_name": "СТ \"Прыроўнае-1\"",
         "short_name:be": "СТ \"Прыроўнае-1\"",
         "short_name:ru": "СТ \"Приовражное-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38906,7 +38793,7 @@ const Data =
         "short_name": "СТ \"Красніца\"",
         "short_name:be": "СТ \"Красніца\"",
         "short_name:ru": "СТ \"Красница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38933,7 +38820,7 @@ const Data =
         "short_name": "СТ \"Вікторыя\"",
         "short_name:be": "СТ \"Вікторыя\"",
         "short_name:ru": "СТ \"Виктория\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38960,7 +38847,7 @@ const Data =
         "short_name": "СТ \"Чырвоная зорка-1983\"",
         "short_name:be": "СТ \"Чырвоная зорка-1983\"",
         "short_name:ru": "СТ \"Красная Звезда-1983\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -38987,7 +38874,7 @@ const Data =
         "short_name": "СТ \"Журавінка\"",
         "short_name:be": "СТ \"Журавінка\"",
         "short_name:ru": "СТ \"Журавинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39014,7 +38901,7 @@ const Data =
         "short_name": "СТ \"Радуга-Лахва\"",
         "short_name:be": "СТ \"Радуга-Лахва\"",
         "short_name:ru": "СТ \"Радуга-Лахва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39041,7 +38928,7 @@ const Data =
         "short_name": "СТ \"Лахва\"",
         "short_name:be": "СТ \"Лахва\"",
         "short_name:ru": "СТ \"Лахва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39068,7 +38955,7 @@ const Data =
         "short_name": "СТ \"Бэз\"",
         "short_name:be": "СТ \"Бэз\"",
         "short_name:ru": "СТ \"Сирень\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39095,7 +38982,7 @@ const Data =
         "short_name": "СТ \"Радыё-Жылічы\"",
         "short_name:be": "СТ \"Радыё-Жылічы\"",
         "short_name:ru": "СТ \"Радио-Жиличи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39122,7 +39009,7 @@ const Data =
         "short_name": "СТ \"Ветрык\"",
         "short_name:be": "СТ \"Ветрык\"",
         "short_name:ru": "СТ \"Ветерок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39149,7 +39036,7 @@ const Data =
         "short_name": "СТ \"Палімер\"",
         "short_name:be": "СТ \"Палімер\"",
         "short_name:ru": "СТ \"Полимер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39176,7 +39063,7 @@ const Data =
         "short_name": "СТ \"Сасновая Балка-2\"",
         "short_name:be": "СТ \"Сасновая Балка-2\"",
         "short_name:ru": "СТ \"Сосновая Балка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39203,7 +39090,7 @@ const Data =
         "short_name": "СТ \"Зялёны Аганёк\"",
         "short_name:be": "СТ \"Зялёны Аганёк\"",
         "short_name:ru": "СТ \"Зелёный Огонёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39230,7 +39117,7 @@ const Data =
         "short_name": "СТ \"Аптыміст\"",
         "short_name:be": "СТ \"Аптыміст\"",
         "short_name:ru": "СТ \"Оптимист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39257,7 +39144,7 @@ const Data =
         "short_name": "СТ \"Донар-Жылічы\"",
         "short_name:be": "СТ \"Донар-Жылічы\"",
         "short_name:ru": "СТ \"Донар-Жиличи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39284,7 +39171,7 @@ const Data =
         "short_name": "СТ \"Бытавік-Жылічы\"",
         "short_name:be": "СТ \"Бытавік-Жылічы\"",
         "short_name:ru": "СТ \"Бытовик-Жиличи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39311,7 +39198,7 @@ const Data =
         "short_name": "СТ \"Буравеснік-86\"",
         "short_name:be": "СТ \"Буравеснік-86\"",
         "short_name:ru": "СТ \"Буревестник-86\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39338,7 +39225,7 @@ const Data =
         "short_name": "СТ \"Свабода\"",
         "short_name:be": "СТ \"Свабода\"",
         "short_name:ru": "СТ \"Свобода\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39365,7 +39252,7 @@ const Data =
         "short_name": "СТ \"Церамок\"",
         "short_name:be": "СТ \"Церамок\"",
         "short_name:ru": "СТ \"Теремок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39392,7 +39279,7 @@ const Data =
         "short_name": "СТ \"Прынёманскае-1\"",
         "short_name:be": "СТ \"Прынёманскае-1\"",
         "short_name:ru": "СТ \"Принеманское-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39419,7 +39306,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-1\"",
         "short_name:be": "СТ \"Будаўнік-1\"",
         "short_name:ru": "СТ \"Строитель-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39446,7 +39333,7 @@ const Data =
         "short_name": "СТ \"Бярозавы Гай\"",
         "short_name:be": "СТ \"Бярозавы Гай\"",
         "short_name:ru": "СТ \"Березовая Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39473,7 +39360,7 @@ const Data =
         "short_name": "СТ \"Светлячок\"",
         "short_name:be": "СТ \"Светлячок\"",
         "short_name:ru": "СТ \"Светлячок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39500,7 +39387,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39527,7 +39414,7 @@ const Data =
         "short_name": "СТ \"Верасок-Ляда\"",
         "short_name:be": "СТ \"Верасок-Ляда\"",
         "short_name:ru": "СТ \"Верасок-Ляда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39554,7 +39441,7 @@ const Data =
         "short_name": "СТ \"Прагрес\"",
         "short_name:be": "СТ \"Прагрес\"",
         "short_name:ru": "СТ \"Прогресс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39581,7 +39468,7 @@ const Data =
         "short_name": "СТ \"Паляна-10\"",
         "short_name:be": "СТ \"Паляна-10\"",
         "short_name:ru": "СТ \"Поляна-10\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39608,7 +39495,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39635,7 +39522,7 @@ const Data =
         "short_name": "СТ \"Лесавод-2\"",
         "short_name:be": "СТ \"Лесавод-2\"",
         "short_name:ru": "СТ \"Лесовод-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39662,7 +39549,7 @@ const Data =
         "short_name": "СТ \"Дубравушка-2\"",
         "short_name:be": "СТ \"Дубравушка-2\"",
         "short_name:ru": "СТ \"Дубравушка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39689,7 +39576,7 @@ const Data =
         "short_name": "СТ \"ПрынёманскаеАгра\"",
         "short_name:be": "СТ \"ПрынёманскаеАгра\"",
         "short_name:ru": "СТ \"ПринеманскоеАгро\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39716,7 +39603,7 @@ const Data =
         "short_name": "СТ \"Прынёманскае-6\"",
         "short_name:be": "СТ \"Прынёманскае-6\"",
         "short_name:ru": "СТ \"Принеманское-6\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39743,7 +39630,7 @@ const Data =
         "short_name": "СТ \"Турыст-88\"",
         "short_name:be": "СТ \"Турыст-88\"",
         "short_name:ru": "СТ \"Турист-88\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39770,7 +39657,7 @@ const Data =
         "short_name": "СТ \"Турыст-88\"",
         "short_name:be": "СТ \"Турыст-88\"",
         "short_name:ru": "СТ \"Турист-88\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39797,7 +39684,7 @@ const Data =
         "short_name": "СТ \"Баштан\"",
         "short_name:be": "СТ \"Баштан\"",
         "short_name:ru": "СТ \"Баштан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39824,7 +39711,7 @@ const Data =
         "short_name": "СТ \"Радуга\"",
         "short_name:be": "СТ \"Радуга\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39851,7 +39738,7 @@ const Data =
         "short_name": "СТ \"Рэпка\"",
         "short_name:be": "СТ \"Рэпка\"",
         "short_name:ru": "СТ \"Репка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39878,7 +39765,7 @@ const Data =
         "short_name": "СТ \"Студзёнка-92\"",
         "short_name:be": "СТ \"Студзёнка-92\"",
         "short_name:ru": "СТ \"Студёнка-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39905,7 +39792,7 @@ const Data =
         "short_name": "СТ \"Лясніца\"",
         "short_name:be": "СТ \"Лясніца\"",
         "short_name:ru": "СТ \"Лесница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39932,7 +39819,7 @@ const Data =
         "short_name": "СТ \"Расінка-Гожа\"",
         "short_name:be": "СТ \"Расінка-Гожа\"",
         "short_name:ru": "СТ \"Росинка-Гожа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39959,7 +39846,7 @@ const Data =
         "short_name": "СТ \"Лясны Бор\"",
         "short_name:be": "СТ \"Лясны Бор\"",
         "short_name:ru": "СТ \"Лесной Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -39986,7 +39873,7 @@ const Data =
         "short_name": "СТ \"Радзіма\"",
         "short_name:be": "СТ \"Радзіма\"",
         "short_name:ru": "СТ \"Родина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40013,7 +39900,7 @@ const Data =
         "short_name": "СТ \"Абутнік\"",
         "short_name:be": "СТ \"Абутнік\"",
         "short_name:ru": "СТ \"Обувщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40040,7 +39927,7 @@ const Data =
         "short_name": "СТ \"Эліксір\"",
         "short_name:be": "СТ \"Эліксір\"",
         "short_name:ru": "СТ \"Элексир\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40067,7 +39954,7 @@ const Data =
         "short_name": "СТ \"Спецаўтагаспадарка\"",
         "short_name:be": "СТ \"Спецаўтагаспадарка\"",
         "short_name:ru": "СТ \"Спецавтохозяйство\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40094,7 +39981,7 @@ const Data =
         "short_name": "СТ \"Забалотнае\"",
         "short_name:be": "СТ \"Забалотнае\"",
         "short_name:ru": "СТ \"Заболотное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40121,7 +40008,7 @@ const Data =
         "short_name": "СТ \"Камяністае\"",
         "short_name:be": "СТ \"Камяністае\"",
         "short_name:ru": "СТ \"Каменистое\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40148,7 +40035,7 @@ const Data =
         "short_name": "СТ \"Зялёная Даліна\"",
         "short_name:be": "СТ \"Зялёная Даліна\"",
         "short_name:ru": "СТ \"Зелёная Долина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40175,7 +40062,7 @@ const Data =
         "short_name": "СТ \"Ясная Паляна\"",
         "short_name:be": "СТ \"Ясная Паляна\"",
         "short_name:ru": "СТ \"Ясная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40202,7 +40089,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40229,7 +40116,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40256,7 +40143,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40283,7 +40170,7 @@ const Data =
         "short_name": "СТ \"Аганёк-Прывалка\"",
         "short_name:be": "СТ \"Аганёк-Прывалка\"",
         "short_name:ru": "СТ \"Огонёк-Привалка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40310,7 +40197,7 @@ const Data =
         "short_name": "СТ \"Пішчавік-Пальніца\"",
         "short_name:be": "СТ \"Пішчавік-Пальніца\"",
         "short_name:ru": "СТ \"Пищевик-Пальница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40337,7 +40224,7 @@ const Data =
         "short_name": "СТ \"Каштан\"",
         "short_name:be": "СТ \"Каштан\"",
         "short_name:ru": "СТ \"Каштан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40364,7 +40251,7 @@ const Data =
         "short_name": "СТ \"Вертыкаль Супер\"",
         "short_name:be": "СТ \"Вертыкаль Супер\"",
         "short_name:ru": "СТ \"Вертикаль Супер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40391,7 +40278,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40418,7 +40305,7 @@ const Data =
         "short_name": "СТ \"Мантажнік\"",
         "short_name:be": "СТ \"Мантажнік\"",
         "short_name:ru": "СТ \"Монтажник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40445,7 +40332,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік-1\"",
         "short_name:be": "СТ \"Рамонтнік-1\"",
         "short_name:ru": "СТ \"Ремонтник-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40472,7 +40359,7 @@ const Data =
         "short_name": "СТ \"Чапля\"",
         "short_name:be": "СТ \"Чапля\"",
         "short_name:ru": "СТ \"Цапля\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40499,7 +40386,7 @@ const Data =
         "short_name": "СТ \"Іскра\"",
         "short_name:be": "СТ \"Іскра\"",
         "short_name:ru": "СТ \"Искра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40526,7 +40413,7 @@ const Data =
         "short_name": "СТ \"Сантэхнік\"",
         "short_name:be": "СТ \"Сантэхнік\"",
         "short_name:ru": "СТ \"Сантехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40553,7 +40440,7 @@ const Data =
         "short_name": "СТ \"Труд\"",
         "short_name:be": "СТ \"Труд\"",
         "short_name:ru": "СТ \"Труд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40580,7 +40467,7 @@ const Data =
         "short_name": "СТ \"Мялодыя-Нёман\"",
         "short_name:be": "СТ \"Мялодыя-Нёман\"",
         "short_name:ru": "СТ \"Мелодия-Неман\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40607,7 +40494,7 @@ const Data =
         "short_name": "СТ \"Музей\"",
         "short_name:be": "СТ \"Музей\"",
         "short_name:ru": "СТ \"Музей\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40634,7 +40521,7 @@ const Data =
         "short_name": "СТ \"Ласёва Паляна\"",
         "short_name:be": "СТ \"Ласёва Паляна\"",
         "short_name:ru": "СТ \"Лосева Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40661,7 +40548,7 @@ const Data =
         "short_name": "СТ \"Настаўнік-Гродна\"",
         "short_name:be": "СТ \"Настаўнік-Гродна\"",
         "short_name:ru": "СТ \"Учитель-Гродно\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -40688,7 +40575,7 @@ const Data =
         "short_name": "СТ \"Залатыя Пескі\"",
         "short_name:be": "СТ \"Залатыя Пескі\"",
         "short_name:ru": "СТ \"Золотые Пески\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40703,7 +40590,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -40718,7 +40605,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -40733,7 +40620,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -40760,7 +40647,7 @@ const Data =
         "short_name": "СТ \"Глобус-Гадуны\"",
         "short_name:be": "СТ \"Глобус-Гадуны\"",
         "short_name:ru": "СТ \"Глобус-Годуны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40787,7 +40674,7 @@ const Data =
         "short_name": "СТ \"Сонечнае-09\"",
         "short_name:be": "СТ \"Сонечнае-09\"",
         "short_name:ru": "СТ \"Солнечное-09\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40814,7 +40701,7 @@ const Data =
         "short_name": "СТ \"Сонечнае-09\"",
         "short_name:be": "СТ \"Сонечнае-09\"",
         "short_name:ru": "СТ \"Солнечное-09\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40841,7 +40728,7 @@ const Data =
         "short_name": "СТ \"Эскулап-89\"",
         "short_name:be": "СТ \"Эскулап-89\"",
         "short_name:ru": "СТ \"Эскулап-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40868,7 +40755,7 @@ const Data =
         "short_name": "СТ \"Ветэран-2\"",
         "short_name:be": "СТ \"Ветэран-2\"",
         "short_name:ru": "СТ \"Ветеран-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40895,7 +40782,7 @@ const Data =
         "short_name": "СТ \"Прыбужжа\"",
         "short_name:be": "СТ \"Прыбужжа\"",
         "short_name:ru": "СТ \"Прибужье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40922,7 +40809,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40949,7 +40836,7 @@ const Data =
         "short_name": "СТ \"Залаты ляснік\"",
         "short_name:be": "СТ \"Залаты ляснік\"",
         "short_name:ru": "СТ \"Золотой Лесник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -40976,7 +40863,7 @@ const Data =
         "short_name": "СТ \"Раманаўскае\"",
         "short_name:be": "СТ \"Раманаўскае\"",
         "short_name:ru": "СТ \"Романовское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41003,7 +40890,7 @@ const Data =
         "short_name": "СТ \"Здзітаўчанка\"",
         "short_name:be": "СТ \"Здзітаўчанка\"",
         "short_name:ru": "СТ \"Здитовчанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41030,7 +40917,7 @@ const Data =
         "short_name": "СТ \"Углянка\"",
         "short_name:be": "СТ \"Углянка\"",
         "short_name:ru": "СТ \"Углянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41057,7 +40944,7 @@ const Data =
         "short_name": "СТ \"Квант\"",
         "short_name:be": "СТ \"Квант\"",
         "short_name:ru": "СТ \"Квант\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41084,7 +40971,7 @@ const Data =
         "short_name": "СТ \"Здароўе-1\" горада Навагрудак",
         "short_name:be": "СТ \"Здароўе-1\" горада Навагрудак",
         "short_name:ru": "СТ \"Здоровье-1\" города Новогрудок",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1981-06-08",
         "ref:vatin": "BY500275832",
         "status": "orange"
@@ -41113,7 +41000,7 @@ const Data =
         "short_name": "СТ \"Дойлид\"",
         "short_name:be": "СТ \"Дойлид\"",
         "short_name:ru": "СТ \"Дойлид\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -41140,7 +41027,7 @@ const Data =
         "short_name": "СТ \"Сябры-Кулеўцы\"",
         "short_name:be": "СТ \"Сябры-Кулеўцы\"",
         "short_name:ru": "СТ \"Сябры-Кулевцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41167,7 +41054,7 @@ const Data =
         "short_name": "СТ \"Фарты\"",
         "short_name:be": "СТ \"Фарты\"",
         "short_name:ru": "СТ \"Форты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41194,7 +41081,7 @@ const Data =
         "short_name": "СТ \"Прыгранічнае\"",
         "short_name:be": "СТ \"Прыгранічнае\"",
         "short_name:ru": "СТ \"Приграничное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41221,7 +41108,7 @@ const Data =
         "short_name": "СТ \"Абшчапітавец\"",
         "short_name:be": "СТ \"Абшчапітавец\"",
         "short_name:ru": "СТ \"Общепитовец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41248,7 +41135,7 @@ const Data =
         "short_name": "СТ \"Салют-2\"",
         "short_name:be": "СТ \"Салют-2\"",
         "short_name:ru": "СТ \"Салют-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41275,7 +41162,7 @@ const Data =
         "short_name": "СТ \"Вышыннік\"",
         "short_name:be": "СТ \"Вышыннік\"",
         "short_name:ru": "СТ \"Высотник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41302,7 +41189,7 @@ const Data =
         "short_name": "СТ \"Рабінушка\"",
         "short_name:be": "СТ \"Рабінушка\"",
         "short_name:ru": "СТ \"Рябинушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41329,7 +41216,7 @@ const Data =
         "short_name": "СТ \"Вадаканал\"",
         "short_name:be": "СТ \"Вадаканал\"",
         "short_name:ru": "СТ \"Водоканал\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41356,7 +41243,7 @@ const Data =
         "short_name": "СТ \"Біруза\"",
         "short_name:be": "СТ \"Біруза\"",
         "short_name:ru": "СТ \"Бирюза\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41383,7 +41270,7 @@ const Data =
         "short_name": "СТ \"Дружба-2\"",
         "short_name:be": "СТ \"Дружба-2\"",
         "short_name:ru": "СТ \"Дружба-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41410,7 +41297,7 @@ const Data =
         "short_name": "СТ \"Дружба-2\"",
         "short_name:be": "СТ \"Дружба-2\"",
         "short_name:ru": "СТ \"Дружба-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41437,7 +41324,7 @@ const Data =
         "short_name": "СТ \"Антаноўка\"",
         "short_name:be": "СТ \"Антаноўка\"",
         "short_name:ru": "СТ \"Антоновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41464,7 +41351,7 @@ const Data =
         "short_name": "СТ «Механізатар»",
         "short_name:be": "СТ «Механізатар»",
         "short_name:ru": "СТ «Механизатор»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41491,7 +41378,7 @@ const Data =
         "short_name": "СТ \"Наташа\"",
         "short_name:be": "СТ \"Наташа\"",
         "short_name:ru": "СТ \"Наташа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41518,7 +41405,7 @@ const Data =
         "short_name": "СТ \"Папараць-Стрэльчыкі\"",
         "short_name:be": "СТ \"Папараць-Стрэльчыкі\"",
         "short_name:ru": "СТ \"Папараць-Стрельчики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41545,7 +41432,7 @@ const Data =
         "short_name": "СТ \"Праметэй\"",
         "short_name:be": "СТ \"Праметэй\"",
         "short_name:ru": "СТ \"Прометей\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41572,7 +41459,7 @@ const Data =
         "short_name": "СТ \"Колас-Сад\"",
         "short_name:be": "СТ \"Колас-Сад\"",
         "short_name:ru": "СТ \"Колос-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41599,7 +41486,7 @@ const Data =
         "short_name": "СТ \"Маналіт\"",
         "short_name:be": "СТ \"Маналіт\"",
         "short_name:ru": "СТ \"Монолит\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41626,7 +41513,7 @@ const Data =
         "short_name": "СТ \"Ясная Паляна\"",
         "short_name:be": "СТ \"Ясная Паляна\"",
         "short_name:ru": "СТ \"Ясная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41653,7 +41540,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Банькаўшчына\"",
         "short_name:be": "СТ \"Крыніца-Банькаўшчына\"",
         "short_name:ru": "СТ \"Криница-Баньковщина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41680,7 +41567,7 @@ const Data =
         "short_name": "СТ \"Чарэмушкі\"",
         "short_name:be": "СТ \"Чарэмушкі\"",
         "short_name:ru": "СТ \"Черемушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41707,7 +41594,7 @@ const Data =
         "short_name": "СТ \"Белыя Росы\"",
         "short_name:be": "СТ \"Белыя Росы\"",
         "short_name:ru": "СТ \"Белые Росы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41734,7 +41621,7 @@ const Data =
         "short_name": "СТ \"Няптун\"",
         "short_name:be": "СТ \"Няптун\"",
         "short_name:ru": "СТ \"Нептун\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41761,7 +41648,7 @@ const Data =
         "short_name": "СТ \"Бярозаўка\"",
         "short_name:be": "СТ \"Бярозаўка\"",
         "short_name:ru": "СТ \"Берёзовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41788,7 +41675,7 @@ const Data =
         "short_name": "СТ \"Каліна\"",
         "short_name:be": "СТ \"Каліна\"",
         "short_name:ru": "СТ \"Калина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41815,7 +41702,7 @@ const Data =
         "short_name": "СТ \"Крыніца-91\"",
         "short_name:be": "СТ \"Крыніца-91\"",
         "short_name:ru": "СТ \"Криница-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41842,7 +41729,7 @@ const Data =
         "short_name": "СТ \"Раніца\"",
         "short_name:be": "СТ \"Раніца\"",
         "short_name:ru": "СТ \"Раница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41869,7 +41756,7 @@ const Data =
         "short_name": "СТ \"Зялёны Бор\"",
         "short_name:be": "СТ \"Зялёны Бор\"",
         "short_name:ru": "СТ \"Зелёный Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41896,7 +41783,7 @@ const Data =
         "short_name": "СТ \"Палетак\"",
         "short_name:be": "СТ \"Палетак\"",
         "short_name:ru": "СТ \"Палетак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41923,7 +41810,7 @@ const Data =
         "short_name": "СТ \"Дубок\"",
         "short_name:be": "СТ \"Дубок\"",
         "short_name:ru": "СТ \"Дубок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41950,7 +41837,7 @@ const Data =
         "short_name": "СТ \"Энергетык-Плюс\"",
         "short_name:be": "СТ \"Энергетык-Плюс\"",
         "short_name:ru": "СТ \"Энергетик-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -41977,7 +41864,7 @@ const Data =
         "short_name": "СТ \"Вітамін\"",
         "short_name:be": "СТ \"Вітамін\"",
         "short_name:ru": "СТ \"Витамин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42004,7 +41891,7 @@ const Data =
         "short_name": "СТ \"Чарамша\"",
         "short_name:be": "СТ \"Чарамша\"",
         "short_name:ru": "СТ \"Черемша\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42031,7 +41918,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42058,7 +41945,7 @@ const Data =
         "short_name": "СТ \"Чыстая Расінка\"",
         "short_name:be": "СТ \"Чыстая Расінка\"",
         "short_name:ru": "СТ \"Чистая Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42085,7 +41972,7 @@ const Data =
         "short_name": "СТ \"Тэхнолаг-94\"",
         "short_name:be": "СТ \"Тэхнолаг-94\"",
         "short_name:ru": "СТ \"Технолог-94\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42112,7 +41999,7 @@ const Data =
         "short_name": "СТ \"Новыя Хутары\"",
         "short_name:be": "СТ \"Новыя Хутары\"",
         "short_name:ru": "СТ \"Новые Хутора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42139,7 +42026,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі-Плюс\"",
         "short_name:be": "СТ \"Чаромушкі-Плюс\"",
         "short_name:ru": "СТ \"Черёмушки-Люкс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42166,7 +42053,7 @@ const Data =
         "short_name": "СТ \"Латушкі\"",
         "short_name:be": "СТ \"Латушкі\"",
         "short_name:ru": "СТ \"Латушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42193,7 +42080,7 @@ const Data =
         "short_name": "СТ \"Турʼякава\"",
         "short_name:be": "СТ \"Турʼякава\"",
         "short_name:ru": "СТ \"Турьяково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42220,7 +42107,7 @@ const Data =
         "short_name": "СТ \"Блакітныя Пруды\"",
         "short_name:be": "СТ \"Блакітныя Пруды\"",
         "short_name:ru": "СТ \"Голубые Пруды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42247,7 +42134,7 @@ const Data =
         "short_name": "СТ \"Крынічка-89\"",
         "short_name:be": "СТ \"Крынічка-89\"",
         "short_name:ru": "СТ \"Родничок-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42274,7 +42161,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42301,7 +42188,7 @@ const Data =
         "short_name": "СТ \"Палявы Рамонак\"",
         "short_name:be": "СТ \"Палявы Рамонак\"",
         "short_name:ru": "СТ \"Полевая Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42328,7 +42215,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42355,7 +42242,7 @@ const Data =
         "short_name": "СТ \"Салавейка\"",
         "short_name:be": "СТ \"Салавейка\"",
         "short_name:ru": "СТ \"Соловушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42382,7 +42269,7 @@ const Data =
         "short_name": "СТ \"Дубянцы\"",
         "short_name:be": "СТ \"Дубянцы\"",
         "short_name:ru": "СТ \"Дубенцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42409,7 +42296,7 @@ const Data =
         "short_name": "СТ \"Ясевічы\"",
         "short_name:be": "СТ \"Ясевічы\"",
         "short_name:ru": "СТ \"Ясевичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42436,7 +42323,7 @@ const Data =
         "short_name": "СТ \"Верас-1\"",
         "short_name:be": "СТ \"Верас-1\"",
         "short_name:ru": "СТ \"Верас-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42463,7 +42350,7 @@ const Data =
         "short_name": "СТ \"Юхнаўскае\"",
         "short_name:be": "СТ \"Юхнаўскае\"",
         "short_name:ru": "СТ \"Юхновское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42490,7 +42377,7 @@ const Data =
         "short_name": "СТ \"Ветэран Вайны\"",
         "short_name:be": "СТ \"Ветэран Вайны\"",
         "short_name:ru": "СТ \"Ветеран Войны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42517,7 +42404,7 @@ const Data =
         "short_name": "СТ \"Паркавае-Гарадзішча\"",
         "short_name:be": "СТ \"Паркавае-Гарадзішча\"",
         "short_name:ru": "СТ \"Парковое-Городище\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42544,7 +42431,7 @@ const Data =
         "short_name": "СТ \"Садавод\"",
         "short_name:be": "СТ \"Садавод\"",
         "short_name:ru": "СТ \"Садовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42571,7 +42458,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42598,7 +42485,7 @@ const Data =
         "short_name": "СТ \"Зорнае\"",
         "short_name:be": "СТ \"Зорнае\"",
         "short_name:ru": "СТ \"Зорнае\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42625,7 +42512,7 @@ const Data =
         "short_name": "СТ \"Малінка\"",
         "short_name:be": "СТ \"Малінка\"",
         "short_name:ru": "СТ \"Малинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42652,7 +42539,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Рыбгас\"",
         "short_name:be": "СТ \"Крыніца-Рыбгас\"",
         "short_name:ru": "СТ \"Родник-Рыбхоз\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42679,7 +42566,7 @@ const Data =
         "short_name": "СТ \"Крыніца-2015\"",
         "short_name:be": "СТ \"Крыніца-2015\"",
         "short_name:ru": "СТ \"Родник-2015\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42706,7 +42593,7 @@ const Data =
         "short_name": "СТ \"Крыніца-5\"",
         "short_name:be": "СТ \"Крыніца-5\"",
         "short_name:ru": "СТ \"Родник-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42733,7 +42620,7 @@ const Data =
         "short_name": "СТ \"Ручаёк-2\"",
         "short_name:be": "СТ \"Ручаёк-2\"",
         "short_name:ru": "СТ \"Ручеек-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42760,7 +42647,7 @@ const Data =
         "short_name": "СТ \"Лясны Ручаёк\"",
         "short_name:be": "СТ \"Лясны Ручаёк\"",
         "short_name:ru": "СТ \"Лесной Ручеёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42787,7 +42674,7 @@ const Data =
         "short_name": "СТ \"Бярозка-2\"",
         "short_name:be": "СТ \"Бярозка-2\"",
         "short_name:ru": "СТ \"Берёзка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42814,7 +42701,7 @@ const Data =
         "short_name": "СТ \"Садамір\"",
         "short_name:be": "СТ \"Садамір\"",
         "short_name:ru": "СТ \"Садомир\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42841,7 +42728,7 @@ const Data =
         "short_name": "СТ \"Садамір\"",
         "short_name:be": "СТ \"Садамір\"",
         "short_name:ru": "СТ \"Садомир\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42868,7 +42755,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пралеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42895,7 +42782,7 @@ const Data =
         "short_name": "СТ \"Амяльня\"",
         "short_name:be": "СТ \"Амяльня\"",
         "short_name:ru": "СТ \"Омельня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42922,7 +42809,7 @@ const Data =
         "short_name": "СТ \"Ала\"",
         "short_name:be": "СТ \"Ала\"",
         "short_name:ru": "СТ \"Ола\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42949,7 +42836,7 @@ const Data =
         "short_name": "СТ \"Заценьская Крыніца\"",
         "short_name:be": "СТ \"Заценьская Крыніца\"",
         "short_name:ru": "СТ \"Заценьский Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -42976,7 +42863,7 @@ const Data =
         "short_name": "СТ \"Планета-2001\"",
         "short_name:be": "СТ \"Планета-2001\"",
         "short_name:ru": "СТ \"Планета-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43003,7 +42890,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43030,7 +42917,7 @@ const Data =
         "short_name": "СТ \"Бытавік-2\"",
         "short_name:be": "СТ \"Бытавік-2\"",
         "short_name:ru": "СТ \"Бытовик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43057,7 +42944,7 @@ const Data =
         "short_name": "СТ \"Выпрабавальнік\"",
         "short_name:be": "СТ \"Выпрабавальнік\"",
         "short_name:ru": "СТ \"Выпрабавальник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43084,7 +42971,7 @@ const Data =
         "short_name": "СТ \"Падшыпнік\"",
         "short_name:be": "СТ \"Падшыпнік\"",
         "short_name:ru": "СТ \"Подшипник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43111,7 +42998,7 @@ const Data =
         "short_name": "СТ \"Наладчык\"",
         "short_name:be": "СТ \"Наладчык\"",
         "short_name:ru": "СТ \"Наладчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43138,7 +43025,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі\"",
         "short_name:be": "СТ \"Чаромушкі\"",
         "short_name:ru": "СТ \"Черемушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43165,7 +43052,7 @@ const Data =
         "short_name": "СТ \"Ракіта\"",
         "short_name:be": "СТ \"Ракіта\"",
         "short_name:ru": "СТ \"Ракита\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43192,7 +43079,7 @@ const Data =
         "short_name": "СТ \"Садовая Вясёлка\"",
         "short_name:be": "СТ \"Садовая Вясёлка\"",
         "short_name:ru": "СТ \"Садовая Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43219,7 +43106,7 @@ const Data =
         "short_name": "СТ \"Аўган\"",
         "short_name:be": "СТ \"Аўган\"",
         "short_name:ru": "СТ \"Афган\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43246,7 +43133,7 @@ const Data =
         "short_name": "СТ \"Ласунак-Дубніца\"",
         "short_name:be": "СТ \"Ласунак-Дубніца\"",
         "short_name:ru": "СТ \"Ласунак-Дубница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43273,7 +43160,7 @@ const Data =
         "short_name": "СТ \"Татарка\"",
         "short_name:be": "СТ \"Татарка\"",
         "short_name:ru": "СТ \"Татарка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43300,7 +43187,7 @@ const Data =
         "short_name": "СТ \"Алеся-Караліна\"",
         "short_name:be": "СТ \"Алеся-Караліна\"",
         "short_name:ru": "СТ \"Алеся-Каролино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43327,7 +43214,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43354,7 +43241,7 @@ const Data =
         "short_name": "СТ \"Калінка\"",
         "short_name:be": "СТ \"Калінка\"",
         "short_name:ru": "СТ \"Калинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43381,7 +43268,7 @@ const Data =
         "short_name": "СТ \"Камунальнік-Гродна\"",
         "short_name:be": "СТ \"Камунальнік-Гродна\"",
         "short_name:ru": "СТ \"Коммунальник-Гродно\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43408,7 +43295,7 @@ const Data =
         "short_name": "СТ \"Фіялка\"",
         "short_name:be": "СТ \"Фіялка\"",
         "short_name:ru": "СТ \"Фиалка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43435,7 +43322,7 @@ const Data =
         "short_name": "СТ \"Салют\"",
         "short_name:be": "СТ \"Салют\"",
         "short_name:ru": "СТ \"Салют\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43462,7 +43349,7 @@ const Data =
         "short_name": "СТ \"Аптэчны Рамонак\"",
         "short_name:be": "СТ \"Аптэчны Рамонак\"",
         "short_name:ru": "СТ \"Аптечная Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43489,7 +43376,7 @@ const Data =
         "short_name": "СТ \"Дынамавец\"",
         "short_name:be": "СТ \"Дынамавец\"",
         "short_name:ru": "СТ \"Динамовец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43516,7 +43403,7 @@ const Data =
         "short_name": "СТ \"Ўсмешка\"",
         "short_name:be": "СТ \"Ўсмешка\"",
         "short_name:ru": "СТ \"Улыбка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43543,7 +43430,7 @@ const Data =
         "short_name": "СТ \"Незабудка\"",
         "short_name:be": "СТ \"Незабудка\"",
         "short_name:ru": "СТ \"Незабудка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43570,7 +43457,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Кароліна\"",
         "short_name:be": "СТ \"Журавінка-Кароліна\"",
         "short_name:ru": "СТ \"Журавинка-Каролино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43597,7 +43484,7 @@ const Data =
         "short_name": "СТ \"Дубрава\"",
         "short_name:be": "СТ \"Дубрава\"",
         "short_name:ru": "СТ \"Дубрава\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43624,7 +43511,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43651,7 +43538,7 @@ const Data =
         "short_name": "СТ \"Змена\"",
         "short_name:be": "СТ \"Змена\"",
         "short_name:ru": "СТ \"Смена\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43678,7 +43565,7 @@ const Data =
         "short_name": "СТ \"Электрык-Лахва\"",
         "short_name:be": "СТ \"Электрык-Лахва\"",
         "short_name:ru": "СТ \"Электрик-Лахва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43705,7 +43592,7 @@ const Data =
         "short_name": "СТ \"Энэргетык-2008\"",
         "short_name:be": "СТ \"Энэргетык-2008\"",
         "short_name:ru": "СТ \"Энергетик-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43732,7 +43619,7 @@ const Data =
         "short_name": "СТ \"Асінкі\"",
         "short_name:be": "СТ \"Асінкі\"",
         "short_name:ru": "СТ \"Осинки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43759,7 +43646,7 @@ const Data =
         "short_name": "СТ \"Сантэхнік\"",
         "short_name:be": "СТ \"Сантэхнік\"",
         "short_name:ru": "СТ \"Сантехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43786,7 +43673,7 @@ const Data =
         "short_name": "СТ \"Залессе\"",
         "short_name:be": "СТ \"Залессе\"",
         "short_name:ru": "СТ \"Залесье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43813,7 +43700,7 @@ const Data =
         "short_name": "СТ \"Швейнік-2009\"",
         "short_name:be": "СТ \"Швейнік-2009\"",
         "short_name:ru": "СТ \"Швейник-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43840,7 +43727,7 @@ const Data =
         "short_name": "СТ \"Серабранка-Будоўля\"",
         "short_name:be": "СТ \"Серабранка-Будоўля\"",
         "short_name:ru": "СТ \"Серебрянка-Будовля\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43867,7 +43754,7 @@ const Data =
         "short_name": "СТ \"Лаўсанбуд\"",
         "short_name:be": "СТ \"Лаўсанбуд\"",
         "short_name:ru": "СТ \"Лавсанстрой\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43894,7 +43781,7 @@ const Data =
         "short_name": "СТ \"Электрык-Лахва\"",
         "short_name:be": "СТ \"Электрык-Лахва\"",
         "short_name:ru": "СТ \"Электрик-Лахва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43921,7 +43808,7 @@ const Data =
         "short_name": "СТ \"Гарант-Барок\"",
         "short_name:be": "СТ \"Гарант-Барок\"",
         "short_name:ru": "СТ \"Гарант-Борок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43948,7 +43835,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -43975,7 +43862,7 @@ const Data =
         "short_name": "СТ \"Трыкатажнік\"",
         "short_name:be": "СТ \"Трыкатажнік\"",
         "short_name:ru": "СТ \"Трикотажник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44002,7 +43889,7 @@ const Data =
         "short_name": "СТ \"Свяцк\"",
         "short_name:be": "СТ \"Свяцк\"",
         "short_name:ru": "СТ \"Святск\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44029,7 +43916,7 @@ const Data =
         "short_name": "СТ \"Астра\"",
         "short_name:be": "СТ \"Астра\"",
         "short_name:ru": "СТ \"Астра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44056,7 +43943,7 @@ const Data =
         "short_name": "СТ \"Магістраль-5\"",
         "short_name:be": "СТ \"Магістраль-5\"",
         "short_name:ru": "СТ \"Магистраль-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44083,7 +43970,7 @@ const Data =
         "short_name": "СТ \"Агратэхнік\"",
         "short_name:be": "СТ \"Агратэхнік\"",
         "short_name:ru": "СТ \"Агротехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44110,7 +43997,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Свитанак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44137,7 +44024,7 @@ const Data =
         "short_name": "СТ \"Утульнасць\"",
         "short_name:be": "СТ \"Утульнасць\"",
         "short_name:ru": "СТ \"Уют\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44164,7 +44051,7 @@ const Data =
         "short_name": "СТ \"Батаніка\"",
         "short_name:be": "СТ \"Батаніка\"",
         "short_name:ru": "СТ \"Ботаника\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44191,7 +44078,7 @@ const Data =
         "short_name": "СТ \"Алгарытм\"",
         "short_name:be": "СТ \"Алгарытм\"",
         "short_name:ru": "СТ \"Алгоритм\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44218,7 +44105,7 @@ const Data =
         "short_name": "СТ \"Лясное-Векшыцы\"",
         "short_name:be": "СТ \"Лясное-Векшыцы\"",
         "short_name:ru": "СТ \"Лесное-Векшицы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44245,7 +44132,7 @@ const Data =
         "short_name": "СТ \"Анусіна-2008\"",
         "short_name:be": "СТ \"Анусіна-2008\"",
         "short_name:ru": "СТ \"Анусино-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44272,7 +44159,7 @@ const Data =
         "short_name": "СТ \"Ясная Паляна\"",
         "short_name:be": "СТ \"Ясная Паляна\"",
         "short_name:ru": "СТ \"Ясная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44299,7 +44186,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Рассвет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44326,7 +44213,7 @@ const Data =
         "short_name": "СТ \"Латока\"",
         "short_name:be": "СТ \"Латока\"",
         "short_name:ru": "СТ \"Латока\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44353,7 +44240,7 @@ const Data =
         "short_name": "СТ \"Лесахімік\"",
         "short_name:be": "СТ \"Лесахімік\"",
         "short_name:ru": "СТ \"Лесохимик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44380,7 +44267,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44407,7 +44294,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44434,7 +44321,7 @@ const Data =
         "short_name": "СТ \"Бульба\"",
         "short_name:be": "СТ \"Бульба\"",
         "short_name:ru": "СТ \"Бульба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44461,7 +44348,7 @@ const Data =
         "short_name": "СТ \"Крылава-2012\"",
         "short_name:be": "СТ \"Крылава-2012\"",
         "short_name:ru": "СТ \"Крылово-2012\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44488,7 +44375,7 @@ const Data =
         "short_name": "СТ \"Даліла\"",
         "short_name:be": "СТ \"Даліла\"",
         "short_name:ru": "СТ \"Далила\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44515,7 +44402,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пралеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44542,7 +44429,7 @@ const Data =
         "short_name": "СТ \"Мяркурый\"",
         "short_name:be": "СТ \"Мяркурый\"",
         "short_name:ru": "СТ \"Меркурий\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44569,7 +44456,7 @@ const Data =
         "short_name": "СТ \"Ручаі\"",
         "short_name:be": "СТ \"Ручаі\"",
         "short_name:ru": "СТ \"Ручьи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44596,7 +44483,7 @@ const Data =
         "short_name": "СТ \"Энэргабудаўнік-Падсады\"",
         "short_name:be": "СТ \"Энэргабудаўнік-Падсады\"",
         "short_name:ru": "СТ \"Энергостроитель-Подсады\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44623,7 +44510,7 @@ const Data =
         "short_name": "СТ \"Бярозавая Паляна\"",
         "short_name:be": "СТ \"Бярозавая Паляна\"",
         "short_name:ru": "СТ \"Березовая Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44650,7 +44537,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44677,7 +44564,7 @@ const Data =
         "short_name": "СТ \"Кааператар-2\"",
         "short_name:be": "СТ \"Кааператар-2\"",
         "short_name:ru": "СТ \"Кооператор-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44704,7 +44591,7 @@ const Data =
         "short_name": "СТ \"Раніца\"",
         "short_name:be": "СТ \"Раніца\"",
         "short_name:ru": "СТ \"Раница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44731,7 +44618,7 @@ const Data =
         "short_name": "СТ \"Пуцеец\"",
         "short_name:be": "СТ \"Пуцеец\"",
         "short_name:ru": "СТ \"Путеец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44758,7 +44645,7 @@ const Data =
         "short_name": "СТ \"Раста-2\"",
         "short_name:be": "СТ \"Раста-2\"",
         "short_name:ru": "СТ \"Реста-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44785,7 +44672,7 @@ const Data =
         "short_name": "СТ \"Чабарок-87\"",
         "short_name:be": "СТ \"Чабарок-87\"",
         "short_name:ru": "СТ \"Чабарок-87\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44812,7 +44699,7 @@ const Data =
         "short_name": "СТ \"Вяленскі Ветэран\"",
         "short_name:be": "СТ \"Вяленскі Ветэран\"",
         "short_name:ru": "СТ \"Веленский Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44839,7 +44726,7 @@ const Data =
         "short_name": "СТ \"Вяленскі\"",
         "short_name:be": "СТ \"Вяленскі\"",
         "short_name:ru": "СТ \"Веленский\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44866,7 +44753,7 @@ const Data =
         "short_name": "СТ \"Вяленская Журавінка\"",
         "short_name:be": "СТ \"Вяленская Журавінка\"",
         "short_name:ru": "СТ \"Веленская Журавинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44893,7 +44780,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Будауник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44920,7 +44807,7 @@ const Data =
         "short_name": "СТ \"Флора\"",
         "short_name:be": "СТ \"Флора\"",
         "short_name:ru": "СТ \"Флора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44947,7 +44834,7 @@ const Data =
         "short_name": "СТ \"Аўрора\"",
         "short_name:be": "СТ \"Аўрора\"",
         "short_name:ru": "СТ \"Аврора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -44974,7 +44861,7 @@ const Data =
         "short_name": "СТ «Лукаморʼе»",
         "short_name:be": "СТ «Лукаморʼе»",
         "short_name:ru": "СТ «Лукоморье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45001,7 +44888,7 @@ const Data =
         "short_name": "СТ «Крыніца-95»",
         "short_name:be": "СТ «Крыніца-95»",
         "short_name:ru": "СТ «Родник-95»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45028,7 +44915,7 @@ const Data =
         "short_name": "СТ \"Верасок\"",
         "short_name:be": "СТ \"Верасок\"",
         "short_name:ru": "СТ \"Верасок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45055,7 +44942,7 @@ const Data =
         "short_name": "СТ \"Крыніца-2\"",
         "short_name:be": "СТ \"Крыніца-2\"",
         "short_name:ru": "СТ \"Крыница-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45082,7 +44969,7 @@ const Data =
         "short_name": "СТ \"Крыніца МПМК-230\"",
         "short_name:be": "СТ \"Крыніца МПМК-230\"",
         "short_name:ru": "СТ \"Родник МПМК-230\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45109,7 +44996,7 @@ const Data =
         "short_name": "СТ \"Воднік\"",
         "short_name:be": "СТ \"Воднік\"",
         "short_name:ru": "СТ \"Водник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45136,7 +45023,7 @@ const Data =
         "short_name": "СТ \"Металіст-Сад\"",
         "short_name:be": "СТ \"Металіст-Сад\"",
         "short_name:ru": "СТ \"Металлист-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45163,7 +45050,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-1988\"",
         "short_name:be": "СТ \"Аўтамабіліст-1988\"",
         "short_name:ru": "СТ \"Автомобилист-1988\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45190,7 +45077,7 @@ const Data =
         "short_name": "СТ \"Трыкатажнік-1\"",
         "short_name:be": "СТ \"Трыкатажнік-1\"",
         "short_name:ru": "СТ \"Трикотажник-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45217,7 +45104,7 @@ const Data =
         "short_name": "СТ \"Дружба-Овіны\"",
         "short_name:be": "СТ \"Дружба-Овіны\"",
         "short_name:ru": "СТ \"Дружба-Овины\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45244,7 +45131,7 @@ const Data =
         "short_name": "СТ \"Зара-1\"",
         "short_name:be": "СТ \"Зара-1\"",
         "short_name:ru": "СТ \"Заря-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45271,7 +45158,7 @@ const Data =
         "short_name": "СТ \"Мантажнік-2003\"",
         "short_name:be": "СТ \"Мантажнік-2003\"",
         "short_name:ru": "СТ \"Монтажник-2003\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45298,7 +45185,7 @@ const Data =
         "short_name": "СТ \"Старобінская Крыніца\"",
         "short_name:be": "СТ \"Старобінская Крыніца\"",
         "short_name:ru": "СТ \"Старобинский Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45325,7 +45212,7 @@ const Data =
         "short_name": "СТ \"Жалезабетоншчык\"",
         "short_name:be": "СТ \"Жалезабетоншчык\"",
         "short_name:ru": "СТ \"Железобетонщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45352,7 +45239,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45379,7 +45266,7 @@ const Data =
         "short_name": "СТ \"Маяк\"",
         "short_name:be": "СТ \"Маяк\"",
         "short_name:ru": "СТ \"Маяк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45406,7 +45293,7 @@ const Data =
         "short_name": "СТ \"Міхалі\"",
         "short_name:be": "СТ \"Міхалі\"",
         "short_name:ru": "СТ \"Михали\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -45433,7 +45320,7 @@ const Data =
         "short_name": "СТ \"Крыніца-9\"",
         "short_name:be": "СТ \"Крыніца-9\"",
         "short_name:ru": "СТ \"Родник-9\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45460,7 +45347,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45487,7 +45374,7 @@ const Data =
         "short_name": "СТ \"Электроніка\"",
         "short_name:be": "СТ \"Электроніка\"",
         "short_name:ru": "СТ \"Электроника\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45514,7 +45401,7 @@ const Data =
         "short_name": "СТ \"Садавод-Баля Сольная\"",
         "short_name:be": "СТ \"Садавод-Баля Сольная\"",
         "short_name:ru": "СТ \"Садовод-Баля Сольная\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45541,7 +45428,7 @@ const Data =
         "short_name": "СТ \"Лета\"",
         "short_name:be": "СТ \"Лета\"",
         "short_name:ru": "СТ \"Лето\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45568,7 +45455,7 @@ const Data =
         "short_name": "СТ \"Загараны\"",
         "short_name:be": "СТ \"Загараны\"",
         "short_name:ru": "СТ \"Загораны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45595,7 +45482,7 @@ const Data =
         "short_name": "СТ \"Фауна-Загораны\"",
         "short_name:be": "СТ \"Фауна-Загораны\"",
         "short_name:ru": "СТ \"Фауна-Загораны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45622,7 +45509,7 @@ const Data =
         "short_name": "СТ \"Арбіта-Зарачанка\"",
         "short_name:be": "СТ \"Арбіта-Зарачанка\"",
         "short_name:ru": "СТ \"Орбита-Заречанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45649,7 +45536,7 @@ const Data =
         "short_name": "СТ \"Крынічка-1\"",
         "short_name:be": "СТ \"Крынічка-1\"",
         "short_name:ru": "СТ \"Криничка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45676,7 +45563,7 @@ const Data =
         "short_name": "СТ \"Хлебапечнае\"",
         "short_name:be": "СТ \"Хлебапечнае\"",
         "short_name:ru": "СТ \"Хлебопекарное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45703,7 +45590,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Криничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45730,7 +45617,7 @@ const Data =
         "short_name": "СТ \"Зялёны Гай\"",
         "short_name:be": "СТ \"Зялёны Гай\"",
         "short_name:ru": "СТ \"Зеленый Гай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45757,7 +45644,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Будовник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45784,7 +45671,7 @@ const Data =
         "short_name": "СТ \"Акорд\"",
         "short_name:be": "СТ \"Акорд\"",
         "short_name:ru": "СТ \"Аккорд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45811,7 +45698,7 @@ const Data =
         "short_name": "СТ \"Акіян\"",
         "short_name:be": "СТ \"Акіян\"",
         "short_name:ru": "СТ \"Океан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45838,7 +45725,7 @@ const Data =
         "short_name": "СТ \"Шэмбелеўцы\"",
         "short_name:be": "СТ \"Шэмбелеўцы\"",
         "short_name:ru": "СТ \"Шембелевцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45865,7 +45752,7 @@ const Data =
         "short_name": "СТ \"Ясная Паляна БГГЭ\"",
         "short_name:be": "СТ \"Ясная Паляна БГГЭ\"",
         "short_name:ru": "СТ \"Ясная Поляна БГГЭ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45892,7 +45779,7 @@ const Data =
         "short_name": "СТ \"Крынічка-МРС\"",
         "short_name:be": "СТ \"Крынічка-МРС\"",
         "short_name:ru": "СТ \"Родничок-МРС\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45919,7 +45806,7 @@ const Data =
         "short_name": "СТ \"Пціч\"",
         "short_name:be": "СТ \"Пціч\"",
         "short_name:ru": "СТ \"Птич\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45946,7 +45833,7 @@ const Data =
         "short_name": "СТ \"Пярхурава-2\"",
         "short_name:be": "СТ \"Пярхурава-2\"",
         "short_name:ru": "СТ \"Перхурово-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -45973,7 +45860,7 @@ const Data =
         "short_name": "СТ \"Чыстая Надзея\"",
         "short_name:be": "СТ \"Чыстая Надзея\"",
         "short_name:ru": "СТ \"Чистая Надзея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46000,7 +45887,7 @@ const Data =
         "short_name": "СТ \"Світанак Магілёўскага раёна\"",
         "short_name:be": "СТ \"Світанак Магілёўскага раёна\"",
         "short_name:ru": "СТ \"Рассвет Могилёвского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46027,7 +45914,7 @@ const Data =
         "short_name": "СТ \"Мебельшчык\"",
         "short_name:be": "СТ \"Мебельшчык\"",
         "short_name:ru": "СТ \"Мебельщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46054,7 +45941,7 @@ const Data =
         "short_name": "СТ \"Клімаўка\"",
         "short_name:be": "СТ \"Клімаўка\"",
         "short_name:ru": "СТ \"Климовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46081,7 +45968,7 @@ const Data =
         "short_name": "СТ \"Бабрэц\"",
         "short_name:be": "СТ \"Бабрэц\"",
         "short_name:ru": "СТ \"Бобрец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46108,7 +45995,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46135,7 +46022,7 @@ const Data =
         "short_name": "СТ \"Пералесак\"",
         "short_name:be": "СТ \"Пералесак\"",
         "short_name:ru": "СТ \"Перелесок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46162,7 +46049,7 @@ const Data =
         "short_name": "СТ \"Галактыка\"",
         "short_name:be": "СТ \"Галактыка\"",
         "short_name:ru": "СТ \"Галактика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46189,7 +46076,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46216,7 +46103,7 @@ const Data =
         "short_name": "СТ \"Залатая Восень\"",
         "short_name:be": "СТ \"Залатая Восень\"",
         "short_name:ru": "СТ \"Золотая Осень\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46243,7 +46130,7 @@ const Data =
         "short_name": "СТ \"Доблесць\"",
         "short_name:be": "СТ \"Доблесць\"",
         "short_name:ru": "СТ \"Доблесть\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46270,7 +46157,7 @@ const Data =
         "short_name": "СТ \"Яблычак\"",
         "short_name:be": "СТ \"Яблычак\"",
         "short_name:ru": "СТ \"Яблочко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46297,7 +46184,7 @@ const Data =
         "short_name": "СТ \"Макі\"",
         "short_name:be": "СТ \"Макі\"",
         "short_name:ru": "СТ \"Маки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46324,7 +46211,7 @@ const Data =
         "short_name": "СТ \"Тонус-Баранавічы\"",
         "short_name:be": "СТ \"Тонус-Баранавічы\"",
         "short_name:ru": "СТ \"Тонус-Барановичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46351,7 +46238,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46378,7 +46265,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-Тарусічы\"",
         "short_name:be": "СТ \"Аўтамабіліст-Тарусічы\"",
         "short_name:ru": "СТ \"Автомобилист-Тарусичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46405,7 +46292,7 @@ const Data =
         "short_name": "СТ \"Нёман\"",
         "short_name:be": "СТ \"Нёман\"",
         "short_name:ru": "СТ \"Неман\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46432,7 +46319,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46459,7 +46346,7 @@ const Data =
         "short_name": "СТ \"Мантажнік\"",
         "short_name:be": "СТ \"Мантажнік\"",
         "short_name:ru": "СТ \"Монтажник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46486,7 +46373,7 @@ const Data =
         "short_name": "СТ \"Вікторыя-Баранавічы\"",
         "short_name:be": "СТ \"Вікторыя-Баранавічы\"",
         "short_name:ru": "СТ \"Виктория-Барановичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46513,7 +46400,7 @@ const Data =
         "short_name": "СТ \"Аэрапорт\"",
         "short_name:be": "СТ \"Аэрапорт\"",
         "short_name:ru": "СТ \"Аэропорт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46540,7 +46427,7 @@ const Data =
         "short_name": "СТ \"Усход-8\"",
         "short_name:be": "СТ \"Усход-8\"",
         "short_name:ru": "СТ \"Восход-8\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46567,7 +46454,7 @@ const Data =
         "short_name": "СТ \"Чайка-Тарусічы\"",
         "short_name:be": "СТ \"Чайка-Тарусічы\"",
         "short_name:ru": "СТ \"Чайка-Тарусичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46594,7 +46481,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46621,7 +46508,7 @@ const Data =
         "short_name": "СТ \"Васілёк\"",
         "short_name:be": "СТ \"Васілёк\"",
         "short_name:ru": "СТ \"Василёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46648,7 +46535,7 @@ const Data =
         "short_name": "СТ \"Вікторыя\"",
         "short_name:be": "СТ \"Вікторыя\"",
         "short_name:ru": "СТ \"Виктория\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46675,7 +46562,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46702,7 +46589,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46729,7 +46616,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46756,7 +46643,7 @@ const Data =
         "short_name": "СТ \"Здароўе-2009\"",
         "short_name:be": "СТ \"Здароўе-2009\"",
         "short_name:ru": "СТ \"Здоровье-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46783,7 +46670,7 @@ const Data =
         "short_name": "СТ \"Елачка\"",
         "short_name:be": "СТ \"Елачка\"",
         "short_name:ru": "СТ \"Ёлочка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46810,7 +46697,7 @@ const Data =
         "short_name": "СТ \"Спутнік-2\"",
         "short_name:be": "СТ \"Спутнік-2\"",
         "short_name:ru": "СТ \"Спутник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46837,7 +46724,7 @@ const Data =
         "short_name": "СТ \"Імя 8 сакавіка\"",
         "short_name:be": "СТ \"Імя 8 сакавіка\"",
         "short_name:ru": "СТ \"Имени 8 Марта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46864,7 +46751,7 @@ const Data =
         "short_name": "СТ \"Зялёны Ветразь\"",
         "short_name:be": "СТ \"Зялёны Ветразь\"",
         "short_name:ru": "СТ \"Зеленый Парус\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46891,8 +46778,7 @@ const Data =
         "short_name": "СТ \"Залессе\"",
         "short_name:be": "СТ \"Залессе\"",
         "short_name:ru": "СТ \"Залесье\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -46918,7 +46804,7 @@ const Data =
         "short_name": "СТ \"Хімік-5\"",
         "short_name:be": "СТ \"Хімік-5\"",
         "short_name:ru": "СТ \"Химик-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46945,7 +46831,7 @@ const Data =
         "short_name": "СТ \"Старое Рэчышча\"",
         "short_name:be": "СТ \"Старое Рэчышча\"",
         "short_name:ru": "СТ \"Старое Русло\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46972,7 +46858,7 @@ const Data =
         "short_name": "СТ \"Рэчанька\"",
         "short_name:be": "СТ \"Рэчанька\"",
         "short_name:ru": "СТ \"Реченька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -46999,7 +46885,7 @@ const Data =
         "short_name": "СТ \"Авіятар-2\"",
         "short_name:be": "СТ \"Авіятар-2\"",
         "short_name:ru": "СТ \"Авиатор-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47026,7 +46912,7 @@ const Data =
         "short_name": "СТ \"Крынічка-Пільчукі\"",
         "short_name:be": "СТ \"Крынічка-Пільчукі\"",
         "short_name:ru": "СТ \"Родничок-Пильчуки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47053,7 +46939,7 @@ const Data =
         "short_name": "СТ \"Блакітныя Пруды\"",
         "short_name:be": "СТ \"Блакітныя Пруды\"",
         "short_name:ru": "СТ \"Голубые Пруды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47080,7 +46966,7 @@ const Data =
         "short_name": "СТ \"Блакітныя Пруды\"",
         "short_name:be": "СТ \"Блакітныя Пруды\"",
         "short_name:ru": "СТ \"Голубые Пруды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47107,7 +46993,7 @@ const Data =
         "short_name": "СТ \"Жыллёвік\"",
         "short_name:be": "СТ \"Жыллёвік\"",
         "short_name:ru": "СТ \"Жилищник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47134,7 +47020,7 @@ const Data =
         "short_name": "СТ \"Анёл\"",
         "short_name:be": "СТ \"Анёл\"",
         "short_name:ru": "СТ \"Ангел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47161,7 +47047,7 @@ const Data =
         "short_name": "СТ \"Пралеска-91\"",
         "short_name:be": "СТ \"Пралеска-91\"",
         "short_name:ru": "СТ \"Пралеска-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47188,7 +47074,7 @@ const Data =
         "short_name": "СТ \"Дубчаны\" Лідскага раёна",
         "short_name:be": "СТ \"Дубчаны\" Лідскага раёна",
         "short_name:ru": "СТ \"Дубчаны\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1994-02-17",
         "ref:vatin": "BY590591848",
         "status": "orange"
@@ -47217,7 +47103,7 @@ const Data =
         "short_name": "СТ \"Чыжоўка-Сад\"",
         "short_name:be": "СТ \"Чыжоўка-Сад\"",
         "short_name:ru": "СТ \"Чижовка-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47244,7 +47130,7 @@ const Data =
         "short_name": "СТ \"Пратон\"",
         "short_name:be": "СТ \"Пратон\"",
         "short_name:ru": "СТ \"Протон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47271,7 +47157,7 @@ const Data =
         "short_name": "СТ \"Садавод-2002\"",
         "short_name:be": "СТ \"Садавод-2002\"",
         "short_name:ru": "СТ \"Садовод-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47298,7 +47184,7 @@ const Data =
         "short_name": "СТ \"Спутнік\"",
         "short_name:be": "СТ \"Спутнік\"",
         "short_name:ru": "СТ \"Спутник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47325,7 +47211,7 @@ const Data =
         "short_name": "СТ \"Давыдаўка\"",
         "short_name:be": "СТ \"Давыдаўка\"",
         "short_name:ru": "СТ \"Давыдовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47352,7 +47238,7 @@ const Data =
         "short_name": "СТ \"Металіст\"",
         "short_name:be": "СТ \"Металіст\"",
         "short_name:ru": "СТ \"Металлист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47379,7 +47265,7 @@ const Data =
         "short_name": "СТ \"Іпуць\"",
         "short_name:be": "СТ \"Іпуць\"",
         "short_name:ru": "СТ \"Ипуть\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47406,7 +47292,7 @@ const Data =
         "short_name": "СТ \"Незабудка\"",
         "short_name:be": "СТ \"Незабудка\"",
         "short_name:ru": "СТ \"Незабудка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47433,7 +47319,7 @@ const Data =
         "short_name": "СТ \"Васілёк ГЭС\"",
         "short_name:be": "СТ \"Васілёк ГЭС\"",
         "short_name:ru": "СТ \"Василёк ГЭС\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47460,7 +47346,7 @@ const Data =
         "short_name": "СТ \"Чабарок\"",
         "short_name:be": "СТ \"Чабарок\"",
         "short_name:ru": "СТ \"Чаборок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47487,7 +47373,7 @@ const Data =
         "short_name": "СТ \"Зеніт Пастаўскі\"",
         "short_name:be": "СТ \"Зеніт Пастаўскі\"",
         "short_name:ru": "СТ \"Зенит Поставский\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47514,7 +47400,7 @@ const Data =
         "short_name": "СТ \"Чарняўка\" Лiдскага раёна",
         "short_name:be": "СТ \"Чарняўка\" Лiдскага раёна",
         "short_name:ru": "СТ \"Чернявка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1994-09-20",
         "ref:vatin": "BY591361175",
         "status": "orange"
@@ -47543,7 +47429,7 @@ const Data =
         "short_name": "СТ \"Ліпкі\"",
         "short_name:be": "СТ \"Ліпкі\"",
         "short_name:ru": "СТ \"Липки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47570,7 +47456,7 @@ const Data =
         "short_name": "СТ \"Кабачок\"",
         "short_name:be": "СТ \"Кабачок\"",
         "short_name:ru": "СТ \"Кабачок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47597,7 +47483,7 @@ const Data =
         "short_name": "СТ \"Ніва-1992\"",
         "short_name:be": "СТ \"Ніва-1992\"",
         "short_name:ru": "СТ \"Нива-1992\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47624,7 +47510,7 @@ const Data =
         "short_name": "СТ \"Сосны\"",
         "short_name:be": "СТ \"Сосны\"",
         "short_name:ru": "СТ \"Сосны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47651,7 +47537,7 @@ const Data =
         "short_name": "СТ \"Мядзведжы Лог\"",
         "short_name:be": "СТ \"Мядзведжы Лог\"",
         "short_name:ru": "СТ \"Медвежий Лог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47678,7 +47564,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47705,7 +47591,7 @@ const Data =
         "short_name": "СТ \"Папоўка\"",
         "short_name:be": "СТ \"Папоўка\"",
         "short_name:ru": "СТ \"Поповка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47732,7 +47618,7 @@ const Data =
         "short_name": "СТ \"Гудок\"",
         "short_name:be": "СТ \"Гудок\"",
         "short_name:ru": "СТ \"Гудок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47759,7 +47645,7 @@ const Data =
         "short_name": "СТ \"Рудка\"",
         "short_name:be": "СТ \"Рудка\"",
         "short_name:ru": "СТ \"Рудка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47786,7 +47672,7 @@ const Data =
         "short_name": "СТ \"Вежа\"",
         "short_name:be": "СТ \"Вежа\"",
         "short_name:ru": "СТ \"Башня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47813,7 +47699,7 @@ const Data =
         "short_name": "СТ \"Праталінка\"",
         "short_name:be": "СТ \"Праталінка\"",
         "short_name:ru": "СТ \"Проталинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47840,7 +47726,7 @@ const Data =
         "short_name": "СТ \"Прагрэс\"",
         "short_name:be": "СТ \"Прагрэс\"",
         "short_name:ru": "СТ \"Прогресс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47867,7 +47753,7 @@ const Data =
         "short_name": "СТ \"Светлафор\"",
         "short_name:be": "СТ \"Светлафор\"",
         "short_name:ru": "СТ \"Светофор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47894,7 +47780,7 @@ const Data =
         "short_name": "СТ \"Станкабудаўнік\"",
         "short_name:be": "СТ \"Станкабудаўнік\"",
         "short_name:ru": "СТ \"Станкостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47921,7 +47807,7 @@ const Data =
         "short_name": "СТ \"Ліра\"",
         "short_name:be": "СТ \"Ліра\"",
         "short_name:ru": "СТ \"Лира\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47948,7 +47834,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -47975,7 +47861,7 @@ const Data =
         "short_name": "СТ \"Бярозка-Заполле\"",
         "short_name:be": "СТ \"Бярозка-Заполле\"",
         "short_name:ru": "СТ \"Берёзка-Заполье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060720",
         "status": "orange"
@@ -48004,7 +47890,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\" Лідскага раёна",
         "short_name:be": "СТ \"Сувязіст\" Лідскага раёна",
         "short_name:ru": "СТ \"Связист\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-02",
         "ref:vatin": "BY500060307",
         "status": "orange"
@@ -48033,7 +47919,7 @@ const Data =
         "short_name": "СТ \"Гаёўка\" Лідскага раёна",
         "short_name:be": "СТ \"Гаёўка\" Лідскага раёна",
         "short_name:ru": "СТ \"Гаёвка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-01-24",
         "ref:vatin": "BY500059981",
         "status": "orange"
@@ -48062,7 +47948,7 @@ const Data =
         "short_name": "СТ \"Усходняе Быхаўскага раёна\"",
         "short_name:be": "СТ \"Усходняе Быхаўскага раёна\"",
         "short_name:ru": "СТ \"Восточное Быховского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48089,7 +47975,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48116,7 +48002,7 @@ const Data =
         "short_name": "СТ \"Юрыст-2009\"",
         "short_name:be": "СТ \"Юрыст-2009\"",
         "short_name:ru": "СТ \"Юрист-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48143,7 +48029,7 @@ const Data =
         "short_name": "СТ \"Аграрнік\"",
         "short_name:be": "СТ \"Аграрнік\"",
         "short_name:ru": "СТ \"Аграрник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48170,7 +48056,7 @@ const Data =
         "short_name": "СТ \"Барсукі-Агра\"",
         "short_name:be": "СТ \"Барсукі-Агра\"",
         "short_name:ru": "СТ \"Барсуки-Агро\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48197,7 +48083,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Крываполле\"",
         "short_name:be": "СТ \"Крыніца-Крываполле\"",
         "short_name:ru": "СТ \"Криница-Кривополье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48224,7 +48110,7 @@ const Data =
         "short_name": "СТ \"Гігіяніст-1\"",
         "short_name:be": "СТ \"Гігіяніст-1\"",
         "short_name:ru": "СТ \"Гигиенист-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48251,7 +48137,7 @@ const Data =
         "short_name": "СТ \"Ліра-2\"",
         "short_name:be": "СТ \"Ліра-2\"",
         "short_name:ru": "СТ \"Лира-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48278,7 +48164,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Березка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48305,7 +48191,7 @@ const Data =
         "short_name": "СТ \"Дубрава-2002\"",
         "short_name:be": "СТ \"Дубрава-2002\"",
         "short_name:ru": "СТ \"Дубрава-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48332,7 +48218,7 @@ const Data =
         "short_name": "СТ \"Аптыміст-2002\"",
         "short_name:be": "СТ \"Аптыміст-2002\"",
         "short_name:ru": "СТ \"Оптимист-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48359,7 +48245,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48386,7 +48272,7 @@ const Data =
         "short_name": "СТ \"Садавод\"",
         "short_name:be": "СТ \"Садавод\"",
         "short_name:ru": "СТ \"Садовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48413,7 +48299,7 @@ const Data =
         "short_name": "СТ \"Лента\"",
         "short_name:be": "СТ \"Лента\"",
         "short_name:ru": "СТ \"Лента\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48440,7 +48326,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48455,7 +48341,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -48482,7 +48368,7 @@ const Data =
         "short_name": "СТ \"Ніва-89\"",
         "short_name:be": "СТ \"Ніва-89\"",
         "short_name:ru": "СТ \"Нива-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48509,7 +48395,7 @@ const Data =
         "short_name": "СТ «Аўтамабіліст»",
         "short_name:be": "СТ «Аўтамабіліст»",
         "short_name:ru": "СТ «Автомобилист»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48536,7 +48422,7 @@ const Data =
         "short_name": "СТ \"Друць\"",
         "short_name:be": "СТ \"Друць\"",
         "short_name:ru": "СТ \"Друть\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48563,7 +48449,7 @@ const Data =
         "short_name": "СТ \"Аптыміст\"",
         "short_name:be": "СТ \"Аптыміст\"",
         "short_name:ru": "СТ \"Оптимист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48590,7 +48476,7 @@ const Data =
         "short_name": "СТ \"Вылічальнік\"",
         "short_name:be": "СТ \"Вылічальнік\"",
         "short_name:ru": "СТ \"Вычислитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48617,7 +48503,7 @@ const Data =
         "short_name": "СТ \"Стаматолаг\"",
         "short_name:be": "СТ \"Стаматолаг\"",
         "short_name:ru": "СТ \"Стоматолог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48644,7 +48530,7 @@ const Data =
         "short_name": "СТ \"Пралеска-15\"",
         "short_name:be": "СТ \"Пралеска-15\"",
         "short_name:ru": "СТ \"Пралеска-15\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48671,7 +48557,7 @@ const Data =
         "short_name": "СТ \"Расінка-2008\"",
         "short_name:be": "СТ \"Расінка-2008\"",
         "short_name:ru": "СТ \"Росинка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48698,7 +48584,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48725,7 +48611,7 @@ const Data =
         "short_name": "СТ \"Керамік-2\"",
         "short_name:be": "СТ \"Керамік-2\"",
         "short_name:ru": "СТ \"Керамик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48752,7 +48638,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48779,7 +48665,7 @@ const Data =
         "short_name": "СТ \"Пралесак\"",
         "short_name:be": "СТ \"Пралесак\"",
         "short_name:ru": "СТ \"Пролесок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48806,7 +48692,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык в.Гуслішчы\"",
         "short_name:be": "СТ \"Тэкстыльшчык в.Гуслішчы\"",
         "short_name:ru": "СТ \"Текстильщик д.Гуслищи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48833,7 +48719,7 @@ const Data =
         "short_name": "СТ \"Палітэхнікум-2009\"",
         "short_name:be": "СТ \"Палітэхнікум-2009\"",
         "short_name:ru": "СТ \"Политехникум-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48860,7 +48746,7 @@ const Data =
         "short_name": "СТ \"Энергетык-1\"",
         "short_name:be": "СТ \"Энергетык-1\"",
         "short_name:ru": "СТ \"Энергетик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48887,7 +48773,7 @@ const Data =
         "short_name": "СТ \"Магілеўскі Электрарухавік\"",
         "short_name:be": "СТ \"Магілеўскі Электрарухавік\"",
         "short_name:ru": "СТ \"Могилёвский-Электродвигатель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48914,7 +48800,7 @@ const Data =
         "short_name": "СТ \"Строммашына\"",
         "short_name:be": "СТ \"Строммашына\"",
         "short_name:ru": "СТ \"Строммашина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48941,7 +48827,7 @@ const Data =
         "short_name": "СТ \"Сярэбраная крыніца-2009\"",
         "short_name:be": "СТ \"Сярэбраная крыніца-2009\"",
         "short_name:ru": "СТ \"Серебряный источниик-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48968,7 +48854,7 @@ const Data =
         "short_name": "СТ \"Магілёўскі кожзавод\"",
         "short_name:be": "СТ \"Магілёўскі кожзавод\"",
         "short_name:ru": "СТ \"Могилёвский кожзавод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -48995,7 +48881,7 @@ const Data =
         "short_name": "СТ \"Металург-2008\"",
         "short_name:be": "СТ \"Металург-2008\"",
         "short_name:ru": "СТ \"Металлург-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49022,7 +48908,7 @@ const Data =
         "short_name": "СТ \"Транспартнік\"",
         "short_name:be": "СТ \"Транспартнік\"",
         "short_name:ru": "СТ \"Транспортник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49049,7 +48935,7 @@ const Data =
         "short_name": "СТ \"Хімік-3\"",
         "short_name:be": "СТ \"Хімік-3\"",
         "short_name:ru": "СТ \"Химик-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49076,7 +48962,7 @@ const Data =
         "short_name": "СТ \"Энергетык-Ліда\"",
         "short_name:be": "СТ \"Энергетык-Ліда\"",
         "short_name:ru": "СТ \"Энергетик-Лида\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2005",
         "status": "blue"
       }
@@ -49104,7 +48990,7 @@ const Data =
         "short_name": "СТ \"Дружба-1\"",
         "short_name:be": "СТ \"Дружба-1\"",
         "short_name:ru": "СТ \"Дружба-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2000",
         "status": "blue"
       }
@@ -49132,7 +49018,7 @@ const Data =
         "short_name": "СТ \"Вікторыя-Ліда\"",
         "short_name:be": "СТ \"Вікторыя-Ліда\"",
         "short_name:ru": "СТ \"Виктория-Лида\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2002",
         "status": "blue"
       }
@@ -49160,7 +49046,7 @@ const Data =
         "short_name": "СТ \"Аўтатранспартнік-Ліда\"",
         "short_name:be": "СТ \"Аўтатранспартнік-Ліда\"",
         "short_name:ru": "СТ \"Автотранспортник-Лида\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1969",
         "status": "blue"
       }
@@ -49188,7 +49074,7 @@ const Data =
         "short_name": "СТ \"Абутнік-1\"",
         "short_name:be": "СТ \"Абутнік-1\"",
         "short_name:ru": "СТ \"Обувщик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2001",
         "status": "blue"
       }
@@ -49216,7 +49102,7 @@ const Data =
         "short_name": "СТ \"Бурштын\"",
         "short_name:be": "СТ \"Бурштын\"",
         "short_name:ru": "СТ \"Янтарь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49244,7 +49130,7 @@ const Data =
         "short_name": "СТ \"Світанак-1\"",
         "short_name:be": "СТ \"Світанак-1\"",
         "short_name:ru": "СТ \"Рассвет-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49272,7 +49158,7 @@ const Data =
         "short_name": "СТ \"Малінка\"",
         "short_name:be": "СТ \"Малінка\"",
         "short_name:ru": "СТ \"Малинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49300,7 +49186,7 @@ const Data =
         "short_name": "СТ \"Світанак-2\"",
         "short_name:be": "СТ \"Світанак-2\"",
         "short_name:ru": "СТ \"Рассвет-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2012",
         "status": "blue"
       }
@@ -49328,7 +49214,7 @@ const Data =
         "short_name": "СТ \"Ягадка\"",
         "short_name:be": "СТ \"Ягадка\"",
         "short_name:ru": "СТ \"Ягодка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49356,7 +49242,7 @@ const Data =
         "short_name": "СТ \"Садавічок\"",
         "short_name:be": "СТ \"Садавічок\"",
         "short_name:ru": "СТ \"Садовичок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49384,7 +49270,7 @@ const Data =
         "short_name": "СТ \"Зосіна\"",
         "short_name:be": "СТ \"Зосіна\"",
         "short_name:ru": "СТ \"Зосино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49412,7 +49298,7 @@ const Data =
         "short_name": "СТ \"Зубр\"",
         "short_name:be": "СТ \"Зубр\"",
         "short_name:ru": "СТ \"Зубр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49440,7 +49326,7 @@ const Data =
         "short_name": "СТ \"Зубр\"",
         "short_name:be": "СТ \"Зубр\"",
         "short_name:ru": "СТ \"Зубр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49468,7 +49354,7 @@ const Data =
         "short_name": "СТ \"Абутнік-1\"",
         "short_name:be": "СТ \"Абутнік-1\"",
         "short_name:ru": "СТ \"Обувщик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2001",
         "status": "blue"
       }
@@ -49496,7 +49382,7 @@ const Data =
         "short_name": "СТ \"Васілёк\"",
         "short_name:be": "СТ \"Васілёк\"",
         "short_name:ru": "СТ \"Василёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49524,7 +49410,7 @@ const Data =
         "short_name": "СТ \"Васілёк\"",
         "short_name:be": "СТ \"Васілёк\"",
         "short_name:ru": "СТ \"Василёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49552,7 +49438,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008",
         "status": "blue"
       }
@@ -49580,7 +49466,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2000",
         "status": "blue"
       }
@@ -49608,7 +49494,7 @@ const Data =
         "short_name": "СТ \"Абутнік-1\"",
         "short_name:be": "СТ \"Абутнік-1\"",
         "short_name:ru": "СТ \"Обувщик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2001",
         "status": "blue"
       }
@@ -49636,7 +49522,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49663,7 +49549,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49690,7 +49576,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49717,7 +49603,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Криница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49744,7 +49630,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49771,7 +49657,7 @@ const Data =
         "short_name": "СТ \"Буховічскі дачнік\"",
         "short_name:be": "СТ \"Буховічскі дачнік\"",
         "short_name:ru": "СТ \"Буховичский дачник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -49798,7 +49684,7 @@ const Data =
         "short_name": "СТ \"Чыстыя пруды\"",
         "short_name:be": "СТ \"Чыстыя пруды\"",
         "short_name:ru": "СТ \"Чистые пруды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49825,7 +49711,7 @@ const Data =
         "short_name": "СТ \"Хімік-81\"",
         "short_name:be": "СТ \"Хімік-81\"",
         "short_name:ru": "СТ \"Химик-81\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49852,7 +49738,7 @@ const Data =
         "short_name": "СТ \"Глобус-Знак\"",
         "short_name:be": "СТ \"Глобус-Знак\"",
         "short_name:ru": "СТ \"Глобус-Знак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49879,7 +49765,7 @@ const Data =
         "short_name": "СТ \"Аптавік\"",
         "short_name:be": "СТ \"Аптавік\"",
         "short_name:ru": "СТ \"Оптовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49906,7 +49792,7 @@ const Data =
         "short_name": "СТ \"Плянта-7\"",
         "short_name:be": "СТ \"Плянта-7\"",
         "short_name:ru": "СТ \"Плянта-7\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49933,7 +49819,7 @@ const Data =
         "short_name": "СТ \"Універсал-Сад\"",
         "short_name:be": "СТ \"Універсал-Сад\"",
         "short_name:ru": "СТ \"Универсал-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49960,7 +49846,7 @@ const Data =
         "short_name": "СТ \"Зара-2002\"",
         "short_name:be": "СТ \"Зара-2002\"",
         "short_name:ru": "СТ \"Заря-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -49987,7 +49873,7 @@ const Data =
         "short_name": "СТ «Вясёлка» НПА Сейсматэхніка",
         "short_name:be": "СТ «Вясёлка» НПА Сейсматэхніка",
         "short_name:ru": "СТ «Радуга» НПО Сейсмотехника",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50014,7 +49900,7 @@ const Data =
         "short_name": "СТ «Прыазёрны-ГЗПД»",
         "short_name:be": "СТ «Прыазёрны-ГЗПД»",
         "short_name:ru": "СТ «Приозёрный-ГЗПД»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50041,7 +49927,7 @@ const Data =
         "short_name": "СТ \"Якар\"",
         "short_name:be": "СТ \"Якар\"",
         "short_name:ru": "СТ \"Якорь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50068,7 +49954,7 @@ const Data =
         "short_name": "СТ \"Медыкум\"",
         "short_name:be": "СТ \"Медыкум\"",
         "short_name:ru": "СТ \"Медикум\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50095,7 +49981,7 @@ const Data =
         "short_name": "СТ \"Медыкум\"",
         "short_name:be": "СТ \"Медыкум\"",
         "short_name:ru": "СТ \"Медикум\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50122,7 +50008,7 @@ const Data =
         "short_name": "СТ \"Паўлінка\"",
         "short_name:be": "СТ \"Паўлінка\"",
         "short_name:ru": "СТ \"Павлинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50149,7 +50035,7 @@ const Data =
         "short_name": "СТ \"Энэргабудаўнік\"",
         "short_name:be": "СТ \"Энэргабудаўнік\"",
         "short_name:ru": "СТ \"Энергостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50176,7 +50062,7 @@ const Data =
         "short_name": "СТ \"Фізтэх\"",
         "short_name:be": "СТ \"Фізтэх\"",
         "short_name:ru": "СТ \"Физтех\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50203,7 +50089,7 @@ const Data =
         "short_name": "СТ \"Бадзёрасць-Б\"",
         "short_name:be": "СТ \"Бадзёрасць-Б\"",
         "short_name:ru": "СТ \"Бодрость-Б\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50230,7 +50116,7 @@ const Data =
         "short_name": "СТ \"Здароўе-32\"",
         "short_name:be": "СТ \"Здароўе-32\"",
         "short_name:ru": "СТ \"Здоровье-32\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50257,7 +50143,7 @@ const Data =
         "short_name": "СТ \"Труд-МЗАЛ\"",
         "short_name:be": "СТ \"Труд-МЗАЛ\"",
         "short_name:ru": "СТ \"Труд-МЗАЛ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50284,7 +50170,7 @@ const Data =
         "short_name": "СТ \"Эфір-1\"",
         "short_name:be": "СТ \"Эфір-1\"",
         "short_name:ru": "СТ \"Эфир-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50311,7 +50197,7 @@ const Data =
         "short_name": "СТ \"Агароды СТ Мара\"",
         "short_name:be": "СТ \"Агароды СТ Мара\"",
         "short_name:ru": "СТ \"Огороды СТ Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50338,7 +50224,7 @@ const Data =
         "short_name": "СТ \"Лада\"",
         "short_name:be": "СТ \"Лада\"",
         "short_name:ru": "СТ \"Лада\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50365,7 +50251,7 @@ const Data =
         "short_name": "СТ \"Ягодка\"",
         "short_name:be": "СТ \"Ягодка\"",
         "short_name:ru": "СТ \"Ягодка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50392,7 +50278,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна\"",
         "short_name:be": "СТ \"Лясная паляна\"",
         "short_name:ru": "СТ \"Лесная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50419,7 +50305,7 @@ const Data =
         "short_name": "СТ \"Мостабудаўнік\"",
         "short_name:be": "СТ \"Мостабудаўнік\"",
         "short_name:ru": "СТ \"Мостостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50446,7 +50332,7 @@ const Data =
         "short_name": "СТ \"Магістраль\"",
         "short_name:be": "СТ \"Магістраль\"",
         "short_name:ru": "СТ \"Магистраль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50473,7 +50359,7 @@ const Data =
         "short_name": "СТ \"Журавінка\"",
         "short_name:be": "СТ \"Журавінка\"",
         "short_name:ru": "СТ \"Журавинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50500,7 +50386,7 @@ const Data =
         "short_name": "СТ \"Вольны час працы\"",
         "short_name:be": "СТ \"Вольны час працы\"",
         "short_name:ru": "СТ \"Досуг труду\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50527,7 +50413,7 @@ const Data =
         "short_name": "СТ \"Камунар\"",
         "short_name:be": "СТ \"Камунар\"",
         "short_name:ru": "СТ \"Коммунар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50554,7 +50440,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50581,7 +50467,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Березка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50608,7 +50494,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50635,7 +50521,7 @@ const Data =
         "short_name": "СТ \"Авіятар\"",
         "short_name:be": "СТ \"Авіятар\"",
         "short_name:ru": "СТ \"Авиатор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50662,7 +50548,7 @@ const Data =
         "short_name": "СТ \"Хімік\"",
         "short_name:be": "СТ \"Хімік\"",
         "short_name:ru": "СТ \"Химик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50689,7 +50575,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50716,7 +50602,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Родник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50743,7 +50629,7 @@ const Data =
         "short_name": "СТ \"Кааператар\"",
         "short_name:be": "СТ \"Кааператар\"",
         "short_name:ru": "СТ \"Кооператор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50770,7 +50656,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50797,7 +50683,7 @@ const Data =
         "short_name": "СТ \"Маналіт\"",
         "short_name:be": "СТ \"Маналіт\"",
         "short_name:ru": "СТ \"Монолит\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50824,7 +50710,7 @@ const Data =
         "short_name": "СТ \"Энергетык-1\"",
         "short_name:be": "СТ \"Энергетык-1\"",
         "short_name:ru": "СТ \"Энергетик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50851,7 +50737,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50878,7 +50764,7 @@ const Data =
         "short_name": "СТ \"Вікторыя\"",
         "short_name:be": "СТ \"Вікторыя\"",
         "short_name:ru": "СТ \"Виктория\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50905,7 +50791,7 @@ const Data =
         "short_name": "СТ \"Вікторыя-1\"",
         "short_name:be": "СТ \"Вікторыя-1\"",
         "short_name:ru": "СТ \"Виктория-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50932,7 +50818,7 @@ const Data =
         "short_name": "СТ \"Камунальнік\"",
         "short_name:be": "СТ \"Камунальнік\"",
         "short_name:ru": "СТ \"Коммунальник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50959,7 +50845,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -50986,7 +50872,7 @@ const Data =
         "short_name": "СТ \"Сонечнае-Прагрэс\"",
         "short_name:be": "СТ \"Сонечнае-Прагрэс\"",
         "short_name:ru": "СТ \"Солнечное-Прогресс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51013,7 +50899,7 @@ const Data =
         "short_name": "СТ \"Дружба 80\"",
         "short_name:be": "СТ \"Дружба 80\"",
         "short_name:ru": "СТ \"Дружба 80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51040,7 +50926,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51067,7 +50953,7 @@ const Data =
         "short_name": "СТ «Сасновы Бор-1»",
         "short_name:be": "СТ «Сасновы Бор-1»",
         "short_name:ru": "СТ «Сосновый Бор-1»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51094,7 +50980,7 @@ const Data =
         "short_name": "СТ «Сасновы Бор-2»",
         "short_name:be": "СТ «Сасновы Бор-2»",
         "short_name:ru": "СТ «Сосновый Бор-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51121,7 +51007,7 @@ const Data =
         "short_name": "СТ «Сасновы Бор-2»",
         "short_name:be": "СТ «Сасновы Бор-2»",
         "short_name:ru": "СТ «Сосновый Бор-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51148,7 +51034,7 @@ const Data =
         "short_name": "СТ \"Іслач Кіявец\"",
         "short_name:be": "СТ \"Іслач Кіявец\"",
         "short_name:ru": "СТ \"Ислочь Киевец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51175,7 +51061,7 @@ const Data =
         "short_name": "СТ «Крынічка ЛВЗ»",
         "short_name:be": "СТ «Крынічка ЛВЗ»",
         "short_name:ru": "СТ «Криничка ЛВЗ»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51202,7 +51088,7 @@ const Data =
         "short_name": "СТ «Працаўнiк»",
         "short_name:be": "СТ «Працаўнiк»",
         "short_name:ru": "СТ «Труженик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -51229,8 +51115,8 @@ const Data =
         "short_name": "СТ \"Асанава\"",
         "short_name:be": "СТ \"Асанава\"",
         "short_name:ru": "СТ \"Асаново\"",
-        "place": "allotments",
-        "status": "black"
+        "landuse": "residential",
+        "status": "blue"
       }
     },
     {
@@ -51256,7 +51142,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51283,7 +51169,7 @@ const Data =
         "short_name": "СТ \"Кааператар-1\"",
         "short_name:be": "СТ \"Кааператар-1\"",
         "short_name:ru": "СТ \"Кооператор-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51310,7 +51196,7 @@ const Data =
         "short_name": "СТ \"Вішанька\"",
         "short_name:be": "СТ \"Вішанька\"",
         "short_name:ru": "СТ \"Вишенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51337,7 +51223,7 @@ const Data =
         "short_name": "СТ \"Газавік\"",
         "short_name:be": "СТ \"Газавік\"",
         "short_name:ru": "СТ \"Газовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51364,7 +51250,7 @@ const Data =
         "short_name": "СТ \"Тапалёк\"",
         "short_name:be": "СТ \"Тапалёк\"",
         "short_name:ru": "СТ \"Тополёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51391,7 +51277,7 @@ const Data =
         "short_name": "СТ \"Буг\"",
         "short_name:be": "СТ \"Буг\"",
         "short_name:ru": "СТ \"Буг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51418,7 +51304,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51445,7 +51331,7 @@ const Data =
         "short_name": "СТ \"Рачное\"",
         "short_name:be": "СТ \"Рачное\"",
         "short_name:ru": "СТ \"Речное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51472,7 +51358,7 @@ const Data =
         "short_name": "СТ \"Светлячок\"",
         "short_name:be": "СТ \"Светлячок\"",
         "short_name:ru": "СТ \"Светлячок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51499,7 +51385,7 @@ const Data =
         "short_name": "СТ \"Зара\"",
         "short_name:be": "СТ \"Зара\"",
         "short_name:ru": "СТ \"Заря\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51526,7 +51412,7 @@ const Data =
         "short_name": "СТ \"Прыазёрны\"",
         "short_name:be": "СТ \"Прыазёрны\"",
         "short_name:ru": "СТ \"Приозёрный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51553,7 +51439,7 @@ const Data =
         "short_name": "СТ \"Міхалкавічы\"",
         "short_name:be": "СТ \"Міхалкавічы\"",
         "short_name:ru": "СТ \"Михалковичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51580,7 +51466,7 @@ const Data =
         "short_name": "СТ \"Вешанка\"",
         "short_name:be": "СТ \"Вешанка\"",
         "short_name:ru": "СТ \"Вешенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51607,7 +51493,7 @@ const Data =
         "short_name": "СТ \"Настаўнік\"",
         "short_name:be": "СТ \"Настаўнік\"",
         "short_name:ru": "СТ \"Наставник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51634,7 +51520,7 @@ const Data =
         "short_name": "СТ \"Лясны Гарадок\"",
         "short_name:be": "СТ \"Лясны Гарадок\"",
         "short_name:ru": "СТ \"Лесной Городок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51661,7 +51547,7 @@ const Data =
         "short_name": "СТ \"Язмінавы Гай\"",
         "short_name:be": "СТ \"Язмінавы Гай\"",
         "short_name:ru": "СТ \"Язминовый Гай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51688,7 +51574,7 @@ const Data =
         "short_name": "СТ \"Лотас\"",
         "short_name:be": "СТ \"Лотас\"",
         "short_name:ru": "СТ \"Лотос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51715,7 +51601,7 @@ const Data =
         "short_name": "СТ \"Амельная\"",
         "short_name:be": "СТ \"Амельная\"",
         "short_name:ru": "СТ \"Омельная\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51742,7 +51628,7 @@ const Data =
         "short_name": "СТ \"Пліса\"",
         "short_name:be": "СТ \"Пліса\"",
         "short_name:ru": "СТ \"Плисса\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51769,7 +51655,7 @@ const Data =
         "short_name": "СТ \"Верас\"",
         "short_name:be": "СТ \"Верас\"",
         "short_name:ru": "СТ \"Верас\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51796,7 +51682,7 @@ const Data =
         "short_name": "СТ \"Стаі\"",
         "short_name:be": "СТ \"Стаі\"",
         "short_name:ru": "СТ \"Стаи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51811,7 +51697,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -51838,7 +51724,7 @@ const Data =
         "short_name": "СТ \"Экран\"",
         "short_name:be": "СТ \"Экран\"",
         "short_name:ru": "СТ \"Экран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -51865,7 +51751,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік-2008\"",
         "short_name:be": "СТ \"Рамонтнік-2008\"",
         "short_name:ru": "СТ \"Ремонтник 2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51892,7 +51778,7 @@ const Data =
         "short_name": "СТ \"Узгорʼе\"",
         "short_name:be": "СТ \"Узгорʼе\"",
         "short_name:ru": "СТ \"Узгорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51919,7 +51805,7 @@ const Data =
         "short_name": "СТ \"Гваздзіка\"",
         "short_name:be": "СТ \"Гваздзіка\"",
         "short_name:ru": "СТ \"Гвоздика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51946,7 +51832,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -51973,7 +51859,7 @@ const Data =
         "short_name": "СТ \"Сонечны\"",
         "short_name:be": "СТ \"Сонечны\"",
         "short_name:ru": "СТ \"Солнечный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-09-22",
         "ref:vatin": "BY500060705",
         "status": "orange"
@@ -52002,7 +51888,7 @@ const Data =
         "short_name": "СТ \"Газавік-1988\"",
         "short_name:be": "СТ \"Газавік-1988\"",
         "short_name:ru": "СТ \"Газовик-1988\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52029,7 +51915,7 @@ const Data =
         "short_name": "СТ \"Сосны-2008\"",
         "short_name:be": "СТ \"Сосны-2008\"",
         "short_name:ru": "СТ \"Сосны-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52056,7 +51942,7 @@ const Data =
         "short_name": "СТ \"Сілікатчык-82\"",
         "short_name:be": "СТ \"Сілікатчык-82\"",
         "short_name:ru": "СТ \"Силикатчик-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52083,7 +51969,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52110,7 +51996,7 @@ const Data =
         "short_name": "СТ \"Раніца\"",
         "short_name:be": "СТ \"Раніца\"",
         "short_name:ru": "СТ \"Раница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52137,7 +52023,7 @@ const Data =
         "short_name": "СТ \"Удача\"",
         "short_name:be": "СТ \"Удача\"",
         "short_name:ru": "СТ \"Удача\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52164,7 +52050,7 @@ const Data =
         "short_name": "СТ \"Крыніца\" Лідскага раёна",
         "short_name:be": "СТ \"Крыніца\" Лідскага раёна",
         "short_name:ru": "СТ \"Крыница\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-11-22",
         "ref:vatin": "BY500060654",
         "status": "orange"
@@ -52193,7 +52079,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52220,7 +52106,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52247,7 +52133,7 @@ const Data =
         "short_name": "СТ \"Кааператар\"",
         "short_name:be": "СТ \"Кааператар\"",
         "short_name:ru": "СТ \"Кооператор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52274,7 +52160,7 @@ const Data =
         "short_name": "СТ \"Маладзёжнае\"",
         "short_name:be": "СТ \"Маладзёжнае\"",
         "short_name:ru": "СТ \"Молодёжное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52301,7 +52187,7 @@ const Data =
         "short_name": "СТ \"Айва\"",
         "short_name:be": "СТ \"Айва\"",
         "short_name:ru": "СТ \"Айва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52328,7 +52214,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52355,7 +52241,7 @@ const Data =
         "short_name": "СТ \"Ранет\"",
         "short_name:be": "СТ \"Ранет\"",
         "short_name:ru": "СТ \"Ранет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52382,7 +52268,7 @@ const Data =
         "short_name": "СТ \"Араты\"",
         "short_name:be": "СТ \"Араты\"",
         "short_name:ru": "СТ \"Араты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52409,7 +52295,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52436,7 +52322,7 @@ const Data =
         "short_name": "СТ \"Котра\"",
         "short_name:be": "СТ \"Котра\"",
         "short_name:ru": "СТ \"Котра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52463,7 +52349,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52490,7 +52376,7 @@ const Data =
         "short_name": "СТ \"Вішанька\"",
         "short_name:be": "СТ \"Вішанька\"",
         "short_name:ru": "СТ \"Вишенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52517,7 +52403,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\" Лідскага раёна",
         "short_name:be": "СТ \"Будаўнік\" Лідскага раёна",
         "short_name:ru": "СТ \"Строитель\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "plots": "27",
         "ref:vatin": "BY500060401",
@@ -52547,7 +52433,7 @@ const Data =
         "short_name": "СТ \"Сонейка\" Лідскага раёна",
         "short_name:be": "СТ \"Сонейка\" Лідскага раёна",
         "short_name:ru": "СТ \"Солнышко\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1988-12-29",
         "plots": "94",
         "ref:vatin": "BY500060164",
@@ -52577,7 +52463,7 @@ const Data =
         "short_name": "СТ \"Крыніца\" Лідскага раёна",
         "short_name:be": "СТ \"Крыніца\" Лідскага раёна",
         "short_name:ru": "СТ \"Родник\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1988-12-29",
         "plots": "90",
         "ref:vatin": "BY500060389",
@@ -52607,7 +52493,7 @@ const Data =
         "short_name": "СТ \"Кааператар\" Лідскага раёна",
         "short_name:be": "СТ \"Кааператар\" Лідскага раёна",
         "short_name:ru": "СТ \"Кооператор\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1982-09-01",
         "plots": "200",
         "ref:vatin": "BY500060151",
@@ -52637,7 +52523,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52664,7 +52550,7 @@ const Data =
         "short_name": "СТ \"Віраж\"",
         "short_name:be": "СТ \"Віраж\"",
         "short_name:ru": "СТ \"Вираж\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52691,7 +52577,7 @@ const Data =
         "short_name": "СТ \"Незабудка\"",
         "short_name:be": "СТ \"Незабудка\"",
         "short_name:ru": "СТ \"Незабудка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -52718,7 +52604,7 @@ const Data =
         "short_name": "СТ \"Дарожнік-Астроўля\"",
         "short_name:be": "СТ \"Дарожнік-Астроўля\"",
         "short_name:ru": "СТ \"Дорожник-Островля\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "ref:vatin": "BY500060177",
         "status": "orange"
@@ -52747,7 +52633,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна\" Лідскага раёна",
         "short_name:be": "СТ \"Лясная паляна\" Лідскага раёна",
         "short_name:ru": "СТ \"Лесная поляна\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "ref:vatin": "BY500060202",
         "status": "orange"
@@ -52776,7 +52662,7 @@ const Data =
         "short_name": "СТ \"Дружба-2\" Лідскага раёна",
         "short_name:be": "СТ \"Дружба-2\" Лідскага раёна",
         "short_name:ru": "СТ \"Дружба-2\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "ref:vatin": "BY500060958",
         "status": "orange"
@@ -52805,7 +52691,7 @@ const Data =
         "short_name": "СТ \"Дружба\" Лидского района",
         "short_name:be": "СТ \"Дружба\" Лидского района",
         "short_name:ru": "СТ \"Дружба\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "ref:vatin": "BY500060269",
         "status": "orange"
@@ -52834,7 +52720,7 @@ const Data =
         "short_name": "СТ \"Медык\" вёскі Астроўля Лідскага раёна",
         "short_name:be": "СТ \"Медык\" вёскі Астроўля Лідскага раёна",
         "short_name:ru": "СТ \"Медик\" деревни Островля Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-05-06",
         "ref:vatin": "BY500060098",
         "status": "orange"
@@ -52863,7 +52749,7 @@ const Data =
         "short_name": "СТ \"Маланка\" Лідскага раёна",
         "short_name:be": "СТ \"Маланка\" Лідскага раёна",
         "short_name:ru": "СТ \"Молния\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "ref:vatin": "BY500060761",
         "status": "orange"
@@ -52892,7 +52778,7 @@ const Data =
         "short_name": "СТ \"Колас-Астроўля\" Лидского района",
         "short_name:be": "СТ \"Колас-Астроўля\" Лидского района",
         "short_name:ru": "СТ \"Колос-Островля\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500071305",
         "status": "orange"
@@ -52921,7 +52807,7 @@ const Data =
         "short_name": "СТ \"Сасновае\" Лідскага раёна",
         "short_name:be": "СТ \"Сасновае\" Лідскага раёна",
         "short_name:ru": "СТ \"Сосновое\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-27",
         "ref:vatin": "BY500060215",
         "status": "orange"
@@ -52950,7 +52836,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\" Лидского района",
         "short_name:be": "СТ \"Лакаматыў\" Лидского района",
         "short_name:ru": "СТ \"Локомотив\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "ref:vatin": "BY500060718",
         "status": "orange"
@@ -52979,7 +52865,7 @@ const Data =
         "short_name": "СТ \"Дайнова-1\" Лідскага раёна",
         "short_name:be": "СТ \"Дайнова-1\" Лідскага раёна",
         "short_name:ru": "СТ \"Дайнова-1\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-12-17",
         "ref:vatin": "BY500060639",
         "status": "orange"
@@ -53008,7 +52894,7 @@ const Data =
         "short_name": "СТ \"Бярозка\" горада Ліда",
         "short_name:be": "СТ \"Бярозка\" горада Ліда",
         "short_name:ru": "СТ \"Берёзка\" города Лида",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-09",
         "ref:vatin": "BY500060825",
         "status": "orange"
@@ -53037,7 +52923,7 @@ const Data =
         "short_name": "СТ \"Надзея\" Лідскага раёна",
         "short_name:be": "СТ \"Надзея\" Лідскага раёна",
         "short_name:ru": "СТ \"Надея\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-03-31",
         "ref:vatin": "BY500060787",
         "status": "orange"
@@ -53066,7 +52952,7 @@ const Data =
         "short_name": "СТ \"Сямашкі\" Лідскага раёна",
         "short_name:be": "СТ \"Сямашкі\" Лідскага раёна",
         "short_name:ru": "СТ \"Семашки\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1997-06-17",
         "ref:vatin": "BY590231284",
         "status": "orange"
@@ -53095,7 +52981,7 @@ const Data =
         "short_name": "СТ \"Спутнік\" Лідскага раёна",
         "short_name:be": "СТ \"Спутнік\" Лідскага раёна",
         "short_name:ru": "СТ \"Спутник\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1988-12-29",
         "ref:vatin": "BY500060230",
         "status": "orange"
@@ -53124,7 +53010,7 @@ const Data =
         "short_name": "СТ \"Свет\" Лідскага раёна",
         "short_name:be": "СТ \"Свет\" Лідскага раёна",
         "short_name:ru": "СТ \"Свет\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1988-08-02",
         "ref:vatin": "BY500060003",
         "status": "orange"
@@ -53153,7 +53039,7 @@ const Data =
         "short_name": "СТ \"Курган\" Лідскага раёна",
         "short_name:be": "СТ \"Курган\" Лідскага раёна",
         "short_name:ru": "СТ \"Курган\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060228",
         "status": "orange"
@@ -53182,7 +53068,7 @@ const Data =
         "short_name": "СТ \"Расінка\" Лідскага раёна",
         "short_name:be": "СТ \"Расінка\" Лідскага раёна",
         "short_name:ru": "СТ \"Росинка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1988-12-29",
         "ref:vatin": "BY500060932",
         "status": "orange"
@@ -53211,7 +53097,7 @@ const Data =
         "short_name": "СТ \"Вавёрачка\" Лідскага раёна",
         "short_name:be": "СТ \"Вавёрачка\" Лідскага раёна",
         "short_name:ru": "СТ \"Белочка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-08-25",
         "ref:vatin": "BY590829061",
         "status": "orange"
@@ -53240,7 +53126,7 @@ const Data =
         "short_name": "СТ \"Рачное\" Лідскага раёна",
         "short_name:be": "СТ \"Рачное\" Лідскага раёна",
         "short_name:ru": "СТ \"Речное\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060470",
         "status": "orange"
@@ -53269,7 +53155,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-2\"",
         "short_name:be": "СТ \"Аўтамабіліст-2\"",
         "short_name:ru": "СТ \"Автомобилист-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060149",
         "status": "orange"
@@ -53298,7 +53184,7 @@ const Data =
         "short_name": "СТ \"Абутнік-2\"",
         "short_name:be": "СТ \"Абутнік-2\"",
         "short_name:ru": "СТ \"Обувщик-2\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060072",
         "status": "orange"
@@ -53327,7 +53213,7 @@ const Data =
         "short_name": "СТ \"Дзітва-Даржы\"",
         "short_name:be": "СТ \"Дзітва-Даржы\"",
         "short_name:ru": "СТ \"Дитва-Доржи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060243",
         "status": "orange"
@@ -53356,7 +53242,7 @@ const Data =
         "short_name": "СТ \"Ніва\" Лідскага раёна",
         "short_name:be": "СТ \"Ніва\" Лідскага раёна",
         "short_name:ru": "СТ \"Нива\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-05-06",
         "ref:vatin": "BY500060455",
         "status": "orange"
@@ -53385,7 +53271,7 @@ const Data =
         "short_name": "СТ \"Пішчавік\" Лідскага раёна",
         "short_name:be": "СТ \"Пішчавік\" Лідскага раёна",
         "short_name:ru": "СТ \"Пищевик\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500059979",
         "status": "orange"
@@ -53414,7 +53300,7 @@ const Data =
         "short_name": "СТ \"Зорачка\" Лідскага раёна",
         "short_name:be": "СТ \"Зорачка\" Лідскага раёна",
         "short_name:ru": "СТ \"Звёздочка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500060085",
         "status": "orange"
@@ -53443,7 +53329,7 @@ const Data =
         "short_name": "СТ \"Сэрвіс-2\" Лідскага раёна",
         "short_name:be": "СТ \"Сэрвіс-2\" Лідскага раёна",
         "short_name:ru": "СТ \"Сервис-2\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-09-22",
         "ref:vatin": "BY500060774",
         "status": "orange"
@@ -53472,7 +53358,7 @@ const Data =
         "short_name": "СТ \"Оазіс\" Лідского раёна",
         "short_name:be": "СТ \"Оазіс\" Лідского раёна",
         "short_name:ru": "СТ \"Оазис\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-08-25",
         "ref:vatin": "BY500060682",
         "status": "orange"
@@ -53501,7 +53387,7 @@ const Data =
         "short_name": "СТ \"Прынёманскае\" Лідскага раёна",
         "short_name:be": "СТ \"Прынёманскае\" Лідскага раёна",
         "short_name:ru": "СТ \"Принеманское\" Лидского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060123",
         "status": "orange"
@@ -53530,7 +53416,7 @@ const Data =
         "short_name": "СТ \"Верасы\" Лідскага раёна",
         "short_name:be": "СТ \"Верасы\" Лідскага раёна",
         "short_name:ru": "СТ \"Верасы\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-09-16",
         "ref:vatin": "BY500060496",
         "status": "orange"
@@ -53559,7 +53445,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\" Лідскага раёна",
         "short_name:be": "СТ \"Вясёлка\" Лідскага раёна",
         "short_name:ru": "СТ \"Вясёлка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060894",
         "status": "orange"
@@ -53588,7 +53474,7 @@ const Data =
         "short_name": "СТ \"Журавінка\" Лідскага раёна",
         "short_name:be": "СТ \"Журавінка\" Лідскага раёна",
         "short_name:ru": "СТ \"Журавинка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060641",
         "status": "orange"
@@ -53617,7 +53503,7 @@ const Data =
         "short_name": "СТ \"Біруза\" Лідскага раёна",
         "short_name:be": "СТ \"Біруза\" Лідскага раёна",
         "short_name:ru": "СТ \"Бирюза\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060881",
         "status": "orange"
@@ -53646,7 +53532,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надзея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992",
         "status": "blue"
       }
@@ -53674,7 +53560,7 @@ const Data =
         "short_name": "СТ \"Пралеска\" Лідскага раёна",
         "short_name:be": "СТ \"Пралеска\" Лідскага раёна",
         "short_name:ru": "СТ \"Пралеска\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060667",
         "status": "orange"
@@ -53703,7 +53589,7 @@ const Data =
         "short_name": "СТ \"Мара\" Лідскага раёна",
         "short_name:be": "СТ \"Мара\" Лідскага раёна",
         "short_name:ru": "СТ \"Мара\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060110",
         "status": "orange"
@@ -53732,7 +53618,7 @@ const Data =
         "short_name": "СТ \"Прамень\" Лідскага раёна",
         "short_name:be": "СТ \"Прамень\" Лідскага раёна",
         "short_name:ru": "СТ \"Прамень\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060136",
         "status": "orange"
@@ -53761,7 +53647,7 @@ const Data =
         "short_name": "СТ \"Світанак\" Лідскага раёна",
         "short_name:be": "СТ \"Світанак\" Лідскага раёна",
         "short_name:ru": "СТ \"Свитанок\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060108",
         "status": "orange"
@@ -53790,7 +53676,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\" Лідскага раёна",
         "short_name:be": "СТ \"Дарожнік\" Лідскага раёна",
         "short_name:ru": "СТ \"Дорожник\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2009-08-10",
         "ref:vatin": "BY590930789",
         "status": "orange"
@@ -53819,7 +53705,7 @@ const Data =
         "short_name": "СТ \"Азёрнае-3\" Лідскага раёна",
         "short_name:be": "СТ \"Азёрнае-3\" Лідскага раёна",
         "short_name:ru": "СТ \"Озёрное-3\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1981-03-19",
         "ref:vatin": "BY500060029",
         "status": "orange"
@@ -53848,7 +53734,7 @@ const Data =
         "short_name": "СТ \"Прыазёрнае\" Лідскага раёна",
         "short_name:be": "СТ \"Прыазёрнае\" Лідскага раёна",
         "short_name:ru": "СТ \"Приозёрное\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060044",
         "status": "orange"
@@ -53877,7 +53763,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-1\" Лідскага раёна",
         "short_name:be": "СТ \"Аўтамабіліст-1\" Лідскага раёна",
         "short_name:ru": "СТ \"Автомобилист-1\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2007-06-11",
         "ref:vatin": "BY590222051",
         "status": "orange"
@@ -53906,7 +53792,7 @@ const Data =
         "short_name": "СТ \"Камунальнік\" Лідскага раёна",
         "short_name:be": "СТ \"Камунальнік\" Лідскага раёна",
         "short_name:ru": "СТ \"Коммунальник\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060391",
         "status": "orange"
@@ -53935,7 +53821,7 @@ const Data =
         "short_name": "СТ \"Бытавік\" Лідскага раёна",
         "short_name:be": "СТ \"Бытавік\" Лідскага раёна",
         "short_name:ru": "СТ \"Бытовик\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060838",
         "status": "orange"
@@ -53964,7 +53850,7 @@ const Data =
         "short_name": "СТ \"Аўтарамонтнік\" Лідскага раёна",
         "short_name:be": "СТ \"Аўтарамонтнік\" Лідскага раёна",
         "short_name:ru": "СТ \"Авторемонтник\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060031",
         "status": "orange"
@@ -53993,7 +53879,7 @@ const Data =
         "short_name": "СТ \"Канцэнтратчык\"",
         "short_name:be": "СТ \"Канцэнтратчык\"",
         "short_name:ru": "СТ \"Концентратчик\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060256",
         "status": "orange"
@@ -54022,7 +53908,7 @@ const Data =
         "short_name": "СТ \"Нізоўе\"",
         "short_name:be": "СТ \"Нізоўе\"",
         "short_name:ru": "СТ \"Низовье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54049,7 +53935,7 @@ const Data =
         "short_name": "СТ \"Міжкалгасбуд\"",
         "short_name:be": "СТ \"Міжкалгасбуд\"",
         "short_name:ru": "СТ \"Межколхозстрой\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54076,7 +53962,7 @@ const Data =
         "short_name": "СТ \"Расквіт\"",
         "short_name:be": "СТ \"Расквіт\"",
         "short_name:ru": "СТ \"Росквит\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54103,7 +53989,7 @@ const Data =
         "short_name": "СТ \"Ведрыца\"",
         "short_name:be": "СТ \"Ведрыца\"",
         "short_name:ru": "СТ \"Ведрица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54130,7 +54016,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54157,7 +54043,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54184,7 +54070,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54211,7 +54097,7 @@ const Data =
         "short_name": "СТ \"Задворанцы\"",
         "short_name:be": "СТ \"Задворанцы\"",
         "short_name:ru": "СТ \"Задворанцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54229,7 +54115,7 @@ const Data =
         "name": "Дубравы",
         "name:be": "Дубравы",
         "name:ru": "Дубравы",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -54256,7 +54142,7 @@ const Data =
         "short_name": "СТ \"Садружнасць\"",
         "short_name:be": "СТ \"Садружнасць\"",
         "short_name:ru": "СТ \"Садружнасць\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54283,7 +54169,7 @@ const Data =
         "short_name": "СТ \"Санаторый Ваўкавыск\"",
         "short_name:be": "СТ \"Санаторый Ваўкавыск\"",
         "short_name:ru": "СТ \"Санаторий Волковыск\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54310,7 +54196,7 @@ const Data =
         "short_name": "СТ \"Зялёны Луг\"",
         "short_name:be": "СТ \"Зялёны Луг\"",
         "short_name:ru": "СТ \"Зелёный Луг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54337,7 +54223,7 @@ const Data =
         "short_name": "СТ \"Электрон\"",
         "short_name:be": "СТ \"Электрон\"",
         "short_name:ru": "СТ \"Электрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54364,7 +54250,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54391,7 +54277,7 @@ const Data =
         "short_name": "СТ \"Абутнік\"",
         "short_name:be": "СТ \"Абутнік\"",
         "short_name:ru": "СТ \"Обувщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54418,7 +54304,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Крыница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54445,7 +54331,7 @@ const Data =
         "short_name": "СТ \"Каммунальнік-2\"",
         "short_name:be": "СТ \"Каммунальнік-2\"",
         "short_name:ru": "СТ \"Коммунальник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54472,7 +54358,7 @@ const Data =
         "short_name": "СТ \"Бэз\"",
         "short_name:be": "СТ \"Бэз\"",
         "short_name:ru": "СТ \"Сирень\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54499,7 +54385,7 @@ const Data =
         "short_name": "СТ \"Вышыня\"",
         "short_name:be": "СТ \"Вышыня\"",
         "short_name:ru": "СТ \"Высота\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54526,7 +54412,7 @@ const Data =
         "short_name": "СТ \"Ваўкавыскі энергетык\"",
         "short_name:be": "СТ \"Ваўкавыскі энергетык\"",
         "short_name:ru": "СТ \"Волковысский энергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54553,7 +54439,7 @@ const Data =
         "short_name": "СТ \"Машынабудаўнік\"",
         "short_name:be": "СТ \"Машынабудаўнік\"",
         "short_name:ru": "СТ \"Машиностроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54580,7 +54466,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\"",
         "short_name:be": "СТ \"Лакаматыў\"",
         "short_name:ru": "СТ \"Локомотив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54607,7 +54493,7 @@ const Data =
         "short_name": "СТ \"Зялёны Луг\"",
         "short_name:be": "СТ \"Зялёны Луг\"",
         "short_name:ru": "СТ \"Зелёный Луг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54634,7 +54520,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54661,7 +54547,7 @@ const Data =
         "short_name": "СТ \"Ліцейшчык\"",
         "short_name:be": "СТ \"Ліцейшчык\"",
         "short_name:ru": "СТ \"Литейщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54688,7 +54574,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54715,7 +54601,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54742,7 +54628,7 @@ const Data =
         "short_name": "СТ \"Лясная спадчына\"",
         "short_name:be": "СТ \"Лясная спадчына\"",
         "short_name:ru": "СТ \"Лесная Спадчина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54769,7 +54655,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі\"",
         "short_name:be": "СТ \"Чаромушкі\"",
         "short_name:ru": "СТ \"Черёмушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54796,7 +54682,7 @@ const Data =
         "short_name": "СТ \"Камунальнік\"",
         "short_name:be": "СТ \"Камунальнік\"",
         "short_name:ru": "СТ \"Коммунальник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54823,7 +54709,7 @@ const Data =
         "short_name": "СТ \"Граніт-Плюс\"",
         "short_name:be": "СТ \"Граніт-Плюс\"",
         "short_name:ru": "СТ \"Гранит-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54850,7 +54736,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54877,7 +54763,7 @@ const Data =
         "short_name": "СТ \"Металіст\"",
         "short_name:be": "СТ \"Металіст\"",
         "short_name:ru": "СТ \"Металлист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54904,7 +54790,7 @@ const Data =
         "short_name": "СТ \"Буслы\"",
         "short_name:be": "СТ \"Буслы\"",
         "short_name:ru": "СТ \"Аисты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54931,7 +54817,7 @@ const Data =
         "short_name": "СТ \"Вагоннік\"",
         "short_name:be": "СТ \"Вагоннік\"",
         "short_name:ru": "СТ \"Вагонник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54958,7 +54844,7 @@ const Data =
         "short_name": "СТ \"Станцыя Ваўкавыск\"",
         "short_name:be": "СТ \"Станцыя Ваўкавыск\"",
         "short_name:ru": "СТ \"Станция Волковыск\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -54985,7 +54871,7 @@ const Data =
         "short_name": "СТ «Будаўнік ААТ МПМК-142»",
         "short_name:be": "СТ «Будаўнік ААТ МПМК-142»",
         "short_name:ru": "СТ «Строитель ОАО МПМК-142»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55012,7 +54898,7 @@ const Data =
         "short_name": "СТ \"Грамхарч\"",
         "short_name:be": "СТ \"Грамхарч\"",
         "short_name:ru": "СТ \"Общепит\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55039,7 +54925,7 @@ const Data =
         "short_name": "СТ «Будаўнік ААТ «ПМК-143»",
         "short_name:be": "СТ «Будаўнік ААТ «ПМК-143»",
         "short_name:ru": "СТ «Строитель ОАО «ПМК-143»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -55066,7 +54952,7 @@ const Data =
         "short_name": "СТ \"Аўтобусны парк №4\"",
         "short_name:be": "СТ \"Аўтобусны парк №4\"",
         "short_name:ru": "СТ \"Автобусный парк №4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55093,7 +54979,7 @@ const Data =
         "short_name": "СТ \"Тры суседа\"",
         "short_name:be": "СТ \"Тры суседа\"",
         "short_name:ru": "СТ \"Три соседа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55120,7 +55006,7 @@ const Data =
         "short_name": "СТ \"Святлана\"",
         "short_name:be": "СТ \"Святлана\"",
         "short_name:ru": "СТ \"Светлана\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55147,7 +55033,7 @@ const Data =
         "short_name": "СТ \"Навука-92\"",
         "short_name:be": "СТ \"Навука-92\"",
         "short_name:ru": "СТ \"Наука-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55174,7 +55060,7 @@ const Data =
         "short_name": "СТ \"Зара-2\"",
         "short_name:be": "СТ \"Зара-2\"",
         "short_name:ru": "СТ \"Заря-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55201,7 +55087,7 @@ const Data =
         "short_name": "СТ \"Журавінка-2008\"",
         "short_name:be": "СТ \"Журавінка-2008\"",
         "short_name:ru": "СТ \"Журавинка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55228,7 +55114,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надзея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55255,7 +55141,7 @@ const Data =
         "short_name": "СТ \"Жнівень-1990\"",
         "short_name:be": "СТ \"Жнівень-1990\"",
         "short_name:ru": "СТ \"Жнивень-1990\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55282,7 +55168,7 @@ const Data =
         "short_name": "СТ \"Мелодыя-Валокі\"",
         "short_name:be": "СТ \"Мелодыя-Валокі\"",
         "short_name:ru": "СТ \"Мелодия-Волоки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55309,7 +55195,7 @@ const Data =
         "short_name": "СТ \"Прагрэс-Салігорск\"",
         "short_name:be": "СТ \"Прагрэс-Салігорск\"",
         "short_name:ru": "СТ \"Прогресс-Солигорск\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55336,7 +55222,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55363,7 +55249,7 @@ const Data =
         "short_name": "СТ \"Дзьмухавец\"",
         "short_name:be": "СТ \"Дзьмухавец\"",
         "short_name:ru": "СТ \"Одуванчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55390,7 +55276,7 @@ const Data =
         "short_name": "СТ \"Лоша\"",
         "short_name:be": "СТ \"Лоша\"",
         "short_name:ru": "СТ \"Лоша\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55417,7 +55303,7 @@ const Data =
         "short_name": "СТ \"Каскад Плюс\"",
         "short_name:be": "СТ \"Каскад Плюс\"",
         "short_name:ru": "СТ \"Каскад Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55444,7 +55330,7 @@ const Data =
         "short_name": "СТ \"Зарэчча\"",
         "short_name:be": "СТ \"Зарэчча\"",
         "short_name:ru": "СТ \"Заречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55471,7 +55357,7 @@ const Data =
         "short_name": "СТ \"Торчыцы\"",
         "short_name:be": "СТ \"Торчыцы\"",
         "short_name:ru": "СТ \"Торчицы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55498,7 +55384,7 @@ const Data =
         "short_name": "СТ \"Індустрыя\" Лідскага раёна",
         "short_name:be": "СТ \"Індустрыя\" Лідскага раёна",
         "short_name:ru": "СТ \"Индустрия\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-03-16",
         "ref:vatin": "BY500060866",
         "status": "orange"
@@ -55527,7 +55413,7 @@ const Data =
         "short_name": "СТ \"Канструкцыя\" Лідскага раёна",
         "short_name:be": "СТ \"Канструкцыя\" Лідскага раёна",
         "short_name:ru": "СТ \"Конструкция\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-10-20",
         "ref:vatin": "BY500060600",
         "status": "orange"
@@ -55556,7 +55442,7 @@ const Data =
         "short_name": "СТ \"Рамонак\" Лідскага раёна",
         "short_name:be": "СТ \"Рамонак\" Лідскага раёна",
         "short_name:ru": "СТ \"Ромашка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-05-28",
         "ref:vatin": "BY500060519",
         "status": "orange"
@@ -55585,7 +55471,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55612,7 +55498,7 @@ const Data =
         "short_name": "СТ \"Багута-2\"",
         "short_name:be": "СТ \"Багута-2\"",
         "short_name:ru": "СТ \"Багута-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55639,7 +55525,7 @@ const Data =
         "short_name": "СТ \"Усход-91\"",
         "short_name:be": "СТ \"Усход-91\"",
         "short_name:ru": "СТ \"Восход-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55666,7 +55552,7 @@ const Data =
         "short_name": "СТ \"Усяжа\"",
         "short_name:be": "СТ \"Усяжа\"",
         "short_name:ru": "СТ \"Усяжа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55693,7 +55579,7 @@ const Data =
         "short_name": "СТ \"Квант\"",
         "short_name:be": "СТ \"Квант\"",
         "short_name:ru": "СТ \"Квант\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55720,7 +55606,7 @@ const Data =
         "short_name": "СТ «Будаўнік-сантэхнік»",
         "short_name:be": "СТ «Будаўнік-сантэхнік»",
         "short_name:ru": "СТ «Строитель-сантехник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55747,7 +55633,7 @@ const Data =
         "short_name": "СТ \"Імпульс\"",
         "short_name:be": "СТ \"Імпульс\"",
         "short_name:ru": "СТ \"Импульс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55774,7 +55660,7 @@ const Data =
         "short_name": "СТ \"Бярэзіна\"",
         "short_name:be": "СТ \"Бярэзіна\"",
         "short_name:ru": "СТ \"Березина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55801,7 +55687,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55828,7 +55714,7 @@ const Data =
         "short_name": "СТ \"Іслач\"",
         "short_name:be": "СТ \"Іслач\"",
         "short_name:ru": "СТ \"Ислочь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55855,7 +55741,7 @@ const Data =
         "short_name": "СТ \"Лучажэвічы\"",
         "short_name:be": "СТ \"Лучажэвічы\"",
         "short_name:ru": "СТ \"Лучежевичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55882,7 +55768,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55909,7 +55795,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55936,7 +55822,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55963,7 +55849,7 @@ const Data =
         "short_name": "СТ \"Цяплічка\"",
         "short_name:be": "СТ \"Цяплічка\"",
         "short_name:ru": "СТ \"Тепличка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -55990,7 +55876,7 @@ const Data =
         "short_name": "СТ \"Экспрэс-5\"",
         "short_name:be": "СТ \"Экспрэс-5\"",
         "short_name:ru": "СТ \"Экспресс-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56017,7 +55903,7 @@ const Data =
         "short_name": "СТ \"Барыскавічы\"",
         "short_name:be": "СТ \"Барыскавічы\"",
         "short_name:ru": "СТ \"Борисковичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56044,7 +55930,7 @@ const Data =
         "short_name": "СТ \"Селец\"",
         "short_name:be": "СТ \"Селец\"",
         "short_name:ru": "СТ \"Селец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56071,7 +55957,7 @@ const Data =
         "short_name": "СТ \"Прыазёрнае-2\"",
         "short_name:be": "СТ \"Прыазёрнае-2\"",
         "short_name:ru": "СТ \"Приозёрное-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56098,7 +55984,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пралеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56125,7 +56011,7 @@ const Data =
         "short_name": "СТ \"Ягаднае\"",
         "short_name:be": "СТ \"Ягаднае\"",
         "short_name:ru": "СТ \"Ягодное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56152,7 +56038,7 @@ const Data =
         "short_name": "СТ \"Аграфітнэс\"",
         "short_name:be": "СТ \"Аграфітнэс\"",
         "short_name:ru": "СТ \"Агрофитнес\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56179,7 +56065,7 @@ const Data =
         "short_name": "СТ \"Чараўніца\"",
         "short_name:be": "СТ \"Чараўніца\"",
         "short_name:ru": "СТ \"Чаровница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-04-22",
         "ref:vatin": "BY500059966",
         "status": "orange"
@@ -56208,7 +56094,7 @@ const Data =
         "short_name": "СТ \"Рамонак-МАЗ\"",
         "short_name:be": "СТ \"Рамонак-МАЗ\"",
         "short_name:ru": "СТ \"Рамонак-МАЗ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56235,7 +56121,7 @@ const Data =
         "short_name": "СТ \"Мантажнік-сад\"",
         "short_name:be": "СТ \"Мантажнік-сад\"",
         "short_name:ru": "СТ \"Монтажник-сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56262,7 +56148,7 @@ const Data =
         "short_name": "СТ \"Хімік-1\"",
         "short_name:be": "СТ \"Хімік-1\"",
         "short_name:ru": "СТ \"Химик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56289,7 +56175,7 @@ const Data =
         "short_name": "СТ \"Новая Ніва-2\"",
         "short_name:be": "СТ \"Новая Ніва-2\"",
         "short_name:ru": "СТ \"Новая Нива-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56316,7 +56202,7 @@ const Data =
         "short_name": "СТ \"Аўтазаводзец\"",
         "short_name:be": "СТ \"Аўтазаводзец\"",
         "short_name:ru": "СТ \"Автозаводец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56343,7 +56229,7 @@ const Data =
         "short_name": "СТ \"Аўтазаводзец\"",
         "short_name:be": "СТ \"Аўтазаводзец\"",
         "short_name:ru": "СТ \"Автозаводец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56370,7 +56256,7 @@ const Data =
         "short_name": "СТ \"Аўтазаводзец\"",
         "short_name:be": "СТ \"Аўтазаводзец\"",
         "short_name:ru": "СТ \"Автозаводец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56397,7 +56283,7 @@ const Data =
         "short_name": "СТ \"Станкабудаўнік\"",
         "short_name:be": "СТ \"Станкабудаўнік\"",
         "short_name:ru": "СТ \"Станкостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56424,7 +56310,7 @@ const Data =
         "short_name": "СТ \"Станкабудаўнік\"",
         "short_name:be": "СТ \"Станкабудаўнік\"",
         "short_name:ru": "СТ \"Станкостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56451,7 +56337,7 @@ const Data =
         "short_name": "СТ \"Сілікат\"",
         "short_name:be": "СТ \"Сілікат\"",
         "short_name:ru": "СТ \"Силикат\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56478,7 +56364,7 @@ const Data =
         "short_name": "СТ \"Афганец-2\"",
         "short_name:be": "СТ \"Афганец-2\"",
         "short_name:ru": "СТ \"Афганец-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56505,7 +56391,7 @@ const Data =
         "short_name": "СТ \"Нарэйкі\"",
         "short_name:be": "СТ \"Нарэйкі\"",
         "short_name:ru": "СТ \"Нарейки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56532,7 +56418,7 @@ const Data =
         "short_name": "СТ \"Мантажнік\"",
         "short_name:be": "СТ \"Мантажнік\"",
         "short_name:ru": "СТ \"Монтажник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56559,7 +56445,7 @@ const Data =
         "short_name": "СТ \"Палявы-2\"",
         "short_name:be": "СТ \"Палявы-2\"",
         "short_name:ru": "СТ \"Полевой-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56586,7 +56472,7 @@ const Data =
         "short_name": "СТ \"Ніва\"",
         "short_name:be": "СТ \"Ніва\"",
         "short_name:ru": "СТ \"Нива\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56613,7 +56499,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56640,7 +56526,7 @@ const Data =
         "short_name": "СТ \"Сонечнае на Расце\"",
         "short_name:be": "СТ \"Сонечнае на Расце\"",
         "short_name:ru": "СТ \"Солнечное на Ресте\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56667,7 +56553,7 @@ const Data =
         "short_name": "СТ \"Чырвоны металіст-2008\"",
         "short_name:be": "СТ \"Чырвоны металіст-2008\"",
         "short_name:ru": "СТ \"Красный металлист-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56694,7 +56580,7 @@ const Data =
         "short_name": "СТ \"Чыгуначнік-Чавусы\"",
         "short_name:be": "СТ \"Чыгуначнік-Чавусы\"",
         "short_name:ru": "СТ \"Железнодорожник-Чаусы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56721,7 +56607,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-35\"",
         "short_name:be": "СТ \"Будаўнік-35\"",
         "short_name:ru": "СТ \"Строитель-35\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56748,7 +56634,7 @@ const Data =
         "short_name": "СТ \"Засульскае\"",
         "short_name:be": "СТ \"Засульскае\"",
         "short_name:ru": "СТ \"Засульское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56775,7 +56661,7 @@ const Data =
         "short_name": "СТ \"Машынабудаўнік\"",
         "short_name:be": "СТ \"Машынабудаўнік\"",
         "short_name:ru": "СТ \"Машиностроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56802,7 +56688,7 @@ const Data =
         "short_name": "СТ \"Сілікат\"",
         "short_name:be": "СТ \"Сілікат\"",
         "short_name:ru": "СТ \"Силикат\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56829,7 +56715,7 @@ const Data =
         "short_name": "СТ \"Наладчык-Плюс\"",
         "short_name:be": "СТ \"Наладчык-Плюс\"",
         "short_name:ru": "СТ \"Наладчик-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56856,7 +56742,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Ліўе\"",
         "short_name:be": "СТ \"Журавінка-Ліўе\"",
         "short_name:ru": "СТ \"Журавинка-Ливье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56883,7 +56769,7 @@ const Data =
         "short_name": "СТ \"Зялёны востраў\"",
         "short_name:be": "СТ \"Зялёны востраў\"",
         "short_name:ru": "СТ \"Зелёный Остров\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56910,7 +56796,7 @@ const Data =
         "short_name": "СТ \"Ліўе\"",
         "short_name:be": "СТ \"Ліўе\"",
         "short_name:ru": "СТ \"Ливье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56937,7 +56823,7 @@ const Data =
         "short_name": "СТ \"Прагрэс-Плюс\"",
         "short_name:be": "СТ \"Прагрэс-Плюс\"",
         "short_name:ru": "СТ \"Прогресс-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56964,7 +56850,7 @@ const Data =
         "short_name": "СТ \"Старт-Кароліна\"",
         "short_name:be": "СТ \"Старт-Кароліна\"",
         "short_name:ru": "СТ \"Старт-Каролино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -56991,7 +56877,7 @@ const Data =
         "short_name": "СТ \"Горкі-2\"",
         "short_name:be": "СТ \"Горкі-2\"",
         "short_name:ru": "СТ \"Горки-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57018,7 +56904,7 @@ const Data =
         "short_name": "СТ \"Меддружба\"",
         "short_name:be": "СТ \"Меддружба\"",
         "short_name:ru": "СТ \"Меддружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57045,7 +56931,7 @@ const Data =
         "short_name": "СТ \"Баярышнік\"",
         "short_name:be": "СТ \"Баярышнік\"",
         "short_name:ru": "СТ \"Боярышник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57072,7 +56958,7 @@ const Data =
         "short_name": "СТ \"Мараніца\"",
         "short_name:be": "СТ \"Мараніца\"",
         "short_name:ru": "СТ \"Мараница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57099,7 +56985,7 @@ const Data =
         "short_name": "СТ «Баранаўка»",
         "short_name:be": "СТ «Баранаўка»",
         "short_name:ru": "СТ «Барановка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57126,7 +57012,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надзея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57153,7 +57039,7 @@ const Data =
         "short_name": "СТ \"Шчара\"",
         "short_name:be": "СТ \"Шчара\"",
         "short_name:ru": "СТ \"Щара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57180,7 +57066,7 @@ const Data =
         "short_name": "СТ \"Пракуды\"",
         "short_name:be": "СТ \"Пракуды\"",
         "short_name:ru": "СТ \"Прокуды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57207,7 +57093,7 @@ const Data =
         "short_name": "СТ \"Кіравец-2\"",
         "short_name:be": "СТ \"Кіравец-2\"",
         "short_name:ru": "СТ \"Кировец-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57234,7 +57120,7 @@ const Data =
         "short_name": "СТ \"Бярозка-91\"",
         "short_name:be": "СТ \"Бярозка-91\"",
         "short_name:ru": "СТ \"Берёзка-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57261,7 +57147,7 @@ const Data =
         "short_name": "СТ \"Транспартнік\"",
         "short_name:be": "СТ \"Транспартнік\"",
         "short_name:ru": "СТ \"Транспортник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57288,7 +57174,7 @@ const Data =
         "short_name": "СТ «Дубрава»",
         "short_name:be": "СТ «Дубрава»",
         "short_name:ru": "СТ «Дубрава»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57315,7 +57201,7 @@ const Data =
         "short_name": "СТ «Дубрава»",
         "short_name:be": "СТ «Дубрава»",
         "short_name:ru": "СТ «Дубрава»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57342,7 +57228,7 @@ const Data =
         "short_name": "СТ «Крынічка»",
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Криничка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57369,7 +57255,7 @@ const Data =
         "short_name": "СТ \"Тапалёк\"",
         "short_name:be": "СТ \"Тапалёк\"",
         "short_name:ru": "СТ \"Тополёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57396,7 +57282,7 @@ const Data =
         "short_name": "СТ \"Ластаўка\"",
         "short_name:be": "СТ \"Ластаўка\"",
         "short_name:ru": "СТ \"Ласточка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57423,7 +57309,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\"",
         "short_name:be": "СТ \"Лакаматыў\"",
         "short_name:ru": "СТ \"Локомотив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57450,7 +57336,7 @@ const Data =
         "short_name": "СТ \"Блакіт\"",
         "short_name:be": "СТ \"Блакіт\"",
         "short_name:ru": "СТ \"Блакит\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57477,7 +57363,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57504,7 +57390,7 @@ const Data =
         "short_name": "СТ \"Эскулап\"",
         "short_name:be": "СТ \"Эскулап\"",
         "short_name:ru": "СТ \"Эскулап\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57531,7 +57417,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57558,7 +57444,7 @@ const Data =
         "short_name": "СТ \"Паўлінка\"",
         "short_name:be": "СТ \"Паўлінка\"",
         "short_name:ru": "СТ \"Павлинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57585,7 +57471,7 @@ const Data =
         "short_name": "СТ \"Венера\"",
         "short_name:be": "СТ \"Венера\"",
         "short_name:ru": "СТ \"Венера\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57612,7 +57498,7 @@ const Data =
         "short_name": "СТ \"Магістраль-Цэнтральная\"",
         "short_name:be": "СТ \"Магістраль-Цэнтральная\"",
         "short_name:ru": "СТ \"Магистраль-Центральная\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57639,7 +57525,7 @@ const Data =
         "short_name": "СТ \"Ясныя Абшары\"",
         "short_name:be": "СТ \"Ясныя Абшары\"",
         "short_name:ru": "СТ \"Ясные Просторы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57666,7 +57552,7 @@ const Data =
         "short_name": "СТ \"Навінка\"",
         "short_name:be": "СТ \"Навінка\"",
         "short_name:ru": "СТ \"Новинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57693,7 +57579,7 @@ const Data =
         "short_name": "СТ \"Флора\"",
         "short_name:be": "СТ \"Флора\"",
         "short_name:ru": "СТ \"Флора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57720,7 +57606,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Свитанок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57747,7 +57633,7 @@ const Data =
         "short_name": "СТ \"Лаванда-Каменка\"",
         "short_name:be": "СТ \"Лаванда-Каменка\"",
         "short_name:ru": "СТ \"Лаванда-Каменка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57774,7 +57660,7 @@ const Data =
         "short_name": "СТ \"Лаванда-Каменка\"",
         "short_name:be": "СТ \"Лаванда-Каменка\"",
         "short_name:ru": "СТ \"Лаванда-Каменка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57801,7 +57687,7 @@ const Data =
         "short_name": "СТ \"Армеец\"",
         "short_name:be": "СТ \"Армеец\"",
         "short_name:ru": "СТ \"Армеец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57828,7 +57714,7 @@ const Data =
         "short_name": "СТ \"Будаўнік 1985\"",
         "short_name:be": "СТ \"Будаўнік 1985\"",
         "short_name:ru": "СТ \"Строитель 1985\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57855,7 +57741,7 @@ const Data =
         "short_name": "СТ \"Электрык\"",
         "short_name:be": "СТ \"Электрык\"",
         "short_name:ru": "СТ \"Электрик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57882,7 +57768,7 @@ const Data =
         "short_name": "СТ \"Прагрэс\"",
         "short_name:be": "СТ \"Прагрэс\"",
         "short_name:ru": "СТ \"Прогресс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57909,7 +57795,7 @@ const Data =
         "short_name": "СТ \"Інструментальшчык-1\"",
         "short_name:be": "СТ \"Інструментальшчык-1\"",
         "short_name:ru": "СТ \"Инструментальщик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57936,7 +57822,7 @@ const Data =
         "short_name": "СТ \"Юбілейнае\"",
         "short_name:be": "СТ \"Юбілейнае\"",
         "short_name:ru": "СТ \"Юбилейное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -57963,7 +57849,7 @@ const Data =
         "short_name": "СТ \"Сяброўства\"",
         "short_name:be": "СТ \"Сяброўства\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -57990,7 +57876,7 @@ const Data =
         "short_name": "СТ \"Магістраль\"",
         "short_name:be": "СТ \"Магістраль\"",
         "short_name:ru": "СТ \"Магистраль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58017,7 +57903,7 @@ const Data =
         "short_name": "СТ \"Ветэран-3\"",
         "short_name:be": "СТ \"Ветэран-3\"",
         "short_name:ru": "СТ \"Ветеран-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58044,7 +57930,7 @@ const Data =
         "short_name": "СТ \"Кветка-1\"",
         "short_name:be": "СТ \"Кветка-1\"",
         "short_name:ru": "СТ \"Цветок-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58071,7 +57957,7 @@ const Data =
         "short_name": "СТ \"Мясцпрам-Сож\"",
         "short_name:be": "СТ \"Мясцпрам-Сож\"",
         "short_name:ru": "СТ \"Местпром-Сож\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58098,7 +57984,7 @@ const Data =
         "short_name": "СТ \"Метролаг 68\"",
         "short_name:be": "СТ \"Метролаг 68\"",
         "short_name:ru": "СТ \"Метролог 68\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58125,7 +58011,7 @@ const Data =
         "short_name": "СТ \"Кацін Бор-2008\"",
         "short_name:be": "СТ \"Кацін Бор-2008\"",
         "short_name:ru": "СТ \"Катин Бор-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58152,7 +58038,7 @@ const Data =
         "short_name": "СТ \"Вясна-2008\"",
         "short_name:be": "СТ \"Вясна-2008\"",
         "short_name:ru": "СТ \"Весна-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58179,7 +58065,7 @@ const Data =
         "short_name": "СТ \"Камета-2\"",
         "short_name:be": "СТ \"Камета-2\"",
         "short_name:ru": "СТ \"Комета-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58206,7 +58092,7 @@ const Data =
         "short_name": "СТ \"Ветразь-4\"",
         "short_name:be": "СТ \"Ветразь-4\"",
         "short_name:ru": "СТ \"Парус-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58233,7 +58119,7 @@ const Data =
         "short_name": "СТ \"Алеся-50\"",
         "short_name:be": "СТ \"Алеся-50\"",
         "short_name:ru": "СТ \"Алеся-50\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58260,7 +58146,7 @@ const Data =
         "short_name": "СТ \"Сасновае-Брэст\"",
         "short_name:be": "СТ \"Сасновае-Брэст\"",
         "short_name:ru": "СТ \"Сосновое-Брест\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58287,7 +58173,7 @@ const Data =
         "short_name": "СТ \"Сасновы масіў\"",
         "short_name:be": "СТ \"Сасновы масіў\"",
         "short_name:ru": "СТ \"Сосновый массив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58314,7 +58200,7 @@ const Data =
         "short_name": "СТ \"Агеньчык-2010\"",
         "short_name:be": "СТ \"Агеньчык-2010\"",
         "short_name:ru": "СТ \"Огонёк-2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58341,7 +58227,7 @@ const Data =
         "short_name": "СТ \"Ляснянка\"",
         "short_name:be": "СТ \"Ляснянка\"",
         "short_name:ru": "СТ \"Леснянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58368,7 +58254,7 @@ const Data =
         "short_name": "СТ \"Расінка-15\"",
         "short_name:be": "СТ \"Расінка-15\"",
         "short_name:ru": "СТ \"Росинка-15\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58395,7 +58281,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Источник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58422,7 +58308,7 @@ const Data =
         "short_name": "СТ \"Крыніца-11\"",
         "short_name:be": "СТ \"Крыніца-11\"",
         "short_name:ru": "СТ \"Крыница-11\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58449,7 +58335,7 @@ const Data =
         "short_name": "СТ \"Лясное-1990\"",
         "short_name:be": "СТ \"Лясное-1990\"",
         "short_name:ru": "СТ \"Лесное-1990\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58476,7 +58362,7 @@ const Data =
         "short_name": "СТ \"Расінка\"",
         "short_name:be": "СТ \"Расінка\"",
         "short_name:ru": "СТ \"Росинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58503,7 +58389,7 @@ const Data =
         "short_name": "СТ \"Клімат-10\"",
         "short_name:be": "СТ \"Клімат-10\"",
         "short_name:ru": "СТ \"Климат-10\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58530,7 +58416,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-Бароўка\"",
         "short_name:be": "СТ \"Аўтамабіліст-Бароўка\"",
         "short_name:ru": "СТ \"Автомобилист-Боровка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58557,7 +58443,7 @@ const Data =
         "short_name": "СТ \"Тэхнолаг Магілёўскі\"",
         "short_name:be": "СТ \"Тэхнолаг Магілёўскі\"",
         "short_name:ru": "СТ \"Технолог Могилевский\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58584,7 +58470,7 @@ const Data =
         "short_name": "СТ \"Родная прырода\"",
         "short_name:be": "СТ \"Родная прырода\"",
         "short_name:ru": "СТ \"Родная природа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58611,7 +58497,7 @@ const Data =
         "short_name": "СТ \"Мелодыя-2007\"",
         "short_name:be": "СТ \"Мелодыя-2007\"",
         "short_name:ru": "СТ \"Мелодия-2007\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58638,7 +58524,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58665,7 +58551,7 @@ const Data =
         "short_name": "СТ \"Усход-Градкі\"",
         "short_name:be": "СТ \"Усход-Градкі\"",
         "short_name:ru": "СТ \"Восход-Грядки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58692,7 +58578,7 @@ const Data =
         "short_name": "СТ \"Кветкавод\"",
         "short_name:be": "СТ \"Кветкавод\"",
         "short_name:ru": "СТ \"Цветовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58719,7 +58605,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58746,7 +58632,7 @@ const Data =
         "short_name": "СТ \"Ізабілле\"",
         "short_name:be": "СТ \"Ізабілле\"",
         "short_name:ru": "СТ \"Изобилие\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58773,7 +58659,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58800,7 +58686,7 @@ const Data =
         "short_name": "СТ \"Журавінка\"",
         "short_name:be": "СТ \"Журавінка\"",
         "short_name:ru": "СТ \"Журавинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58827,7 +58713,7 @@ const Data =
         "short_name": "СТ \"Прыбярэжнае-1\"",
         "short_name:be": "СТ \"Прыбярэжнае-1\"",
         "short_name:ru": "СТ \"Прибрежное-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58854,7 +58740,7 @@ const Data =
         "short_name": "СТ \"Вясёлкавая даліна\"",
         "short_name:be": "СТ \"Вясёлкавая даліна\"",
         "short_name:ru": "СТ \"Радужная долина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58881,7 +58767,7 @@ const Data =
         "short_name": "СТ \"Кантакт\"",
         "short_name:be": "СТ \"Кантакт\"",
         "short_name:ru": "СТ \"Контакт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58908,7 +58794,7 @@ const Data =
         "short_name": "СТ \"Бяроза 97\"",
         "short_name:be": "СТ \"Бяроза 97\"",
         "short_name:ru": "СТ \"Берёза 97\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58935,7 +58821,7 @@ const Data =
         "short_name": "СТ \"Бяроза 97\"",
         "short_name:be": "СТ \"Бяроза 97\"",
         "short_name:ru": "СТ \"Берёза 97\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58962,7 +58848,7 @@ const Data =
         "short_name": "СТ \"Заазёрнае\"",
         "short_name:be": "СТ \"Заазёрнае\"",
         "short_name:ru": "СТ \"Заозерное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -58989,7 +58875,7 @@ const Data =
         "short_name": "СТ \"Бяроза 97\"",
         "short_name:be": "СТ \"Бяроза 97\"",
         "short_name:ru": "СТ \"Берёза 97\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59016,7 +58902,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59043,7 +58929,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59070,7 +58956,7 @@ const Data =
         "short_name": "СТ \"Здароўе 2008\"",
         "short_name:be": "СТ \"Здароўе 2008\"",
         "short_name:ru": "СТ \"Здоровье 2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59097,7 +58983,7 @@ const Data =
         "short_name": "СТ \"Паліграфіст-82\"",
         "short_name:be": "СТ \"Паліграфіст-82\"",
         "short_name:ru": "СТ \"Полиграфист-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59124,7 +59010,7 @@ const Data =
         "short_name": "СТ \"Связіст\"",
         "short_name:be": "СТ \"Связіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59151,7 +59037,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-1990\"",
         "short_name:be": "СТ \"Аўтамабіліст-1990\"",
         "short_name:ru": "СТ \"Автомобилист-1990\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59178,7 +59064,7 @@ const Data =
         "short_name": "СТ \"Бытавік-92\"",
         "short_name:be": "СТ \"Бытавік-92\"",
         "short_name:ru": "СТ \"Бытовик-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59205,7 +59091,7 @@ const Data =
         "short_name": "СТ \"Родныя пенаты\"",
         "short_name:be": "СТ \"Родныя пенаты\"",
         "short_name:ru": "СТ \"Родные пенаты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59232,7 +59118,7 @@ const Data =
         "short_name": "СТ \"Праект-Лескі\"",
         "short_name:be": "СТ \"Праект-Лескі\"",
         "short_name:ru": "СТ \"Проект-Лески\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59259,7 +59145,7 @@ const Data =
         "short_name": "СТ \"Світанак-Лескі\"",
         "short_name:be": "СТ \"Світанак-Лескі\"",
         "short_name:ru": "СТ \"Свитанок-Лески\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59286,7 +59172,7 @@ const Data =
         "short_name": "СТ \"Палессе-2\"",
         "short_name:be": "СТ \"Палессе-2\"",
         "short_name:ru": "СТ \"Полесье-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59313,7 +59199,7 @@ const Data =
         "short_name": "САТ \"Чуфа\"",
         "short_name:be": "САТ \"Чуфа\"",
         "short_name:ru": "СОТ \"Чуфа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -59340,7 +59226,7 @@ const Data =
         "short_name": "СТ \"Мядовы сад\"",
         "short_name:be": "СТ \"Мядовы сад\"",
         "short_name:ru": "СТ \"Медовый Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59367,7 +59253,7 @@ const Data =
         "short_name": "СТ \"Лясная старонка\"",
         "short_name:be": "СТ \"Лясная старонка\"",
         "short_name:ru": "СТ \"Лесная Сторона\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59394,7 +59280,7 @@ const Data =
         "short_name": "СТ \"Метызнік\"",
         "short_name:be": "СТ \"Метызнік\"",
         "short_name:ru": "СТ \"Метизник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59421,7 +59307,7 @@ const Data =
         "short_name": "СТ \"Транспартнік\"",
         "short_name:be": "СТ \"Транспартнік\"",
         "short_name:ru": "СТ \"Транспортник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59448,7 +59334,7 @@ const Data =
         "short_name": "СТ \"Геафізік\"",
         "short_name:be": "СТ \"Геафізік\"",
         "short_name:ru": "СТ \"Геофизик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59475,7 +59361,7 @@ const Data =
         "short_name": "СТ \"Дом каля Дняпра\"",
         "short_name:be": "СТ \"Дом каля Дняпра\"",
         "short_name:ru": "СТ \"Дом у Днепра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59502,7 +59388,7 @@ const Data =
         "short_name": "СТ \"Энергетык-81\"",
         "short_name:be": "СТ \"Энергетык-81\"",
         "short_name:ru": "СТ \"Энергетик-81\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59529,7 +59415,7 @@ const Data =
         "short_name": "СТ \"Судабудаўнік-плюс\"",
         "short_name:be": "СТ \"Судабудаўнік-плюс\"",
         "short_name:ru": "СТ \"Судостроитель-плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59556,7 +59442,7 @@ const Data =
         "short_name": "СТ \"Лясныя прасторы\"",
         "short_name:be": "СТ \"Лясныя прасторы\"",
         "short_name:ru": "СТ \"Лесные просторы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59583,7 +59469,7 @@ const Data =
         "short_name": "СТ \"Дняпроўскае падгорʼе\"",
         "short_name:be": "СТ \"Дняпроўскае падгорʼе\"",
         "short_name:ru": "СТ \"Днепровское подгорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59610,7 +59496,7 @@ const Data =
         "short_name": "СТ \"Бытавік-Дачнік\"",
         "short_name:be": "СТ \"Бытавік-Дачнік\"",
         "short_name:ru": "СТ \"Бытовик-Дачник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59637,7 +59523,7 @@ const Data =
         "short_name": "СТ \"Каммунальнік-Дачнік\"",
         "short_name:be": "СТ \"Каммунальнік-Дачнік\"",
         "short_name:ru": "СТ \"Коммунальник-Дачник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59664,7 +59550,7 @@ const Data =
         "short_name": "СТ \"Дружба-Капань\"",
         "short_name:be": "СТ \"Дружба-Капань\"",
         "short_name:ru": "СТ \"Дружба-Копань\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59691,7 +59577,7 @@ const Data =
         "short_name": "СТ \"Борхаўскае\"",
         "short_name:be": "СТ \"Борхаўскае\"",
         "short_name:ru": "СТ \"Борховское\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59718,7 +59604,7 @@ const Data =
         "short_name": "СТ \"Унорыца\"",
         "short_name:be": "СТ \"Унорыца\"",
         "short_name:ru": "СТ \"Унорица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59745,7 +59631,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59772,7 +59658,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59799,7 +59685,7 @@ const Data =
         "short_name": "СТ \"Ніва-4\"",
         "short_name:be": "СТ \"Ніва-4\"",
         "short_name:ru": "СТ \"Нива-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59826,7 +59712,7 @@ const Data =
         "short_name": "СТ \"Верасок у Дзяражне\"",
         "short_name:be": "СТ \"Верасок у Дзяражне\"",
         "short_name:ru": "СТ \"Верасок в Деражне\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59853,7 +59739,7 @@ const Data =
         "short_name": "СТ \"Пралеска-Сад\"",
         "short_name:be": "СТ \"Пралеска-Сад\"",
         "short_name:ru": "СТ \"Пралеска-сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59880,7 +59766,7 @@ const Data =
         "short_name": "СТ \"Зялены луг у Дзяражне\"",
         "short_name:be": "СТ \"Зялены луг у Дзяражне\"",
         "short_name:ru": "СТ \"Зеленый луг в Деражне\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59907,7 +59793,7 @@ const Data =
         "short_name": "СТ \"Рабуска\"",
         "short_name:be": "СТ \"Рабуска\"",
         "short_name:ru": "СТ \"Ребуска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59934,7 +59820,7 @@ const Data =
         "short_name": "СТ \"Верас-Сітнякі\"",
         "short_name:be": "СТ \"Верас-Сітнякі\"",
         "short_name:ru": "СТ \"Верас-Ситняки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59961,7 +59847,7 @@ const Data =
         "short_name": "СТ \"Тампанажнік\"",
         "short_name:be": "СТ \"Тампанажнік\"",
         "short_name:ru": "СТ \"Тампонажник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -59988,7 +59874,7 @@ const Data =
         "short_name": "СТ \"Таёжнае\"",
         "short_name:be": "СТ \"Таёжнае\"",
         "short_name:ru": "СТ \"Таёжное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60015,7 +59901,7 @@ const Data =
         "short_name": "СТ \"Світанкі над Ліскамі\"",
         "short_name:be": "СТ \"Світанкі над Ліскамі\"",
         "short_name:ru": "СТ \"Зори над Лисками\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60042,7 +59928,7 @@ const Data =
         "short_name": "СТ \"Трубнік-Ліскі\"",
         "short_name:be": "СТ \"Трубнік-Ліскі\"",
         "short_name:ru": "СТ \"Трубник-Лиски\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60069,7 +59955,7 @@ const Data =
         "short_name": "СТ \"Геолаг-Ліскі\"",
         "short_name:be": "СТ \"Геолаг-Ліскі\"",
         "short_name:ru": "СТ \"Геолог-Лиски\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60096,7 +59982,7 @@ const Data =
         "short_name": "СТ \"Геатэхнік\"",
         "short_name:be": "СТ \"Геатэхнік\"",
         "short_name:ru": "СТ \"Геотехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60123,7 +60009,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60150,7 +60036,7 @@ const Data =
         "short_name": "СТ \"Крыніца-А\"",
         "short_name:be": "СТ \"Крыніца-А\"",
         "short_name:ru": "СТ \"Родник-А\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60177,7 +60063,7 @@ const Data =
         "short_name": "СТ \"Механізатар-Ведрыч\"",
         "short_name:be": "СТ \"Механізатар-Ведрыч\"",
         "short_name:ru": "СТ \"Механизатор-Ведрич\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60204,7 +60090,7 @@ const Data =
         "short_name": "СТ \"Капаньскія світанкі\"",
         "short_name:be": "СТ \"Капаньскія світанкі\"",
         "short_name:ru": "СТ \"Копаньские зори\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60231,7 +60117,7 @@ const Data =
         "short_name": "СТ \"Рассвет-Гадынь\"",
         "short_name:be": "СТ \"Рассвет-Гадынь\"",
         "short_name:ru": "СТ \"Рассвет-Гадынь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60258,7 +60144,7 @@ const Data =
         "short_name": "СТ \"Праект-2\"",
         "short_name:be": "СТ \"Праект-2\"",
         "short_name:ru": "СТ \"Проект-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60285,7 +60171,7 @@ const Data =
         "short_name": "СТ \"Зоры Дняпра\"",
         "short_name:be": "СТ \"Зоры Дняпра\"",
         "short_name:ru": "СТ \"Зори Днепра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60312,7 +60198,7 @@ const Data =
         "short_name": "СТ \"Надзея-Капань\"",
         "short_name:be": "СТ \"Надзея-Капань\"",
         "short_name:ru": "СТ \"Надежда-Копань\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60339,7 +60225,7 @@ const Data =
         "short_name": "СТ \"Лясное-Капань\"",
         "short_name:be": "СТ \"Лясное-Капань\"",
         "short_name:ru": "СТ \"Лесное-Копань\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60366,7 +60252,7 @@ const Data =
         "short_name": "СТ \"Нафтавік-Гадынь-1\"",
         "short_name:be": "СТ \"Нафтавік-Гадынь-1\"",
         "short_name:ru": "СТ \"Нефтяник-Гадынь-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60393,7 +60279,7 @@ const Data =
         "short_name": "СТ \"Гадынь-Лясное\"",
         "short_name:be": "СТ \"Гадынь-Лясное\"",
         "short_name:ru": "СТ \"Гадынь-Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60420,7 +60306,7 @@ const Data =
         "short_name": "СТ \"Ягаднае-Капань\"",
         "short_name:be": "СТ \"Ягаднае-Капань\"",
         "short_name:ru": "СТ \"Ягодное-Копань\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60447,7 +60333,7 @@ const Data =
         "short_name": "СТ \"Панэль\"",
         "short_name:be": "СТ \"Панэль\"",
         "short_name:ru": "СТ \"Панель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60474,7 +60360,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык\"",
         "short_name:be": "СТ \"Тэкстыльшчык\"",
         "short_name:ru": "СТ \"Текстильщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60501,7 +60387,7 @@ const Data =
         "short_name": "СТ \"Нафтавік-Гадынь-2\"",
         "short_name:be": "СТ \"Нафтавік-Гадынь-2\"",
         "short_name:ru": "СТ \"Нефтяник-Гадынь-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60528,7 +60414,7 @@ const Data =
         "short_name": "СТ \"Капань\"",
         "short_name:be": "СТ \"Капань\"",
         "short_name:ru": "СТ \"Копань\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60555,7 +60441,7 @@ const Data =
         "short_name": "СТ \"Лясныя прасторы\"",
         "short_name:be": "СТ \"Лясныя прасторы\"",
         "short_name:ru": "СТ \"Лесные просторы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60582,7 +60468,7 @@ const Data =
         "short_name": "СТ \"Купалінка-Капань\"",
         "short_name:be": "СТ \"Купалінка-Капань\"",
         "short_name:ru": "СТ \"Купалинка-Копань\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60609,7 +60495,7 @@ const Data =
         "short_name": "СТ \"Дняпро\"",
         "short_name:be": "СТ \"Дняпро\"",
         "short_name:ru": "СТ \"Днепро\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60636,7 +60522,7 @@ const Data =
         "short_name": "СТ \"Горны ручай\"",
         "short_name:be": "СТ \"Горны ручай\"",
         "short_name:ru": "СТ \"Горный ручеек\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60663,7 +60549,7 @@ const Data =
         "short_name": "СТ \"Крынічны\"",
         "short_name:be": "СТ \"Крынічны\"",
         "short_name:ru": "СТ \"Криничный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60690,7 +60576,7 @@ const Data =
         "short_name": "СТ \"Лужок ў Рабусе\"",
         "short_name:be": "СТ \"Лужок ў Рабусе\"",
         "short_name:ru": "СТ \"Лужок в Ребусе\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60717,7 +60603,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-Сенная\"",
         "short_name:be": "СТ \"Будаўнік-Сенная\"",
         "short_name:ru": "СТ \"Строитель-Сенная\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60744,7 +60630,7 @@ const Data =
         "short_name": "СТ \"Будаўнік ПМК 111\"",
         "short_name:be": "СТ \"Будаўнік ПМК 111\"",
         "short_name:ru": "СТ \"Строитель ПМК 111\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60771,7 +60657,7 @@ const Data =
         "short_name": "СТ \"Азернае-Сеназавод\"",
         "short_name:be": "СТ \"Азернае-Сеназавод\"",
         "short_name:ru": "СТ \"Озерное-Сенозавод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60798,7 +60684,7 @@ const Data =
         "short_name": "СТ \"РотарРем\"",
         "short_name:be": "СТ \"РотарРем\"",
         "short_name:ru": "СТ \"РоторРем\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60825,7 +60711,7 @@ const Data =
         "short_name": "СТ \"Свідаўка\"",
         "short_name:be": "СТ \"Свідаўка\"",
         "short_name:ru": "СТ \"Свидовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60852,7 +60738,7 @@ const Data =
         "short_name": "СТ \"Ураджай-Сітнякі\"",
         "short_name:be": "СТ \"Ураджай-Сітнякі\"",
         "short_name:ru": "СТ \"Урожай-Ситняки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60879,7 +60765,7 @@ const Data =
         "short_name": "СТ \"Энергетык\"",
         "short_name:be": "СТ \"Энергетык\"",
         "short_name:ru": "СТ \"Энергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60906,7 +60792,7 @@ const Data =
         "short_name": "СТ \"Дружба-80\"",
         "short_name:be": "СТ \"Дружба-80\"",
         "short_name:ru": "СТ \"Дружба-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60933,7 +60819,7 @@ const Data =
         "short_name": "СТ \"Глушэц\"",
         "short_name:be": "СТ \"Глушэц\"",
         "short_name:ru": "СТ \"Глушец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60960,7 +60846,7 @@ const Data =
         "short_name": "СТ \"Палёт-1\"",
         "short_name:be": "СТ \"Палёт-1\"",
         "short_name:ru": "СТ \"Полет-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -60987,7 +60873,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-7\"",
         "short_name:be": "СТ \"Аўтамабіліст-7\"",
         "short_name:ru": "СТ \"Автомобилист-7\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61014,7 +60900,7 @@ const Data =
         "short_name": "СТ \"Жыгулі\"",
         "short_name:be": "СТ \"Жыгулі\"",
         "short_name:ru": "СТ \"Жигули\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61041,7 +60927,7 @@ const Data =
         "short_name": "СТ \"Энергетык-87\"",
         "short_name:be": "СТ \"Энергетык-87\"",
         "short_name:ru": "СТ \"Энергетик-87\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61068,7 +60954,7 @@ const Data =
         "short_name": "СТ \"Азярное\"",
         "short_name:be": "СТ \"Азярное\"",
         "short_name:ru": "СТ \"Озерное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61095,7 +60981,7 @@ const Data =
         "short_name": "СТ \"Азёрнае-1\"",
         "short_name:be": "СТ \"Азёрнае-1\"",
         "short_name:ru": "СТ \"Озерное-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61122,7 +61008,7 @@ const Data =
         "short_name": "СТ \"Мара-92\"",
         "short_name:be": "СТ \"Мара-92\"",
         "short_name:ru": "СТ \"Мечта-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61149,7 +61035,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-5\"",
         "short_name:be": "СТ \"Аўтамабіліст-5\"",
         "short_name:ru": "СТ \"Автомобилист-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61176,7 +61062,7 @@ const Data =
         "short_name": "СТ \"Абрыкос\"",
         "short_name:be": "СТ \"Абрыкос\"",
         "short_name:ru": "СТ \"Абрикос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61203,7 +61089,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61230,7 +61116,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61257,7 +61143,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61284,7 +61170,7 @@ const Data =
         "short_name": "СТ \"Глушэц-2\"",
         "short_name:be": "СТ \"Глушэц-2\"",
         "short_name:ru": "СТ \"Глушец-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61311,7 +61197,7 @@ const Data =
         "short_name": "СТ \"Азёрнае\"",
         "short_name:be": "СТ \"Азёрнае\"",
         "short_name:ru": "СТ \"Озёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61338,7 +61224,7 @@ const Data =
         "short_name": "СТ \"Аўто-92\"",
         "short_name:be": "СТ \"Аўто-92\"",
         "short_name:ru": "СТ \"Авто-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61365,7 +61251,7 @@ const Data =
         "short_name": "СТ \"Азернае-92\"",
         "short_name:be": "СТ \"Азернае-92\"",
         "short_name:ru": "СТ \"Озерное-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61392,7 +61278,7 @@ const Data =
         "short_name": "СТ \"Мара-88\"",
         "short_name:be": "СТ \"Мара-88\"",
         "short_name:ru": "СТ \"Мечта-88\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61419,7 +61305,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61446,7 +61332,7 @@ const Data =
         "short_name": "СТ \"Зялёны Гай\"",
         "short_name:be": "СТ \"Зялёны Гай\"",
         "short_name:ru": "СТ \"Зелёный гай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61473,7 +61359,7 @@ const Data =
         "short_name": "СТ \"Сонечнае\"",
         "short_name:be": "СТ \"Сонечнае\"",
         "short_name:ru": "СТ \"Солнечное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61500,7 +61386,7 @@ const Data =
         "short_name": "СТ \"Баравічок-1\"",
         "short_name:be": "СТ \"Баравічок-1\"",
         "short_name:ru": "СТ \"Боровичок-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61527,7 +61413,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61554,7 +61440,7 @@ const Data =
         "short_name": "СТ \"Сож\"",
         "short_name:be": "СТ \"Сож\"",
         "short_name:ru": "СТ \"Сож\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61581,7 +61467,7 @@ const Data =
         "short_name": "СТ \"Ільінка-2010\"",
         "short_name:be": "СТ \"Ільінка-2010\"",
         "short_name:ru": "СТ \"Ильинка-2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61608,7 +61494,7 @@ const Data =
         "short_name": "СТ \"Нафтавік\"",
         "short_name:be": "СТ \"Нафтавік\"",
         "short_name:ru": "СТ \"Нефтяник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61635,7 +61521,7 @@ const Data =
         "short_name": "СТ \"Радыст\"",
         "short_name:be": "СТ \"Радыст\"",
         "short_name:ru": "СТ \"Радист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61662,7 +61548,7 @@ const Data =
         "short_name": "СТ \"Разведчык\"",
         "short_name:be": "СТ \"Разведчык\"",
         "short_name:ru": "СТ \"Разведчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61689,7 +61575,7 @@ const Data =
         "short_name": "СТ \"імя Л.Ф.Чарненка\"",
         "short_name:be": "СТ \"імя Л.Ф.Чарненка\"",
         "short_name:ru": "СТ \"им. Л.Ф. Черненко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61716,7 +61602,7 @@ const Data =
         "short_name": "СТ \"Мічурынец-69\"",
         "short_name:be": "СТ \"Мічурынец-69\"",
         "short_name:ru": "СТ \"Мичуринец-69\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61743,7 +61629,7 @@ const Data =
         "short_name": "СТ \"Родны кут\"",
         "short_name:be": "СТ \"Родны кут\"",
         "short_name:ru": "СТ \"Родны кут\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61770,7 +61656,7 @@ const Data =
         "short_name": "СТ \"Аўтатранспартнік-4\"",
         "short_name:be": "СТ \"Аўтатранспартнік-4\"",
         "short_name:ru": "СТ \"Автотранспортник-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61797,7 +61683,7 @@ const Data =
         "short_name": "СТ \"Цыкуны\"",
         "short_name:be": "СТ \"Цыкуны\"",
         "short_name:ru": "СТ \"Цыкуны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61824,7 +61710,7 @@ const Data =
         "short_name": "СТ \"Ліцейшчык\"",
         "short_name:be": "СТ \"Ліцейшчык\"",
         "short_name:ru": "СТ \"Литейщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61851,7 +61737,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61878,7 +61764,7 @@ const Data =
         "short_name": "СТ \"Хімік-2\"",
         "short_name:be": "СТ \"Хімік-2\"",
         "short_name:ru": "СТ \"Химик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61905,7 +61791,7 @@ const Data =
         "short_name": "СТ \"Дынама\"",
         "short_name:be": "СТ \"Дынама\"",
         "short_name:ru": "СТ \"Динамо\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61932,7 +61818,7 @@ const Data =
         "short_name": "СТ \"Спадчына\"",
         "short_name:be": "СТ \"Спадчына\"",
         "short_name:ru": "СТ \"Спадчына\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61959,7 +61845,7 @@ const Data =
         "short_name": "СТ \"Станочнік\"",
         "short_name:be": "СТ \"Станочнік\"",
         "short_name:ru": "СТ \"Станочник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -61986,7 +61872,7 @@ const Data =
         "short_name": "СТ \"Дняпроўскія далі-34\"",
         "short_name:be": "СТ \"Дняпроўскія далі-34\"",
         "short_name:ru": "СТ \"Днепровские Дали-34\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62013,7 +61899,7 @@ const Data =
         "short_name": "СТ \"Прыдняпроўʼе-14\"",
         "short_name:be": "СТ \"Прыдняпроўʼе-14\"",
         "short_name:ru": "СТ \"Приднепровье-14\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62040,7 +61926,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-1\"",
         "short_name:be": "СТ \"Будаўнік-1\"",
         "short_name:ru": "СТ \"Строитель-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62067,7 +61953,7 @@ const Data =
         "short_name": "СТ \"Белы Бераг\"",
         "short_name:be": "СТ \"Белы Бераг\"",
         "short_name:ru": "СТ \"Белый Берег\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62094,7 +61980,7 @@ const Data =
         "short_name": "СТ \"Палянка\"",
         "short_name:be": "СТ \"Палянка\"",
         "short_name:ru": "СТ \"Полянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62121,7 +62007,7 @@ const Data =
         "short_name": "СТ \"Алгарытм\"",
         "short_name:be": "СТ \"Алгарытм\"",
         "short_name:ru": "СТ \"Алгоритм\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62148,7 +62034,7 @@ const Data =
         "short_name": "СТ \"Неман-Сад\"",
         "short_name:be": "СТ \"Неман-Сад\"",
         "short_name:ru": "СТ \"Неман-Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62175,7 +62061,7 @@ const Data =
         "short_name": "СТ \"Дубрава\"",
         "short_name:be": "СТ \"Дубрава\"",
         "short_name:ru": "СТ \"Дубрава\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62202,7 +62088,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Садовы\"",
         "short_name:be": "СТ \"Журавінка-Садовы\"",
         "short_name:ru": "СТ \"Журавинка-Садовый\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62229,7 +62115,7 @@ const Data =
         "short_name": "СТ \"Прамень-92\"",
         "short_name:be": "СТ \"Прамень-92\"",
         "short_name:ru": "СТ \"Луч-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62256,7 +62142,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62283,7 +62169,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62310,7 +62196,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-22\"",
         "short_name:be": "СТ \"Будаўнік-22\"",
         "short_name:ru": "СТ \"Строитель-22\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62337,7 +62223,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62364,7 +62250,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62391,7 +62277,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў\"",
         "short_name:be": "СТ \"Лакаматыў\"",
         "short_name:ru": "СТ \"Локомотив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62418,7 +62304,7 @@ const Data =
         "short_name": "СТ \"Лета\"",
         "short_name:be": "СТ \"Лета\"",
         "short_name:ru": "СТ \"Лето\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62445,7 +62331,7 @@ const Data =
         "short_name": "СТ \"Астра\"",
         "short_name:be": "СТ \"Астра\"",
         "short_name:ru": "СТ \"Астра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62472,7 +62358,7 @@ const Data =
         "short_name": "СТ \"Зайкава\"",
         "short_name:be": "СТ \"Зайкава\"",
         "short_name:ru": "СТ \"Зайково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62499,7 +62385,7 @@ const Data =
         "short_name": "СТ \"Наш Энтузіяст\"",
         "short_name:be": "СТ \"Наш Энтузіяст\"",
         "short_name:ru": "СТ \"Наш Энтузиаст\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62526,7 +62412,7 @@ const Data =
         "short_name": "СТ \"Зарэчча-82\"",
         "short_name:be": "СТ \"Зарэчча-82\"",
         "short_name:ru": "СТ \"Заречье-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62553,7 +62439,7 @@ const Data =
         "short_name": "СТ \"Наш Усход\"",
         "short_name:be": "СТ \"Наш Усход\"",
         "short_name:ru": "СТ \"Наш Восход\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62580,7 +62466,7 @@ const Data =
         "short_name": "СТ \"Кіслінка\"",
         "short_name:be": "СТ \"Кіслінка\"",
         "short_name:ru": "СТ \"Кислинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62607,7 +62493,7 @@ const Data =
         "short_name": "СТ \"Крынічка 2010\"",
         "short_name:be": "СТ \"Крынічка 2010\"",
         "short_name:ru": "СТ \"Родничок 2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62634,7 +62520,7 @@ const Data =
         "short_name": "СТ \"Бярозавы гай 395\"",
         "short_name:be": "СТ \"Бярозавы гай 395\"",
         "short_name:ru": "СТ \"Березовая роща 395\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62661,7 +62547,7 @@ const Data =
         "short_name": "СТ \"Армеец\"",
         "short_name:be": "СТ \"Армеец\"",
         "short_name:ru": "СТ \"Армеец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62688,7 +62574,7 @@ const Data =
         "short_name": "СТ \"Астра\"",
         "short_name:be": "СТ \"Астра\"",
         "short_name:ru": "СТ \"Астра\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62715,7 +62601,7 @@ const Data =
         "short_name": "СТ \"Ракіта\"",
         "short_name:be": "СТ \"Ракіта\"",
         "short_name:ru": "СТ \"Ракита\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62742,7 +62628,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62769,7 +62655,7 @@ const Data =
         "short_name": "СТ \"Пяцігорʼе-1\"",
         "short_name:be": "СТ \"Пяцігорʼе-1\"",
         "short_name:ru": "СТ \"Пятигорье-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62796,7 +62682,7 @@ const Data =
         "short_name": "СТ \"Пяцігорʼе-2\"",
         "short_name:be": "СТ \"Пяцігорʼе-2\"",
         "short_name:ru": "СТ \"Пятигорье-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62823,7 +62709,7 @@ const Data =
         "short_name": "СТ \"Пяцігорʼе-3\"",
         "short_name:be": "СТ \"Пяцігорʼе-3\"",
         "short_name:ru": "СТ \"Пятигорье-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62850,7 +62736,7 @@ const Data =
         "short_name": "СТ \"Пяцігорʼе-4\"",
         "short_name:be": "СТ \"Пяцігорʼе-4\"",
         "short_name:ru": "СТ \"Пятигорье-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62877,7 +62763,7 @@ const Data =
         "short_name": "СТ \"Пяцігорʼе-5\"",
         "short_name:be": "СТ \"Пяцігорʼе-5\"",
         "short_name:ru": "СТ \"Пятигорье-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62904,7 +62790,7 @@ const Data =
         "short_name": "СТ \"Пяцігорʼе-6\"",
         "short_name:be": "СТ \"Пяцігорʼе-6\"",
         "short_name:ru": "СТ \"Пятигорье-6\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62931,7 +62817,7 @@ const Data =
         "short_name": "СТ \"Кніжнік\"",
         "short_name:be": "СТ \"Кніжнік\"",
         "short_name:ru": "СТ \"Книжник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62958,7 +62844,7 @@ const Data =
         "short_name": "СТ \"Маргарыншчык\"",
         "short_name:be": "СТ \"Маргарыншчык\"",
         "short_name:ru": "СТ \"Маргаринщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -62985,7 +62871,7 @@ const Data =
         "short_name": "СТ \"Пярліна\"",
         "short_name:be": "СТ \"Пярліна\"",
         "short_name:ru": "СТ \"Жемчужина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63012,7 +62898,7 @@ const Data =
         "short_name": "СТ \"Связіст-88\"",
         "short_name:be": "СТ \"Связіст-88\"",
         "short_name:ru": "СТ \"Связист-88\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63039,7 +62925,7 @@ const Data =
         "short_name": "СТ \"Сігнал-Плюс\"",
         "short_name:be": "СТ \"Сігнал-Плюс\"",
         "short_name:ru": "СТ \"Сигнал-Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63066,7 +62952,7 @@ const Data =
         "short_name": "СТ \"Палёт\"",
         "short_name:be": "СТ \"Палёт\"",
         "short_name:ru": "СТ \"Полёт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63093,7 +62979,7 @@ const Data =
         "short_name": "СТ \"Верас Брумароўшчыны\"",
         "short_name:be": "СТ \"Верас Брумароўшчыны\"",
         "short_name:ru": "СТ \"Верес Бруморовщины\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63120,7 +63006,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63147,7 +63033,7 @@ const Data =
         "short_name": "СТ \"Дружба-87\"",
         "short_name:be": "СТ \"Дружба-87\"",
         "short_name:ru": "СТ \"Дружба-87\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63174,7 +63060,7 @@ const Data =
         "short_name": "СТ \"Сланечнік\"",
         "short_name:be": "СТ \"Сланечнік\"",
         "short_name:ru": "СТ \"Подсолнух\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63201,7 +63087,7 @@ const Data =
         "short_name": "СТ \"Дарожнік-2002\"",
         "short_name:be": "СТ \"Дарожнік-2002\"",
         "short_name:ru": "СТ \"Дорожник-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63228,7 +63114,7 @@ const Data =
         "short_name": "СТ \"Рабінка\"",
         "short_name:be": "СТ \"Рабінка\"",
         "short_name:ru": "СТ \"Рябинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63255,7 +63141,7 @@ const Data =
         "short_name": "СТ \"Сузорʼе\"",
         "short_name:be": "СТ \"Сузорʼе\"",
         "short_name:ru": "СТ \"Сузорье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63282,7 +63168,7 @@ const Data =
         "short_name": "СТ \"Кірмаш\"",
         "short_name:be": "СТ \"Кірмаш\"",
         "short_name:ru": "СТ \"Кирмаш\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63309,7 +63195,7 @@ const Data =
         "short_name": "СТ \"Бярозка СТ8\"",
         "short_name:be": "СТ \"Бярозка СТ8\"",
         "short_name:ru": "СТ \"Берёзка СТ8\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63336,7 +63222,7 @@ const Data =
         "short_name": "СТ \"Івушка-91\"",
         "short_name:be": "СТ \"Івушка-91\"",
         "short_name:ru": "СТ \"Ивушка-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63363,7 +63249,7 @@ const Data =
         "short_name": "СТ \"Усходні\"",
         "short_name:be": "СТ \"Усходні\"",
         "short_name:ru": "СТ \"Восточный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63390,7 +63276,7 @@ const Data =
         "short_name": "СТ «Благавічы»",
         "short_name:be": "СТ «Благавічы»",
         "short_name:ru": "СТ «Благовичи»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63417,7 +63303,7 @@ const Data =
         "short_name": "СТ \"Здароўе-2\"",
         "short_name:be": "СТ \"Здароўе-2\"",
         "short_name:ru": "СТ \"Здоровье-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63444,7 +63330,7 @@ const Data =
         "short_name": "СТ \"Лотас Сафіеўка\"",
         "short_name:be": "СТ \"Лотас Сафіеўка\"",
         "short_name:ru": "СТ \"Лотос Софиевка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63471,7 +63357,7 @@ const Data =
         "short_name": "СТ \"Жукава на Дубравенке\"",
         "short_name:be": "СТ \"Жукава на Дубравенке\"",
         "short_name:ru": "СТ \"Жуково на Дубровенке\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63498,7 +63384,7 @@ const Data =
         "short_name": "СТ \"Прывольнае\"",
         "short_name:be": "СТ \"Прывольнае\"",
         "short_name:ru": "СТ \"Привольное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -63525,7 +63411,7 @@ const Data =
         "short_name": "СТ «Разліў»",
         "short_name:be": "СТ «Разліў»",
         "short_name:ru": "СТ «Разлив»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63552,7 +63438,7 @@ const Data =
         "short_name": "СТ \"Памежнік\"",
         "short_name:be": "СТ \"Памежнік\"",
         "short_name:ru": "СТ \"Пограничник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63569,7 +63455,7 @@ const Data =
       "properties": {
         "name": "Восток-2012",
         "name:ru": "Восток-2012",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -63596,7 +63482,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63623,7 +63509,7 @@ const Data =
         "short_name": "СТ \"Калініна\"",
         "short_name:be": "СТ \"Калініна\"",
         "short_name:ru": "СТ \"Калинино-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63650,7 +63536,7 @@ const Data =
         "short_name": "СТ \"Калініна\"",
         "short_name:be": "СТ \"Калініна\"",
         "short_name:ru": "СТ \"Калинино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63677,7 +63563,7 @@ const Data =
         "short_name": "СТ \"Вуць\"",
         "short_name:be": "СТ \"Вуць\"",
         "short_name:ru": "СТ \"Уть\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63704,7 +63590,7 @@ const Data =
         "short_name": "СТ \"Сокал-Клімаўка\"",
         "short_name:be": "СТ \"Сокал-Клімаўка\"",
         "short_name:ru": "СТ \"Сокол-Климовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63731,7 +63617,7 @@ const Data =
         "short_name": "СТ \"Крынічка-2\"",
         "short_name:be": "СТ \"Крынічка-2\"",
         "short_name:ru": "СТ \"Криничка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63758,7 +63644,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63785,7 +63671,7 @@ const Data =
         "short_name": "СТ \"Вішанькі\"",
         "short_name:be": "СТ \"Вішанькі\"",
         "short_name:ru": "СТ \"Вишенки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63812,7 +63698,7 @@ const Data =
         "short_name": "СТ \"Ягадка\"",
         "short_name:be": "СТ \"Ягадка\"",
         "short_name:ru": "СТ \"Ягодка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63839,7 +63725,7 @@ const Data =
         "short_name": "СТ \"Вялікія надзеі\"",
         "short_name:be": "СТ \"Вялікія надзеі\"",
         "short_name:ru": "СТ \"Большие надежды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63866,7 +63752,7 @@ const Data =
         "short_name": "СТ \"Землякоп\"",
         "short_name:be": "СТ \"Землякоп\"",
         "short_name:ru": "СТ \"Землекоп\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63893,7 +63779,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63920,7 +63806,7 @@ const Data =
         "short_name": "СТ \"Гамельчанка\"",
         "short_name:be": "СТ \"Гамельчанка\"",
         "short_name:ru": "СТ \"Гомельчанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63947,7 +63833,7 @@ const Data =
         "short_name": "СТ \"Паляна\"",
         "short_name:be": "СТ \"Паляна\"",
         "short_name:ru": "СТ \"Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -63974,7 +63860,7 @@ const Data =
         "short_name": "СТ \"Малінаўка-1\"",
         "short_name:be": "СТ \"Малінаўка-1\"",
         "short_name:ru": "СТ \"Малиновка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64001,7 +63887,7 @@ const Data =
         "short_name": "СТ \"Механізатар\"",
         "short_name:be": "СТ \"Механізатар\"",
         "short_name:ru": "СТ \"Механизатор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64028,7 +63914,7 @@ const Data =
         "short_name": "СТ \"Жгунь\"",
         "short_name:be": "СТ \"Жгунь\"",
         "short_name:ru": "СТ \"Жгунь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64055,7 +63941,7 @@ const Data =
         "short_name": "СТ \"Маставік\"",
         "short_name:be": "СТ \"Маставік\"",
         "short_name:ru": "СТ \"Мостовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64082,7 +63968,7 @@ const Data =
         "short_name": "СТ \"Карэнеўка-2\"",
         "short_name:be": "СТ \"Карэнеўка-2\"",
         "short_name:ru": "СТ \"Кореневка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64109,7 +63995,7 @@ const Data =
         "short_name": "СТ \"Карэнеўка-1\"",
         "short_name:be": "СТ \"Карэнеўка-1\"",
         "short_name:ru": "СТ \"Кореневка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64136,7 +64022,7 @@ const Data =
         "short_name": "СТ \"Эканаміст\"",
         "short_name:be": "СТ \"Эканаміст\"",
         "short_name:ru": "СТ \"Экономист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64163,7 +64049,7 @@ const Data =
         "short_name": "СТ \"Агат\"",
         "short_name:be": "СТ \"Агат\"",
         "short_name:ru": "СТ \"Агат\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64190,7 +64076,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64217,7 +64103,7 @@ const Data =
         "short_name": "СТ \"Камбінат\"",
         "short_name:be": "СТ \"Камбінат\"",
         "short_name:ru": "СТ \"Комбинат\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64244,7 +64130,7 @@ const Data =
         "short_name": "СТ \"Ізаліроўшчык\"",
         "short_name:be": "СТ \"Ізаліроўшчык\"",
         "short_name:ru": "СТ \"Изолировщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64271,7 +64157,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст-2\"",
         "short_name:be": "СТ \"Аўтамабіліст-2\"",
         "short_name:ru": "СТ \"Автомобилист-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64298,7 +64184,7 @@ const Data =
         "short_name": "СТ \"Пульс\"",
         "short_name:be": "СТ \"Пульс\"",
         "short_name:ru": "СТ \"Пульс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64325,7 +64211,7 @@ const Data =
         "short_name": "СТ \"Настаўнік\"",
         "short_name:be": "СТ \"Настаўнік\"",
         "short_name:ru": "СТ \"Наставник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64352,7 +64238,7 @@ const Data =
         "short_name": "СТ \"Вялікія надзеі\"",
         "short_name:be": "СТ \"Вялікія надзеі\"",
         "short_name:ru": "СТ \"Большие надежды\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64379,7 +64265,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна\"",
         "short_name:be": "СТ \"Лясная паляна\"",
         "short_name:ru": "СТ \"Лесная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64406,7 +64292,7 @@ const Data =
         "short_name": "СТ \"Жгуньская Буда\"",
         "short_name:be": "СТ \"Жгуньская Буда\"",
         "short_name:ru": "СТ \"Жгуньская Буда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64433,7 +64319,7 @@ const Data =
         "short_name": "СТ \"Імпульс\"",
         "short_name:be": "СТ \"Імпульс\"",
         "short_name:ru": "СТ \"Импульс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64460,7 +64346,7 @@ const Data =
         "short_name": "СТ \"Вымпел\"",
         "short_name:be": "СТ \"Вымпел\"",
         "short_name:ru": "СТ \"Вымпел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64487,7 +64373,7 @@ const Data =
         "short_name": "СТ \"Зялёная дубрава\"",
         "short_name:be": "СТ \"Зялёная дубрава\"",
         "short_name:ru": "СТ \"Зеленая дубрава\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64514,7 +64400,7 @@ const Data =
         "short_name": "СТ \"Зялёная дубрава-2\"",
         "short_name:be": "СТ \"Зялёная дубрава-2\"",
         "short_name:ru": "СТ \"Зеленая дубрава-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64541,7 +64427,7 @@ const Data =
         "short_name": "СТ \"Зялёны Гай\"",
         "short_name:be": "СТ \"Зялёны Гай\"",
         "short_name:ru": "СТ \"Зелёный Гай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64568,7 +64454,7 @@ const Data =
         "short_name": "СТ \"Азон\"",
         "short_name:be": "СТ \"Азон\"",
         "short_name:ru": "СТ \"Озон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64595,7 +64481,7 @@ const Data =
         "short_name": "СТ \"Гамельчанка\"",
         "short_name:be": "СТ \"Гамельчанка\"",
         "short_name:ru": "СТ \"Гомельчанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64622,7 +64508,7 @@ const Data =
         "short_name": "СТ \"Рытм\"",
         "short_name:be": "СТ \"Рытм\"",
         "short_name:ru": "СТ \"Ритм\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64649,7 +64535,7 @@ const Data =
         "short_name": "СТ \"Сакалкі\"",
         "short_name:be": "СТ \"Сакалкі\"",
         "short_name:ru": "СТ \"Соколки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64676,7 +64562,7 @@ const Data =
         "short_name": "СТ \"Надзея-Б\"",
         "short_name:be": "СТ \"Надзея-Б\"",
         "short_name:ru": "СТ \"Надежда-Б\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64703,7 +64589,7 @@ const Data =
         "short_name": "СТ \"Ветразь\"",
         "short_name:be": "СТ \"Ветразь\"",
         "short_name:ru": "СТ \"Парус\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64730,7 +64616,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64757,7 +64643,7 @@ const Data =
         "short_name": "СТ \"Ягадка\"",
         "short_name:be": "СТ \"Ягадка\"",
         "short_name:ru": "СТ \"Ягодка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64784,7 +64670,7 @@ const Data =
         "short_name": "СТ \"Хонава-2\"",
         "short_name:be": "СТ \"Хонава-2\"",
         "short_name:ru": "СТ \"Хоново-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64811,7 +64697,7 @@ const Data =
         "short_name": "СТ \"Рэчкі-2\"",
         "short_name:be": "СТ \"Рэчкі-2\"",
         "short_name:ru": "СТ \"Речки-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64838,7 +64724,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64865,7 +64751,7 @@ const Data =
         "short_name": "СТ \"КПД\"",
         "short_name:be": "СТ \"КПД\"",
         "short_name:ru": "СТ \"КПД\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64892,7 +64778,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64919,7 +64805,7 @@ const Data =
         "short_name": "СТ \"Пралеска-2\"",
         "short_name:be": "СТ \"Пралеска-2\"",
         "short_name:ru": "СТ \"Пролеска-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64946,7 +64832,7 @@ const Data =
         "short_name": "СТ \"Дарожнік-2\"",
         "short_name:be": "СТ \"Дарожнік-2\"",
         "short_name:ru": "СТ \"Дорожник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -64973,7 +64859,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў-2\"",
         "short_name:be": "СТ \"Лакаматыў-2\"",
         "short_name:ru": "СТ \"Локомотив-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65000,7 +64886,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Свитанок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65027,7 +64913,7 @@ const Data =
         "short_name": "СТ \"Вікторыя\"",
         "short_name:be": "СТ \"Вікторыя\"",
         "short_name:ru": "СТ \"Виктория\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65054,7 +64940,7 @@ const Data =
         "short_name": "СТ «Мір»",
         "short_name:be": "СТ «Мір»",
         "short_name:ru": "СТ «Мир»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65081,7 +64967,7 @@ const Data =
         "short_name": "СТ \"Гвардзеец-97\"",
         "short_name:be": "СТ \"Гвардзеец-97\"",
         "short_name:ru": "СТ \"Гвардеец-97\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65108,7 +64994,7 @@ const Data =
         "short_name": "СТ \"Лясное\" Мiнскага завода спецiнструмента i технологii",
         "short_name:be": "СТ \"Лясное\" Мiнскага завода спецiнструмента i технологii",
         "short_name:ru": "СТ \"Лесное\" Минского завода специнструмента и технологии",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65135,7 +65021,7 @@ const Data =
         "short_name": "СТ \"Станкабудаўнік\"",
         "short_name:be": "СТ \"Станкабудаўнік\"",
         "short_name:ru": "СТ \"Станкостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65162,7 +65048,7 @@ const Data =
         "short_name": "СТ \"Метрапраект\"",
         "short_name:be": "СТ \"Метрапраект\"",
         "short_name:ru": "СТ \"Метропроект\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65189,7 +65075,7 @@ const Data =
         "short_name": "СТ \"Камсамолец\"",
         "short_name:be": "СТ \"Камсамолец\"",
         "short_name:ru": "СТ \"Комсомолец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65216,7 +65102,7 @@ const Data =
         "short_name": "СТ \"Ясна Сонца\"",
         "short_name:be": "СТ \"Ясна Сонца\"",
         "short_name:ru": "СТ \"Ясно Солнце\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65243,7 +65129,7 @@ const Data =
         "short_name": "СТ \"Шарык\"",
         "short_name:be": "СТ \"Шарык\"",
         "short_name:ru": "СТ \"Шарик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65270,7 +65156,7 @@ const Data =
         "short_name": "СТ \"Бярозка-2\"",
         "short_name:be": "СТ \"Бярозка-2\"",
         "short_name:ru": "СТ \"Березка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65297,7 +65183,7 @@ const Data =
         "short_name": "СТ \"Малінаўка-2008\"",
         "short_name:be": "СТ \"Малінаўка-2008\"",
         "short_name:ru": "СТ \"Малиновка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65324,7 +65210,7 @@ const Data =
         "short_name": "СТ \"Мантажнік-Сенькава\"",
         "short_name:be": "СТ \"Мантажнік-Сенькава\"",
         "short_name:ru": "СТ \"Монтажник-Сеньково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65351,7 +65237,7 @@ const Data =
         "short_name": "СТ \"Авіятар\"",
         "short_name:be": "СТ \"Авіятар\"",
         "short_name:ru": "СТ \"Авиатор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65378,7 +65264,7 @@ const Data =
         "short_name": "СТ \"Бабровічы-2008\"",
         "short_name:be": "СТ \"Бабровічы-2008\"",
         "short_name:ru": "СТ \"Бобровичи-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65405,7 +65291,7 @@ const Data =
         "short_name": "СТ \"Аватка\"",
         "short_name:be": "СТ \"Аватка\"",
         "short_name:ru": "СТ \"Аватко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "plots": "2",
         "status": "blue"
       }
@@ -65433,7 +65319,7 @@ const Data =
         "short_name": "СТ \"Вясёлкавае 777\"",
         "short_name:be": "СТ \"Вясёлкавае 777\"",
         "short_name:ru": "СТ \"Радужное 777\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65460,7 +65346,7 @@ const Data =
         "short_name": "СТ \"Пушча-4\"",
         "short_name:be": "СТ \"Пушча-4\"",
         "short_name:ru": "СТ \"Пуща-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65487,7 +65373,7 @@ const Data =
         "short_name": "СТ \"Падарожнік\"",
         "short_name:be": "СТ \"Падарожнік\"",
         "short_name:ru": "СТ \"Подорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65514,7 +65400,7 @@ const Data =
         "short_name": "СТ \"Лясок\"",
         "short_name:be": "СТ \"Лясок\"",
         "short_name:ru": "СТ \"Лесок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65541,7 +65427,7 @@ const Data =
         "short_name": "СТ \"Калінка\"",
         "short_name:be": "СТ \"Калінка\"",
         "short_name:ru": "СТ \"Калинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65568,7 +65454,7 @@ const Data =
         "short_name": "СТ \"Пралеска 2\"",
         "short_name:be": "СТ \"Пралеска 2\"",
         "short_name:ru": "СТ \"Пролеска 2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65595,7 +65481,7 @@ const Data =
         "short_name": "СТ \"Крыніца 4\"",
         "short_name:be": "СТ \"Крыніца 4\"",
         "short_name:ru": "СТ \"Криница 4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65622,7 +65508,7 @@ const Data =
         "short_name": "СТ \"Лілія\"",
         "short_name:be": "СТ \"Лілія\"",
         "short_name:ru": "СТ \"Лилия\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65649,7 +65535,7 @@ const Data =
         "short_name": "СТ \"Меліяратар-Навасады\" Воранаўскага раёна",
         "short_name:be": "СТ \"Меліяратар-Навасады\" Воранаўскага раёна",
         "short_name:ru": "СТ \"Мелиоратор-Новосады\" Вороновского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-10-31",
         "ref:vatin": "BY500068109",
         "status": "orange"
@@ -65678,7 +65564,7 @@ const Data =
         "short_name": "СТ \"Чабарок\" Воранаўскага района",
         "short_name:be": "СТ \"Чабарок\" Воранаўскага района",
         "short_name:ru": "СТ \"Чабарок\" Вороновского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-11-25",
         "ref:vatin": "BY500068137",
         "status": "orange"
@@ -65707,7 +65593,7 @@ const Data =
         "short_name": "СТ \"Лавіна 2014\"",
         "short_name:be": "СТ \"Лавіна 2014\"",
         "short_name:ru": "СТ \"Лавина 2014\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65734,7 +65620,7 @@ const Data =
         "short_name": "СТ \"Трыумф-3\"",
         "short_name:be": "СТ \"Трыумф-3\"",
         "short_name:ru": "СТ \"Триумф-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65761,7 +65647,7 @@ const Data =
         "short_name": "СТ \"Камунальнік-Міцькі\"",
         "short_name:be": "СТ \"Камунальнік-Міцькі\"",
         "short_name:ru": "СТ \"Коммунальник-Митьки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65788,7 +65674,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65815,7 +65701,7 @@ const Data =
         "short_name": "СТ \"Салевік-2\"",
         "short_name:be": "СТ \"Салевік-2\"",
         "short_name:ru": "СТ \"Солевик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65842,7 +65728,7 @@ const Data =
         "short_name": "СТ \"Хутарок\"",
         "short_name:be": "СТ \"Хутарок\"",
         "short_name:ru": "СТ \"Хуторок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65869,7 +65755,7 @@ const Data =
         "short_name": "СТ \"Дубок\"",
         "short_name:be": "СТ \"Дубок\"",
         "short_name:ru": "СТ \"Дубок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65896,7 +65782,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65923,7 +65809,7 @@ const Data =
         "short_name": "СТ \"Пянькі-1\"",
         "short_name:be": "СТ \"Пянькі-1\"",
         "short_name:ru": "СТ \"Пеньки-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65950,7 +65836,7 @@ const Data =
         "short_name": "СТ \"Індустрыя-2\"",
         "short_name:be": "СТ \"Індустрыя-2\"",
         "short_name:ru": "СТ \"Индустрия-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -65977,7 +65863,7 @@ const Data =
         "short_name": "СТ \"Індустрыя-2\"",
         "short_name:be": "СТ \"Індустрыя-2\"",
         "short_name:ru": "СТ \"Индустрия-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66004,7 +65890,7 @@ const Data =
         "short_name": "СТ \"Рассвет\"",
         "short_name:be": "СТ \"Рассвет\"",
         "short_name:ru": "СТ \"Рассвет\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66031,7 +65917,7 @@ const Data =
         "short_name": "СТ \"Мяркурый\"",
         "short_name:be": "СТ \"Мяркурый\"",
         "short_name:ru": "СТ \"Меркурий\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66058,7 +65944,7 @@ const Data =
         "short_name": "СТ \"Березка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Березка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -66085,7 +65971,7 @@ const Data =
         "short_name": "СТ \"Чэрнінскі Раднічок\"",
         "short_name:be": "СТ \"Чэрнінскі Раднічок\"",
         "short_name:ru": "СТ \"Чернинский Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66112,7 +65998,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна 97\"",
         "short_name:be": "СТ \"Лясная паляна 97\"",
         "short_name:ru": "СТ \"Лесная поляна 97\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66139,7 +66025,7 @@ const Data =
         "short_name": "СТ \"Сірэна\"",
         "short_name:be": "СТ \"Сірэна\"",
         "short_name:ru": "СТ \"Сирена\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -66166,7 +66052,7 @@ const Data =
         "short_name": "СТ \"Марʼін гай\"",
         "short_name:be": "СТ \"Марʼін гай\"",
         "short_name:ru": "СТ \"Марьина роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66193,7 +66079,7 @@ const Data =
         "short_name": "СТ \"Журавінка\"",
         "short_name:be": "СТ \"Журавінка\"",
         "short_name:ru": "СТ \"Журавинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66220,7 +66106,7 @@ const Data =
         "short_name": "СТ \"Купалінка-90\"",
         "short_name:be": "СТ \"Купалінка-90\"",
         "short_name:ru": "СТ \"Купалинка-90\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66247,7 +66133,7 @@ const Data =
         "short_name": "СТ \"Дубраўскі квартал 2017\"",
         "short_name:be": "СТ \"Дубраўскі квартал 2017\"",
         "short_name:ru": "СТ \"Дубровский квартал 2017\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66274,7 +66160,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Свитанок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66301,7 +66187,7 @@ const Data =
         "short_name": "СТ \"Транспартнік-2001\"",
         "short_name:be": "СТ \"Транспартнік-2001\"",
         "short_name:ru": "СТ \"Транспортник- 2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66328,7 +66214,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66355,7 +66241,7 @@ const Data =
         "short_name": "СТ \"Іслач - Ракаў\"",
         "short_name:be": "СТ \"Іслач - Ракаў\"",
         "short_name:ru": "СТ \"Ислочь - Раков\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66382,7 +66268,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66409,7 +66295,7 @@ const Data =
         "short_name": "СТ \"Дубрава 2008\"",
         "short_name:be": "СТ \"Дубрава 2008\"",
         "short_name:ru": "СТ \"Дубрава 2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66436,7 +66322,7 @@ const Data =
         "short_name": "СТ \"Сонечны Бор\"",
         "short_name:be": "СТ \"Сонечны Бор\"",
         "short_name:ru": "СТ \"Солнечный Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66463,7 +66349,7 @@ const Data =
         "short_name": "СТ \"Трактар\"",
         "short_name:be": "СТ \"Трактар\"",
         "short_name:ru": "СТ \"Трактор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66490,7 +66376,7 @@ const Data =
         "short_name": "СТ \"Гай\"",
         "short_name:be": "СТ \"Гай\"",
         "short_name:ru": "СТ \"Роща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66517,7 +66403,7 @@ const Data =
         "short_name": "СТ \"Мічурынец\"",
         "short_name:be": "СТ \"Мічурынец\"",
         "short_name:ru": "СТ \"Мичуринец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66544,7 +66430,7 @@ const Data =
         "short_name": "СТ \"Раднік МінскАблДарБуд\"",
         "short_name:be": "СТ \"Раднік МінскАблДарБуд\"",
         "short_name:ru": "СТ \"Родник МинскОблДорСтрой\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66571,7 +66457,7 @@ const Data =
         "short_name": "СТ \"Вясна-85\" Мінсельгасхарча Рэспублікі Беларусь",
         "short_name:be": "СТ \"Вясна-85\" Мінсельгасхарча Рэспублікі Беларусь",
         "short_name:ru": "СТ \"Весна-85\" Минсельхозпрода Республики Беларусь",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66598,7 +66484,7 @@ const Data =
         "short_name": "СТ \"Лаванда Лясная\"",
         "short_name:be": "СТ \"Лаванда Лясная\"",
         "short_name:ru": "СТ \"Лаванда Лесная\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66625,7 +66511,7 @@ const Data =
         "short_name": "СТ \"Аўтарамонтнік 124\"",
         "short_name:be": "СТ \"Аўтарамонтнік 124\"",
         "short_name:ru": "СТ \"Авторемонтник 124\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66652,7 +66538,7 @@ const Data =
         "short_name": "СТ \"Верас-1987\"",
         "short_name:be": "СТ \"Верас-1987\"",
         "short_name:ru": "СТ \"Верас-1987\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66679,7 +66565,7 @@ const Data =
         "short_name": "СТ \"Лясное-1987\"",
         "short_name:be": "СТ \"Раманы\"",
         "short_name:ru": "СТ \"Романы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -66706,7 +66592,7 @@ const Data =
         "short_name": "СТ \"Раманы\"",
         "short_name:be": "СТ \"Лясное-87\"",
         "short_name:ru": "СТ \"Лесное-87\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -66733,7 +66619,7 @@ const Data =
         "short_name": "СТ \"Металіст\"",
         "short_name:be": "СТ \"Металіст\"",
         "short_name:ru": "СТ \"Металлист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66760,7 +66646,7 @@ const Data =
         "short_name": "СТ \"Раднік-12\"",
         "short_name:be": "СТ \"Раднік-12\"",
         "short_name:ru": "СТ \"Родник-12\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66787,7 +66673,7 @@ const Data =
         "short_name": "СТ \"Купалінка-МАЗ\"",
         "short_name:be": "СТ \"Купалінка-МАЗ\"",
         "short_name:ru": "СТ \"Купалинка-МАЗ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66814,7 +66700,7 @@ const Data =
         "short_name": "СТ \"Блакітны-2008\"",
         "short_name:be": "СТ \"Блакітны-2008\"",
         "short_name:ru": "СТ \"Лазурный-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66841,7 +66727,7 @@ const Data =
         "short_name": "СТ \"Садавод-91\"",
         "short_name:be": "СТ \"Садавод-91\"",
         "short_name:ru": "СТ \"Садовод-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66868,7 +66754,7 @@ const Data =
         "short_name": "СТ \"Маліна\"",
         "short_name:be": "СТ \"Маліна\"",
         "short_name:ru": "СТ \"Малина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66895,7 +66781,7 @@ const Data =
         "short_name": "САТ \"Белыя Росы\"",
         "short_name:be": "САТ \"Белыя Росы\"",
         "short_name:ru": "СОТ \"Белые Росы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -66922,7 +66808,7 @@ const Data =
         "short_name": "СТ \"Газавік\"",
         "short_name:be": "СТ \"Газавік\"",
         "short_name:ru": "СТ \"Газовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66949,7 +66835,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Нясвіж\"",
         "short_name:be": "СТ \"Крыніца-Нясвіж\"",
         "short_name:ru": "СТ \"Крыница-Несвиж\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -66976,7 +66862,7 @@ const Data =
         "short_name": "СТ \"Крыніца-91\"",
         "short_name:be": "СТ \"Крыніца-91\"",
         "short_name:ru": "СТ \"Родник-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67003,7 +66889,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -67030,7 +66916,7 @@ const Data =
         "short_name": "СТ \"Нафтавік-3\"",
         "short_name:be": "СТ \"Нафтавік-3\"",
         "short_name:ru": "СТ \"Нефтяник-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67057,7 +66943,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67084,7 +66970,7 @@ const Data =
         "short_name": "СТ \"Цеплаэнергетык\"",
         "short_name:be": "СТ \"Цеплаэнергетык\"",
         "short_name:ru": "СТ \"Теплоэнергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67111,7 +66997,7 @@ const Data =
         "short_name": "СТ \"Урэчча\"",
         "short_name:be": "СТ \"Урэчча\"",
         "short_name:ru": "СТ \"Уречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67138,7 +67024,7 @@ const Data =
         "short_name": "СТ \"Вектар-2012\"",
         "short_name:be": "СТ \"Вектар-2012\"",
         "short_name:ru": "СТ \"Вектор-2012\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67165,7 +67051,7 @@ const Data =
         "short_name": "СТ «Перавал»",
         "short_name:be": "СТ «Перавал»",
         "short_name:ru": "СТ «Перавал»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -67192,7 +67078,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67219,7 +67105,7 @@ const Data =
         "short_name": "СТ \"Бярэзіна\"",
         "short_name:be": "СТ \"Бярэзіна\"",
         "short_name:ru": "СТ \"Березина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67246,7 +67132,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67273,7 +67159,7 @@ const Data =
         "short_name": "СТ \"Домабудаўнік\"",
         "short_name:be": "СТ \"Домабудаўнік\"",
         "short_name:ru": "СТ \"Домостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67300,7 +67186,7 @@ const Data =
         "short_name": "СТ \"Лясны аазіс\"",
         "short_name:be": "СТ \"Лясны аазіс\"",
         "short_name:ru": "СТ \"Лесной оазис\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67327,7 +67213,7 @@ const Data =
         "short_name": "СТ \"Лясны сад\"",
         "short_name:be": "СТ \"Лясны сад\"",
         "short_name:ru": "СТ \"Лесной сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67354,7 +67240,7 @@ const Data =
         "short_name": "СТ \"Станкабудаўнік\"",
         "short_name:be": "СТ \"Станкабудаўнік\"",
         "short_name:ru": "СТ \"Станкостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67381,7 +67267,7 @@ const Data =
         "short_name": "СТ \"Бяларучы\"",
         "short_name:be": "СТ \"Бяларучы\"",
         "short_name:ru": "СТ \"Беларучи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67408,7 +67294,7 @@ const Data =
         "short_name": "СТ \"Белыя Росы-2001\"",
         "short_name:be": "СТ \"Белыя Росы-2001\"",
         "short_name:ru": "СТ \"Белые Росы-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67435,7 +67321,7 @@ const Data =
         "short_name": "СТ \"Паляна\"",
         "short_name:be": "СТ \"Паляна\"",
         "short_name:ru": "СТ \"Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67462,7 +67348,7 @@ const Data =
         "short_name": "СТ \"Вяча-91\"",
         "short_name:be": "СТ \"Вяча-91\"",
         "short_name:ru": "СТ \"Вяча-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67489,7 +67375,7 @@ const Data =
         "short_name": "СТ \"Тэкстыль\"",
         "short_name:be": "СТ \"Тэкстыль\"",
         "short_name:ru": "СТ \"Текстиль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67516,7 +67402,7 @@ const Data =
         "short_name": "СТ \"Беларучча\"",
         "short_name:be": "СТ \"Беларучча\"",
         "short_name:ru": "СТ \"Беларучье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67543,7 +67429,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна-05\"",
         "short_name:be": "СТ \"Лясная Паляна-05\"",
         "short_name:ru": "СТ \"Лесная Поляна-05\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67570,7 +67456,7 @@ const Data =
         "short_name": "СТ \"Пралеска ЦКБ\"",
         "short_name:be": "СТ \"Пралеска ЦКБ\"",
         "short_name:ru": "СТ \"Пролеска ЦКБ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67597,7 +67483,7 @@ const Data =
         "short_name": "СТ \"Садавод\"",
         "short_name:be": "СТ \"Садавод\"",
         "short_name:ru": "СТ \"Садовод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67624,7 +67510,7 @@ const Data =
         "short_name": "СТ \"Крап\"",
         "short_name:be": "СТ \"Крап\"",
         "short_name:ru": "СТ \"Крап\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67651,7 +67537,7 @@ const Data =
         "short_name": "СТ \"Яловіца\"",
         "short_name:be": "СТ \"Яловіца\"",
         "short_name:ru": "СТ \"Яловица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67678,7 +67564,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67705,7 +67591,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67732,7 +67618,7 @@ const Data =
         "short_name": "СТ \"Пліса-1\"",
         "short_name:be": "СТ \"Пліса-1\"",
         "short_name:ru": "СТ \"Плиса-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67759,7 +67645,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік\"",
         "short_name:be": "СТ \"Рамонтнік\"",
         "short_name:ru": "СТ \"Ремонтник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67786,7 +67672,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік\"",
         "short_name:be": "СТ \"Рамонтнік\"",
         "short_name:ru": "СТ \"Ремонтник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67813,7 +67699,7 @@ const Data =
         "short_name": "СТ \"Малінаўка\"",
         "short_name:be": "СТ \"Малінаўка\"",
         "short_name:ru": "СТ \"Малиновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67840,7 +67726,7 @@ const Data =
         "short_name": "СТ \"Каласок\"",
         "short_name:be": "СТ \"Каласок\"",
         "short_name:ru": "СТ \"Колосок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67867,7 +67753,7 @@ const Data =
         "short_name": "СТ \"Гайна-2001\"",
         "short_name:be": "СТ \"Гайна-2001\"",
         "short_name:ru": "СТ \"Гайна-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67894,7 +67780,7 @@ const Data =
         "short_name": "СТ \"Каласок\"",
         "short_name:be": "СТ \"Каласок\"",
         "short_name:ru": "СТ \"Колосок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67921,7 +67807,7 @@ const Data =
         "short_name": "СТ \"Электрон-89\"",
         "short_name:be": "СТ \"Электрон-89\"",
         "short_name:ru": "СТ \"Электрон-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67948,7 +67834,7 @@ const Data =
         "short_name": "СТ \"Фантазія-Сілічы\"",
         "short_name:be": "СТ \"Фантазія-Сілічы\"",
         "short_name:ru": "СТ \"Фантазия-Силичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -67975,7 +67861,7 @@ const Data =
         "short_name": "СТ \"Журавінка\"",
         "short_name:be": "СТ \"Журавінка\"",
         "short_name:ru": "СТ \"Журавинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68002,7 +67888,7 @@ const Data =
         "short_name": "СТ \"Бярозка-2\"",
         "short_name:be": "СТ \"Бярозка-2\"",
         "short_name:ru": "СТ \"Берёзка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68029,7 +67915,7 @@ const Data =
         "short_name": "СТ \"Дынама\"",
         "short_name:be": "СТ \"Дынама\"",
         "short_name:ru": "СТ \"Динамо\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68056,7 +67942,7 @@ const Data =
         "short_name": "СТ \"Сурфінія\"",
         "short_name:be": "СТ \"Сурфінія\"",
         "short_name:ru": "СТ \"Сурфиния\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68083,7 +67969,7 @@ const Data =
         "short_name": "СТ \"Хлебапрадукты\"",
         "short_name:be": "СТ \"Хлебапрадукты\"",
         "short_name:ru": "СТ \"Хлебопродукты\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68110,7 +67996,7 @@ const Data =
         "short_name": "СТ \"Азёркі\"",
         "short_name:be": "СТ \"Азёркі\"",
         "short_name:ru": "СТ \"Озёрки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68137,7 +68023,7 @@ const Data =
         "short_name": "СТ \"Канстанцінаўка\"",
         "short_name:be": "СТ \"Канстанцінаўка\"",
         "short_name:ru": "СТ \"Константиновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68164,7 +68050,7 @@ const Data =
         "short_name": "СТ \"Сонечная паляна\"",
         "short_name:be": "СТ \"Сонечная паляна\"",
         "short_name:ru": "СТ \"Солнечная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68191,7 +68077,7 @@ const Data =
         "short_name": "СТ \"Ветэран меліярацыі\"",
         "short_name:be": "СТ \"Ветэран меліярацыі\"",
         "short_name:ru": "СТ \"Ветеран мелиорации\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68218,7 +68104,7 @@ const Data =
         "short_name": "СТ \"Сялекцыянер\"",
         "short_name:be": "СТ \"Сялекцыянер\"",
         "short_name:ru": "СТ \"Селекционер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68245,7 +68131,7 @@ const Data =
         "short_name": "СТ \"Уць-1\"",
         "short_name:be": "СТ \"Уць-1\"",
         "short_name:ru": "СТ \"Уть-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68272,7 +68158,7 @@ const Data =
         "short_name": "СТ \"Крышталь-4\"",
         "short_name:be": "СТ \"Крышталь-4\"",
         "short_name:ru": "СТ \"Кристалл-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68299,7 +68185,7 @@ const Data =
         "short_name": "СТ \"Палёт\"",
         "short_name:be": "СТ \"Палёт\"",
         "short_name:ru": "СТ \"Полёт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68326,7 +68212,7 @@ const Data =
         "short_name": "СТ \"Палёт-2\"",
         "short_name:be": "СТ \"Палёт-2\"",
         "short_name:ru": "СТ \"Полёт-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68353,7 +68239,7 @@ const Data =
         "short_name": "СТ \"Палессе\"",
         "short_name:be": "СТ \"Палессе\"",
         "short_name:ru": "СТ \"Полесье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68380,7 +68266,7 @@ const Data =
         "short_name": "СТ \"Труд\"",
         "short_name:be": "СТ \"Труд\"",
         "short_name:ru": "СТ \"Труд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68407,7 +68293,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68434,7 +68320,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68461,7 +68347,7 @@ const Data =
         "short_name": "СТ \"Зара над Сожам\"",
         "short_name:be": "СТ \"Зара над Сожам\"",
         "short_name:ru": "СТ \"Заря над Сожем\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68488,7 +68374,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68515,7 +68401,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68542,7 +68428,7 @@ const Data =
         "short_name": "СТ \"Сокал\"",
         "short_name:be": "СТ \"Сокал\"",
         "short_name:ru": "СТ \"Сокол\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68569,7 +68455,7 @@ const Data =
         "short_name": "СТ \"Магілёўскія ведамасці\"",
         "short_name:be": "СТ \"Магілёўскія ведамасці\"",
         "short_name:ru": "СТ \"Могилёвские ведомости\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68596,7 +68482,7 @@ const Data =
         "short_name": "СТ \"Адраджэнне-Сенькава\"",
         "short_name:be": "СТ \"Адраджэнне-Сенькава\"",
         "short_name:ru": "СТ \"Возрождение-Сеньково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68623,7 +68509,7 @@ const Data =
         "short_name": "СТ \"Дняпро-Палавінны Лог\"",
         "short_name:be": "СТ \"Дняпро-Палавінны Лог\"",
         "short_name:ru": "СТ \"Днепр-Половинный Лог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68650,7 +68536,7 @@ const Data =
         "short_name": "СТ \"Мікалаёўка-1\"",
         "short_name:be": "СТ \"Мікалаёўка-1\"",
         "short_name:ru": "СТ \"Николаевка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68677,7 +68563,7 @@ const Data =
         "short_name": "СТ \"Чаромушкі\"",
         "short_name:be": "СТ \"Чаромушкі\"",
         "short_name:ru": "СТ \"Черемушки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68704,7 +68590,7 @@ const Data =
         "short_name": "СТ \"Прафілактык-2\"",
         "short_name:be": "СТ \"Прафілактык-2\"",
         "short_name:ru": "СТ \"Профилактик-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68731,7 +68617,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68758,7 +68644,7 @@ const Data =
         "short_name": "СТ \"Зара-Масток\"",
         "short_name:be": "СТ \"Зара-Масток\"",
         "short_name:ru": "СТ \"Заря-Мосток\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68785,7 +68671,7 @@ const Data =
         "short_name": "СТ \"Воднік\"",
         "short_name:be": "СТ \"Воднік\"",
         "short_name:ru": "СТ \"Водник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68812,7 +68698,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68839,7 +68725,7 @@ const Data =
         "short_name": "СТ \"Трыкатажніца\"",
         "short_name:be": "СТ \"Трыкатажніца\"",
         "short_name:ru": "СТ \"Трикотажница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68866,7 +68752,7 @@ const Data =
         "short_name": "СТ \"Лясная Казка 2010\"",
         "short_name:be": "СТ \"Лясная Казка 2010\"",
         "short_name:ru": "СТ \"Лесная Сказка 2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68893,7 +68779,7 @@ const Data =
         "short_name": "СТ \"Энергетык-20\"",
         "short_name:be": "СТ \"Энергетык-20\"",
         "short_name:ru": "СТ \"Энергетик-20\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68920,7 +68806,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна Магілёўскага раёна\"",
         "short_name:be": "СТ \"Лясная паляна Магілёўскага раёна\"",
         "short_name:ru": "СТ \"Лесная поляна Могилёвского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68947,7 +68833,7 @@ const Data =
         "short_name": "СТ \"Камунальнік-82\"",
         "short_name:be": "СТ \"Камунальнік-82\"",
         "short_name:ru": "СТ \"Коммунальник-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -68974,7 +68860,7 @@ const Data =
         "short_name": "СТ \"Будаунік-рамонтнік\"",
         "short_name:be": "СТ \"Будаунік-рамонтнік\"",
         "short_name:ru": "СТ \"Строитель-ремонтник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -69001,7 +68887,7 @@ const Data =
         "short_name": "СТ \"Зорачка-2009\"",
         "short_name:be": "СТ \"Зорачка-2009\"",
         "short_name:ru": "СТ \"Звездочка-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69028,7 +68914,7 @@ const Data =
         "short_name": "СТ \"Энергетык-2002\"",
         "short_name:be": "СТ \"Энергетык-2002\"",
         "short_name:ru": "СТ \"Энергетик-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69055,7 +68941,7 @@ const Data =
         "short_name": "СТ \"Трыкатажніца\"",
         "short_name:be": "СТ \"Трыкатажніца\"",
         "short_name:ru": "СТ \"Трикотажница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69082,7 +68968,7 @@ const Data =
         "short_name": "СТ \"Спецбудаўнік\"",
         "short_name:be": "СТ \"Спецбудаўнік\"",
         "short_name:ru": "СТ \"Спецстроевец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69109,7 +68995,7 @@ const Data =
         "short_name": "СТ \"Сляза Бярозкi\"",
         "short_name:be": "СТ \"Сляза Бярозкi\"",
         "short_name:ru": "СТ \"Слеза Берёзки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -69136,7 +69022,7 @@ const Data =
         "short_name": "СТ \"Яблонка\"",
         "short_name:be": "СТ \"Яблонка\"",
         "short_name:ru": "СТ \"Яблонька\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69163,7 +69049,7 @@ const Data =
         "short_name": "СТ \"Геафізік\"",
         "short_name:be": "СТ \"Геафізік\"",
         "short_name:ru": "СТ \"Геофизик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69190,7 +69076,7 @@ const Data =
         "short_name": "СТ \"Бокаў\"",
         "short_name:be": "СТ \"Бокаў\"",
         "short_name:ru": "СТ \"Боков\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69217,7 +69103,7 @@ const Data =
         "short_name": "СТ \"Бусел\"",
         "short_name:be": "СТ \"Бусел\"",
         "short_name:ru": "СТ \"Аист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69244,7 +69130,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Криничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69271,7 +69157,7 @@ const Data =
         "short_name": "СТ \"Усход-7\"",
         "short_name:be": "СТ \"Усход-7\"",
         "short_name:ru": "СТ \"Восход-7\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69298,7 +69184,7 @@ const Data =
         "short_name": "СТ \"Індустрыя\"",
         "short_name:be": "СТ \"Індустрыя\"",
         "short_name:ru": "СТ \"Индустрия\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69325,7 +69211,7 @@ const Data =
         "short_name": "СТ \"Рэпка\"",
         "short_name:be": "СТ \"Рэпка\"",
         "short_name:ru": "СТ \"Репка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69352,7 +69238,7 @@ const Data =
         "short_name": "СТ \"Гея\"",
         "short_name:be": "СТ \"Гея\"",
         "short_name:ru": "СТ \"Гея\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69379,7 +69265,7 @@ const Data =
         "short_name": "СТ \"Рамонак-2009\"",
         "short_name:be": "СТ \"Рамонак-2009\"",
         "short_name:ru": "СТ \"Ромашка-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69406,7 +69292,7 @@ const Data =
         "short_name": "СТ \"Сасновы-2\"",
         "short_name:be": "СТ \"Сасновы-2\"",
         "short_name:ru": "СТ \"Сосновый-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69433,7 +69319,7 @@ const Data =
         "short_name": "СТ \"Марусіна\"",
         "short_name:be": "СТ \"Марусіна\"",
         "short_name:ru": "СТ \"Марусино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69460,7 +69346,7 @@ const Data =
         "short_name": "СТ \"Пчалавод\"",
         "short_name:be": "СТ \"Пчалавод\"",
         "short_name:ru": "СТ \"Пчеловод\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69487,7 +69373,7 @@ const Data =
         "short_name": "СТ \"Вызваліцель\"",
         "short_name:be": "СТ \"Вызваліцель\"",
         "short_name:ru": "СТ \"Освободитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69514,7 +69400,7 @@ const Data =
         "short_name": "СТ \"Івушка-1\"",
         "short_name:be": "СТ \"Івушка-1\"",
         "short_name:ru": "СТ \"Ивушка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69541,7 +69427,7 @@ const Data =
         "short_name": "СТ \"Крышталь-сад\"",
         "short_name:be": "СТ \"Крышталь-сад\"",
         "short_name:ru": "СТ \"Кристалл-сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69568,7 +69454,7 @@ const Data =
         "short_name": "СТ \"Уша-плюс\"",
         "short_name:be": "СТ \"Уша-плюс\"",
         "short_name:ru": "СТ \"Уша-плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69595,7 +69481,7 @@ const Data =
         "short_name": "СТ \"Падбярозавік\"",
         "short_name:be": "СТ \"Падбярозавік\"",
         "short_name:ru": "СТ \"Подберёзовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69622,7 +69508,7 @@ const Data =
         "short_name": "СТ \"Тэатрал\"",
         "short_name:be": "СТ \"Тэатрал\"",
         "short_name:ru": "СТ \"Театрал\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69649,7 +69535,7 @@ const Data =
         "short_name": "СТ \"Будраўшчына\"",
         "short_name:be": "СТ \"Будраўшчына\"",
         "short_name:ru": "СТ \"Будровщина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "plots": "121",
         "status": "blue"
       }
@@ -69677,7 +69563,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69704,7 +69590,7 @@ const Data =
         "short_name": "СТ \"Уцёс\"",
         "short_name:be": "СТ \"Уцёс\"",
         "short_name:ru": "СТ \"Утёс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69731,7 +69617,7 @@ const Data =
         "short_name": "СТ \"Тонус\"",
         "short_name:be": "СТ \"Тонус\"",
         "short_name:ru": "СТ \"Тонус\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69758,7 +69644,7 @@ const Data =
         "short_name": "СТ \"Пралескі\"",
         "short_name:be": "СТ \"Пралескі\"",
         "short_name:ru": "СТ \"Пралески\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69785,7 +69671,7 @@ const Data =
         "short_name": "СТ \"Верасок-86\"",
         "short_name:be": "СТ \"Верасок-86\"",
         "short_name:ru": "СТ \"Верасок-86\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69812,7 +69698,7 @@ const Data =
         "short_name": "СТ \"Верасок-86\"",
         "short_name:be": "СТ \"Верасок-86\"",
         "short_name:ru": "СТ \"Верасок-86\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69839,7 +69725,7 @@ const Data =
         "short_name": "СТ \"Дары\"",
         "short_name:be": "СТ \"Дары\"",
         "short_name:ru": "СТ \"Дары\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69866,7 +69752,7 @@ const Data =
         "short_name": "СТ \"Дубок Падбелле\"",
         "short_name:be": "СТ \"Дубок Падбелле\"",
         "short_name:ru": "СТ \"Дубок Подбелье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69893,7 +69779,7 @@ const Data =
         "short_name": "СТ \"Мантажнік-82\"",
         "short_name:be": "СТ \"Мантажнік-82\"",
         "short_name:ru": "СТ \"Монтажник-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69920,7 +69806,7 @@ const Data =
         "short_name": "СТ \"Прыдняпроўка\"",
         "short_name:be": "СТ \"Прыдняпроўка\"",
         "short_name:ru": "СТ \"Приднепровка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69947,7 +69833,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -69974,7 +69860,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70001,7 +69887,7 @@ const Data =
         "short_name": "СТ \"Маргарыта\"",
         "short_name:be": "СТ \"Маргарыта\"",
         "short_name:ru": "СТ \"Маргарита\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70028,7 +69914,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70055,7 +69941,7 @@ const Data =
         "short_name": "СТ \"Багда\"",
         "short_name:be": "СТ \"Багда\"",
         "short_name:ru": "СТ \"Багда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70082,7 +69968,7 @@ const Data =
         "short_name": "СТ \"Ветэран\"",
         "short_name:be": "СТ \"Ветэран\"",
         "short_name:ru": "СТ \"Ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70109,7 +69995,7 @@ const Data =
         "short_name": "СТ \"Політэхнік-2\"",
         "short_name:be": "СТ \"Політэхнік-2\"",
         "short_name:ru": "СТ \"Политехник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70136,7 +70022,7 @@ const Data =
         "short_name": "СТ \"Політэхнік-2\"",
         "short_name:be": "СТ \"Політэхнік-2\"",
         "short_name:ru": "СТ \"Политехник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70163,7 +70049,7 @@ const Data =
         "short_name": "СТ \"Півавар\"",
         "short_name:be": "СТ \"Півавар\"",
         "short_name:ru": "СТ \"Пивовар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70190,7 +70076,7 @@ const Data =
         "short_name": "СТ \"Металіст\"",
         "short_name:be": "СТ \"Металіст\"",
         "short_name:ru": "СТ \"Металлист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70217,7 +70103,7 @@ const Data =
         "short_name": "СТ \"Ураджай-2\"",
         "short_name:be": "СТ \"Ураджай-2\"",
         "short_name:ru": "СТ \"Урожай-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70244,7 +70130,7 @@ const Data =
         "short_name": "СТ \"Лянок\"",
         "short_name:be": "СТ \"Лянок\"",
         "short_name:ru": "СТ \"Ленок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70271,7 +70157,7 @@ const Data =
         "short_name": "СТ \"Гваздзіка-2\"",
         "short_name:be": "СТ \"Гваздзіка-2\"",
         "short_name:ru": "СТ \"Гвоздика-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70298,7 +70184,7 @@ const Data =
         "short_name": "СТ \"Вагоннік-2008\"",
         "short_name:be": "СТ \"Вагоннік-2008\"",
         "short_name:ru": "СТ \"Вагонник-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70325,7 +70211,7 @@ const Data =
         "short_name": "СТ \"Хаткі\"",
         "short_name:be": "СТ \"Хаткі\"",
         "short_name:ru": "СТ \"Хатки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70352,7 +70238,7 @@ const Data =
         "short_name": "СТ \"Гігіяніст\"",
         "short_name:be": "СТ \"Гігіяніст\"",
         "short_name:ru": "СТ \"Гигиенист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70379,7 +70265,7 @@ const Data =
         "short_name": "СТ \"Энергетык-Валокі (Аблаграпрамэнэрга)\"",
         "short_name:be": "СТ \"Энергетык-Валокі (Аблаграпрамэнэрга)\"",
         "short_name:ru": "СТ \"Энергетик-Волоки (Облагропромэнерго)\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70406,7 +70292,7 @@ const Data =
         "short_name": "СТ \"Харчавік-Купёлы\"",
         "short_name:be": "СТ \"Харчавік-Купёлы\"",
         "short_name:ru": "СТ \"Пищевик-Купёлы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70433,7 +70319,7 @@ const Data =
         "short_name": "СТ \"Буравік-Магілёў\"",
         "short_name:be": "СТ \"Буравік-Магілёў\"",
         "short_name:ru": "СТ \"Буровик-Могилев\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70460,7 +70346,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-Барсукі\"",
         "short_name:be": "СТ \"Будаўнік-Барсукі\"",
         "short_name:ru": "СТ \"Строитель-Барсуки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70487,7 +70373,7 @@ const Data =
         "short_name": "СТ \"Дарожнік-Барсукі\"",
         "short_name:be": "СТ \"Дарожнік-Барсукі\"",
         "short_name:ru": "СТ \"Дорожник-Барсуки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70514,7 +70400,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70541,7 +70427,7 @@ const Data =
         "short_name": "СТ \"Усход\"",
         "short_name:be": "СТ \"Усход\"",
         "short_name:ru": "СТ \"Восход\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70568,7 +70454,7 @@ const Data =
         "short_name": "СТ \"Сябры-Міхайлава\"",
         "short_name:be": "СТ \"Сябры-Міхайлава\"",
         "short_name:ru": "СТ \"Сябры-Михайлово\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70595,7 +70481,7 @@ const Data =
         "short_name": "СТ \"Лакаматыў-Латва\"",
         "short_name:be": "СТ \"Лакаматыў-Латва\"",
         "short_name:ru": "СТ \"Локомотив-Лотва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70622,7 +70508,7 @@ const Data =
         "short_name": "СТ \"Будаўнік ст.Латва\"",
         "short_name:be": "СТ \"Будаўнік ст.Латва\"",
         "short_name:ru": "СТ \"Строитель ст.Лотва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70649,7 +70535,7 @@ const Data =
         "short_name": "СТ \"Латва-2\"",
         "short_name:be": "СТ \"Латва-2\"",
         "short_name:ru": "СТ \"Лотва-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70676,7 +70562,7 @@ const Data =
         "short_name": "СТ \"Лтва-Паўночная\"",
         "short_name:be": "СТ \"Лтва-Паўночная\"",
         "short_name:ru": "СТ \"Лотва-Северная\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70703,7 +70589,7 @@ const Data =
         "short_name": "СТ \"Латвана\"",
         "short_name:be": "СТ \"Латвана\"",
         "short_name:ru": "СТ \"Лотвана\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70730,7 +70616,7 @@ const Data =
         "short_name": "СТ \"Прыборабудаўнік\"",
         "short_name:be": "СТ \"Прыборабудаўнік\"",
         "short_name:ru": "СТ \"Приборостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70757,7 +70643,7 @@ const Data =
         "short_name": "СТ \"Бярозка-Латва\"",
         "short_name:be": "СТ \"Бярозка-Латва\"",
         "short_name:ru": "СТ \"Березка-Лотва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70784,7 +70670,7 @@ const Data =
         "short_name": "СТ \"Ветэран 2\"",
         "short_name:be": "СТ \"Ветэран 2\"",
         "short_name:ru": "СТ \"Ветеран 2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70811,7 +70697,7 @@ const Data =
         "short_name": "СТ \"Сувязіст-Латва\"",
         "short_name:be": "СТ \"Сувязіст-Латва\"",
         "short_name:ru": "СТ \"Связист-Лотва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70838,7 +70724,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70865,7 +70751,7 @@ const Data =
         "short_name": "СТ \"Латва\"",
         "short_name:be": "СТ \"Латва\"",
         "short_name:ru": "СТ \"Лотва\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70892,7 +70778,7 @@ const Data =
         "short_name": "СТ \"Латва-3\"",
         "short_name:be": "СТ \"Латва-3\"",
         "short_name:ru": "СТ \"Лотва-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70919,7 +70805,7 @@ const Data =
         "short_name": "СТ \"Ветэран Аўрамаўка\"",
         "short_name:be": "СТ \"Ветэран Аўрамаўка\"",
         "short_name:ru": "СТ \"Ветеран-Аврамовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70946,7 +70832,7 @@ const Data =
         "short_name": "СТ \"Энергетык-3\"",
         "short_name:be": "СТ \"Энергетык-3\"",
         "short_name:ru": "СТ \"Энергетик-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -70973,7 +70859,7 @@ const Data =
         "short_name": "СТ \"Косцінка\"",
         "short_name:be": "СТ \"Косцінка\"",
         "short_name:ru": "СТ \"Костинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71000,7 +70886,7 @@ const Data =
         "short_name": "СТ \"Дубкі\"",
         "short_name:be": "СТ \"Дубкі\"",
         "short_name:ru": "СТ \"Дубки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71027,7 +70913,7 @@ const Data =
         "short_name": "СТ \"Дубкі\"",
         "short_name:be": "СТ \"Дубкі\"",
         "short_name:ru": "СТ \"Дубки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71054,7 +70940,7 @@ const Data =
         "short_name": "СТ \"Дняпро\"",
         "short_name:be": "СТ \"Дняпро\"",
         "short_name:ru": "СТ \"Днепр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71081,7 +70967,7 @@ const Data =
         "short_name": "СТ \"Электрон\"",
         "short_name:be": "СТ \"Электрон\"",
         "short_name:ru": "СТ \"Электрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71108,7 +70994,7 @@ const Data =
         "short_name": "СТ \"Энергетык\"",
         "short_name:be": "СТ \"Энергетык\"",
         "short_name:ru": "СТ \"Энергетик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71135,7 +71021,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71162,7 +71048,7 @@ const Data =
         "short_name": "СТ \"Прыдняпроўе\"",
         "short_name:be": "СТ \"Прыдняпроўе\"",
         "short_name:ru": "СТ \"Приднепровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71189,7 +71075,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71216,7 +71102,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-2\"",
         "short_name:be": "СТ \"Будаўнік-2\"",
         "short_name:ru": "СТ \"Строитель-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71243,7 +71129,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71270,7 +71156,7 @@ const Data =
         "short_name": "СТ \"Прыдняпроўе\"",
         "short_name:be": "СТ \"Прыдняпроўе\"",
         "short_name:ru": "СТ \"Приднепровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71297,7 +71183,7 @@ const Data =
         "short_name": "СТ \"Колас\"",
         "short_name:be": "СТ \"Колас\"",
         "short_name:ru": "СТ \"Колос\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71324,7 +71210,7 @@ const Data =
         "short_name": "СТ \"Транспартны Будаўнік\"",
         "short_name:be": "СТ \"Транспартны Будаўнік\"",
         "short_name:ru": "СТ \"Транспортный строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71351,7 +71237,7 @@ const Data =
         "short_name": "СТ \"Людміла\"",
         "short_name:be": "СТ \"Людміла\"",
         "short_name:ru": "СТ \"Людмила\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71378,7 +71264,7 @@ const Data =
         "short_name": "СТ \"Кааператар\"",
         "short_name:be": "СТ \"Кааператар\"",
         "short_name:ru": "СТ \"Кооператор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71405,7 +71291,7 @@ const Data =
         "short_name": "СТ \"Ручаёк\"",
         "short_name:be": "СТ \"Ручаёк\"",
         "short_name:ru": "СТ \"Ручеёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71432,7 +71318,7 @@ const Data =
         "short_name": "СТ \"Шаўкоўніца\"",
         "short_name:be": "СТ \"Шаўкоўніца\"",
         "short_name:ru": "СТ \"Шелковица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71459,7 +71345,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71486,7 +71372,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71513,7 +71399,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71540,7 +71426,7 @@ const Data =
         "short_name": "СТ \"Сілікат\"",
         "short_name:be": "СТ \"Сілікат\"",
         "short_name:ru": "СТ \"Силикат\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71567,7 +71453,7 @@ const Data =
         "short_name": "СТ \"Пашына\"",
         "short_name:be": "СТ \"Пашына\"",
         "short_name:ru": "СТ \"Пашино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71594,7 +71480,7 @@ const Data =
         "short_name": "СТ \"Пашына\"",
         "short_name:be": "СТ \"Пашына\"",
         "short_name:ru": "СТ \"Пашино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71621,7 +71507,7 @@ const Data =
         "short_name": "СТ \"Інструментальшчык\"",
         "short_name:be": "СТ \"Інструментальшчык\"",
         "short_name:ru": "СТ \"Инструментальщик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71648,7 +71534,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71675,7 +71561,7 @@ const Data =
         "short_name": "СТ \"Металіст\"",
         "short_name:be": "СТ \"Металіст\"",
         "short_name:ru": "СТ \"Металлист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71702,7 +71588,7 @@ const Data =
         "short_name": "СТ \"Станкабудаўнік\"",
         "short_name:be": "СТ \"Станкабудаўнік\"",
         "short_name:ru": "СТ \"Станкостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71729,7 +71615,7 @@ const Data =
         "short_name": "СТ \"Дружба\"",
         "short_name:be": "СТ \"Дружба\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71756,7 +71642,7 @@ const Data =
         "short_name": "СТ \"Спадарожнік\"",
         "short_name:be": "СТ \"Спадарожнік\"",
         "short_name:ru": "СТ \"Спутник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71783,7 +71669,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71810,7 +71696,7 @@ const Data =
         "short_name": "СТ \"Дарожнік-2\"",
         "short_name:be": "СТ \"Дарожнік-2\"",
         "short_name:ru": "СТ \"Дорожник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71837,7 +71723,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71864,7 +71750,7 @@ const Data =
         "short_name": "СТ \"Крапівенка\"",
         "short_name:be": "СТ \"Крапівенка\"",
         "short_name:ru": "СТ \"Крапивенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71891,7 +71777,7 @@ const Data =
         "short_name": "СТ \"Крыніца-2\"",
         "short_name:be": "СТ \"Крыніца-2\"",
         "short_name:ru": "СТ \"Родник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71918,7 +71804,7 @@ const Data =
         "short_name": "СТ \"Усход-2008\"",
         "short_name:be": "СТ \"Усход-2008\"",
         "short_name:ru": "СТ \"Восток-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71945,7 +71831,7 @@ const Data =
         "short_name": "СТ \"Элінг\"",
         "short_name:be": "СТ \"Элінг\"",
         "short_name:ru": "СТ \"Эллинг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71972,7 +71858,7 @@ const Data =
         "short_name": "СТ \"Гальнае\"",
         "short_name:be": "СТ \"Гальнае\"",
         "short_name:ru": "СТ \"Гальное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -71999,7 +71885,7 @@ const Data =
         "short_name": "СТ \"Гадзінка каля дачы\"",
         "short_name:be": "СТ \"Гадзінка каля дачы\"",
         "short_name:ru": "СТ \"Часок у дачи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72026,7 +71912,7 @@ const Data =
         "short_name": "СТ \"Ясная Паляна\"",
         "short_name:be": "СТ \"Ясная Паляна\"",
         "short_name:ru": "СТ \"Ясная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72053,7 +71939,7 @@ const Data =
         "short_name": "СТ \"Крынічка\"",
         "short_name:be": "СТ \"Крынічка\"",
         "short_name:ru": "СТ \"Родничок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72080,7 +71966,7 @@ const Data =
         "short_name": "СТ \"Ласаўка\"",
         "short_name:be": "СТ \"Ласаўка\"",
         "short_name:ru": "СТ \"Ласовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72107,7 +71993,7 @@ const Data =
         "short_name": "СТ \"Ясная Раніца\"",
         "short_name:be": "СТ \"Ясная Раніца\"",
         "short_name:ru": "СТ \"Ясная Раница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72134,7 +72020,7 @@ const Data =
         "short_name": "СТ \"Ландыш-2005\"",
         "short_name:be": "СТ \"Ландыш-2005\"",
         "short_name:ru": "СТ \"Ландыш-2005\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72161,7 +72047,7 @@ const Data =
         "short_name": "СТ \"Пхоўскі дачнік\"",
         "short_name:be": "СТ \"Пхоўскі дачнік\"",
         "short_name:ru": "СТ \"Пховский дачник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72188,7 +72074,7 @@ const Data =
         "short_name": "СТ \"Светлая паляна\"",
         "short_name:be": "СТ \"Светлая паляна\"",
         "short_name:ru": "СТ \"Светлая Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72215,7 +72101,7 @@ const Data =
         "short_name": "СТ \"Светлая паляна\"",
         "short_name:be": "СТ \"Светлая паляна\"",
         "short_name:ru": "СТ \"Светлая Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72242,7 +72128,7 @@ const Data =
         "short_name": "СТ \"Светлая паляна\"",
         "short_name:be": "СТ \"Светлая паляна\"",
         "short_name:ru": "СТ \"Светлая Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72269,7 +72155,7 @@ const Data =
         "short_name": "СТ \"Лясны-2\"",
         "short_name:be": "СТ \"Лясны-2\"",
         "short_name:ru": "СТ \"Лесной-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72296,7 +72182,7 @@ const Data =
         "short_name": "СТ \"Крыніца-1989\"",
         "short_name:be": "СТ \"Крыніца-1989\"",
         "short_name:ru": "СТ \"Криница-1989\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72323,7 +72209,7 @@ const Data =
         "short_name": "СТ \"Здаровы Сад\"",
         "short_name:be": "СТ \"Здаровы Сад\"",
         "short_name:ru": "СТ \"Здоровый Сад\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72350,7 +72236,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Дняпро\"",
         "short_name:be": "СТ \"Крыніца-Дняпро\"",
         "short_name:ru": "СТ \"Родник-Днепр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72377,7 +72263,7 @@ const Data =
         "short_name": "СТ \"Днепр-3\"",
         "short_name:be": "СТ \"Днепр-3\"",
         "short_name:ru": "СТ \"Днепр-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72404,7 +72290,7 @@ const Data =
         "short_name": "СТ \"Днепр-2\"",
         "short_name:be": "СТ \"Днепр-2\"",
         "short_name:ru": "СТ \"Днепр-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72431,7 +72317,7 @@ const Data =
         "short_name": "СТ \"Юбілейны-2001\"",
         "short_name:be": "СТ \"Юбілейны-2001\"",
         "short_name:ru": "СТ \"Юбилейный-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72458,7 +72344,7 @@ const Data =
         "short_name": "СТ \"Дзікалаўка-1\"",
         "short_name:be": "СТ \"Дзікалаўка-1\"",
         "short_name:ru": "СТ \"Диколовка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72485,7 +72371,7 @@ const Data =
         "short_name": "СТ \"Дзікалаўка-2\"",
         "short_name:be": "СТ \"Дзікалаўка-2\"",
         "short_name:ru": "СТ \"Диколовка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72512,7 +72398,7 @@ const Data =
         "short_name": "СТ \"Дзікалаўка-3\"",
         "short_name:be": "СТ \"Дзікалаўка-3\"",
         "short_name:ru": "СТ \"Диколовка-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72539,7 +72425,7 @@ const Data =
         "short_name": "СТ \"Баравінка-Церуха\"",
         "short_name:be": "СТ \"Баравінка-Церуха\"",
         "short_name:ru": "СТ \"Боровинка-Терюха\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72566,7 +72452,7 @@ const Data =
         "short_name": "СТ \"Малочнік\"",
         "short_name:be": "СТ \"Малочнік\"",
         "short_name:ru": "СТ \"Молочник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72593,7 +72479,7 @@ const Data =
         "short_name": "СТ \"Экафорум\"",
         "short_name:be": "СТ \"Экафорум\"",
         "short_name:ru": "СТ \"Экофорум\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72620,7 +72506,7 @@ const Data =
         "short_name": "СТ \"Сігнал\"",
         "short_name:be": "СТ \"Сігнал\"",
         "short_name:ru": "СТ \"Сигнал\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72647,7 +72533,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72674,7 +72560,7 @@ const Data =
         "short_name": "СТ \"Шутаўка\"",
         "short_name:be": "СТ \"Шутаўка\"",
         "short_name:ru": "СТ \"Шутовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72701,7 +72587,7 @@ const Data =
         "short_name": "СТ \"Цяруха-1\"",
         "short_name:be": "СТ \"Цяруха-1\"",
         "short_name:ru": "СТ \"Терюха-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72728,7 +72614,7 @@ const Data =
         "short_name": "СТ \"Васілёк-Церуха\"",
         "short_name:be": "СТ \"Васілёк-Церуха\"",
         "short_name:ru": "СТ \"Василек-Терюха\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72755,7 +72641,7 @@ const Data =
         "short_name": "СТ \"Крышталь-1\"",
         "short_name:be": "СТ \"Крышталь-1\"",
         "short_name:ru": "СТ \"Кристалл-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72782,7 +72668,7 @@ const Data =
         "short_name": "СТ \"Малочнік\"",
         "short_name:be": "СТ \"Малочнік\"",
         "short_name:ru": "СТ \"Молочник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72809,7 +72695,7 @@ const Data =
         "short_name": "СТ \"Радуга\"",
         "short_name:be": "СТ \"Радуга\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72836,7 +72722,7 @@ const Data =
         "short_name": "СТ \"Вішанька\"",
         "short_name:be": "СТ \"Вішанька\"",
         "short_name:ru": "СТ \"Вишенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72863,7 +72749,7 @@ const Data =
         "short_name": "СТ \"Станцыя Церуха\"",
         "short_name:be": "СТ \"Станцыя Церуха\"",
         "short_name:ru": "СТ \"Станция Терюха\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72890,7 +72776,7 @@ const Data =
         "short_name": "СТ \"Крышталь-2\"",
         "short_name:be": "СТ \"Крышталь-2\"",
         "short_name:ru": "СТ \"Кристалл-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72917,7 +72803,7 @@ const Data =
         "short_name": "СТ \"Ландыш\"",
         "short_name:be": "СТ \"Ландыш\"",
         "short_name:ru": "СТ \"Ландыш\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72944,7 +72830,7 @@ const Data =
         "short_name": "СТ \"Трыкатажнік-84\"",
         "short_name:be": "СТ \"Трыкатажнік-84\"",
         "short_name:ru": "СТ \"Трикотажник-84\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72971,7 +72857,7 @@ const Data =
         "short_name": "СТ \"Крыніца\"",
         "short_name:be": "СТ \"Крыніца\"",
         "short_name:ru": "СТ \"Крыница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -72998,7 +72884,7 @@ const Data =
         "short_name": "СТ \"МПМК-268\"",
         "short_name:be": "СТ \"МПМК-268\"",
         "short_name:ru": "СТ \"МПМК-268\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73025,7 +72911,7 @@ const Data =
         "short_name": "СТ \"СЖБ ППСО\"",
         "short_name:be": "СТ \"СЖБ ППСО\"",
         "short_name:ru": "СТ \"СЖБ ППСО\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73052,7 +72938,7 @@ const Data =
         "short_name": "СТ \"Пціч\"",
         "short_name:be": "СТ \"Пціч\"",
         "short_name:ru": "СТ \"Птичь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73079,7 +72965,7 @@ const Data =
         "short_name": "СТ \"Настаўнік\"",
         "short_name:be": "СТ \"Настаўнік\"",
         "short_name:ru": "СТ \"Настаўнік\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -73106,7 +72992,7 @@ const Data =
         "short_name": "СТ \"Геолаг\"",
         "short_name:be": "СТ \"Геолаг\"",
         "short_name:ru": "СТ \"Геолог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73133,7 +73019,7 @@ const Data =
         "short_name": "СТ \"Сігнал\"",
         "short_name:be": "СТ \"Сігнал\"",
         "short_name:ru": "СТ \"Сигнал\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73160,7 +73046,7 @@ const Data =
         "short_name": "СТ \"Буравік\"",
         "short_name:be": "СТ \"Буравік\"",
         "short_name:ru": "СТ \"Буровик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73187,7 +73073,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73214,7 +73100,7 @@ const Data =
         "short_name": "СТ \"Івушка\"",
         "short_name:be": "СТ \"Івушка\"",
         "short_name:ru": "СТ \"Ивушка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73241,7 +73127,7 @@ const Data =
         "short_name": "СТ \"Грабавец\"",
         "short_name:be": "СТ \"Грабавец\"",
         "short_name:ru": "СТ \"Грабовец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73268,7 +73154,7 @@ const Data =
         "short_name": "СТ \"Шчара\"",
         "short_name:be": "СТ \"Шчара\"",
         "short_name:ru": "СТ \"Щара\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73295,7 +73181,7 @@ const Data =
         "short_name": "СТ \"Верасок\"",
         "short_name:be": "СТ \"Верасок\"",
         "short_name:ru": "СТ \"Верасок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73322,7 +73208,7 @@ const Data =
         "short_name": "СТ \"Сантэхнік\"",
         "short_name:be": "СТ \"Сантэхнік\"",
         "short_name:ru": "СТ \"Сантехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73349,7 +73235,7 @@ const Data =
         "short_name": "СТ \"Зялены луг-2\"",
         "short_name:be": "СТ \"Зялены луг-2\"",
         "short_name:ru": "СТ \"Зеленый луг-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73376,7 +73262,7 @@ const Data =
         "short_name": "СТ \"Журавінка-2\"",
         "short_name:be": "СТ \"Журавінка-2\"",
         "short_name:ru": "СТ \"Журавинка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73403,7 +73289,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-5\"",
         "short_name:be": "СТ \"Будаўнік-5\"",
         "short_name:ru": "СТ \"Строитель-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73430,7 +73316,7 @@ const Data =
         "short_name": "СТ \"Глобус-84\"",
         "short_name:be": "СТ \"Глобус-84\"",
         "short_name:ru": "СТ \"Глобус-84\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73457,7 +73343,7 @@ const Data =
         "short_name": "СТ \"Журавінка\"",
         "short_name:be": "СТ \"Журавінка\"",
         "short_name:ru": "СТ \"Журавинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73484,7 +73370,7 @@ const Data =
         "short_name": "СТ \"Зялены луг-2\"",
         "short_name:be": "СТ \"Зялены луг-2\"",
         "short_name:ru": "СТ \"Зеленый луг-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73511,7 +73397,7 @@ const Data =
         "short_name": "СТ \"Журавінка-Байт\"",
         "short_name:be": "СТ \"Журавінка-Байт\"",
         "short_name:ru": "СТ \"Журавинка-Байт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73538,7 +73424,7 @@ const Data =
         "short_name": "СТ \"Гарызонт-2\"",
         "short_name:be": "СТ \"Гарызонт-2\"",
         "short_name:ru": "СТ \"Горизонт-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73565,7 +73451,7 @@ const Data =
         "short_name": "СТ \"Халмы-94\"",
         "short_name:be": "СТ \"Халмы-94\"",
         "short_name:ru": "СТ \"Холмы-94\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73592,7 +73478,7 @@ const Data =
         "short_name": "СТ \"Быт-94\"",
         "short_name:be": "СТ \"Быт-94\"",
         "short_name:ru": "СТ \"Быт-94\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73619,7 +73505,7 @@ const Data =
         "short_name": "СТ \"Радуга\"",
         "short_name:be": "СТ \"Радуга\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73646,7 +73532,7 @@ const Data =
         "short_name": "СТ \"Сунічка\"",
         "short_name:be": "СТ \"Сунічка\"",
         "short_name:ru": "СТ \"Суничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73673,7 +73559,7 @@ const Data =
         "short_name": "СТ \"Арыён\"",
         "short_name:be": "СТ \"Арыён\"",
         "short_name:ru": "СТ \"Орион\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73700,7 +73586,7 @@ const Data =
         "short_name": "СТ \"Перамога\"",
         "short_name:be": "СТ \"Перамога\"",
         "short_name:ru": "СТ \"Перамога\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73727,7 +73613,7 @@ const Data =
         "short_name": "СТ \"Альсевічы\"",
         "short_name:be": "СТ \"Альсевічы\"",
         "short_name:ru": "СТ \"Ольсевичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73754,7 +73640,7 @@ const Data =
         "short_name": "СТ \"Тэмп\"",
         "short_name:be": "СТ \"Тэмп\"",
         "short_name:ru": "СТ \"Темп\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73781,7 +73667,7 @@ const Data =
         "short_name": "СТ \"Васілёк\"",
         "short_name:be": "СТ \"Васілёк\"",
         "short_name:ru": "СТ \"Василёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73808,7 +73694,7 @@ const Data =
         "short_name": "СТ \"Чабарок-2016\"",
         "short_name:be": "СТ \"Чабарок-2016\"",
         "short_name:ru": "СТ \"Чаборок-2016\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73835,7 +73721,7 @@ const Data =
         "short_name": "СТ \"Круглянка-2016\"",
         "short_name:be": "СТ \"Круглянка-2016\"",
         "short_name:ru": "СТ \"Круглянка-2016\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73862,7 +73748,7 @@ const Data =
         "short_name": "СТ \"Сувязіст-2009\"",
         "short_name:be": "СТ \"Сувязіст-2009\"",
         "short_name:ru": "СТ \"Связист-2009\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73889,7 +73775,7 @@ const Data =
         "short_name": "СТ \"Мікалаёўка-1\"",
         "short_name:be": "СТ \"Мікалаёўка-1\"",
         "short_name:ru": "СТ \"Николаевка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73916,7 +73802,7 @@ const Data =
         "short_name": "СТ \"Смародзінка\"",
         "short_name:be": "СТ \"Смародзінка\"",
         "short_name:ru": "СТ \"Смородинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73943,7 +73829,7 @@ const Data =
         "short_name": "СТ \"Эліксір-1\"",
         "short_name:be": "СТ \"Эліксір-1\"",
         "short_name:ru": "СТ \"Эликсир-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73970,7 +73856,7 @@ const Data =
         "short_name": "СТ \"Пчала\"",
         "short_name:be": "СТ \"Пчала\"",
         "short_name:ru": "СТ \"Пчела\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -73997,7 +73883,7 @@ const Data =
         "short_name": "СТ \"Бытавік-2002\"",
         "short_name:be": "СТ \"Бытавік-2002\"",
         "short_name:ru": "СТ \"Бытовик-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74024,7 +73910,7 @@ const Data =
         "short_name": "СТ \"Вазавец-24\"",
         "short_name:be": "СТ \"Вазавец-24\"",
         "short_name:ru": "СТ \"Вазовец-24\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74051,7 +73937,7 @@ const Data =
         "short_name": "СТ \"ЗапХімРамонтнік\"",
         "short_name:be": "СТ \"ЗапХімРамонтнік\"",
         "short_name:ru": "СТ \"ЗапХимРемонтник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74078,7 +73964,7 @@ const Data =
         "short_name": "СТ \"Палессе-50\"",
         "short_name:be": "СТ \"Палессе-50\"",
         "short_name:ru": "СТ \"Полесье-50\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74105,7 +73991,7 @@ const Data =
         "short_name": "СТ \"Бадзья СШБУ\"",
         "short_name:be": "СТ \"Бадзья СШБУ\"",
         "short_name:ru": "СТ \"Бадья СШСУ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74132,7 +74018,7 @@ const Data =
         "short_name": "СТ \"Паляна\"",
         "short_name:be": "СТ \"Паляна\"",
         "short_name:ru": "СТ \"Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74159,7 +74045,7 @@ const Data =
         "short_name": "СТ \"Саюз-2002\"",
         "short_name:be": "СТ \"Саюз-2002\"",
         "short_name:ru": "СТ \"Союз-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74186,7 +74072,7 @@ const Data =
         "short_name": "СТ \"Саюз-2002\"",
         "short_name:be": "СТ \"Саюз-2002\"",
         "short_name:ru": "СТ \"Союз-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74213,7 +74099,7 @@ const Data =
         "short_name": "СТ \"Саюз-2002\"",
         "short_name:be": "СТ \"Саюз-2002\"",
         "short_name:ru": "СТ \"Союз-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74240,7 +74126,7 @@ const Data =
         "short_name": "СТ \"Саюз-2002\"",
         "short_name:be": "СТ \"Саюз-2002\"",
         "short_name:ru": "СТ \"Союз-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74267,7 +74153,7 @@ const Data =
         "short_name": "СТ \"Трыкатажнік-2\"",
         "short_name:be": "СТ \"Трыкатажнік-2\"",
         "short_name:ru": "СТ \"Трикотажник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74294,7 +74180,7 @@ const Data =
         "short_name": "СТ \"Трыкатажнік-2\"",
         "short_name:be": "СТ \"Трыкатажнік-2\"",
         "short_name:ru": "СТ \"Трикотажник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74321,7 +74207,7 @@ const Data =
         "short_name": "СТ \"Трыкатажнік-2\"",
         "short_name:be": "СТ \"Трыкатажнік-2\"",
         "short_name:ru": "СТ \"Трикотажник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74348,7 +74234,7 @@ const Data =
         "short_name": "СТ \"Домабудаўнік-1987\"",
         "short_name:be": "СТ \"Домабудаўнік-1987\"",
         "short_name:ru": "СТ \"Домостроитель-1987\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74375,7 +74261,7 @@ const Data =
         "short_name": "СТ \"Прамбудаўнік\"",
         "short_name:be": "СТ \"Прамбудаўнік\"",
         "short_name:ru": "СТ \"Промстроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74402,7 +74288,7 @@ const Data =
         "short_name": "СТ \"Гарняк-3\"",
         "short_name:be": "СТ \"Гарняк-3\"",
         "short_name:ru": "СТ \"Горняк-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74429,7 +74315,7 @@ const Data =
         "short_name": "СТ \"Радыё\"",
         "short_name:be": "СТ \"Радыё\"",
         "short_name:ru": "СТ \"Радио\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74456,7 +74342,7 @@ const Data =
         "short_name": "СТ \"Дубравенка в.Гаі\"",
         "short_name:be": "СТ \"Дубравенка в.Гаі\"",
         "short_name:ru": "СТ \"Дубровенка д.Гаи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74483,7 +74369,7 @@ const Data =
         "short_name": "СТ \"Спорыца\"",
         "short_name:be": "СТ \"Спорыца\"",
         "short_name:ru": "СТ \"Спорица\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74510,7 +74396,7 @@ const Data =
         "short_name": "СТ \"Пралеска-Загачча\"",
         "short_name:be": "СТ \"Пралеска-Загачча\"",
         "short_name:ru": "СТ \"Пралеска-Загатье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74537,7 +74423,7 @@ const Data =
         "short_name": "СТ \"Прырода\"",
         "short_name:be": "СТ \"Прырода\"",
         "short_name:ru": "СТ \"Природа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74564,7 +74450,7 @@ const Data =
         "short_name": "СТ \"Флора\"",
         "short_name:be": "СТ \"Флора\"",
         "short_name:ru": "СТ \"Флора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74591,7 +74477,7 @@ const Data =
         "short_name": "СТ \"Гагры\"",
         "short_name:be": "СТ \"Гагры\"",
         "short_name:ru": "СТ \"Гагры\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74618,7 +74504,7 @@ const Data =
         "short_name": "СТ \"Дружны-БЗМП\"",
         "short_name:be": "СТ \"Дружны-БЗМП\"",
         "short_name:ru": "СТ \"Дружный БЗМП\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74645,7 +74531,7 @@ const Data =
         "short_name": "СТ \"Энтузіаст\"",
         "short_name:be": "СТ \"Энтузіаст\"",
         "short_name:ru": "СТ \"Энтузиаст\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74672,7 +74558,7 @@ const Data =
         "short_name": "СТ \"Сасенка\"",
         "short_name:be": "СТ \"Сасенка\"",
         "short_name:ru": "СТ \"Сосенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74699,7 +74585,7 @@ const Data =
         "short_name": "СТ \"Солнышка\"",
         "short_name:be": "СТ \"Солнышка\"",
         "short_name:ru": "СТ \"Солнышко\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74726,7 +74612,7 @@ const Data =
         "short_name": "СТ \"Аптыміст\"",
         "short_name:be": "СТ \"Аптыміст\"",
         "short_name:ru": "СТ \"Оптимист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74753,7 +74639,7 @@ const Data =
         "short_name": "СТ \"Магістраль\"",
         "short_name:be": "СТ \"Магістраль\"",
         "short_name:ru": "СТ \"Магистраль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74780,7 +74666,7 @@ const Data =
         "short_name": "СТ \"Вішанька\"",
         "short_name:be": "СТ \"Вішанька\"",
         "short_name:ru": "СТ \"Вишенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74807,7 +74693,7 @@ const Data =
         "short_name": "СТ \"Палітэхнікум\"",
         "short_name:be": "СТ \"Палітэхнікум\"",
         "short_name:ru": "СТ \"Политехникум\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74834,7 +74720,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74861,7 +74747,7 @@ const Data =
         "short_name": "СТ \"Надзея-Малая\"",
         "short_name:be": "СТ \"Надзея-Малая\"",
         "short_name:ru": "СТ \"Надежда-Малая\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74888,7 +74774,7 @@ const Data =
         "short_name": "СТ \"Талачынская Крынічка\"",
         "short_name:be": "СТ \"Талачынская Крынічка\"",
         "short_name:ru": "СТ \"Толочинская Криничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74915,7 +74801,7 @@ const Data =
         "short_name": "СТ \"Рубін-2001\"",
         "short_name:be": "СТ \"Рубін-2001\"",
         "short_name:ru": "СТ \"Рубин-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74942,7 +74828,7 @@ const Data =
         "short_name": "СТ \"Канверсія\"",
         "short_name:be": "СТ \"Канверсія\"",
         "short_name:ru": "СТ \"Конверсия\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -74969,7 +74855,7 @@ const Data =
         "short_name": "СТ \"Баравая-2\"",
         "short_name:be": "СТ \"Баравая-2\"",
         "short_name:ru": "СТ \"Боровая-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -74996,7 +74882,7 @@ const Data =
         "short_name": "СТ \"Перамога-50\"",
         "short_name:be": "СТ \"Перамога-50\"",
         "short_name:ru": "СТ \"Победа-50\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75023,7 +74909,7 @@ const Data =
         "short_name": "СТ \"Загорʼе-1\"",
         "short_name:be": "СТ \"Загорʼе-1\"",
         "short_name:ru": "СТ \"Загорье-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75038,7 +74924,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -75064,7 +74950,7 @@ const Data =
         "short_name": "СТ \"Булькова\"",
         "short_name:be": "СТ \"Булькова\"",
         "short_name:ru": "СТ \"Бульково\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -75091,8 +74977,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -75116,7 +75001,6 @@ const Data =
         "official_status:ru": "садоводческое товарищество",
         "short_name": "СТ \"Подшипниковец\"",
         "short_name:ru": "СТ \"Подшипниковец\"",
-        "place": "allotments",
         "status": "black"
       }
     },
@@ -75143,8 +75027,7 @@ const Data =
         "short_name": "СТ \"Ліпа\"",
         "short_name:be": "СТ \"Ліпа\"",
         "short_name:ru": "СТ \"Липа\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -75170,7 +75053,7 @@ const Data =
         "short_name": "СТ \"Сасна\"",
         "short_name:be": "СТ \"Сасна\"",
         "short_name:ru": "СТ \"Сосна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75197,7 +75080,7 @@ const Data =
         "short_name": "СТ \"Сасна\"",
         "short_name:be": "СТ \"Сасна\"",
         "short_name:ru": "СТ \"Сосна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75224,7 +75107,7 @@ const Data =
         "short_name": "СТ \"Аграрнік\"",
         "short_name:be": "СТ \"Аграрнік\"",
         "short_name:ru": "СТ \"Аграрник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75251,7 +75134,7 @@ const Data =
         "short_name": "СТ \"Бусел-2008\"",
         "short_name:be": "СТ \"Бусел-2008\"",
         "short_name:ru": "СТ \"Аист-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75278,7 +75161,7 @@ const Data =
         "short_name": "СТ \"Дубрава-6\"",
         "short_name:be": "СТ \"Дубрава-6\"",
         "short_name:ru": "СТ \"Дубрава-6\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75305,7 +75188,7 @@ const Data =
         "short_name": "СТ \"Зялёны луг\"",
         "short_name:be": "СТ \"Зялёны луг\"",
         "short_name:ru": "СТ \"Зелёный луг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75332,7 +75215,7 @@ const Data =
         "short_name": "СТ \"Паўднёвы бераг\"",
         "short_name:be": "СТ \"Паўднёвы бераг\"",
         "short_name:ru": "СТ \"Южный Берег\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75359,7 +75242,7 @@ const Data =
         "short_name": "СТ \"Азёрнае\"",
         "short_name:be": "СТ \"Азёрнае\"",
         "short_name:ru": "СТ \"Озёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75386,7 +75269,7 @@ const Data =
         "short_name": "СТ \"Меліаратар-1\"",
         "short_name:be": "СТ \"Меліаратар-1\"",
         "short_name:ru": "СТ \"Мелиоратор-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75413,7 +75296,7 @@ const Data =
         "short_name": "СТ \"Сасновы Бор\"",
         "short_name:be": "СТ \"Сасновы Бор\"",
         "short_name:ru": "СТ \"Сосновый Бор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75440,7 +75323,7 @@ const Data =
         "short_name": "СТ \"Колератон\"",
         "short_name:be": "СТ \"Колератон\"",
         "short_name:ru": "СТ \"Цветотрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75467,7 +75350,7 @@ const Data =
         "short_name": "СТ \"Колератон\"",
         "short_name:be": "СТ \"Колератон\"",
         "short_name:ru": "СТ \"Цветотрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75494,7 +75377,7 @@ const Data =
         "short_name": "СТ \"Лясное-89\"",
         "short_name:be": "СТ \"Лясное-89\"",
         "short_name:ru": "СТ \"Лесное-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75521,7 +75404,7 @@ const Data =
         "short_name": "СТ \"Лясное-89\"",
         "short_name:be": "СТ \"Лясное-89\"",
         "short_name:ru": "СТ \"Лесное-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75548,7 +75431,7 @@ const Data =
         "short_name": "СТ \"Сонечная палянка\"",
         "short_name:be": "СТ \"Сонечная палянка\"",
         "short_name:ru": "СТ \"Солнечная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75575,7 +75458,7 @@ const Data =
         "short_name": "СТ \"Сонечная палянка\"",
         "short_name:be": "СТ \"Сонечная палянка\"",
         "short_name:ru": "СТ \"Солнечная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75602,7 +75485,7 @@ const Data =
         "short_name": "СТ «Беражок-2008»",
         "short_name:be": "СТ «Беражок-2008»",
         "short_name:ru": "СТ «Бережок-2008»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75629,7 +75512,7 @@ const Data =
         "short_name": "СТ «Дружба-88»",
         "short_name:be": "СТ «Дружба-88»",
         "short_name:ru": "СТ «Дружба-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75656,7 +75539,7 @@ const Data =
         "short_name": "СТ «Камыш»",
         "short_name:be": "СТ «Камыш»",
         "short_name:ru": "СТ «Камыш»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75683,7 +75566,7 @@ const Data =
         "short_name": "СТ \"Хімік\"",
         "short_name:be": "СТ \"Хімік\"",
         "short_name:ru": "СТ \"Химик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75710,7 +75593,7 @@ const Data =
         "short_name": "СТ \"Надзея АТЭП-5\"",
         "short_name:be": "СТ \"Надзея АТЭП-5\"",
         "short_name:ru": "СТ \"Надежда АТЭП-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75737,7 +75620,7 @@ const Data =
         "short_name": "СТ «Вясёлка-1990»",
         "short_name:be": "СТ «Вясёлка-1990»",
         "short_name:ru": "СТ «Вясёлка-1990»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75764,7 +75647,7 @@ const Data =
         "short_name": "СТ «Агеньчык»",
         "short_name:be": "СТ «Агеньчык»",
         "short_name:ru": "СТ «Огонёк»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75791,7 +75674,7 @@ const Data =
         "short_name": "СТ «Яблынька»",
         "short_name:be": "СТ «Яблынька»",
         "short_name:ru": "СТ «Яблонька»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75818,7 +75701,7 @@ const Data =
         "short_name": "СТ «Утульнасць-2»",
         "short_name:be": "СТ «Утульнасць-2»",
         "short_name:ru": "СТ «Уют-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75845,7 +75728,7 @@ const Data =
         "short_name": "СТ «Церамок»",
         "short_name:be": "СТ «Церамок»",
         "short_name:ru": "СТ «Теремок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75872,7 +75755,7 @@ const Data =
         "short_name": "СТ \"Надзея\"",
         "short_name:be": "СТ \"Надзея\"",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75899,7 +75782,7 @@ const Data =
         "short_name": "СТ \"Мечта\"",
         "short_name:be": "СТ \"Мечта\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75926,7 +75809,7 @@ const Data =
         "short_name": "СТ \"Наша Крыніца Плюс\"",
         "short_name:be": "СТ \"Наша Крыніца Плюс\"",
         "short_name:ru": "СТ \"Наш родник плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75953,7 +75836,7 @@ const Data =
         "short_name": "СТ \"Садовае таварыства Ясельда\"",
         "short_name:be": "СТ \"Садовае таварыства Ясельда\"",
         "short_name:ru": "СТ \"Садовое товарищество Ясельда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -75980,7 +75863,7 @@ const Data =
         "short_name": "СТ \"Гай\"",
         "short_name:be": "СТ \"Гай\"",
         "short_name:ru": "СТ \"Гай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76007,7 +75890,7 @@ const Data =
         "short_name": "СТ \"Нафтавік-Новікі\"",
         "short_name:be": "СТ \"Нафтавік-Новікі\"",
         "short_name:ru": "СТ \"Нефтяник-Новики\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76034,7 +75917,7 @@ const Data =
         "short_name": "СТ «Швейнік-1»",
         "short_name:be": "СТ «Швейнік-1»",
         "short_name:ru": "СТ «Швейник-1»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76061,7 +75944,7 @@ const Data =
         "short_name": "СТ \"Нафтаперапрацоўшчык\"",
         "short_name:be": "СТ \"Нафтаперапрацоўшчык\"",
         "short_name:ru": "СТ \"Нефтепереработчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76088,7 +75971,7 @@ const Data =
         "short_name": "СТ «Вітамін-1»",
         "short_name:be": "СТ «Вітамін-1»",
         "short_name:ru": "СТ «Витамин-1»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76115,7 +75998,7 @@ const Data =
         "short_name": "СТ «Кабельшчык-2»",
         "short_name:be": "СТ «Кабельшчык-2»",
         "short_name:ru": "СТ «Кабельщик-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76142,7 +76025,7 @@ const Data =
         "short_name": "СТ «Ніва»",
         "short_name:be": "СТ «Ніва»",
         "short_name:ru": "СТ «Нива»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76169,7 +76052,7 @@ const Data =
         "short_name": "СТ «Лукаморʼе»",
         "short_name:be": "СТ «Лукаморʼе»",
         "short_name:ru": "СТ «Лукоморье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76196,7 +76079,7 @@ const Data =
         "short_name": "СТ «Прудкоўскі яблык»",
         "short_name:be": "СТ «Прудкоўскі яблык»",
         "short_name:ru": "СТ «Прудковское яблоко»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76223,7 +76106,7 @@ const Data =
         "short_name": "СТ \"Садружнасць-Пушча\"",
         "short_name:be": "СТ \"Садружнасць-Пушча\"",
         "short_name:ru": "СТ \"Содружество-Пуща\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76250,7 +76133,7 @@ const Data =
         "short_name": "СТ \"Абутнік-2008\"",
         "short_name:be": "СТ \"Абутнік-2008\"",
         "short_name:ru": "СТ \"Обувщик-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76277,7 +76160,7 @@ const Data =
         "short_name": "СТ \"Ураджайны\"",
         "short_name:be": "СТ \"Ураджайны\"",
         "short_name:ru": "СТ \"Урожайный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76304,7 +76187,7 @@ const Data =
         "short_name": "СТ \"Сінін\"",
         "short_name:be": "СТ \"Сінін\"",
         "short_name:ru": "СТ \"Синин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76331,7 +76214,7 @@ const Data =
         "short_name": "СТ \"Гвардзеец\"",
         "short_name:be": "СТ \"Гвардзеец\"",
         "short_name:ru": "СТ \"Гвардеец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76358,7 +76241,7 @@ const Data =
         "short_name": "СТ \"Ландыш-Мухавецкі\"",
         "short_name:be": "СТ \"Ландыш-Мухавецкі\"",
         "short_name:ru": "СТ \"Ландыш-Мухавецкий\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76385,7 +76268,7 @@ const Data =
         "short_name": "СТ \"Зарэчнае\"",
         "short_name:be": "СТ \"Зарэчнае\"",
         "short_name:ru": "СТ \"Заречное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76412,7 +76295,7 @@ const Data =
         "short_name": "СТ \"Уза\"",
         "short_name:be": "СТ \"Уза\"",
         "short_name:ru": "СТ \"Уза\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76439,7 +76322,7 @@ const Data =
         "short_name": "СТ «Крышталь-2»",
         "short_name:be": "СТ «Крышталь-2»",
         "short_name:ru": "СТ «Кристалл-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76466,7 +76349,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76493,7 +76376,7 @@ const Data =
         "short_name": "СТ \"Гаішчанка\"",
         "short_name:be": "СТ \"Гаішчанка\"",
         "short_name:ru": "СТ \"Гаищанка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76520,7 +76403,7 @@ const Data =
         "short_name": "СТ \"Ліфтавік\"",
         "short_name:be": "СТ \"Ліфтавік\"",
         "short_name:ru": "СТ \"Лифтовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76547,7 +76430,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76574,7 +76457,7 @@ const Data =
         "short_name": "СТ «Лоша»",
         "short_name:be": "СТ «Лоша»",
         "short_name:ru": "СТ «Лоша»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76601,7 +76484,7 @@ const Data =
         "short_name": "СТ \"Калінка\"",
         "short_name:be": "СТ \"Калінка\"",
         "short_name:ru": "СТ \"Калинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76628,7 +76511,7 @@ const Data =
         "short_name": "СТ \"Палессе\"",
         "short_name:be": "СТ \"Палессе\"",
         "short_name:ru": "СТ \"Полесье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76655,7 +76538,7 @@ const Data =
         "short_name": "СТ \"Рагачоўскі верас\"",
         "short_name:be": "СТ \"Рагачоўскі верас\"",
         "short_name:ru": "СТ \"Рогачевский верас\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76682,7 +76565,7 @@ const Data =
         "short_name": "СТ \"Радыётэхнік-94\"",
         "short_name:be": "СТ \"Радыётэхнік-94\"",
         "short_name:ru": "СТ \"Радиотехник-94\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76709,7 +76592,7 @@ const Data =
         "short_name": "СТ \"Зімнікі\"",
         "short_name:be": "СТ \"Зімнікі\"",
         "short_name:ru": "СТ \"Зимники\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -76736,7 +76619,7 @@ const Data =
         "short_name": "СТ \"Медзведзяня-лясны\"",
         "short_name:be": "СТ \"Медзведзяня-лясны\"",
         "short_name:ru": "СТ \"Медвежонок-лесной\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-23",
         "ref:vatin": "BY500233342",
         "status": "orange"
@@ -76765,7 +76648,7 @@ const Data =
         "short_name": "СТ «Дружба» Навагрудскага раёна",
         "short_name:be": "СТ «Дружба» Навагрудскага раёна",
         "short_name:ru": "СТ «Дружба» Новогрудского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-23",
         "ref:vatin": "BY500233355",
         "status": "orange"
@@ -76794,7 +76677,7 @@ const Data =
         "short_name": "СТ \"Швейник-II\"",
         "short_name:be": "СТ \"Швейник-II\"",
         "short_name:ru": "СТ \"Швейник-II\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-05-22",
         "ref:vatin": "BY500275952",
         "status": "orange"
@@ -76823,7 +76706,7 @@ const Data =
         "short_name": "СТ \"Байкоўскія раднікі\"",
         "short_name:be": "СТ \"Байкоўскія раднікі\"",
         "short_name:ru": "СТ \"Байковские родники\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1984-01-16",
         "ref:vatin": "BY500275978",
         "status": "orange"
@@ -76852,7 +76735,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\" у вёсцы Байкi Навагрудскага раёна",
         "short_name:be": "СТ \"Дарожнік\" у вёсцы Байкi Навагрудскага раёна",
         "short_name:ru": "СТ \"Дорожник\" в деревне Байки Новогрудского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-23",
         "ref:vatin": "BY500233291",
         "status": "orange"
@@ -76881,7 +76764,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-09-12",
         "ref:vatin": "BY500275924",
         "status": "orange"
@@ -76910,7 +76793,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік\"",
         "short_name:be": "СТ \"Рамонтнік\"",
         "short_name:ru": "СТ \"Ремонтник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1987-04-30",
         "ref:vatin": "BY500276032",
         "status": "orange"
@@ -76939,7 +76822,7 @@ const Data =
         "short_name": "СТ \"Хімік\"",
         "short_name:be": "СТ \"Хімік\"",
         "short_name:ru": "СТ \"Химик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1984-02-13",
         "ref:vatin": "BY500275845",
         "status": "orange"
@@ -76968,7 +76851,7 @@ const Data =
         "short_name": "СТ «Харчавік»",
         "short_name:be": "СТ «Харчавік»",
         "short_name:ru": "СТ «Пищевик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-04-21",
         "ref:vatin": "BY500233687",
         "status": "orange"
@@ -76997,7 +76880,7 @@ const Data =
         "short_name": "СТ \"Сонечная палянка\"",
         "short_name:be": "СТ \"Сонечная палянка\"",
         "short_name:ru": "СТ \"Солнечная полянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77024,7 +76907,7 @@ const Data =
         "short_name": "СТ \"Радуга 2008\"",
         "short_name:be": "СТ \"Радуга 2008\"",
         "short_name:ru": "СТ \"Радуга 2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77051,7 +76934,7 @@ const Data =
         "short_name": "СТ \"Колас-9\"",
         "short_name:be": "СТ \"Колас-9\"",
         "short_name:ru": "СТ \"Колос-9\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77078,7 +76961,7 @@ const Data =
         "short_name": "СТ \"Пясчанае-2008\"",
         "short_name:be": "СТ \"Пясчанае-2008\"",
         "short_name:ru": "СТ \"Песчаное-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77105,7 +76988,7 @@ const Data =
         "short_name": "СТ \"Камертон-2010\"",
         "short_name:be": "СТ \"Камертон-2010\"",
         "short_name:ru": "СТ \"Камертон-2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77132,7 +77015,7 @@ const Data =
         "short_name": "СТ \"Пугачоўскае-2018\"",
         "short_name:be": "СТ \"Пугачоўскае-2018\"",
         "short_name:ru": "СТ \"Пугачёвское-2018\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77159,7 +77042,7 @@ const Data =
         "short_name": "СТ \"Мантажнік-2\"",
         "short_name:be": "СТ \"Мантажнік-2\"",
         "short_name:ru": "СТ \"Монтажник-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77186,7 +77069,7 @@ const Data =
         "short_name": "СТ \"Дружба-09\"",
         "short_name:be": "СТ \"Дружба-09\"",
         "short_name:ru": "СТ \"Дружба-09\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77213,7 +77096,7 @@ const Data =
         "short_name": "СТ \"Калосок-80\"",
         "short_name:be": "СТ \"Калосок-80\"",
         "short_name:ru": "СТ \"Колосок-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -77240,7 +77123,7 @@ const Data =
         "short_name": "СТ \"Паўднёвае\"",
         "short_name:be": "СТ \"Паўднёвае\"",
         "short_name:ru": "СТ \"Южное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77267,7 +77150,7 @@ const Data =
         "short_name": "СТ \"Пясчанае-2008\"",
         "short_name:be": "СТ \"Пясчанае-2008\"",
         "short_name:ru": "СТ \"Песчаное-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77294,7 +77177,7 @@ const Data =
         "short_name": "СТ \"Верасок-2008\"",
         "short_name:be": "СТ \"Верасок-2008\"",
         "short_name:ru": "СТ \"Верасок-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77321,7 +77204,7 @@ const Data =
         "short_name": "СТ \"Смалявіцкі крышталь\"",
         "short_name:be": "СТ \"Смалявіцкі крышталь\"",
         "short_name:ru": "СТ \"Смолевичский кристалл\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77348,7 +77231,7 @@ const Data =
         "short_name": "СТ \"Блакітная радуга\"",
         "short_name:be": "СТ \"Блакітная радуга\"",
         "short_name:ru": "СТ \"Голубая радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77375,7 +77258,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Криница»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77402,7 +77285,7 @@ const Data =
         "short_name": "СТ ««Кааператар»",
         "short_name:be": "СТ ««Кааператар»",
         "short_name:ru": "СТ ««Кооператор»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -77429,7 +77312,7 @@ const Data =
         "short_name": "СТ «Світаначак-2016»",
         "short_name:be": "СТ «Світаначак-2016»",
         "short_name:ru": "СТ «Свитаночек-2016»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77456,7 +77339,7 @@ const Data =
         "short_name": "СТ «Вясёлка»",
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Радуга»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77483,7 +77366,7 @@ const Data =
         "short_name": "СТ «Крынічная вада»",
         "short_name:be": "СТ «Крынічная вада»",
         "short_name:ru": "СТ «Родниковая вода»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77510,7 +77393,7 @@ const Data =
         "short_name": "СТ «Усход-2009»",
         "short_name:be": "СТ «Усход-2009»",
         "short_name:ru": "СТ «Восток-2009»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77537,7 +77420,7 @@ const Data =
         "short_name": "СТ «Алгарытм-2008»",
         "short_name:be": "СТ «Алгарытм-2008»",
         "short_name:ru": "СТ «Алгоритм-2008»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77564,7 +77447,7 @@ const Data =
         "short_name": "СТ «Сігнал-2009»",
         "short_name:be": "СТ «Сігнал-2009»",
         "short_name:ru": "СТ «Сигнал-2009»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77591,7 +77474,7 @@ const Data =
         "short_name": "СТ «Вымпел» УУС",
         "short_name:be": "СТ «Вымпел» УУС",
         "short_name:ru": "СТ «Вымпел» УВД",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77618,7 +77501,7 @@ const Data =
         "short_name": "СТ «Авіатар-4»",
         "short_name:be": "СТ «Авіатар-4»",
         "short_name:ru": "СТ «Авиатор-4»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77645,7 +77528,7 @@ const Data =
         "short_name": "СТ «Мірнае»",
         "short_name:be": "СТ «Мірнае»",
         "short_name:ru": "СТ «Мирное»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77672,7 +77555,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77699,7 +77582,7 @@ const Data =
         "short_name": "СТ \"Меркурый-89\"",
         "short_name:be": "СТ \"Меркурый-89\"",
         "short_name:ru": "СТ \"Меркурий-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77726,7 +77609,7 @@ const Data =
         "short_name": "СТ \"Церамок-1989\"",
         "short_name:be": "СТ \"Церамок-1989\"",
         "short_name:ru": "СТ \"Теремок-1989\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77753,7 +77636,7 @@ const Data =
         "short_name": "СТ «Палессе-88»",
         "short_name:be": "СТ «Палессе-88»",
         "short_name:ru": "СТ «Полесье-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77780,7 +77663,7 @@ const Data =
         "short_name": "СТ «Меркурый»",
         "short_name:be": "СТ «Меркурый»",
         "short_name:ru": "СТ «Меркурий»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77807,7 +77690,7 @@ const Data =
         "short_name": "СТ «Жамчужына-1988»",
         "short_name:be": "СТ «Жамчужына-1988»",
         "short_name:ru": "СТ «Жемчужина-1988»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77834,7 +77717,7 @@ const Data =
         "short_name": "СТ «Кааператар-94»",
         "short_name:be": "СТ «Кааператар-94»",
         "short_name:ru": "СТ «Кооператор-94»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77861,7 +77744,7 @@ const Data =
         "short_name": "СТ «Бярозка-87»",
         "short_name:be": "СТ «Бярозка-87»",
         "short_name:ru": "СТ «Берёзка-87»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77888,7 +77771,7 @@ const Data =
         "short_name": "СТ «Камунальнік-88»",
         "short_name:be": "СТ «Камунальнік-88»",
         "short_name:ru": "СТ «Коммунальник-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77915,7 +77798,7 @@ const Data =
         "short_name": "СТ «Балагое»",
         "short_name:be": "СТ «Балагое»",
         "short_name:ru": "СТ «Балагое»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77942,7 +77825,7 @@ const Data =
         "short_name": "СТ «Лясная Паляна»",
         "short_name:be": "СТ «Лясная Паляна»",
         "short_name:ru": "СТ «Лесная Поляна»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77969,7 +77852,7 @@ const Data =
         "short_name": "СТ «Крышталь-100»",
         "short_name:be": "СТ «Крышталь-100»",
         "short_name:ru": "СТ «Кристалл-100»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -77996,7 +77879,7 @@ const Data =
         "short_name": "СТ «Крынічка-86»",
         "short_name:be": "СТ «Крынічка-86»",
         "short_name:ru": "СТ «Родничок-86»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78023,7 +77906,7 @@ const Data =
         "short_name": "СТ «Зялёны Бор»",
         "short_name:be": "СТ «Зялёны Бор»",
         "short_name:ru": "СТ «Зелёный Бор»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78050,7 +77933,7 @@ const Data =
         "short_name": "СТ «Бярозавы гай»",
         "short_name:be": "СТ «Бярозавы гай»",
         "short_name:ru": "СТ «Берёзовая роща»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78077,7 +77960,7 @@ const Data =
         "short_name": "СТ «Энергетык»",
         "short_name:be": "СТ «Энергетык»",
         "short_name:ru": "СТ «Энергетик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78104,7 +77987,7 @@ const Data =
         "short_name": "СТ «Факел-88»",
         "short_name:be": "СТ «Факел-88»",
         "short_name:ru": "СТ «Факел-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78131,7 +78014,7 @@ const Data =
         "short_name": "СТ «Бярозка»",
         "short_name:be": "СТ «Бярозка»",
         "short_name:ru": "СТ «Берёзка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78158,7 +78041,7 @@ const Data =
         "short_name": "СТ «Прамень»",
         "short_name:be": "СТ «Прамень»",
         "short_name:ru": "СТ «Прамень»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78185,7 +78068,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Криница»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78212,7 +78095,7 @@ const Data =
         "short_name": "СТ «Вясёлка»",
         "short_name:be": "СТ «Вясёлка»",
         "short_name:ru": "СТ «Вясёлка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78239,7 +78122,7 @@ const Data =
         "short_name": "СТ «Бярозавы Гай-2»",
         "short_name:be": "СТ «Бярозавы Гай-2»",
         "short_name:ru": "СТ «Берёзовый Гай-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78266,7 +78149,7 @@ const Data =
         "short_name": "СТ «Бытавік-Жабінка»",
         "short_name:be": "СТ «Бытавік-Жабінка»",
         "short_name:ru": "СТ «Бытовик-Жабинка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78293,7 +78176,7 @@ const Data =
         "short_name": "СТ «Будаўнік»",
         "short_name:be": "СТ «Будаўнік»",
         "short_name:ru": "СТ «Строитель»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78320,7 +78203,7 @@ const Data =
         "short_name": "СТ «Крыніца ПМК-19»",
         "short_name:be": "СТ «Крыніца ПМК-19»",
         "short_name:ru": "СТ «Родник ПМК-19»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78347,7 +78230,7 @@ const Data =
         "short_name": "СТ «Світанак»",
         "short_name:be": "СТ «Світанак»",
         "short_name:ru": "СТ «Свитанок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78374,7 +78257,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78401,7 +78284,7 @@ const Data =
         "short_name": "СТ «Космас»",
         "short_name:be": "СТ «Космас»",
         "short_name:ru": "СТ «Космос»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78428,7 +78311,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78455,7 +78338,7 @@ const Data =
         "short_name": "СТ «Авіятар»",
         "short_name:be": "СТ «Авіятар»",
         "short_name:ru": "СТ «Авиатор»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78482,7 +78365,7 @@ const Data =
         "short_name": "СТ «Зялёная паляна»",
         "short_name:be": "СТ «Зялёная паляна»",
         "short_name:ru": "СТ «Зелёная Поляна»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78509,7 +78392,7 @@ const Data =
         "short_name": "СТ «Інструментальшчык»",
         "short_name:be": "СТ «Інструментальшчык»",
         "short_name:ru": "СТ «Инструментальщик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78536,7 +78419,7 @@ const Data =
         "short_name": "СТ «Дасуг»",
         "short_name:be": "СТ «Дасуг»",
         "short_name:ru": "СТ «Досуг»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78563,7 +78446,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78590,7 +78473,7 @@ const Data =
         "short_name": "СТ «Садружнасць»",
         "short_name:be": "СТ «Садружнасць»",
         "short_name:ru": "СТ «Садружнасць»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78617,7 +78500,7 @@ const Data =
         "short_name": "СТ «Бярозка-4»",
         "short_name:be": "СТ «Бярозка-4»",
         "short_name:ru": "СТ «Берёзка-4»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78644,7 +78527,7 @@ const Data =
         "short_name": "СТ «Заранак»",
         "short_name:be": "СТ «Заранак»",
         "short_name:ru": "СТ «Заранак»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78671,7 +78554,7 @@ const Data =
         "short_name": "СТ «Бярозка-5»",
         "short_name:be": "СТ «Бярозка-5»",
         "short_name:ru": "СТ «Берёзка-5»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78698,7 +78581,7 @@ const Data =
         "short_name": "СТ «Крынічка»",
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Криничка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78725,7 +78608,7 @@ const Data =
         "short_name": "СТ «Ніва»",
         "short_name:be": "СТ «Ніва»",
         "short_name:ru": "СТ «Нива»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78752,7 +78635,7 @@ const Data =
         "short_name": "СТ «Крыніца-Вяляцічы»",
         "short_name:be": "СТ «Крыніца-Вяляцічы»",
         "short_name:ru": "СТ «Криница-Велятичи»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78779,7 +78662,7 @@ const Data =
         "short_name": "СТ «Ураджай»",
         "short_name:be": "СТ «Ураджай»",
         "short_name:ru": "СТ «Урожай»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78806,7 +78689,7 @@ const Data =
         "short_name": "СТ «Машынабудаўнік»",
         "short_name:be": "СТ «Машынабудаўнік»",
         "short_name:ru": "СТ «Машиностроитель»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78833,7 +78716,7 @@ const Data =
         "short_name": "СТ «Верасок»",
         "short_name:be": "СТ «Верасок»",
         "short_name:ru": "СТ «Вересок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78860,7 +78743,7 @@ const Data =
         "short_name": "СТ «Будаўнік»",
         "short_name:be": "СТ «Будаўнік»",
         "short_name:ru": "СТ «Строитель»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78887,7 +78770,7 @@ const Data =
         "short_name": "СТ «Прыпяць»",
         "short_name:be": "СТ «Прыпяць»",
         "short_name:ru": "СТ «Припять»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78914,7 +78797,7 @@ const Data =
         "short_name": "СТ «Ліра Азёрная»",
         "short_name:be": "СТ «Ліра Азёрная»",
         "short_name:ru": "СТ «Лира Озёрная»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78941,7 +78824,7 @@ const Data =
         "short_name": "СТ «Рабінушка Азёрная»",
         "short_name:be": "СТ «Рабінушка Азёрная»",
         "short_name:ru": "СТ «Рябинушка Озёрная»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78968,7 +78851,7 @@ const Data =
         "short_name": "СТ «Аўтамабіліст АП №3»",
         "short_name:be": "СТ «Аўтамабіліст АП №3»",
         "short_name:ru": "СТ «Автомобилист АП №3»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -78995,7 +78878,7 @@ const Data =
         "short_name": "СТ «Журавінка Мікс»",
         "short_name:be": "СТ «Журавінка Мікс»",
         "short_name:ru": "СТ «Журавинка Микс»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79022,7 +78905,7 @@ const Data =
         "short_name": "СТ «Яблынька»",
         "short_name:be": "СТ «Яблынька»",
         "short_name:ru": "СТ «Яблонька»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79049,7 +78932,7 @@ const Data =
         "short_name": "СТ «Бабры»",
         "short_name:be": "СТ «Бабры»",
         "short_name:ru": "СТ «Бобры»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79076,7 +78959,7 @@ const Data =
         "short_name": "СТ «Іскрыстае»",
         "short_name:be": "СТ «Іскрыстае»",
         "short_name:ru": "СТ «Искристое»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79103,7 +78986,7 @@ const Data =
         "short_name": "СТ «Журавінка Гарадзішчанская»",
         "short_name:be": "СТ «Журавінка Гарадзішчанская»",
         "short_name:ru": "СТ «Журавинка Городищенская»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79130,7 +79013,7 @@ const Data =
         "short_name": "СТ «Яблычка»",
         "short_name:be": "СТ «Яблычка»",
         "short_name:ru": "СТ «Яблочко»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79157,7 +79040,7 @@ const Data =
         "short_name": "СТ «Журавінка-1»",
         "short_name:be": "СТ «Журавінка-1»",
         "short_name:ru": "СТ «Журавинка-1»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79184,7 +79067,7 @@ const Data =
         "short_name": "СТ «Расінка»",
         "short_name:be": "СТ «Расінка»",
         "short_name:ru": "СТ «Росинка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79211,7 +79094,7 @@ const Data =
         "short_name": "СТ «Дружнае»",
         "short_name:be": "СТ «Дружнае»",
         "short_name:ru": "СТ «Дружное»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79238,7 +79121,7 @@ const Data =
         "short_name": "СТ «Рабінушка-Сушычкае»",
         "short_name:be": "СТ «Рабінушка-Сушычкае»",
         "short_name:ru": "СТ «Рябинушка-Сушицкое»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79265,7 +79148,7 @@ const Data =
         "short_name": "СТ «Алёнушка»",
         "short_name:be": "СТ «Алёнушка»",
         "short_name:ru": "СТ «Алёнушка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79292,7 +79175,7 @@ const Data =
         "short_name": "СТ «Здароўʼе»",
         "short_name:be": "СТ «Здароўʼе»",
         "short_name:ru": "СТ «Здоровье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79319,7 +79202,7 @@ const Data =
         "short_name": "СТ «Дарʼя»",
         "short_name:be": "СТ «Дарʼя»",
         "short_name:ru": "СТ «Дарья»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79346,7 +79229,7 @@ const Data =
         "short_name": "СТ «Рассвет»",
         "short_name:be": "СТ «Рассвет»",
         "short_name:ru": "СТ «Рассвет»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79373,7 +79256,7 @@ const Data =
         "short_name": "СТ «Расінушка»",
         "short_name:be": "СТ «Расінушка»",
         "short_name:ru": "СТ «Росинушка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79400,7 +79283,7 @@ const Data =
         "short_name": "СТ «Рамонак»",
         "short_name:be": "СТ «Рамонак»",
         "short_name:ru": "СТ «Ромашка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79427,7 +79310,7 @@ const Data =
         "short_name": "СТ «Сяброўкі»",
         "short_name:be": "СТ «Сяброўкі»",
         "short_name:ru": "СТ «Сяброуки»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79454,7 +79337,7 @@ const Data =
         "short_name": "СТ «Азёрнае-Гарадзішчанскае»",
         "short_name:be": "СТ «Азёрнае-Гарадзішчанскае»",
         "short_name:ru": "СТ «Озёрное-Городищенское»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79481,7 +79364,7 @@ const Data =
         "short_name": "СТ «Крыніца в. Ляхі»",
         "short_name:be": "СТ «Крыніца в. Ляхі»",
         "short_name:ru": "СТ «Родник д. Ляхи»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79508,7 +79391,7 @@ const Data =
         "short_name": "СТ «Мечта»",
         "short_name:be": "СТ «Мечта»",
         "short_name:ru": "СТ «Мечта»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79535,7 +79418,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79562,7 +79445,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79589,7 +79472,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79616,7 +79499,7 @@ const Data =
         "short_name": "СТ «Заронава»",
         "short_name:be": "СТ «Заронава»",
         "short_name:ru": "СТ «Зароново»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79643,7 +79526,7 @@ const Data =
         "short_name": "СТ «Заронаўскае»",
         "short_name:be": "СТ «Заронаўскае»",
         "short_name:ru": "СТ «Зароновское»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79670,7 +79553,7 @@ const Data =
         "short_name": "СТ «Дарожнік»",
         "short_name:be": "СТ «Дарожнік»",
         "short_name:ru": "СТ «Дорожник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79697,7 +79580,7 @@ const Data =
         "short_name": "СТ «Берасценава»",
         "short_name:be": "СТ «Берасценава»",
         "short_name:ru": "СТ «Берестеново»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79724,7 +79607,7 @@ const Data =
         "short_name": "СТ «Сож»",
         "short_name:be": "СТ «Сож»",
         "short_name:ru": "СТ «Сож»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79751,7 +79634,7 @@ const Data =
         "short_name": "СТ «Іпуць-Клёнкі»",
         "short_name:be": "СТ «Іпуць-Клёнкі»",
         "short_name:ru": "СТ «Ипуть-Клёнки»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79778,7 +79661,7 @@ const Data =
         "short_name": "СТ «Раднік-Палессе»",
         "short_name:be": "СТ «Раднік-Палессе»",
         "short_name:ru": "СТ «Родник-Полесье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79805,7 +79688,7 @@ const Data =
         "short_name": "СТ «Расінка-2»",
         "short_name:be": "СТ «Расінка-2»",
         "short_name:ru": "СТ «Росинка-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79832,7 +79715,7 @@ const Data =
         "short_name": "СТ «Гарадзкія дачы»",
         "short_name:be": "СТ «Гарадзкія дачы»",
         "short_name:ru": "СТ «Городские Дачи»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79859,7 +79742,7 @@ const Data =
         "short_name": "СТ «Спутнік»",
         "short_name:be": "СТ «Спутнік»",
         "short_name:ru": "СТ «Спутник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79886,7 +79769,7 @@ const Data =
         "short_name": "СТ «Крынічка»",
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79913,7 +79796,7 @@ const Data =
         "short_name": "СТ «Космас»",
         "short_name:be": "СТ «Космас»",
         "short_name:ru": "СТ «Космос»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79940,7 +79823,7 @@ const Data =
         "short_name": "СТ «Рабатка»",
         "short_name:be": "СТ «Рабатка»",
         "short_name:ru": "СТ «Робатка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79967,7 +79850,7 @@ const Data =
         "short_name": "СТ «Тубус»",
         "short_name:be": "СТ «Тубус»",
         "short_name:ru": "СТ «Тубус»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -79994,7 +79877,7 @@ const Data =
         "short_name": "СТ «Спутнік-56»",
         "short_name:be": "СТ «Спутнік-56»",
         "short_name:ru": "СТ «Спутник-56»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80021,7 +79904,7 @@ const Data =
         "short_name": "СТ «Лясное» ПШО Камінтэрн",
         "short_name:be": "СТ «Лясное» ПШО Камінтэрн",
         "short_name:ru": "СТ «Лесное» ПШО Коминтерн",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80048,7 +79931,7 @@ const Data =
         "short_name": "СТ «Лясное» ПШО Камінтэрн",
         "short_name:be": "СТ «Лясное» ПШО Камінтэрн",
         "short_name:ru": "СТ «Лесное ПШО Коминтерн»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -80075,7 +79958,7 @@ const Data =
         "short_name": "СТ «Паўднёвы»",
         "short_name:be": "СТ «Паўднёвы»",
         "short_name:ru": "СТ «Южный»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80102,7 +79985,7 @@ const Data =
         "short_name": "СТ «Дружба ДРСУ-150»",
         "short_name:be": "СТ «Дружба ДРСУ-150»",
         "short_name:ru": "СТ «Дружба ДРСУ-150»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80129,7 +80012,7 @@ const Data =
         "short_name": "СТ «Крынічка»",
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80156,7 +80039,7 @@ const Data =
         "short_name": "СТ «Вяснянка»",
         "short_name:be": "СТ «Вяснянка»",
         "short_name:ru": "СТ «Веснянка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80183,7 +80066,7 @@ const Data =
         "short_name": "СТ «Надзея»",
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ «Надежда»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80210,7 +80093,7 @@ const Data =
         "short_name": "СТ «Папернік-2»",
         "short_name:be": "СТ «Папернік-2»",
         "short_name:ru": "СТ «Паперник-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80237,7 +80120,7 @@ const Data =
         "short_name": "СТ «Бярозкі»",
         "short_name:be": "СТ «Бярозкі»",
         "short_name:ru": "СТ «Берёзки»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80264,7 +80147,7 @@ const Data =
         "short_name": "СТ «Колас»",
         "short_name:be": "СТ «Колас»",
         "short_name:ru": "СТ «Колос»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80291,7 +80174,7 @@ const Data =
         "short_name": "СТ «Азярэц»",
         "short_name:be": "СТ «Азярэц»",
         "short_name:ru": "СТ «Озерец»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80318,7 +80201,7 @@ const Data =
         "short_name": "СТ «Бярозкі»",
         "short_name:be": "СТ «Бярозкі»",
         "short_name:ru": "СТ «Берёзки»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80345,7 +80228,7 @@ const Data =
         "short_name": "СТ «Садкі-2»",
         "short_name:be": "СТ «Садкі-2»",
         "short_name:ru": "СТ «Садки-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80372,7 +80255,7 @@ const Data =
         "short_name": "СТ «Гудок»",
         "short_name:be": "СТ «Гудок»",
         "short_name:ru": "СТ «Гудок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80399,7 +80282,7 @@ const Data =
         "short_name": "СТ «Садкі»",
         "short_name:be": "СТ «Садкі»",
         "short_name:ru": "СТ «Садки»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80426,7 +80309,7 @@ const Data =
         "short_name": "СТ «Палессе»",
         "short_name:be": "СТ «Палессе»",
         "short_name:ru": "СТ «Полесье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80453,7 +80336,7 @@ const Data =
         "short_name": "СТ «Крынічка»",
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80480,7 +80363,7 @@ const Data =
         "short_name": "СТ «Светлячок»",
         "short_name:be": "СТ «Светлячок»",
         "short_name:ru": "СТ «Светлячок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80507,7 +80390,7 @@ const Data =
         "short_name": "СТ «Вясна»",
         "short_name:be": "СТ «Вясна»",
         "short_name:ru": "СТ «Весна»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80534,7 +80417,7 @@ const Data =
         "short_name": "СТ «Палессе»",
         "short_name:be": "СТ «Палессе»",
         "short_name:ru": "СТ «Полесье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80561,7 +80444,7 @@ const Data =
         "short_name": "СТ «Кааператар»",
         "short_name:be": "СТ «Кааператар»",
         "short_name:ru": "СТ «Кооператор»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80588,7 +80471,7 @@ const Data =
         "short_name": "СТ «Лясное»",
         "short_name:be": "СТ «Лясное»",
         "short_name:ru": "СТ «Лесное»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80615,7 +80498,7 @@ const Data =
         "short_name": "СТ «Еланы»",
         "short_name:be": "СТ «Еланы»",
         "short_name:ru": "СТ «Еланы»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80642,7 +80525,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80669,7 +80552,7 @@ const Data =
         "short_name": "СТ «Савінка-Плюс»",
         "short_name:be": "СТ «Савінка-Плюс»",
         "short_name:ru": "СТ «Савинка-Плюс»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80696,7 +80579,7 @@ const Data =
         "short_name": "СТ «Будаўнік-Савінка»",
         "short_name:be": "СТ «Будаўнік-Савінка»",
         "short_name:ru": "СТ «Строитель-Савинка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80723,7 +80606,7 @@ const Data =
         "short_name": "СТ «Васілёк»",
         "short_name:be": "СТ «Васілёк»",
         "short_name:ru": "СТ «Василёк»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80750,7 +80633,7 @@ const Data =
         "short_name": "СТ «Вішнёвы сад»",
         "short_name:be": "СТ «Вішнёвы сад»",
         "short_name:ru": "СТ «Вишнёвый Сад»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80777,7 +80660,7 @@ const Data =
         "short_name": "СТ «Гай»",
         "short_name:be": "СТ «Гай»",
         "short_name:ru": "СТ «Гай»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80804,7 +80687,7 @@ const Data =
         "short_name": "СТ «Вішанька-Савінка»",
         "short_name:be": "СТ «Вішанька-Савінка»",
         "short_name:ru": "СТ «Вишенка-Савинка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80831,7 +80714,7 @@ const Data =
         "short_name": "СТ «Крыніца-Ніва»",
         "short_name:be": "СТ «Крыніца-Ніва»",
         "short_name:ru": "СТ «Криница-Нива»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80858,7 +80741,7 @@ const Data =
         "short_name": "СТ «Лясная Паляна»",
         "short_name:be": "СТ «Лясная Паляна»",
         "short_name:ru": "СТ «Лесная Поляна»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80885,7 +80768,7 @@ const Data =
         "short_name": "СТ «Дружны ландыш»",
         "short_name:be": "СТ «Дружны ландыш»",
         "short_name:ru": "СТ «Дружный Ландыш»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80912,7 +80795,7 @@ const Data =
         "short_name": "СТ «Аккорд-88»",
         "short_name:be": "СТ «Аккорд-88»",
         "short_name:ru": "СТ «Аккорд-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80939,7 +80822,7 @@ const Data =
         "short_name": "СТ «Лясная Паляна»",
         "short_name:be": "СТ «Лясная Паляна»",
         "short_name:ru": "СТ «Лесная Поляна»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80966,7 +80849,7 @@ const Data =
         "short_name": "СТ \"Аір\"",
         "short_name:be": "СТ \"Аір\"",
         "short_name:ru": "СТ \"Аир\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -80993,7 +80876,7 @@ const Data =
         "short_name": "СТ \"Мара-19\"",
         "short_name:be": "СТ \"Мара-19\"",
         "short_name:ru": "СТ \"Мара-19\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81020,7 +80903,7 @@ const Data =
         "short_name": "СТ \"Свіслач\"",
         "short_name:be": "СТ \"Свіслач\"",
         "short_name:ru": "СТ \"Свислочь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81047,7 +80930,7 @@ const Data =
         "short_name": "СТ \"Эканаміст-2\"",
         "short_name:be": "СТ \"Эканаміст-2\"",
         "short_name:ru": "СТ \"Экономист-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81074,7 +80957,7 @@ const Data =
         "short_name": "СТ \"Заранак\"",
         "short_name:be": "СТ \"Заранак\"",
         "short_name:ru": "СТ \"Заранак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81101,7 +80984,7 @@ const Data =
         "short_name": "СТ \"Світанак-1993\"",
         "short_name:be": "СТ \"Світанак-1993\"",
         "short_name:ru": "СТ \"Свитанок-1993\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81128,7 +81011,7 @@ const Data =
         "short_name": "СТ \"Пеленг\"",
         "short_name:be": "СТ \"Пеленг\"",
         "short_name:ru": "СТ \"Пеленг\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81155,7 +81038,7 @@ const Data =
         "short_name": "СТ \"Сельскі Будаўнік-2001\"",
         "short_name:be": "СТ \"Сельскі Будаўнік-2001\"",
         "short_name:ru": "СТ \"Сельский Строитель-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81182,7 +81065,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Здороўе\"",
         "short_name:be": "СТ \"Крыніца-Здороўе\"",
         "short_name:ru": "СТ \"Криница-Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81209,7 +81092,7 @@ const Data =
         "short_name": "СТ \"Родны Кут\"",
         "short_name:be": "СТ \"Родны Кут\"",
         "short_name:ru": "СТ \"Родны Кут\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81236,7 +81119,7 @@ const Data =
         "short_name": "СТ \"Агароднік\"",
         "short_name:be": "СТ \"Агароднік\"",
         "short_name:ru": "СТ \"Огородник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81263,7 +81146,7 @@ const Data =
         "short_name": "СТ \"Ручаёк\"",
         "short_name:be": "СТ \"Ручаёк\"",
         "short_name:ru": "СТ \"Ручеёк\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81290,7 +81173,7 @@ const Data =
         "short_name": "СТ «Ветэран-7»",
         "short_name:be": "СТ «Ветэран-7»",
         "short_name:ru": "СТ «Ветеран-7»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81317,7 +81200,7 @@ const Data =
         "short_name": "СТ \"Лянок-89\"",
         "short_name:be": "СТ \"Лянок-89\"",
         "short_name:ru": "СТ \"Ленок-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81344,7 +81227,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Берёзка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81371,7 +81254,7 @@ const Data =
         "short_name": "СТ \"Трайнік\"",
         "short_name:be": "СТ \"Трайнік\"",
         "short_name:ru": "СТ \"Тройник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81398,7 +81281,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81425,7 +81308,7 @@ const Data =
         "short_name": "СТ «Бярозка» КУП «Універмаг Беларусь»",
         "short_name:be": "СТ «Бярозка» КУП «Універмаг Беларусь»",
         "short_name:ru": "СТ «Берёзка» КУП «Универмаг Беларусь»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -81452,7 +81335,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-59\"",
         "short_name:be": "СТ \"Будаўнік-59\"",
         "short_name:ru": "СТ \"Строитель-59\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81479,7 +81362,7 @@ const Data =
         "short_name": "СТ «Вясёлка-2015»",
         "short_name:be": "СТ «Вясёлка-2015»",
         "short_name:ru": "СТ «Вясёлка-2015»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81506,7 +81389,7 @@ const Data =
         "short_name": "СТ \"Выток-Сувязь\"",
         "short_name:be": "СТ \"Выток-Сувязь\"",
         "short_name:ru": "СТ \"Исток-Связь\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81533,7 +81416,7 @@ const Data =
         "short_name": "СТ \"Вязы\"",
         "short_name:be": "СТ \"Вязы\"",
         "short_name:ru": "СТ \"Вязы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81560,7 +81443,7 @@ const Data =
         "short_name": "СТ \"Чабарок-3\"",
         "short_name:be": "СТ \"Чабарок-3\"",
         "short_name:ru": "СТ \"Чабарок-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81587,7 +81470,7 @@ const Data =
         "short_name": "СТ \"Здароўе-Дуб\"",
         "short_name:be": "СТ \"Здароўе-Дуб\"",
         "short_name:ru": "СТ \"Здоровье-Дуб\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81614,7 +81497,7 @@ const Data =
         "short_name": "СТ \"Факел\"",
         "short_name:be": "СТ \"Факел\"",
         "short_name:ru": "СТ \"Факел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81641,7 +81524,7 @@ const Data =
         "short_name": "СТ \"Планета Плюс\"",
         "short_name:be": "СТ \"Планета Плюс\"",
         "short_name:ru": "СТ \"Планета Плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81668,7 +81551,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81695,7 +81578,7 @@ const Data =
         "short_name": "СТ \"Цюльпан\"",
         "short_name:be": "СТ \"Цюльпан\"",
         "short_name:ru": "СТ \"Тюльпан\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81722,7 +81605,7 @@ const Data =
         "short_name": "СТ \"Мара\"",
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мечта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81749,7 +81632,7 @@ const Data =
         "short_name": "СТ \"Прамень-ПТМ\"",
         "short_name:be": "СТ \"Прамень-ПТМ\"",
         "short_name:ru": "СТ \"Прамень-ПТМ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81776,7 +81659,7 @@ const Data =
         "short_name": "СТ \"Мікрон\"",
         "short_name:be": "СТ \"Мікрон\"",
         "short_name:ru": "СТ \"Микрон\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81803,7 +81686,7 @@ const Data =
         "short_name": "СТ \"Імпульс-86\"",
         "short_name:be": "СТ \"Імпульс-86\"",
         "short_name:ru": "СТ \"Импульс-86\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81830,7 +81713,7 @@ const Data =
         "short_name": "СТ \"Прамень-ПТМ\"",
         "short_name:be": "СТ \"Прамень-ПТМ\"",
         "short_name:ru": "СТ \"Прамень-ПТМ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81857,7 +81740,7 @@ const Data =
         "short_name": "СТ \"Залаты Каласок\"",
         "short_name:be": "СТ \"Залаты Каласок\"",
         "short_name:ru": "СТ \"Золотой Колосок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81884,7 +81767,7 @@ const Data =
         "short_name": "СТ \"Ранет-1\"",
         "short_name:be": "СТ \"Ранет-1\"",
         "short_name:ru": "СТ \"Ранет-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81911,7 +81794,7 @@ const Data =
         "short_name": "СТ \"Вяснянка-2008\"",
         "short_name:be": "СТ \"Вяснянка-2008\"",
         "short_name:ru": "СТ \"Веснянка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81938,7 +81821,7 @@ const Data =
         "short_name": "СТ \"Світанак-89\"",
         "short_name:be": "СТ \"Світанак-89\"",
         "short_name:ru": "СТ \"Свитанок-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81965,7 +81848,7 @@ const Data =
         "short_name": "СТ \"Вязань\"",
         "short_name:be": "СТ \"Вязань\"",
         "short_name:ru": "СТ \"Вязань\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -81992,7 +81875,7 @@ const Data =
         "short_name": "СТ \"Купалінка-Вязынка\"",
         "short_name:be": "СТ \"Купалінка-Вязынка\"",
         "short_name:ru": "СТ \"Купалинка-Вязынка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82019,7 +81902,7 @@ const Data =
         "short_name": "СТ \"Яліна\"",
         "short_name:be": "СТ \"Яліна\"",
         "short_name:ru": "СТ \"Ель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82046,7 +81929,7 @@ const Data =
         "short_name": "СТ \"Верас-Т\"",
         "short_name:be": "СТ \"Верас-Т\"",
         "short_name:ru": "СТ \"Верас-Т\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82073,7 +81956,7 @@ const Data =
         "short_name": "СТ \"Верас-Т\"",
         "short_name:be": "СТ \"Верас-Т\"",
         "short_name:ru": "СТ \"Верас-Т\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82100,7 +81983,7 @@ const Data =
         "short_name": "СТ \"Верас-Т\"",
         "short_name:be": "СТ \"Верас-Т\"",
         "short_name:ru": "СТ \"Верас-Т\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82127,7 +82010,7 @@ const Data =
         "short_name": "СТ \"Вязынка-2\"",
         "short_name:be": "СТ \"Вязынка-2\"",
         "short_name:ru": "СТ \"Вязынка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82154,7 +82037,7 @@ const Data =
         "short_name": "СТ \"Вязынка\"",
         "short_name:be": "СТ \"Вязынка\"",
         "short_name:ru": "СТ \"Вязынка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82181,7 +82064,7 @@ const Data =
         "short_name": "СТ \"Бярозка-89\"",
         "short_name:be": "СТ \"Бярозка-89\"",
         "short_name:ru": "СТ \"Берёзка-89\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82208,7 +82091,7 @@ const Data =
         "short_name": "СТ \"Гіпсавік\"",
         "short_name:be": "СТ \"Гіпсавік\"",
         "short_name:ru": "СТ \"Гипсовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82235,7 +82118,7 @@ const Data =
         "short_name": "СТ \"Крыніца-82\"",
         "short_name:be": "СТ \"Крыніца-82\"",
         "short_name:ru": "СТ \"Криница-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82262,7 +82145,7 @@ const Data =
         "short_name": "СТ \"Атлант-4\"",
         "short_name:be": "СТ \"Атлант-4\"",
         "short_name:ru": "СТ \"Атлант-4\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82289,7 +82172,7 @@ const Data =
         "short_name": "СТ \"Івушка-2002\"",
         "short_name:be": "СТ \"Івушка-2002\"",
         "short_name:ru": "СТ \"Ивушка-2002\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82316,7 +82199,7 @@ const Data =
         "short_name": "СТ \"Пралеска-Геасервіс\"",
         "short_name:be": "СТ \"Пралеска-Геасервіс\"",
         "short_name:ru": "СТ \"Пралеска-Геосервис\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82343,7 +82226,7 @@ const Data =
         "short_name": "СТ \"Рэстаўратар\"",
         "short_name:be": "СТ \"Рэстаўратар\"",
         "short_name:ru": "СТ \"Реставратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82370,7 +82253,7 @@ const Data =
         "short_name": "СТ \"Садоўнік\"",
         "short_name:be": "СТ \"Садоўнік\"",
         "short_name:ru": "СТ \"Садовник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82397,7 +82280,7 @@ const Data =
         "short_name": "СТ \"Цеплатэхнік\"",
         "short_name:be": "СТ \"Цеплатэхнік\"",
         "short_name:ru": "СТ \"Теплотехник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82424,7 +82307,7 @@ const Data =
         "short_name": "СТ \"Світанак\"",
         "short_name:be": "СТ \"Світанак\"",
         "short_name:ru": "СТ \"Свитанок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82451,7 +82334,7 @@ const Data =
         "short_name": "СТ \"Крыніца-5\"",
         "short_name:be": "СТ \"Крыніца-5\"",
         "short_name:ru": "СТ \"Криница-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82478,7 +82361,7 @@ const Data =
         "short_name": "СТ \"Гарняк-7\"",
         "short_name:be": "СТ \"Гарняк-7\"",
         "short_name:ru": "СТ \"Горняк-7\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82505,7 +82388,7 @@ const Data =
         "short_name": "СТ \"Ластаўка\"",
         "short_name:be": "СТ \"Ластаўка\"",
         "short_name:ru": "СТ \"Ласточка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82532,7 +82415,7 @@ const Data =
         "short_name": "СТ \"Пралеска-плюс\"",
         "short_name:be": "СТ \"Пралеска-плюс\"",
         "short_name:ru": "СТ \"Пралеска-плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82559,7 +82442,7 @@ const Data =
         "short_name": "СТ \"Чайка\"",
         "short_name:be": "СТ \"Чайка\"",
         "short_name:ru": "СТ \"Чайка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82586,7 +82469,7 @@ const Data =
         "short_name": "СТ \"Ягадка-2008\"",
         "short_name:be": "СТ \"Ягадка-2008\"",
         "short_name:ru": "СТ \"Ягодка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82613,7 +82496,7 @@ const Data =
         "short_name": "СТ \"Крынічанька любая\"",
         "short_name:be": "СТ \"Крынічанька любая\"",
         "short_name:ru": "СТ \"Криниченька любимая\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82640,7 +82523,7 @@ const Data =
         "short_name": "СТ \"Крынічка-Ягадка\"",
         "short_name:be": "СТ \"Крынічка-Ягадка\"",
         "short_name:ru": "СТ \"Родничок-Ягодка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82667,7 +82550,7 @@ const Data =
         "short_name": "СТ \"Палянка-2008\"",
         "short_name:be": "СТ \"Палянка-2008\"",
         "short_name:ru": "СТ \"Полянка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82694,7 +82577,7 @@ const Data =
         "short_name": "СТ \"Гарошкі\"",
         "short_name:be": "СТ \"Гарошкі\"",
         "short_name:ru": "СТ \"Горошки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82721,7 +82604,7 @@ const Data =
         "short_name": "СТ \"Крыніца-1982\"",
         "short_name:be": "СТ \"Крыніца-1982\"",
         "short_name:ru": "СТ \"Родник-1982\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82748,7 +82631,7 @@ const Data =
         "short_name": "СТ \"Крыніца-Гарошкі\"",
         "short_name:be": "СТ \"Крыніца-Гарошкі\"",
         "short_name:ru": "СТ \"Криница-Горошки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82775,7 +82658,7 @@ const Data =
         "short_name": "СТ \"Глобус-Знак\"",
         "short_name:be": "СТ \"Глобус-Знак\"",
         "short_name:ru": "СТ \"Глобус-Знак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82802,7 +82685,7 @@ const Data =
         "short_name": "СТ \"Раднік-Міліяратар\"",
         "short_name:be": "СТ \"Раднік-Міліяратар\"",
         "short_name:ru": "СТ \"Родник-Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82829,7 +82712,7 @@ const Data =
         "short_name": "СТ \"Чырвонае Урочышча-2\"",
         "short_name:be": "СТ \"Чырвонае Урочышча-2\"",
         "short_name:ru": "СТ \"Красное Урочище-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82856,7 +82739,7 @@ const Data =
         "short_name": "СТ «Гаспадар-2002»",
         "short_name:be": "СТ «Гаспадар-2002»",
         "short_name:ru": "СТ «Гаспадар-2002»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82883,7 +82766,7 @@ const Data =
         "short_name": "СТ «Зарэчанская Дружба»",
         "short_name:be": "СТ «Зарэчанская Дружба»",
         "short_name:ru": "СТ «Зареченская Дружба»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82910,7 +82793,7 @@ const Data =
         "short_name": "СТ «Дарожнік»",
         "short_name:be": "СТ «Дарожнік»",
         "short_name:ru": "СТ «Дорожник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82937,7 +82820,7 @@ const Data =
         "short_name": "СТ «Аўтамабіліст-82»",
         "short_name:be": "СТ «Аўтамабіліст-82»",
         "short_name:ru": "СТ «Автомобилист-82»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82964,7 +82847,7 @@ const Data =
         "short_name": "СТ «Абутнік-5»",
         "short_name:be": "СТ «Абутнік-5»",
         "short_name:ru": "СТ «Обувщик-5»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -82991,7 +82874,7 @@ const Data =
         "short_name": "СТ «Аўтатранспартнік-2002»",
         "short_name:be": "СТ «Аўтатранспартнік-2002»",
         "short_name:ru": "СТ «Автотранспортник-2002»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83018,7 +82901,7 @@ const Data =
         "short_name": "СТ «Зарэчанскі будаўнік»",
         "short_name:be": "СТ «Зарэчанскі будаўнік»",
         "short_name:ru": "СТ «Зареченский строитель»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83045,7 +82928,7 @@ const Data =
         "short_name": "СТ «Таксі»",
         "short_name:be": "СТ «Таксі»",
         "short_name:ru": "СТ «Такси»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83072,7 +82955,7 @@ const Data =
         "short_name": "СТ «Наша крыніца»",
         "short_name:be": "СТ «Наша крыніца»",
         "short_name:ru": "СТ «Наш родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83099,7 +82982,7 @@ const Data =
         "short_name": "СТ «Таксі»",
         "short_name:be": "СТ «Таксі»",
         "short_name:ru": "СТ «Такси»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83126,7 +83009,7 @@ const Data =
         "short_name": "СТ «Замасточча»",
         "short_name:be": "СТ «Замасточча»",
         "short_name:ru": "СТ «Замосточье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83153,7 +83036,7 @@ const Data =
         "short_name": "СТ «Таксі»",
         "short_name:be": "СТ «Таксі»",
         "short_name:ru": "СТ «Такси»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83180,7 +83063,7 @@ const Data =
         "short_name": "СТ \"Крыніца Саламарэчанская\"",
         "short_name:be": "СТ \"Крыніца Саламарэчанская\"",
         "short_name:ru": "СТ \"Родник Соломореченский\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83207,7 +83090,7 @@ const Data =
         "short_name": "СТ \"Раднічок-83\"",
         "short_name:be": "СТ \"Раднічок-83\"",
         "short_name:ru": "СТ \"Родничок-83\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83234,7 +83117,7 @@ const Data =
         "short_name": "СТ \"Сувязіст\"",
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83261,7 +83144,7 @@ const Data =
         "short_name": "СТ \"Апельсін\"",
         "short_name:be": "СТ \"Апельсін\"",
         "short_name:ru": "СТ \"Апельсин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83288,7 +83171,7 @@ const Data =
         "short_name": "СТ \"Гранат\"",
         "short_name:be": "СТ \"Гранат\"",
         "short_name:ru": "СТ \"Гранат\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83315,7 +83198,7 @@ const Data =
         "short_name": "СТ \"Мароські\"",
         "short_name:be": "СТ \"Мароські\"",
         "short_name:ru": "СТ \"Мороськи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83342,7 +83225,7 @@ const Data =
         "short_name": "СТ «Крыніца-90»",
         "short_name:be": "СТ «Крыніца-90»",
         "short_name:ru": "СТ «Родник-90»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83369,7 +83252,7 @@ const Data =
         "short_name": "СТ «Крынічка-Пціч»",
         "short_name:be": "СТ «Крынічка-Пціч»",
         "short_name:ru": "СТ «Родничок-Птичь»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83396,7 +83279,7 @@ const Data =
         "short_name": "СТ «Журавінка-БНТУ»",
         "short_name:be": "СТ «Журавінка-БНТУ»",
         "short_name:ru": "СТ «Журавинка-БНТУ»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83423,7 +83306,7 @@ const Data =
         "short_name": "СТ «Дружба-86»",
         "short_name:be": "СТ «Дружба-86»",
         "short_name:ru": "СТ «Дружба-86»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83450,7 +83333,7 @@ const Data =
         "short_name": "СТ «Спадчына-88»",
         "short_name:be": "СТ «Спадчына-88»",
         "short_name:ru": "СТ «Спадчина-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83477,7 +83360,7 @@ const Data =
         "short_name": "СТ «Спадчына-88»",
         "short_name:be": "СТ «Спадчына-88»",
         "short_name:ru": "СТ «Спадчина-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83504,7 +83387,7 @@ const Data =
         "short_name": "СТ «Крыніца-Зялёнбуд»",
         "short_name:be": "СТ «Крыніца-Зялёнбуд»",
         "short_name:ru": "СТ «Криница-Зеленстрой»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83531,7 +83414,7 @@ const Data =
         "short_name": "СТ «Світанак-2002»",
         "short_name:be": "СТ «Світанак-2002»",
         "short_name:ru": "СТ «Свитанок-2002»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83558,7 +83441,7 @@ const Data =
         "short_name": "СТ «Крынічка-96»",
         "short_name:be": "СТ «Крынічка-96»",
         "short_name:ru": "СТ «Родничок-96»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83585,7 +83468,7 @@ const Data =
         "short_name": "СТ «Вяснянка»",
         "short_name:be": "СТ «Вяснянка»",
         "short_name:ru": "СТ «Веснянка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83612,7 +83495,7 @@ const Data =
         "short_name": "СТ «Маёнтак»",
         "short_name:be": "СТ «Маёнтак»",
         "short_name:ru": "СТ «Маёнтак»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83639,7 +83522,7 @@ const Data =
         "short_name": "СТ «Пралеска»",
         "short_name:be": "СТ «Пралеска»",
         "short_name:ru": "СТ «Пролеска»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83666,7 +83549,7 @@ const Data =
         "short_name": "СТ «Расінка-88»",
         "short_name:be": "СТ «Расінка-88»",
         "short_name:ru": "СТ «Росинка-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83693,7 +83576,7 @@ const Data =
         "short_name": "СТ «Бульбяш»",
         "short_name:be": "СТ «Бульбяш»",
         "short_name:ru": "СТ «Бульбяш»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83720,7 +83603,7 @@ const Data =
         "short_name": "СТ «Зорачка-2002»",
         "short_name:be": "СТ «Зорачка-2002»",
         "short_name:ru": "СТ «Звёздочка-2002»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83747,7 +83630,7 @@ const Data =
         "short_name": "СТ «Вадаспад»",
         "short_name:be": "СТ «Вадаспад»",
         "short_name:ru": "СТ «Водопад»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83774,7 +83657,7 @@ const Data =
         "short_name": "СТ «Курган Славы»",
         "short_name:be": "СТ «Курган Славы»",
         "short_name:ru": "СТ «Курган Славы»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83801,7 +83684,7 @@ const Data =
         "short_name": "СТ «Гарняк-94»",
         "short_name:be": "СТ «Гарняк-94»",
         "short_name:ru": "СТ «Горняк-94»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83828,7 +83711,7 @@ const Data =
         "short_name": "СТ «Загорʼе-3»",
         "short_name:be": "СТ «Загорʼе-3»",
         "short_name:ru": "СТ «Загорье-3»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83855,7 +83738,7 @@ const Data =
         "short_name": "СТ «Дубрава МЗСМ»",
         "short_name:be": "СТ «Дубрава МЗСМ»",
         "short_name:ru": "СТ «Дубрава МЗСМ»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83882,7 +83765,7 @@ const Data =
         "short_name": "СТ «Галург»",
         "short_name:be": "СТ «Галург»",
         "short_name:ru": "СТ «Галург»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83909,7 +83792,7 @@ const Data =
         "short_name": "СТ «Інфарматыка-89»",
         "short_name:be": "СТ «Інфарматыка-89»",
         "short_name:ru": "СТ «Информатика-89»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83936,7 +83819,7 @@ const Data =
         "short_name": "СТ «Крыніца»",
         "short_name:be": "СТ «Крыніца»",
         "short_name:ru": "СТ «Родник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83963,7 +83846,7 @@ const Data =
         "short_name": "СТ «Экран»",
         "short_name:be": "СТ «Экран»",
         "short_name:ru": "СТ «Экран»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -83990,7 +83873,7 @@ const Data =
         "short_name": "СТ «Агра БелОІ-1»",
         "short_name:be": "СТ «Агра БелОІ-1»",
         "short_name:ru": "СТ «Агро БелОИ-1»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84017,7 +83900,7 @@ const Data =
         "short_name": "СТ \"Кантакт\"",
         "short_name:be": "СТ \"Кантакт\"",
         "short_name:ru": "СТ \"Контакт\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84044,7 +83927,7 @@ const Data =
         "short_name": "СТ «Чыстая крынічка»",
         "short_name:be": "СТ «Чыстая крынічка»",
         "short_name:ru": "СТ «Чистый родничок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84071,7 +83954,7 @@ const Data =
         "short_name": "СТ \"Спадарожнік-3\"",
         "short_name:be": "СТ \"Спадарожнік-3\"",
         "short_name:ru": "СТ \"Спутник-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84098,7 +83981,7 @@ const Data =
         "short_name": "СТ \"Журавінка-ягада\"",
         "short_name:be": "СТ \"Журавінка-ягада\"",
         "short_name:ru": "СТ \"Журавинка-ягода\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84125,7 +84008,7 @@ const Data =
         "short_name": "СТ «Хімік-2010»",
         "short_name:be": "СТ «Хімік-2010»",
         "short_name:ru": "СТ «Химик-2010»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84152,7 +84035,7 @@ const Data =
         "short_name": "СТ «Ляжнёўка»",
         "short_name:be": "СТ «Ляжнёўка»",
         "short_name:ru": "СТ «Лежневка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84179,7 +84062,7 @@ const Data =
         "short_name": "СТ «Крынічка»",
         "short_name:be": "СТ «Крынічка»",
         "short_name:ru": "СТ «Родничок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84206,7 +84089,7 @@ const Data =
         "short_name": "СТ «Надзея-Бел»",
         "short_name:be": "СТ «Надзея-Бел»",
         "short_name:ru": "СТ «Надежда-Бел»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84233,7 +84116,7 @@ const Data =
         "short_name": "СТ «Ягадка-Бел»",
         "short_name:be": "СТ «Ягадка-Бел»",
         "short_name:ru": "СТ «Ягодка-Бел»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84260,7 +84143,7 @@ const Data =
         "short_name": "СТ «Ягадка-Бел»",
         "short_name:be": "СТ «Ягадка-Бел»",
         "short_name:ru": "СТ «Ягодка-Бел»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84287,7 +84170,7 @@ const Data =
         "short_name": "СТ «Ягадка-Бел»",
         "short_name:be": "СТ «Ягадка-Бел»",
         "short_name:ru": "СТ «Ягодка-Бел»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84314,7 +84197,7 @@ const Data =
         "short_name": "СТ «Крынічка-Грунцік»",
         "short_name:be": "СТ «Крынічка-Грунцік»",
         "short_name:ru": "СТ «Родничок-Грунтик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84341,7 +84224,7 @@ const Data =
         "short_name": "СТ «Друць-Пруды»",
         "short_name:be": "СТ «Друць-Пруды»",
         "short_name:ru": "СТ «Друть-Пруды»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84368,7 +84251,7 @@ const Data =
         "short_name": "СТ \"Верас-Калібр\"",
         "short_name:be": "СТ \"Верас-Калібр\"",
         "short_name:ru": "СТ \"Верас-Калибр\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84395,7 +84278,7 @@ const Data =
         "short_name": "СТ «Дарожнік»",
         "short_name:be": "СТ «Дарожнік»",
         "short_name:ru": "СТ «Дорожник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84422,7 +84305,7 @@ const Data =
         "short_name": "СТ «Усход» дарожна-будаўнічага ўпраўлення №10",
         "short_name:be": "СТ «Усход» дарожна-будаўнічага ўпраўлення №10",
         "short_name:ru": "СТ «Восток» дорожно-строительного управления №10",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84449,7 +84332,7 @@ const Data =
         "short_name": "СТ «Хімік»",
         "short_name:be": "СТ «Хімік»",
         "short_name:ru": "СТ «Химик»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84476,7 +84359,7 @@ const Data =
         "short_name": "СТ «Вішанька-2008»",
         "short_name:be": "СТ «Вішанька-2008»",
         "short_name:ru": "СТ «Вишенка-2008»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84503,7 +84386,7 @@ const Data =
         "short_name": "СТ «Усход»",
         "short_name:be": "СТ «Усход»",
         "short_name:ru": "СТ «Восход»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84530,7 +84413,7 @@ const Data =
         "short_name": "СТ \"Утульная паляна\"",
         "short_name:be": "СТ \"Утульная паляна\"",
         "short_name:ru": "СТ \"Уютная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84557,7 +84440,7 @@ const Data =
         "short_name": "СТ \"Дачнае\"",
         "short_name:be": "СТ \"Дачнае\"",
         "short_name:ru": "СТ \"Дачное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84584,7 +84467,7 @@ const Data =
         "short_name": "СТ \"Чырвонае Урочышча\"",
         "short_name:be": "СТ \"Чырвонае Урочышча\"",
         "short_name:ru": "СТ \"Красное Урочище\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84611,7 +84494,7 @@ const Data =
         "short_name": "СТ \"Здароўе XX стагоддзе\"",
         "short_name:be": "СТ \"Здароўе XX стагоддзе\"",
         "short_name:ru": "СТ \"Здоровье XX век\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84638,7 +84521,7 @@ const Data =
         "short_name": "СТ \"Сонечнае-2010\"",
         "short_name:be": "СТ \"Сонечнае-2010\"",
         "short_name:ru": "СТ \"Солнечное-2010\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84665,7 +84548,7 @@ const Data =
         "short_name": "СТ «Лянок»",
         "short_name:be": "СТ «Лянок»",
         "short_name:ru": "СТ «Лянок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84692,7 +84575,7 @@ const Data =
         "short_name": "СТ «Верасы-3»",
         "short_name:be": "СТ «Верасы-3»",
         "short_name:ru": "СТ «Верасы-3»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84719,7 +84602,7 @@ const Data =
         "short_name": "СТ «Верасы»",
         "short_name:be": "СТ «Верасы»",
         "short_name:ru": "СТ «Верасы»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84746,7 +84629,7 @@ const Data =
         "short_name": "СОТ «Новыя Верасы» Строительно-монтажного треста №27",
         "short_name:be": "СОТ «Новыя Верасы» Строительно-монтажного треста №27",
         "short_name:ru": "САТ «Новые Верасы» Строительно-монтажного треста №27",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -84773,7 +84656,7 @@ const Data =
         "short_name": "СТ «Рамонак»",
         "short_name:be": "СТ «Рамонак»",
         "short_name:ru": "СТ «Ромашка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84800,7 +84683,7 @@ const Data =
         "short_name": "СТ «Металург-2»",
         "short_name:be": "СТ «Металург-2»",
         "short_name:ru": "СТ «Металлург-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84827,7 +84710,7 @@ const Data =
         "short_name": "СТ «Рамонак-2»",
         "short_name:be": "СТ «Рамонак-2»",
         "short_name:ru": "СТ «Ромашка-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84854,7 +84737,7 @@ const Data =
         "short_name": "СТ «Надзея»",
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ «Надежда»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84881,7 +84764,7 @@ const Data =
         "short_name": "СТ «Спартак-Рудня»",
         "short_name:be": "СТ «Спартак-Рудня»",
         "short_name:ru": "СТ «Спартак-Рудня»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84908,7 +84791,7 @@ const Data =
         "short_name": "СТ «Руднянскі пячатнік»",
         "short_name:be": "СТ «Руднянскі пячатнік»",
         "short_name:ru": "СТ «Руднянский печатник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84935,7 +84818,7 @@ const Data =
         "short_name": "СТ «Кіравец»",
         "short_name:be": "СТ «Кіравец»",
         "short_name:ru": "СТ «Кировец»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84962,7 +84845,7 @@ const Data =
         "short_name": "СТ «Зялёны грудок»",
         "short_name:be": "СТ «Зялёны грудок»",
         "short_name:ru": "СТ «Зелёный бугорок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -84989,7 +84872,7 @@ const Data =
         "short_name": "СТ «Руднянскі вадаканал»",
         "short_name:be": "СТ «Руднянскі вадаканал»",
         "short_name:ru": "СТ «Руднянский водоканал»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85016,7 +84899,7 @@ const Data =
         "short_name": "СТ «Лясное-Белмедпрэпараты»",
         "short_name:be": "СТ «Лясное-Белмедпрэпараты»",
         "short_name:ru": "СТ «Лесное-Белмедпрепараты»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85043,7 +84926,7 @@ const Data =
         "short_name": "СТ «Авіятар-407»",
         "short_name:be": "СТ «Авіятар-407»",
         "short_name:ru": "СТ «Авиатор-407»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85070,7 +84953,7 @@ const Data =
         "short_name": "СТ «Благадатнае»",
         "short_name:be": "СТ «Благадатнае»",
         "short_name:ru": "СТ «Благодатное»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85097,7 +84980,7 @@ const Data =
         "short_name": "СТ «Граніт»",
         "short_name:be": "СТ «Граніт»",
         "short_name:ru": "СТ «Гранит»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85124,7 +85007,7 @@ const Data =
         "short_name": "СТ «Садовая Рамашка»",
         "short_name:be": "СТ «Садовая Рамашка»",
         "short_name:ru": "СТ «Садовая Ромашка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85151,7 +85034,7 @@ const Data =
         "short_name": "СТ «Электрык-5»",
         "short_name:be": "СТ «Электрык-5»",
         "short_name:ru": "СТ «Электрик-5»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85178,7 +85061,7 @@ const Data =
         "short_name": "СТ «Будаўнік» ПРСУ бытавога абслугоўвання",
         "short_name:be": "СТ «Будаўнік» ПРСУ бытавога абслугоўвання",
         "short_name:ru": "СТ «Строитель» ПРСУ бытового обслуживания",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85205,7 +85088,7 @@ const Data =
         "short_name": "СТ «Ягадка-Хутаранка»",
         "short_name:be": "СТ «Ягадка-Хутаранка»",
         "short_name:ru": "СТ «Ягодка-Хуторянка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85232,7 +85115,7 @@ const Data =
         "short_name": "СТ «Світанак-Хутаранка»",
         "short_name:be": "СТ «Світанак-Хутаранка»",
         "short_name:ru": "СТ «Рассвет-Хуторянка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85259,7 +85142,7 @@ const Data =
         "short_name": "СТ «Хутаранка»",
         "short_name:be": "СТ «Хутаранка»",
         "short_name:ru": "СТ «Хуторянка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85286,7 +85169,7 @@ const Data =
         "short_name": "СТ «Ручаёк»",
         "short_name:be": "СТ «Ручаёк»",
         "short_name:ru": "СТ «Ручеёк»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85313,7 +85196,7 @@ const Data =
         "short_name": "СТ «Пабужжа»",
         "short_name:be": "СТ «Пабужжа»",
         "short_name:ru": "СТ «Побужье»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85340,7 +85223,7 @@ const Data =
         "short_name": "СТ «Ягадны край»",
         "short_name:be": "СТ «Ягадны край»",
         "short_name:ru": "СТ «Ягодный край»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85367,7 +85250,7 @@ const Data =
         "short_name": "СТ «Ягадка»",
         "short_name:be": "СТ «Ягадка»",
         "short_name:ru": "СТ «Ягодка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85394,7 +85277,7 @@ const Data =
         "short_name": "СТ «Сялітранкі»",
         "short_name:be": "СТ «Сялітранкі»",
         "short_name:ru": "СТ «Селитренки»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85421,7 +85304,7 @@ const Data =
         "short_name": "СТ «Дамашаны-2»",
         "short_name:be": "СТ «Дамашаны-2»",
         "short_name:ru": "СТ «Домошаны-2»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85448,7 +85331,7 @@ const Data =
         "short_name": "СТ «Журналіст-ІНФО»",
         "short_name:be": "СТ «Журналіст-ІНФО»",
         "short_name:ru": "СТ «Журналист-ИНФО»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85475,7 +85358,7 @@ const Data =
         "short_name": "СТ «Дамашаны»",
         "short_name:be": "СТ «Дамашаны»",
         "short_name:ru": "СТ «Домошаны»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85502,7 +85385,7 @@ const Data =
         "short_name": "СТ «Геолаг-СМ»",
         "short_name:be": "СТ «Геолаг-СМ»",
         "short_name:ru": "СТ «Геолог-СМ»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85529,7 +85412,7 @@ const Data =
         "short_name": "СТ «Сонечны сад»",
         "short_name:be": "СТ «Сонечны сад»",
         "short_name:ru": "СТ «Солнечный сад»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85556,7 +85439,7 @@ const Data =
         "short_name": "СТ «Пралеска-88»",
         "short_name:be": "СТ «Пралеска-88»",
         "short_name:ru": "СТ «Пролеска-88»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85583,7 +85466,7 @@ const Data =
         "short_name": "СТ «Узгорак-2002»",
         "short_name:be": "СТ «Узгорак-2002»",
         "short_name:ru": "СТ «Узгорье-2002»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85610,7 +85493,7 @@ const Data =
         "short_name": "СТ «Адпачынак»",
         "short_name:be": "СТ «Адпачынак»",
         "short_name:ru": "СТ «Отдых»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85637,7 +85520,7 @@ const Data =
         "short_name": "СТ «Мечта»",
         "short_name:be": "СТ «Мечта»",
         "short_name:ru": "СТ «Мечта»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85664,7 +85547,7 @@ const Data =
         "short_name": "СТ \"Мантажнік-2008\"",
         "short_name:be": "СТ \"Мантажнік-2008\"",
         "short_name:ru": "СТ \"Монтажник-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85691,7 +85574,7 @@ const Data =
         "short_name": "СТ \"Зорка\"",
         "short_name:be": "СТ \"Зорка\"",
         "short_name:ru": "СТ \"Зорка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85718,7 +85601,7 @@ const Data =
         "short_name": "СТ \"Газавік-80\"",
         "short_name:be": "СТ \"Газавік-80\"",
         "short_name:ru": "СТ \"Газовик-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85745,7 +85628,7 @@ const Data =
         "short_name": "СТ \"Камяніца-Жыравецкая\"",
         "short_name:be": "СТ \"Камяніца-Жыравецкая\"",
         "short_name:ru": "СТ \"Каменица-Жировецкая\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85772,7 +85655,7 @@ const Data =
         "short_name": "СТ \"Магістраль - газ\"",
         "short_name:be": "СТ \"Магістраль - газ\"",
         "short_name:ru": "СТ \"Магистраль - газ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85799,7 +85682,7 @@ const Data =
         "short_name": "СТ \"Флора\"",
         "short_name:be": "СТ \"Флора\"",
         "short_name:ru": "СТ \"Флора\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85826,7 +85709,7 @@ const Data =
         "short_name": "СТ \"Паўднёвае-2\"",
         "short_name:be": "СТ \"Паўднёвае-2\"",
         "short_name:ru": "СТ \"Южное-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85853,7 +85736,7 @@ const Data =
         "short_name": "СТ \"Квант\"",
         "short_name:be": "СТ \"Квант\"",
         "short_name:ru": "СТ \"Квант\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85880,7 +85763,7 @@ const Data =
         "short_name": "СТ \"Івушка Мухавецкая\"",
         "short_name:be": "СТ \"Івушка Мухавецкая\"",
         "short_name:ru": "СТ \"Ивушка Мухавецкая \"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -85907,7 +85790,7 @@ const Data =
         "short_name": "СТ \"Эфект-21\"",
         "short_name:be": "СТ \"Эфект-21\"",
         "short_name:ru": "СТ \"Эффект-21\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85934,7 +85817,7 @@ const Data =
         "short_name": "СТ \"Кавалі\"",
         "short_name:be": "СТ \"Кавалі\"",
         "short_name:ru": "СТ \"Ковали\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85961,7 +85844,7 @@ const Data =
         "short_name": "СТ \"Вяснянка 2000\"",
         "short_name:be": "СТ \"Вяснянка 2000\"",
         "short_name:ru": "СТ \"Веснянка 2000\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -85988,7 +85871,7 @@ const Data =
         "short_name": "СТ \"Мясата\"",
         "short_name:be": "СТ \"Мясата\"",
         "short_name:ru": "СТ \"Мясота\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86015,7 +85898,7 @@ const Data =
         "short_name": "СТ \"Чабор\"",
         "short_name:be": "СТ \"Чабор\"",
         "short_name:ru": "СТ \"Чабор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86042,7 +85925,7 @@ const Data =
         "short_name": "СТ \"Медык-плюс\"",
         "short_name:be": "СТ \"Медык-плюс\"",
         "short_name:ru": "СТ \"Медик-плюс\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86069,7 +85952,7 @@ const Data =
         "short_name": "СТ \"Фазенда\"",
         "short_name:be": "СТ \"Фазенда\"",
         "short_name:ru": "СТ \"Фазенда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86096,7 +85979,7 @@ const Data =
         "short_name": "СТ \"Бярозка-агра\"",
         "short_name:be": "СТ \"Бярозка-агра\"",
         "short_name:ru": "СТ \"Березка-агро\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86123,7 +86006,7 @@ const Data =
         "short_name": "СТ \"Будаўнік\"",
         "short_name:be": "СТ \"Будаўнік\"",
         "short_name:ru": "СТ \"Строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86150,7 +86033,7 @@ const Data =
         "short_name": "СТ \"Рабінка\"",
         "short_name:be": "СТ \"Рабінка\"",
         "short_name:ru": "СТ \"Рябинка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86177,7 +86060,7 @@ const Data =
         "short_name": "СТ \"Залатая восень\"",
         "short_name:be": "СТ \"Залатая восень\"",
         "short_name:ru": "СТ \"Золотая осень\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86204,7 +86087,7 @@ const Data =
         "short_name": "СТ \"Івушка-2008\"",
         "short_name:be": "СТ \"Івушка-2008\"",
         "short_name:ru": "СТ \"Ивушка-2008\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86231,7 +86114,7 @@ const Data =
         "short_name": "СТ \"Рамонак\"",
         "short_name:be": "СТ \"Рамонак\"",
         "short_name:ru": "СТ \"Ромашка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86258,7 +86141,7 @@ const Data =
         "short_name": "СТ \"Сяброўства\"",
         "short_name:be": "СТ \"Сяброўства\"",
         "short_name:ru": "СТ \"Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86285,7 +86168,7 @@ const Data =
         "short_name": "СТ \"Пісараўская Бярозка\"",
         "short_name:be": "СТ \"Пісараўская Бярозка\"",
         "short_name:ru": "СТ \"Писаревская Березка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86303,7 +86186,7 @@ const Data =
         "name": "СТ «Крышталь-плюс»",
         "name:be": "СТ «Крышталь-плюс»",
         "name:ru": "СТ «Кристалл-плюс»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86330,7 +86213,7 @@ const Data =
         "short_name": "СТ \"Труд\"",
         "short_name:be": "СТ \"Труд\"",
         "short_name:ru": "СТ \"Труд\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86357,7 +86240,7 @@ const Data =
         "short_name": "СТ «Новая надзея»",
         "short_name:be": "СТ «Новая надзея»",
         "short_name:ru": "СТ «Новая надежда»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86384,7 +86267,7 @@ const Data =
         "short_name": "СТ «Надзея»",
         "short_name:be": "СТ «Надзея»",
         "short_name:ru": "СТ \"Надежда\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86411,7 +86294,7 @@ const Data =
         "short_name": "СТ \"Стаматолаг\"",
         "short_name:be": "СТ \"Стаматолаг\"",
         "short_name:ru": "СТ \"Стоматолог\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86438,7 +86321,7 @@ const Data =
         "short_name": "СТ \"Аэрагеадэзіст\"",
         "short_name:be": "СТ \"Аэрагеадэзіст\"",
         "short_name:ru": "СТ \"Аэрогеодезист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -86465,7 +86348,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Пралеска\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86492,7 +86375,7 @@ const Data =
         "short_name": "СТ \"Серакаратнянка\"",
         "short_name:be": "СТ \"Серакаратнянка\"",
         "short_name:ru": "СТ \"Серокаротнянка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86519,7 +86402,7 @@ const Data =
         "short_name": "СТ \"Усход-Авія\"",
         "short_name:be": "СТ \"Усход-Авія\"",
         "short_name:ru": "СТ \"Восход-Авиа\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86546,7 +86429,7 @@ const Data =
         "short_name": "СТ \"Бадзёрасць і Здароўе\"",
         "short_name:be": "СТ \"Бадзёрасць і Здароўе\"",
         "short_name:ru": "СТ \"Бодрость и Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86573,7 +86456,7 @@ const Data =
         "short_name": "СТ \"Будаўнік-100\"",
         "short_name:be": "СТ \"Будаўнік-100\"",
         "short_name:ru": "СТ \"Строитель-100\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86600,7 +86483,7 @@ const Data =
         "short_name": "СТ \"Маставік\"",
         "short_name:be": "СТ \"Маставік\"",
         "short_name:ru": "СТ \"Мостовик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86627,7 +86510,7 @@ const Data =
         "short_name": "СТ \"Друкавец\"",
         "short_name:be": "СТ \"Друкавец\"",
         "short_name:ru": "СТ \"Дрюковец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86654,7 +86537,7 @@ const Data =
         "short_name": "СТ \"Воднік\"",
         "short_name:be": "СТ \"Воднік\"",
         "short_name:ru": "СТ \"Водник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86681,7 +86564,7 @@ const Data =
         "short_name": "СТ \"Лада\"",
         "short_name:be": "СТ \"Лада\"",
         "short_name:ru": "СТ \"Лада\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86708,7 +86591,7 @@ const Data =
         "short_name": "ДК \"Струста\"",
         "short_name:be": "ДК \"Струста\"",
         "short_name:ru": "ДК \"Струсто\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -86735,7 +86618,7 @@ const Data =
         "short_name": "СТ \"Дружба-Березка\"",
         "short_name:be": "СТ \"Дружба-Бярозка\"",
         "short_name:ru": "СТ \"Дружба-Березка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86751,7 +86634,7 @@ const Data =
       },
       "properties": {
         "name": "Зеленые огни",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86767,7 +86650,7 @@ const Data =
       },
       "properties": {
         "name": "Восход-92",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86783,7 +86666,7 @@ const Data =
       },
       "properties": {
         "name": "Здоровье-5",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86801,7 +86684,7 @@ const Data =
         "name": "Расінка-89",
         "name:be": "Расінка-89",
         "name:ru": "Росинка-89",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86817,7 +86700,7 @@ const Data =
       },
       "properties": {
         "name": "Кветка",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86833,7 +86716,7 @@ const Data =
       },
       "properties": {
         "name": "Магистраль-2",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86849,7 +86732,7 @@ const Data =
       },
       "properties": {
         "name": "Альфа-89",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86865,7 +86748,7 @@ const Data =
       },
       "properties": {
         "name": "Вянок",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86892,7 +86775,7 @@ const Data =
         "short_name": "СТ \"Ураджай\"",
         "short_name:be": "СТ \"Ураджай\"",
         "short_name:ru": "СТ \"Урожай\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -86909,7 +86792,7 @@ const Data =
       "properties": {
         "name": "Мэта",
         "official_name": "Садаводчае таварыства \"Мэта\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86925,7 +86808,7 @@ const Data =
       },
       "properties": {
         "name": "Бетон-2008",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86941,7 +86824,7 @@ const Data =
       },
       "properties": {
         "name": "Зрок-2",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86957,7 +86840,7 @@ const Data =
       },
       "properties": {
         "name": "Верасок-2",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -86984,7 +86867,7 @@ const Data =
         "short_name": "СТ \"Рожново\"",
         "short_name:be": "СТ \"Ражнова\"",
         "short_name:ru": "СТ \"Рожново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87011,7 +86894,7 @@ const Data =
         "short_name": "СТ \"Аўтамабіліст\"",
         "short_name:be": "СТ \"Аўтамабіліст\"",
         "short_name:ru": "СТ \"Автомобилист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87038,7 +86921,7 @@ const Data =
         "short_name": "СТ \"Пралеска\"",
         "short_name:be": "СТ \"Пралеска\"",
         "short_name:ru": "СТ \"Подснежник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-01-05",
         "ref:vatin": "BY500060547",
         "status": "orange"
@@ -87058,7 +86941,7 @@ const Data =
         "name": "Усход 92",
         "name:be": "Усход 92",
         "name:ru": "Восток 92",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87085,7 +86968,7 @@ const Data =
         "short_name": "СТ \"Сады-92\"",
         "short_name:be": "СТ \"Сады-92\"",
         "short_name:ru": "СТ \"Сады-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87112,7 +86995,7 @@ const Data =
         "short_name": "СТ \"Палянка-2\"",
         "short_name:be": "СТ \"Палянка-2\"",
         "short_name:ru": "СТ \"Полянка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87139,7 +87022,7 @@ const Data =
         "short_name": "СТ \"Мічурынец-5\"",
         "short_name:be": "СТ \"Мічурынец-5\"",
         "short_name:ru": "СТ \"Мичуринец-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87166,7 +87049,7 @@ const Data =
         "short_name": "СТ \"Электрон-82\"",
         "short_name:be": "СТ \"Электрон-82\"",
         "short_name:ru": "СТ \"Электрон-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87193,7 +87076,7 @@ const Data =
         "short_name": "СТ \"Верасы\"",
         "short_name:be": "СТ \"Верасы\"",
         "short_name:ru": "СТ \"Верасы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87211,7 +87094,7 @@ const Data =
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87229,7 +87112,7 @@ const Data =
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87247,7 +87130,7 @@ const Data =
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87274,7 +87157,7 @@ const Data =
         "short_name": "СТ \"Будраўшчына-90\"",
         "short_name:be": "СТ \"Будраўшчына-90\"",
         "short_name:ru": "СТ \"Будровщина-90\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87301,7 +87184,7 @@ const Data =
         "short_name": "СТ \"Рудаковец\"",
         "short_name:be": "СТ \"Рудаковец\"",
         "short_name:ru": "СТ \"Рудаковец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87328,7 +87211,7 @@ const Data =
         "short_name": "СТ \"Забалаць\"",
         "short_name:be": "СТ \"Забалаць\"",
         "short_name:ru": "СТ \"Заболоть\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87355,7 +87238,7 @@ const Data =
         "short_name": "СТ \"Здароў'е-90\"",
         "short_name:be": "СТ \"Здароў'е-90\"",
         "short_name:ru": "СТ \"Здоровье-90\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87382,7 +87265,7 @@ const Data =
         "short_name": "СТ \"Сасновае-2\"",
         "short_name:be": "СТ \"Сасновае-2\"",
         "short_name:ru": "СТ \"Сосновое-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87409,7 +87292,7 @@ const Data =
         "short_name": "СТ \"Дубок-Сяброўства\"",
         "short_name:be": "СТ \"Дубок-Сяброўства\"",
         "short_name:ru": "СТ \"Дубок-Дружба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87436,7 +87319,7 @@ const Data =
         "short_name": "СТ \"Бярозка-Чарнаўчыцкая\"",
         "short_name:be": "СТ \"Бярозка-Чарнаўчыцкая\"",
         "short_name:ru": "СТ \"Берёзка-Чернавчицкая\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87463,7 +87346,7 @@ const Data =
         "short_name": "СТ \"Лясок-82\"",
         "short_name:be": "СТ \"Лясок-82\"",
         "short_name:ru": "СТ \"Лесок-82\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87490,7 +87373,7 @@ const Data =
         "short_name": "СТ \"Вясёлка-9\"",
         "short_name:be": "СТ \"Вясёлка-9\"",
         "short_name:ru": "СТ \"Радуга-9\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87517,7 +87400,7 @@ const Data =
         "short_name": "СТ \"Надзея-91\"",
         "short_name:be": "СТ \"Надзея-91\"",
         "short_name:ru": "СТ \"Надежда-91\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87544,7 +87427,7 @@ const Data =
         "short_name": "СТ «Ландыш-Анетава»",
         "short_name:be": "СТ «Ландыш-Анетава»",
         "short_name:ru": "СТ «Ландыш-Анетово»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -87571,7 +87454,7 @@ const Data =
         "short_name": "СТ «Рудзенская Надзея»",
         "short_name:be": "СТ «Рудзенская Надзея»",
         "short_name:ru": "СТ «Руденская Надежда»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87598,7 +87481,7 @@ const Data =
         "short_name": "СТ «Верас»",
         "short_name:be": "СТ «Верас»",
         "short_name:ru": "СТ «Верас»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87625,7 +87508,7 @@ const Data =
         "short_name": "СТ «Яхант»",
         "short_name:be": "СТ «Яхант»",
         "short_name:ru": "СТ «Яхонт»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87652,7 +87535,7 @@ const Data =
         "short_name": "СТ \"ММЗ\"",
         "short_name:be": "СТ \"ММЗ\"",
         "short_name:ru": "СТ \"ММЗ\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87679,7 +87562,7 @@ const Data =
         "short_name": "СТ «Востраў-Чайка»",
         "short_name:be": "СТ «Востраў-Чайка»",
         "short_name:ru": "СТ «Остров-Чайка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87706,7 +87589,7 @@ const Data =
         "short_name": "СТ «Цэмавец»",
         "short_name:be": "СТ «Цэмавец»",
         "short_name:ru": "СТ «ЦЭМовец»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87733,7 +87616,7 @@ const Data =
         "short_name": "СТ «Востраў»",
         "short_name:be": "СТ «Востраў»",
         "short_name:ru": "СТ «Остров»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87760,7 +87643,7 @@ const Data =
         "short_name": "СТ «Ветка»",
         "short_name:be": "СТ «Ветка»",
         "short_name:ru": "СТ «Ветка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -87778,7 +87661,7 @@ const Data =
         "name": "СТ Альфа-1994",
         "name:ru": "СТ Альфа-1994",
         "short_name": "Альфа-1994;СТ «Альфа-1994»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87796,7 +87679,7 @@ const Data =
         "name": "СТ Бруснічнае",
         "name:ru": "Брусничное",
         "short_name": "Брусничное;СТ «Брусничное»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87814,7 +87697,7 @@ const Data =
         "name": "СТ Аксамітнае Поле",
         "name:ru": "СТ Бархатное Поле",
         "short_name": "Бархатное Поле;СТ «Бархатное Поле»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87831,7 +87714,7 @@ const Data =
       "properties": {
         "name": "СТ \"Ясная поляна\"",
         "name:ru": "СТ \"Ясная поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87858,7 +87741,7 @@ const Data =
         "short_name": "СТ \"Энтузіяст-1\" горада Навагрудак",
         "short_name:be": "СТ \"Энтузіяст-1\" горада Навагрудак",
         "short_name:ru": "СТ \"Энтузиаст-1\" города Новогрудок",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1981-06-08",
         "ref:vatin": "BY500275860",
         "status": "orange"
@@ -87887,7 +87770,7 @@ const Data =
         "short_name": "СТ \"Усходні\"",
         "short_name:be": "СТ \"Усходні\"",
         "short_name:ru": "СТ \"Восточный\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1987-04-20",
         "ref:vatin": "BY500275886",
         "status": "orange"
@@ -87916,7 +87799,7 @@ const Data =
         "short_name": "СТ \"Усход-1\"",
         "short_name:be": "СТ \"Усход-1\"",
         "short_name:ru": "СТ \"Восход-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1987-04-30",
         "ref:vatin": "BY500275909",
         "status": "orange"
@@ -87941,7 +87824,7 @@ const Data =
         "official_status:ru": "садоводческое товарищество",
         "short_name": "СТ «Дубравушка»",
         "short_name:be": "СТ «Дубровачка»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -87968,7 +87851,7 @@ const Data =
         "short_name": "СТ \"Сосны\" Воранаўскага раёна",
         "short_name:be": "СТ \"Сосны\" Воранаўскага раёна",
         "short_name:ru": "СТ \"Сосны\" Вороновского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1995-12-19",
         "ref:vatin": "BY500463058",
         "status": "orange"
@@ -87988,7 +87871,7 @@ const Data =
         "name": "Эўрыдыка в. Салацце",
         "name:be": "Эўрыдыка в. Салацце",
         "name:ru": "Эвридика д. Салатье",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -88004,7 +87887,7 @@ const Data =
       },
       "properties": {
         "name": "Янтарь",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -88031,7 +87914,7 @@ const Data =
         "short_name": "СТ \"Энциклопедист\"",
         "short_name:be": "СТ \"Энциклопедист\"",
         "short_name:ru": "СТ \"Энциклопедист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88058,7 +87941,7 @@ const Data =
         "short_name": "СТ «Каласок»",
         "short_name:be": "СТ «Каласок»",
         "short_name:ru": "СТ «Колосок»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88085,7 +87968,7 @@ const Data =
         "short_name": "СТ \"Блакітны факел\"",
         "short_name:be": "СТ \"Блакітны факел\"",
         "short_name:ru": "СТ \"Голубой факел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88112,7 +87995,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88139,7 +88022,7 @@ const Data =
         "short_name": "СТ \"Рамонтнік\"",
         "short_name:be": "СТ \"Рамонтнік\"",
         "short_name:ru": "СТ \"Ремонтник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88155,7 +88038,7 @@ const Data =
       },
       "properties": {
         "name": "СТ Озерище",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -88182,7 +88065,7 @@ const Data =
         "short_name": "СТ \"Ветразь-92\"",
         "short_name:be": "СТ \"Ветразь-92\"",
         "short_name:ru": "СТ \"Ветразь-92\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88209,7 +88092,7 @@ const Data =
         "short_name": "СТ \"Сямісосны-2\"",
         "short_name:be": "СТ \"Сямісосны-2\"",
         "short_name:ru": "СТ \"Семисосны-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88236,7 +88119,7 @@ const Data =
         "short_name": "СТ \"Сямісосны-2\"",
         "short_name:be": "СТ \"Сямісосны-2\"",
         "short_name:ru": "СТ \"Семисосны-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88263,7 +88146,7 @@ const Data =
         "short_name": "СТ \"Лясок-08 М\"",
         "short_name:be": "СТ \"Лясок-08 М\"",
         "short_name:ru": "СТ \"Лесок-08 М\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88290,7 +88173,7 @@ const Data =
         "short_name": "СТ \"Сунічка\"",
         "short_name:be": "СТ \"Сунічка\"",
         "short_name:ru": "СТ \"Суничка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88317,7 +88200,7 @@ const Data =
         "short_name": "СТ \"Лясок-08 М\"",
         "short_name:be": "СТ \"Лясок-08 М\"",
         "short_name:ru": "СТ \"Лесок-08 М\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88344,7 +88227,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\"",
         "short_name:be": "СТ \"Меліяратар\"",
         "short_name:ru": "СТ \"Мелиоратор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88362,7 +88245,7 @@ const Data =
         "name": "Узбор'е-Нерудспорт",
         "name:be": "Узбор'е-Нерудспорт",
         "name:ru": "Узборье-Нерудспорт",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -88389,7 +88272,7 @@ const Data =
         "short_name": "СТ «Звездочка-432»",
         "short_name:be": "СТ «Звездочка-432»",
         "short_name:ru": "СТ «Звездочка-432»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88416,7 +88299,7 @@ const Data =
         "short_name": "СТ «Дорожник»",
         "short_name:be": "СТ «Дорожник»",
         "short_name:ru": "СТ «Дорожник»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88443,7 +88326,7 @@ const Data =
         "short_name": "СТ «Радуга Белавтомаз»",
         "short_name:be": "СТ «Радуга Белавтомаз»",
         "short_name:ru": "СТ «Радуга Белавтомаз»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -88470,7 +88353,7 @@ const Data =
         "short_name": "СТ \"Магістраль\" Лідскага раёна",
         "short_name:be": "СТ \"Магістраль\" Лідскага раёна",
         "short_name:ru": "СТ \"Магистраль\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-09-22",
         "ref:vatin": "BY500060840",
         "status": "orange"
@@ -88499,7 +88382,7 @@ const Data =
         "short_name": "СТ \"Каменная кветка\" Лідскага раёна",
         "short_name:be": "СТ \"Каменная кветка\" Лідскага раёна",
         "short_name:ru": "СТ \"Каменный цветок\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-12-17",
         "ref:vatin": "BY500060427",
         "status": "orange"
@@ -88528,7 +88411,7 @@ const Data =
         "short_name": "СТ \"Механізатар\" Воранаўскага раёна",
         "short_name:be": "СТ \"Механізатар\" Воранаўскага раёна",
         "short_name:ru": "СТ \"Механизатор\" Вороновского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-01-29",
         "ref:vatin": "BY500068152",
         "status": "orange"
@@ -88557,7 +88440,7 @@ const Data =
         "short_name": "СТ \"Металаапрацоўшчык\"",
         "short_name:be": "СТ \"Металаапрацоўшчык\"",
         "short_name:ru": "СТ \"Металлообработчик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1984-02-13",
         "ref:vatin": "BY500275858",
         "status": "orange"
@@ -88586,7 +88469,7 @@ const Data =
         "short_name": "СТ \"Воранаўка\"",
         "short_name:be": "СТ \"Воранаўка\"",
         "short_name:ru": "СТ \"Вороновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1996-03-23",
         "ref:vatin": "BY500485807",
         "status": "orange"
@@ -88615,7 +88498,7 @@ const Data =
         "short_name": "СТ \"Зрок\"",
         "short_name:be": "СТ \"Зрок\"",
         "short_name:ru": "СТ \"Зрок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-04-21",
         "ref:vatin": "BY500233447",
         "status": "orange"
@@ -88644,7 +88527,7 @@ const Data =
         "short_name": "СТ \"Півавар\"",
         "short_name:be": "СТ \"Півавар\"",
         "short_name:ru": "СТ \"Пивовар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1994-09-20",
         "ref:vatin": "BY500276045",
         "status": "orange"
@@ -88673,7 +88556,7 @@ const Data =
         "short_name": "СТ \"Яблынька\" горада Навагрудак",
         "short_name:be": "СТ \"Яблынька\" горада Навагрудак",
         "short_name:ru": "СТ \"Яблонька\" города Новогрудок",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-02-17",
         "ref:vatin": "BY500233314",
         "status": "orange"
@@ -88702,7 +88585,7 @@ const Data =
         "short_name": "СТ \"Мерыдыян\" Навагрудскага раёна",
         "short_name:be": "СТ \"Мерыдыян\" Навагрудскага раёна",
         "short_name:ru": "СТ \"Меридиан\" Новогрудского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1985-11-25",
         "ref:vatin": "BY500275911",
         "status": "orange"
@@ -88731,7 +88614,7 @@ const Data =
         "short_name": "СТ \"Рутка-1\"",
         "short_name:be": "СТ \"Рутка-1\"",
         "short_name:ru": "СТ \"Рутка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-10-28",
         "ref:vatin": "BY500276867",
         "status": "orange"
@@ -88760,7 +88643,7 @@ const Data =
         "short_name": "СТ \"Металіст-Навагрудак\"",
         "short_name:be": "СТ \"Металіст-Навагрудак\"",
         "short_name:ru": "СТ \"Металлист-Новогрудок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-10-28",
         "ref:vatin": "BY500275873",
         "status": "orange"
@@ -88789,7 +88672,7 @@ const Data =
         "short_name": "СТ \"Усход\"",
         "short_name:be": "СТ \"Усход\"",
         "short_name:ru": "СТ \"Восход\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-05-19",
         "ref:vatin": "BY500233488",
         "status": "orange"
@@ -88818,7 +88701,7 @@ const Data =
         "short_name": "СТ \"Бярозка\" горада Навагрудак",
         "short_name:be": "СТ \"Бярозка\" горада Навагрудак",
         "short_name:ru": "СТ \"Берёзка\" города Новогрудок",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-05-19",
         "ref:vatin": "BY500276060",
         "status": "orange"
@@ -88847,7 +88730,7 @@ const Data =
         "short_name": "СТ \"Ураждай\" горада Навагрудак",
         "short_name:be": "СТ \"Ураждай\" горада Навагрудак",
         "short_name:ru": "СТ \"Урожай\" города Новогрудок",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1981-06-08",
         "ref:vatin": "BY500275899",
         "status": "orange"
@@ -88876,7 +88759,7 @@ const Data =
         "short_name": "СТ \"Няктар\"",
         "short_name:be": "СТ \"Няктар\"",
         "short_name:ru": "СТ \"Нектар\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88903,7 +88786,7 @@ const Data =
         "short_name": "СТ \"Зялёны Бор\" пракуратуры РБ",
         "short_name:be": "СТ \"Зялёны Бор\" пракуратуры РБ",
         "short_name:ru": "СТ \"Зелёный Бор\" Прокуратуры РБ",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88930,7 +88813,7 @@ const Data =
         "short_name": "СТ \"Гай-1\"",
         "short_name:be": "СТ \"Гай-1\"",
         "short_name:ru": "СТ \"Роща-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88957,7 +88840,7 @@ const Data =
         "short_name": "СТ \"Расінка-3\"",
         "short_name:be": "СТ \"Расінка-3\"",
         "short_name:ru": "СТ \"Росинка-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -88984,8 +88867,7 @@ const Data =
         "short_name": "СТ \"Жыта\"",
         "short_name:be": "СТ \"Жыта\"",
         "short_name:ru": "СТ \"Рожь\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -89011,7 +88893,7 @@ const Data =
         "short_name": "СТ \"Хімік (Сідаравічы)\"",
         "short_name:be": "СТ \"Хімік (Сідаравічы)\"",
         "short_name:ru": "СТ \"Химик (Сидоровичи)\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89038,7 +88920,7 @@ const Data =
         "short_name": "СТ \"Малінаўка\"",
         "short_name:be": "СТ \"Малінаўка\"",
         "short_name:ru": "СТ \"Малиновка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89065,7 +88947,7 @@ const Data =
         "short_name": "СТ \"Прыазернае\"",
         "short_name:be": "СТ \"Прыазернае\"",
         "short_name:ru": "СТ \"Приозёрное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89092,7 +88974,7 @@ const Data =
         "short_name": "СТ \"Лясное-Ліўе\"",
         "short_name:be": "СТ \"Лясное-Ліўе\"",
         "short_name:ru": "СТ \"Лесное-Ливье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89119,7 +89001,7 @@ const Data =
         "short_name": "СТ \"Чыгуначнік\"",
         "short_name:be": "СТ \"Чыгуначнік\"",
         "short_name:ru": "СТ \"Железнодорожник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89146,7 +89028,7 @@ const Data =
         "short_name": "СТ \"Вішня\"",
         "short_name:be": "СТ \"Вішня\"",
         "short_name:ru": "СТ \"Вишня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89173,7 +89055,7 @@ const Data =
         "short_name": "СТ \"Медык\"",
         "short_name:be": "СТ \"Медык\"",
         "short_name:ru": "СТ \"Медик\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89200,7 +89082,7 @@ const Data =
         "short_name": "СТ \"Узвышша\"",
         "short_name:be": "СТ \"Узвышша\"",
         "short_name:ru": "СТ \"Узвышша\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89227,7 +89109,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89254,7 +89136,7 @@ const Data =
         "short_name": "СТ \"Белая Бярозка-1\"",
         "short_name:be": "СТ \"Белая Бярозка-1\"",
         "short_name:ru": "СТ \"Белая Берёзка-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89281,7 +89163,7 @@ const Data =
         "short_name": "СТ \"Белая Бярозка-2\"",
         "short_name:be": "СТ \"Белая Бярозка-2\"",
         "short_name:ru": "СТ \"Белая Берёзка-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89308,7 +89190,7 @@ const Data =
         "short_name": "СТ \"Блакітны Факел\"",
         "short_name:be": "СТ \"Блакітны Факел\"",
         "short_name:ru": "СТ \"Голубой Факел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89335,7 +89217,7 @@ const Data =
         "short_name": "СТ \"Дуброўка\"",
         "short_name:be": "СТ \"Дуброўка\"",
         "short_name:ru": "СТ \"Дубровка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89362,7 +89244,7 @@ const Data =
         "short_name": "СТ \"Ветэран Вайны\"",
         "short_name:be": "СТ \"Ветэран Вайны\"",
         "short_name:ru": "СТ \"Ветеран Войны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89389,7 +89271,7 @@ const Data =
         "short_name": "СТ \"Зорнае\"",
         "short_name:be": "СТ \"Зорнае\"",
         "short_name:ru": "СТ \"Зорнае\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89416,7 +89298,7 @@ const Data =
         "short_name": "СТ \"Пенсіянераў, ветэранаў працы і вайны\"",
         "short_name:be": "СТ \"Пенсіянераў, ветэранаў працы і вайны\"",
         "short_name:ru": "СТ \"Пенсионеров, ветеранов труда и войны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89443,7 +89325,7 @@ const Data =
         "short_name": "СТ \"Вішнёўка Гарадзішчанская\"",
         "short_name:be": "СТ \"Вішнёўка Гарадзішчанская\"",
         "short_name:ru": "СТ \"Вишнёвка Городищанская\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89470,7 +89352,7 @@ const Data =
         "short_name": "СТ \"Рэпіна\"",
         "short_name:be": "СТ \"Рэпіна\"",
         "short_name:ru": "СТ \"Репино\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89497,8 +89379,7 @@ const Data =
         "short_name": "СТ \"Іванава\"",
         "short_name:be": "СТ \"Іванава\"",
         "short_name:ru": "СТ \"Иваново\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -89524,7 +89405,7 @@ const Data =
         "short_name": "СТ \"Ураджай-Тарусічы\"",
         "short_name:be": "СТ \"Ураджай-Тарусічы\"",
         "short_name:ru": "СТ \"Урожай-Тарусичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89551,7 +89432,7 @@ const Data =
         "short_name": "СТ \"Барвін\"",
         "short_name:be": "СТ \"Барвін\"",
         "short_name:ru": "СТ \"Барвин\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89578,7 +89459,7 @@ const Data =
         "short_name": "СТ \"Пчолка-3\"",
         "short_name:be": "СТ \"Пчолка-3\"",
         "short_name:ru": "СТ \"Пчёлка-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89605,7 +89486,7 @@ const Data =
         "short_name": "СТ \"Сонечная Паляна-2\"",
         "short_name:be": "СТ \"Сонечная Паляна-2\"",
         "short_name:ru": "СТ \"Солнечная Поляна-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89632,7 +89513,7 @@ const Data =
         "short_name": "СТ \"Ветэран-3\"",
         "short_name:be": "СТ \"Ветэран-3\"",
         "short_name:ru": "СТ \"Ветеран-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89659,7 +89540,7 @@ const Data =
         "short_name": "СТ \"Хвойная Сядзіба\"",
         "short_name:be": "СТ \"Хвойная Сядзіба\"",
         "short_name:ru": "СТ \"Хвойная Усадьба\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89686,7 +89567,7 @@ const Data =
         "short_name": "СТ \"Гаспадынюшка\"",
         "short_name:be": "СТ \"Гаспадынюшка\"",
         "short_name:ru": "СТ \"Хозяюшка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89713,7 +89594,7 @@ const Data =
         "short_name": "СТ \"Вясёлка\"",
         "short_name:be": "СТ \"Вясёлка\"",
         "short_name:ru": "СТ \"Радуга\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89740,7 +89621,7 @@ const Data =
         "short_name": "СТ \"Снайпер\"",
         "short_name:be": "СТ \"Снайпер\"",
         "short_name:ru": "СТ \"Снайпер\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89767,7 +89648,7 @@ const Data =
         "short_name": "СТ \"Галубіка\"",
         "short_name:be": "СТ \"Галубіка\"",
         "short_name:ru": "СТ \"Голубика\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89794,7 +89675,7 @@ const Data =
         "short_name": "СТ \"Здароўе\"",
         "short_name:be": "СТ \"Здароўе\"",
         "short_name:ru": "СТ \"Здоровье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89821,7 +89702,7 @@ const Data =
         "short_name": "СТ \"Магістраль-5\"",
         "short_name:be": "СТ \"Магістраль-5\"",
         "short_name:ru": "СТ \"Магистраль-5\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89848,7 +89729,7 @@ const Data =
         "short_name": "СТ \"Стралок\"",
         "short_name:be": "СТ \"Стралок\"",
         "short_name:ru": "СТ \"Стрелок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89863,7 +89744,7 @@ const Data =
         ]
       },
       "properties": {
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -89890,7 +89771,7 @@ const Data =
         "short_name": "СТ \"Будмаш\"",
         "short_name:be": "СТ \"Будмаш\"",
         "short_name:ru": "СТ \"Строймаш\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89917,7 +89798,7 @@ const Data =
         "short_name": "СТ \"Вясёлка-Горніца\"",
         "short_name:be": "СТ \"Вясёлка-Горніца\"",
         "short_name:ru": "СТ \"Вясёлка-Горница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89944,7 +89825,7 @@ const Data =
         "short_name": "СТ \"Прыроўнае-2\"",
         "short_name:be": "СТ \"Прыроўнае-2\"",
         "short_name:ru": "СТ \"Приовражное-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89971,7 +89852,7 @@ const Data =
         "short_name": "СТ \"Лугаўцы\"",
         "short_name:be": "СТ \"Лугаўцы\"",
         "short_name:ru": "СТ \"Луговцы\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -89998,7 +89879,7 @@ const Data =
         "short_name": "СТ \"Надзея-2\"",
         "short_name:be": "СТ \"Надзея-2\"",
         "short_name:ru": "СТ \"Надежда-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90025,7 +89906,7 @@ const Data =
         "short_name": "СТ \"Сувязiст\"",
         "short_name:be": "СТ \"Сувязiст\"",
         "short_name:ru": "СТ \"Связист\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90052,7 +89933,7 @@ const Data =
         "short_name": "СТ \"Пралеска-11\"",
         "short_name:be": "СТ \"Пралеска-11\"",
         "short_name:ru": "СТ \"Пралеска-11\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90079,7 +89960,7 @@ const Data =
         "short_name": "СТ \"Парэчча\"",
         "short_name:be": "СТ \"Парэчча\"",
         "short_name:ru": "СТ \"Поречье\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90106,7 +89987,7 @@ const Data =
         "short_name": "СТ \"Хімік-Азот\"",
         "short_name:be": "СТ \"Хімік-Азот\"",
         "short_name:ru": "СТ \"Химик-Азот\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90133,8 +90014,7 @@ const Data =
         "short_name": "СТ \"Лясная Паляна\"",
         "short_name:be": "СТ \"Лясная Паляна\"",
         "short_name:ru": "СТ \"Лесная Поляна\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -90155,7 +90035,7 @@ const Data =
         "official_name:ru": "Садоводческое товарищество \"Белый Берег\"",
         "short_name": "СТ \"Белый Берег\"",
         "short_name:ru": "СТ \"Белый Берег\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -90182,7 +90062,7 @@ const Data =
         "short_name": "СТ \"Вяршына\"",
         "short_name:be": "СТ \"Вяршына\"",
         "short_name:ru": "СТ \"Вершина\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90209,8 +90089,7 @@ const Data =
         "short_name": "СТ \"Дарожнік\"",
         "short_name:be": "СТ \"Дарожнік\"",
         "short_name:ru": "СТ \"Дорожник\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -90236,8 +90115,7 @@ const Data =
         "short_name": "СТ \"Бяроза\"",
         "short_name:be": "СТ \"Бяроза\"",
         "short_name:ru": "СТ \"Берёза\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -90263,8 +90141,7 @@ const Data =
         "short_name": "СТ \"Бярозка-2\"",
         "short_name:be": "СТ \"Бярозка-2\"",
         "short_name:ru": "СТ \"Березка-2\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -90290,8 +90167,7 @@ const Data =
         "short_name": "СТ \"Бярозка\"",
         "short_name:be": "СТ \"Бярозка\"",
         "short_name:ru": "СТ \"Березка\"",
-        "place": "allotments",
-        "status": "black"
+        "status": "red"
       }
     },
     {
@@ -90317,7 +90193,7 @@ const Data =
         "short_name": "СТ \"Пралесак\"",
         "short_name:be": "СТ \"Пралесак\"",
         "short_name:ru": "СТ \"Пралесак\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90344,7 +90220,7 @@ const Data =
         "short_name": "СТ \"Прыазёрнае\"",
         "short_name:be": "СТ \"Прыазёрнае\"",
         "short_name:ru": "СТ \"Приозерное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90371,7 +90247,7 @@ const Data =
         "short_name": "СТ \"Лівенка\"",
         "short_name:be": "СТ \"Лівенка\"",
         "short_name:ru": "СТ \"Ливенка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90398,7 +90274,7 @@ const Data =
         "short_name": "СТ \"Жалезніца\"",
         "short_name:be": "СТ \"Жалезніца\"",
         "short_name:ru": "СТ \"Железница\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90425,7 +90301,7 @@ const Data =
         "short_name": "СТ \"Вагоннік\"",
         "short_name:be": "СТ \"Вагоннік\"",
         "short_name:ru": "СТ \"Вагонник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90452,7 +90328,7 @@ const Data =
         "short_name": "СТ \"Вярховіна-Адамавічы\"",
         "short_name:be": "СТ \"Вярховіна-Адамавічы\"",
         "short_name:ru": "СТ \"Верховина-Адамовичи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90479,7 +90355,7 @@ const Data =
         "short_name": "СТ \"Гасцінец\"",
         "short_name:be": "СТ \"Гасцінец\"",
         "short_name:ru": "СТ \"Гостинец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90506,7 +90382,7 @@ const Data =
         "short_name": "СТ \"Летні Адпачынак\"",
         "short_name:be": "СТ \"Летні Адпачынак\"",
         "short_name:ru": "СТ \"Летний Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90533,7 +90409,7 @@ const Data =
         "short_name": "СТ \"Раніца-2\"",
         "short_name:be": "СТ \"Раніца-2\"",
         "short_name:ru": "СТ \"Раница-2\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90560,7 +90436,7 @@ const Data =
         "short_name": "СТ \"Вясна\"",
         "short_name:be": "СТ \"Вясна\"",
         "short_name:ru": "СТ \"Весна\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90587,7 +90463,7 @@ const Data =
         "short_name": "СТ \"Паляна Віцебскага раёна\"",
         "short_name:be": "СТ \"Паляна Віцебскага раёна\"",
         "short_name:ru": "СТ \"Поляна Витебского района\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90614,7 +90490,7 @@ const Data =
         "short_name": "СТ \"Дзяйкі\"",
         "short_name:be": "СТ \"Дзяйкі\"",
         "short_name:ru": "СТ \"Дейки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90641,7 +90517,7 @@ const Data =
         "short_name": "СТ \"Бярозка\" Воранаўскага раёна",
         "short_name:be": "СТ \"Бярозка\" Воранаўскага раёна",
         "short_name:ru": "СТ \"Берёзка\" Вороновского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-07-19",
         "ref:vatin": "BY500068111",
         "status": "orange"
@@ -90670,7 +90546,7 @@ const Data =
         "short_name": "СТ \"Мая Атрада\"",
         "short_name:be": "СТ \"Мая Атрада\"",
         "short_name:ru": "СТ \"Моя Отрада\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90697,7 +90573,7 @@ const Data =
         "short_name": "СТ \"Дзьмухавец-1\"",
         "short_name:be": "СТ \"Дзьмухавец-1\"",
         "short_name:ru": "СТ \"Одуванчик-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90724,7 +90600,7 @@ const Data =
         "short_name": "СТ \"Меліяратар-Некрашы\"",
         "short_name:be": "СТ \"Меліяратар-Некрашы\"",
         "short_name:ru": "СТ \"Мелиоратор-Некраши\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90751,7 +90627,7 @@ const Data =
         "short_name": "СТ \"Судабудаўнік\"",
         "short_name:be": "СТ \"Судабудаўнік\"",
         "short_name:ru": "СТ \"Судостроитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90778,7 +90654,7 @@ const Data =
         "short_name": "СТ \"Дзяметра-2001\"",
         "short_name:be": "СТ \"Дзяметра-2001\"",
         "short_name:ru": "СТ \"Деметра-2001\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90805,7 +90681,7 @@ const Data =
         "short_name": "СТ \"Мара лясная\"",
         "short_name:be": "СТ \"Мара лясная\"",
         "short_name:ru": "СТ \"Мечта лесная\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90832,7 +90708,7 @@ const Data =
         "short_name": "СТ \"Адпачынак\"",
         "short_name:be": "СТ \"Адпачынак\"",
         "short_name:ru": "СТ \"Отдых\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90859,7 +90735,7 @@ const Data =
         "short_name": "СТ \"Сакольнікі\"",
         "short_name:be": "СТ \"Сакольнікі\"",
         "short_name:ru": "СТ \"Сокольники\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90886,7 +90762,7 @@ const Data =
         "short_name": "СТ \"Матор\"",
         "short_name:be": "СТ \"Матор\"",
         "short_name:ru": "СТ \"Мотор\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90913,7 +90789,7 @@ const Data =
         "short_name": "СТ \"Каласок\"",
         "short_name:be": "СТ \"Каласок\"",
         "short_name:ru": "СТ \"Колосок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90940,7 +90816,7 @@ const Data =
         "short_name": "СТ \"Тэкстыльшчык-Ліпаўка\"",
         "short_name:be": "СТ \"Тэкстыльшчык-Ліпаўка\"",
         "short_name:ru": "СТ \"Текстильщик-Липовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90967,7 +90843,7 @@ const Data =
         "short_name": "СТ \"Паляны\"",
         "short_name:be": "СТ \"Паляны\"",
         "short_name:ru": "СТ \"Поляны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -90994,7 +90870,7 @@ const Data =
         "short_name": "СТ \"Колас-Жылічы\"",
         "short_name:be": "СТ \"Колас-Жылічы\"",
         "short_name:ru": "СТ \"Колос-Жиличи\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -91021,7 +90897,7 @@ const Data =
         "short_name": "СТ \"Магістраль\"",
         "short_name:be": "СТ \"Магістраль\"",
         "short_name:ru": "СТ \"Магистраль\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -91048,7 +90924,7 @@ const Data =
         "short_name": "СТ \"Лясное\"",
         "short_name:be": "СТ \"Лясное\"",
         "short_name:ru": "СТ \"Лесное\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -91075,7 +90951,7 @@ const Data =
         "short_name": "СТ \"Адрэта\"",
         "short_name:be": "СТ \"Адрэта\"",
         "short_name:ru": "СТ \"Адрета\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -91102,7 +90978,7 @@ const Data =
         "short_name": "СТ \"Дубкі\"",
         "short_name:be": "СТ \"Дубкі\"",
         "short_name:ru": "СТ \"Дубки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -91129,7 +91005,7 @@ const Data =
         "short_name": "СТ \"Мантажнік\"",
         "short_name:be": "СТ \"Мантажнік\"",
         "short_name:ru": "СТ \"Монтажник\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91156,7 +91032,7 @@ const Data =
         "short_name": "СТ \"Пуцеец\"",
         "short_name:be": "СТ \"Пуцеец\"",
         "short_name:ru": "СТ \"Путеец\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91183,7 +91059,7 @@ const Data =
         "short_name": "СТ \"Загорнікі-2\";СТ \"Юнацтва-80\"",
         "short_name:be": "СТ \"Загорнікі-2\";СТ \"Юнацтва-80\"",
         "short_name:ru": "СТ \"Загорники-2\";СТ \"Юность-80\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -91210,7 +91086,7 @@ const Data =
         "short_name": "СТ \"Плянта-9\"",
         "short_name:be": "СТ \"Плянта-9\"",
         "short_name:ru": "СТ \"Плянта-9\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91237,7 +91113,7 @@ const Data =
         "short_name": "СТ \"Лясная паляна ТВВОД\"",
         "short_name:be": "СТ \"Лясная паляна ТВВОД\"",
         "short_name:ru": "СТ \"Лесная поляна ОСВОД\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91264,7 +91140,7 @@ const Data =
         "short_name": "СТ \"Вымпел\"",
         "short_name:be": "СТ \"Вымпел\"",
         "short_name:ru": "СТ \"Вымпел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91291,7 +91167,7 @@ const Data =
         "short_name": "СТ \"Нарачанскі ветэран\"",
         "short_name:be": "СТ \"Нарачанскі ветэран\"",
         "short_name:ru": "СТ \"Нарочанский ветеран\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "red"
       }
     },
@@ -91318,7 +91194,7 @@ const Data =
         "short_name": "СТ «Бярозка-2008»",
         "short_name:be": "СТ «Бярозка-2008»",
         "short_name:ru": "СТ «Березка-2008»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91345,7 +91221,7 @@ const Data =
         "short_name": "СТ «Надзея-2010»",
         "short_name:be": "СТ «Надзея-2010»",
         "short_name:ru": "СТ «Надежда-2010»",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91362,7 +91238,7 @@ const Data =
       "properties": {
         "name": "СТ \"Борец-3\"",
         "name:ru": "СТ \"Борец-3\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -91379,7 +91255,7 @@ const Data =
       "properties": {
         "name": "СТ \"Борец-1\"",
         "name:ru": "СТ \"Борец-1\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "black"
       }
     },
@@ -91406,7 +91282,7 @@ const Data =
         "short_name": "СТ \"Навука-1978\"",
         "short_name:be": "СТ \"Навука-1978\"",
         "short_name:ru": "СТ \"Наука-1978\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91433,7 +91309,7 @@ const Data =
         "short_name": "СТ \"Стаціў\"",
         "short_name:be": "СТ \"Стаціў\"",
         "short_name:ru": "СТ \"Статив\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91460,7 +91336,7 @@ const Data =
         "short_name": "СТ \"Садко-1990\"",
         "short_name:be": "СТ \"Садко-1990\"",
         "short_name:ru": "СТ \"Садко-1990\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91487,7 +91363,7 @@ const Data =
         "short_name": "СТ \"Сямісосны\"",
         "short_name:be": "СТ \"Сямісосны\"",
         "short_name:ru": "СТ \"Семисосны\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91514,7 +91390,7 @@ const Data =
         "short_name": "СТ \"Ліра\"",
         "short_name:be": "СТ \"Ліра\"",
         "short_name:ru": "СТ \"Лира\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91541,7 +91417,7 @@ const Data =
         "short_name": "СТ \"Ураджай\" Лідскага раёна",
         "short_name:be": "СТ \"Ураджай\" Лідскага раёна",
         "short_name:ru": "СТ \"Урожай\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "plots": "161",
         "ref:vatin": "BY500060057",
@@ -91571,7 +91447,7 @@ const Data =
         "short_name": "СТ \"Меліяратар\" Лідскага раёна",
         "short_name:be": "СТ \"Меліяратар\" Лідскага раёна",
         "short_name:ru": "СТ \"Мелиоратор\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1981-05-08",
         "plots": "112",
         "ref:vatin": "BY500061040",
@@ -91601,7 +91477,7 @@ const Data =
         "short_name": "СТ \"Колас\" Лідскага раёна",
         "short_name:be": "СТ \"Колас\" Лідскага раёна",
         "short_name:ru": "СТ \"Колос\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1983-02-24",
         "plots": "167",
         "ref:vatin": "BY500060363",
@@ -91631,7 +91507,7 @@ const Data =
         "short_name": "СТ \"Вымпел\"",
         "short_name:be": "СТ \"Вымпел\"",
         "short_name:ru": "СТ \"Вымпел\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "status": "blue"
       }
     },
@@ -91658,7 +91534,7 @@ const Data =
         "short_name": "СТ \"Дайнова-2\" Лідскага раёна",
         "short_name:be": "СТ \"Дайнова-2\" Лідскага раёна",
         "short_name:ru": "СТ \"Дайнова-2\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-07-02",
         "ref:vatin": "BY500060626",
         "status": "orange"
@@ -91687,7 +91563,7 @@ const Data =
         "short_name": "СТ \"Заранка\"",
         "short_name:be": "СТ \"Заранка\"",
         "short_name:ru": "СТ \"Заранка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-03-16",
         "ref:vatin": "BY500060588",
         "status": "orange"
@@ -91716,7 +91592,7 @@ const Data =
         "short_name": "СТ \"Гарадскі будаўнік\" Лідскага раёна",
         "short_name:be": "СТ \"Гарадскі будаўнік\" Лідскага раёна",
         "short_name:ru": "СТ \"Городской строитель\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500060016",
         "status": "orange"
@@ -91745,7 +91621,7 @@ const Data =
         "short_name": "СТ \"Зара\" Лідскага раёна",
         "short_name:be": "СТ \"Зара\" Лідскага раёна",
         "short_name:ru": "СТ \"Заря\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500060414",
         "status": "orange"
@@ -91774,7 +91650,7 @@ const Data =
         "short_name": "СТ \"Дзітва\" Лідскага раёна",
         "short_name:be": "СТ \"Дзітва\" Лідскага раёна",
         "short_name:ru": "СТ \"Дитва\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500071318",
         "status": "orange"
@@ -91803,7 +91679,7 @@ const Data =
         "short_name": "СТ \"Лясное\" вёскі Даржы",
         "short_name:be": "СТ \"Лясное\" вёскі Даржы",
         "short_name:ru": "СТ \"Лесное\" деревни Доржи",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-07-21",
         "ref:vatin": "BY500071295",
         "status": "orange"
@@ -91832,7 +91708,7 @@ const Data =
         "short_name": "СТ \"Пчолка\" Лідскага раёна",
         "short_name:be": "СТ \"Пчолка\" Лідскага раёна",
         "short_name:ru": "СТ \"Пчёлка\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-07-22",
         "ref:vatin": "BY500060297",
         "status": "orange"
@@ -91861,7 +91737,7 @@ const Data =
         "short_name": "СТ \"Пятры\" Лідскага раёна",
         "short_name:be": "СТ \"Пятры\" Лідскага раёна",
         "short_name:ru": "СТ \"Петры\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "2008-07-09",
         "plots": "3",
         "ref:vatin": "BY590841860",
@@ -91891,7 +91767,7 @@ const Data =
         "short_name": "СТ \"Медык\" вёскі Пескі",
         "short_name:be": "СТ \"Медык\" вёскі Пескі",
         "short_name:ru": "СТ \"Медик\" деревни Пески",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-05-06",
         "ref:vatin": "BY500060960",
         "status": "orange"
@@ -91920,7 +91796,7 @@ const Data =
         "short_name": "СТ \"Дарожны будаўнік\"",
         "short_name:be": "СТ \"Дарожны будаўнік\"",
         "short_name:ru": "СТ \"Дорожный строитель\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500060986",
         "status": "orange"
@@ -91949,7 +91825,7 @@ const Data =
         "short_name": "СТ \"Энергетык-1\" Лідскага раёна",
         "short_name:be": "СТ \"Энергетык-1\" Лідскага раёна",
         "short_name:ru": "СТ \"Энергетик-1\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500061038",
         "status": "orange"
@@ -91978,7 +91854,7 @@ const Data =
         "short_name": "СТ \"Оптык\" Лідскага раёна",
         "short_name:be": "СТ \"Оптык\" Лідскага раёна",
         "short_name:ru": "СТ \"Оптик\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500061012",
         "status": "orange"
@@ -92007,7 +91883,7 @@ const Data =
         "short_name": "СТ \"Пескі\" Лидского района",
         "short_name:be": "СТ \"Пескі\" Лидского района",
         "short_name:ru": "СТ \"Пески\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1980-05-08",
         "ref:vatin": "BY500060521",
         "status": "orange"
@@ -92036,7 +91912,7 @@ const Data =
         "short_name": "СТ \"Ягадка-Семашкі\"",
         "short_name:be": "СТ \"Ягадка-Семашкі\"",
         "short_name:ru": "СТ \"Ягодка-Семашки\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-05-28",
         "ref:vatin": "BY500060506",
         "status": "orange"
@@ -92065,7 +91941,7 @@ const Data =
         "short_name": "СТ \"Зорка\" Лідскага раёна",
         "short_name:be": "СТ \"Зорка\" Лідскага раёна",
         "short_name:ru": "СТ \"Зорька\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-10-20",
         "ref:vatin": "BY500060812",
         "status": "orange"
@@ -92094,7 +91970,7 @@ const Data =
         "short_name": "СТ \"Бетоншчык\" Лідскага раёна",
         "short_name:be": "СТ \"Бетоншчык\" Лідскага раёна",
         "short_name:ru": "СТ \"Бетонщик\" Лидского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1989-04-27",
         "ref:vatin": "BY500060284",
         "status": "orange"
@@ -92123,7 +91999,7 @@ const Data =
         "short_name": "СТ \"Вішня\"",
         "short_name:be": "СТ \"Вішня\"",
         "short_name:ru": "СТ \"Вишня\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1993-01-29",
         "ref:vatin": "BY500068086",
         "status": "orange"
@@ -92152,7 +92028,7 @@ const Data =
         "short_name": "СТ \"Кааператар-Воранава\"",
         "short_name:be": "СТ \"Кааператар-Воранава\"",
         "short_name:ru": "СТ \"Кооператор-Вороново\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-04-24",
         "ref:vatin": "BY500068165",
         "status": "black"
@@ -92181,7 +92057,7 @@ const Data =
         "short_name": "СТ \"Прамень\" Воранаўскага раёна",
         "short_name:be": "СТ \"Прамень\" Воранаўскага раёна",
         "short_name:ru": "СТ \"Луч\" Вороновского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1995-10-31",
         "ref:vatin": "BY500462937",
         "status": "orange"
@@ -92210,7 +92086,7 @@ const Data =
         "short_name": "СТ \"Каласок\"",
         "short_name:be": "СТ \"Каласок\"",
         "short_name:ru": "СТ \"Колосок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1992-06-23",
         "ref:vatin": "BY500233327",
         "status": "orange"
@@ -92239,7 +92115,7 @@ const Data =
         "short_name": "СТ \"Крыніца\" Воранаўскага раёна",
         "short_name:be": "СТ \"Крыніца\" Воранаўскага раёна",
         "short_name:ru": "СТ \"Родник\" Вороновского района",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-10-31",
         "ref:vatin": "BY500068124",
         "status": "orange"
@@ -92268,7 +92144,7 @@ const Data =
         "short_name": "СТ \"Ліра-Літоўка\"",
         "short_name:be": "СТ \"Ліра-Літоўка\"",
         "short_name:ru": "СТ \"Лира-Литовка\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1994-04-19",
         "ref:vatin": "BY500233406",
         "status": "orange"
@@ -92297,7 +92173,7 @@ const Data =
         "short_name": "СТ \"Энтузіяст-2\" горада Навагрудак",
         "short_name:be": "СТ \"Энтузіяст-2\" горада Навагрудак",
         "short_name:ru": "СТ \"Энтузиаст-2\" города Новогрудок",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1991-10-28",
         "ref:vatin": "BY500275937",
         "status": "orange"
@@ -92326,7 +92202,7 @@ const Data =
         "short_name": "СТ \"Вертыкаль-Навагрудак\"",
         "short_name:be": "СТ \"Вертыкаль-Навагрудак\"",
         "short_name:ru": "СТ \"Вертикаль-Новогрудок\"",
-        "place": "allotments",
+        "landuse": "allotments",
         "start_date": "1984-01-16",
         "ref:vatin": "BY500275980",
         "status": "orange"
