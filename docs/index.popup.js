@@ -78,8 +78,8 @@ function Popup(Feature, Layer)
  Result += GetContent('short_name', Properties)
  //
  Content = new Array();
- if (Tag = Properties['place'])
-  Content.push(`<div class="popup-field"><strong>place</strong>: ${Tag}</div>`);
+ if (Tag = Properties['landuse'])
+  Content.push(`<div class="popup-field"><strong>landuse</strong>: ${Tag}</div>`);
  if (Tag = Properties['start_date'])
   Content.push(`<div class="popup-field"><strong>start_date</strong>: ${Tag}</div>`);
  if (Tag = Properties['plots'])

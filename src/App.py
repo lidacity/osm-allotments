@@ -13,7 +13,7 @@ from Git import GitPush
 
 
 def GetTags(Tag):
-    Class = ['name', 'name:be', 'name:ru', 'official_name', 'official_name:be', 'official_name:ru', 'official_status', 'official_status:be', 'official_status:ru', 'short_name', 'short_name:be', 'short_name:ru', 'place', 'start_date', 'plots', 'ref:vatin', ]
+    Class = ['name', 'name:be', 'name:ru', 'official_name', 'official_name:be', 'official_name:ru', 'official_status', 'official_status:be', 'official_status:ru', 'short_name', 'short_name:be', 'short_name:ru', 'landuse', 'start_date', 'plots', 'ref:vatin', ]
     return {Item: Tag[Item] for Item in Class if Item in Tag}
 
 
@@ -34,6 +34,7 @@ def CheckBe(Tag):
 
 
 def CheckName(TagValue, Name):
+    TagValue = TagValue.replace("«", "\"").replace("»", "\"")
     return TagValue[:len(Name)] == Name
 
 
@@ -48,7 +49,7 @@ def Check(Tag):
 
 
 def GetColor(Tag):
-    Allotments = Tag.get('place', "")
+    Allotments = Tag.get('landuse', "")
     if (Allotments == "allotments" and
        'ref:vatin' in Tag and
        'start_date' in Tag and
@@ -66,7 +67,7 @@ def GetColor(Tag):
 
 
 def GetStatus(Tag):
-    if Tag.get('landuse') == "allotments" and CheckTag(Tag) and CheckBe(Tag):
+    if Tag.get('place') == "allotments" and CheckTag(Tag) and CheckBe(Tag):
         if Check(Tag):
             return GetColor(Tag)
         else:
@@ -95,8 +96,6 @@ def GetGeometry(Element):
 #        #return geojson.MultiPolygon([Result])
 
 
-
-
 #https://wiki.openstreetmap.org/wiki/Overpass_API
 #API = "http://overpass-api.de/api/interpreter"
 API = "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
@@ -104,7 +103,6 @@ API = "https://maps.mail.ru/osm/tools/overpass/api/interpreter"
 
 def Generate():
     logger.info("read overpass")
-#    Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[landuse=allotments](area);out geom;", URL=API)
     Allotments = GetOverpass("[out:json];area[name='Беларусь'];nwr[place=allotments](area);out center;", URL=API)
     SaveJson(f"{TEMP}/overpass.json", Allotments)
     Allotments = PrepareElements(Allotments)
@@ -135,7 +133,7 @@ def Git():
         #logger.debug(Diff)
     else:
         logger.error("Git error")
- 
+
 
 
 if __name__ == "__main__":
