@@ -3316,8 +3316,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.90477,
-          55.491773
+          29.903546,
+          55.492009
         ]
       },
       "properties": {
@@ -4877,8 +4877,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.78633,
-          53.498024
+          26.78713,
+          53.499242
         ]
       },
       "properties": {
@@ -4905,22 +4905,22 @@ const Data =
         "type": "Point",
         "coordinates": [
           26.775889,
-          53.499828
+          53.499537
         ]
       },
       "properties": {
-        "name": "Керамін",
-        "name:be": "Керамін",
-        "name:ru": "Керамин",
-        "official_name": "Садаводчае таварыства \"Керамін\"",
-        "official_name:be": "Садаводчае таварыства \"Керамін\"",
-        "official_name:ru": "Садоводческое товарищество \"Керамин\"",
+        "name": "Задвор`е",
+        "name:be": "Задвор`е",
+        "name:ru": "Задворье",
+        "official_name": "Садаводчае таварыства \"Задвор`е\"",
+        "official_name:be": "Садаводчае таварыства \"Задвор`е\"",
+        "official_name:ru": "Садоводческое товарищество \"Задворье\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Керамін\"",
-        "short_name:be": "СТ \"Керамін\"",
-        "short_name:ru": "СТ \"Керамин\"",
+        "short_name": "СТ \"Задвор`е\"",
+        "short_name:be": "СТ \"Задвор`е\"",
+        "short_name:ru": "СТ \"Задворье\"",
         "landuse": "allotments",
         "status": "blue"
       }
@@ -11586,12 +11586,12 @@ const Data =
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
         "short_name": "СТ \"Кадаўбы\" Лідскага раёна",
-        "short_name:be": "СТ \"Кадаўбы Лідскага раёна",
+        "short_name:be": "СТ \"Кадаўбы\" Лідскага раёна",
         "short_name:ru": "СТ \"Кадолбы\" Лидского района",
         "landuse": "allotments",
         "start_date": "1990-02-20",
         "ref:vatin": "BY500060917",
-        "status": "black"
+        "status": "orange"
       }
     },
     {
@@ -25363,9 +25363,20 @@ const Data =
         ]
       },
       "properties": {
-        "name": "Колос",
+        "name": "Колас",
+        "name:be": "Колас",
+        "name:ru": "Колос",
+        "official_name": "Садаводчае таварыства «Колас»",
+        "official_name:be": "Садаводчае таварыства «Колас»",
+        "official_name:ru": "Садоводческое товарищество «Колос»",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ «Колас»",
+        "short_name:be": "СТ «Колас»",
+        "short_name:ru": "СТ «Колос»",
         "landuse": "allotments",
-        "status": "black"
+        "status": "blue"
       }
     },
     {
@@ -31266,87 +31277,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w455543016",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.427,
-          53.431648
-        ]
-      },
-      "properties": {
-        "name": "Беразіна",
-        "name:be": "Беразіна",
-        "name:ru": "Березина",
-        "official_name": "Садаводчае таварыства «Беразіна»",
-        "official_name:be": "Садаводчае таварыства «Беразіна»",
-        "official_name:ru": "Садоводческое товарищество «Березина»",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ «Беразіна»",
-        "short_name:be": "СТ «Беразіна»",
-        "short_name:ru": "СТ «Березина»",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w455543020",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.432044,
-          53.426886
-        ]
-      },
-      "properties": {
-        "name": "Беразіна",
-        "name:be": "Беразіна",
-        "name:ru": "Березина",
-        "official_name": "Садаводчае таварыства «Беразіна»",
-        "official_name:be": "Садаводчае таварыства «Беразіна»",
-        "official_name:ru": "Садоводческое товарищество «Березина»",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ «Беразіна»",
-        "short_name:be": "СТ «Беразіна»",
-        "short_name:ru": "СТ «Березина»",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w455543022",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.434855,
-          53.424064
-        ]
-      },
-      "properties": {
-        "name": "Беразіна",
-        "name:be": "Беразіна",
-        "name:ru": "Березина",
-        "official_name": "Садаводчае таварыства «Беразіна»",
-        "official_name:be": "Садаводчае таварыства «Беразіна»",
-        "official_name:ru": "Садоводческое товарищество «Березина»",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ «Беразіна»",
-        "short_name:be": "СТ «Беразіна»",
-        "short_name:ru": "СТ «Березина»",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w455728833",
       "geometry": {
         "type": "Point",
@@ -31717,8 +31647,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.785274,
-          53.494314
+          26.785055,
+          53.496368
         ]
       },
       "properties": {
@@ -46918,6 +46848,35 @@ const Data =
     },
     {
       "type": "Feature",
+      "id": "w606759055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.327199,
+          53.120507
+        ]
+      },
+      "properties": {
+        "name": "Сонечны Слонім",
+        "name:be": "Сонечны Слонім",
+        "name:ru": "Солнечный Слоним",
+        "official_name": "Садаводчае таварыства \"Сонечны Слонім\"",
+        "official_name:be": "Садаводчае таварыства \"Сонечны Слонім\"",
+        "official_name:ru": "Садоводческое товарищество \"Солнечный Слоним\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Сонечны Слонім\"",
+        "short_name:be": "СТ \"Сонечны Слонім\"",
+        "short_name:ru": "СТ \"Солнечный Слоним\"",
+        "landuse": "allotments",
+        "start_date": "1981-07-29",
+        "ref:vatin": "BY500271574",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "w607109197",
       "geometry": {
         "type": "Point",
@@ -47077,6 +47036,64 @@ const Data =
         "landuse": "allotments",
         "start_date": "1994-02-17",
         "ref:vatin": "BY590591848",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w609158528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.245527,
+          53.200087
+        ]
+      },
+      "properties": {
+        "name": "Залатыя пяскі",
+        "name:be": "Залатыя пяскі",
+        "name:ru": "Золотые пески",
+        "official_name": "Садаводчае таварыства \"Залатыя пяскі\"",
+        "official_name:be": "Садаводчае таварыства \"Залатыя пяскі\"",
+        "official_name:ru": "Садоводческое товарищество \"Золотые пески\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Залатыя пяскі\"",
+        "short_name:be": "СТ \"Залатыя пяскі\"",
+        "short_name:ru": "СТ \"Золотые пески\"",
+        "landuse": "allotments",
+        "start_date": "1991-09-26",
+        "ref:vatin": "BY500271760",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w609158529",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.244027,
+          53.19944
+        ]
+      },
+      "properties": {
+        "name": "Вясёлка",
+        "name:be": "Вясёлка",
+        "name:ru": "Радуга",
+        "official_name": "Садаводчае таварыства \"Вясёлка\"",
+        "official_name:be": "Садаводчае таварыства \"Вясёлка\"",
+        "official_name:ru": "Садоводческое товарищество \"Радуга\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Вясёлка\"",
+        "short_name:be": "СТ \"Вясёлка\"",
+        "short_name:ru": "СТ \"Радуга\"",
+        "landuse": "allotments",
+        "start_date": "1991-04-24",
+        "ref:vatin": "BY500271704",
         "status": "orange"
       }
     },
@@ -57153,83 +57170,31 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w801524255",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.435502,
-          53.43002
-        ]
-      },
-      "properties": {
-        "name": "Дубрава",
-        "name:be": "Дубрава",
-        "name:ru": "Дубрава",
-        "official_name": "Садаводчае таварыства «Дубрава»",
-        "official_name:be": "Садаводчае таварыства «Дубрава»",
-        "official_name:ru": "Садоводческое товарищество «Дубрава»",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ «Дубрава»",
-        "short_name:be": "СТ «Дубрава»",
-        "short_name:ru": "СТ «Дубрава»",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w801524257",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.438942,
-          53.430398
-        ]
-      },
-      "properties": {
-        "name": "Дубрава",
-        "name:be": "Дубрава",
-        "name:ru": "Дубрава",
-        "official_name": "Садаводчае таварыства «Дубрава»",
-        "official_name:be": "Садаводчае таварыства «Дубрава»",
-        "official_name:ru": "Садоводческое товарищество «Дубрава»",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ «Дубрава»",
-        "short_name:be": "СТ «Дубрава»",
-        "short_name:ru": "СТ «Дубрава»",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w801524258",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.443228,
-          53.43218
+          25.443293,
+          53.432287
         ]
       },
       "properties": {
-        "name": "Крынічка",
-        "name:be": "Крынічка",
-        "name:ru": "Криничка",
-        "official_name": "Садаводчае таварыства «Крынічка»",
-        "official_name:be": "Садаводчае таварыства «Крынічка»",
-        "official_name:ru": "Садоводческое товарищество «Криничка»",
+        "name": "Крынiчка-Дзятлава",
+        "name:be": "Крынiчка-Дзятлава",
+        "name:ru": "Крыничка-Дятлово",
+        "official_name": "Садаводчае таварыства «Крынiчка-Дзятлава»",
+        "official_name:be": "Садаводчае таварыства «Крынiчка-Дзятлава»",
+        "official_name:ru": "Садоводческое товарищество «Крыничка-Дятлово»",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ «Крынічка»",
-        "short_name:be": "СТ «Крынічка»",
-        "short_name:ru": "СТ «Криничка»",
+        "short_name": "СТ «Крынiчка-Дзятлава»",
+        "short_name:be": "СТ «Крынiчка-Дзятлава»",
+        "short_name:ru": "СТ «Крыничка-Дятлово»",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "2022-10-10",
+        "ref:vatin": "BY591580635",
+        "status": "orange"
       }
     },
     {
@@ -71868,8 +71833,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.076048,
-          53.583951
+          26.076035,
+          53.583896
         ]
       },
       "properties": {
@@ -71886,7 +71851,9 @@ const Data =
         "short_name:be": "СТ \"Гадзінка каля дачы\"",
         "short_name:ru": "СТ \"Часок у дачи\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "2011-12-09",
+        "ref:vatin": "BY590202045",
+        "status": "orange"
       }
     },
     {
@@ -86174,6 +86141,151 @@ const Data =
     },
     {
       "type": "Feature",
+      "id": "w1187432352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.460368,
+          53.09218
+        ]
+      },
+      "properties": {
+        "name": "Ластаўка",
+        "name:be": "Ластаўка",
+        "name:ru": "Ласточка",
+        "official_name": "Садаводчае таварыства \"Ластаўка\"",
+        "official_name:be": "Садаводчае таварыства \"Ластаўка\"",
+        "official_name:ru": "Садоводческое товарищество \"Ласточка\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Ластаўка\"",
+        "short_name:be": "СТ \"Ластаўка\"",
+        "short_name:ru": "СТ \"Ласточка\"",
+        "landuse": "allotments",
+        "start_date": "1991-11-27",
+        "ref:vatin": "BY500271694",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1187432353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.463644,
+          53.094294
+        ]
+      },
+      "properties": {
+        "name": "Ісса",
+        "name:be": "Ісса",
+        "name:ru": "Исса",
+        "official_name": "Садаводчае таварыства \"Ісса\"",
+        "official_name:be": "Садаводчае таварыства \"Ісса\"",
+        "official_name:ru": "Садоводческое товарищество \"Исса\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Ісса\"",
+        "short_name:be": "СТ \"Ісса\"",
+        "short_name:ru": "СТ \"Исса\"",
+        "landuse": "allotments",
+        "start_date": "1988-10-26",
+        "ref:vatin": "BY500271426",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1187432354",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.452929,
+          53.095973
+        ]
+      },
+      "properties": {
+        "name": "Цюльпан",
+        "name:be": "Цюльпан",
+        "name:ru": "Тюльпан",
+        "official_name": "Садаводчае таварыства \"Цюльпан\"",
+        "official_name:be": "Садаводчае таварыства \"Цюльпан\"",
+        "official_name:ru": "Садоводческое товарищество \"Тюльпан\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Цюльпан\"",
+        "short_name:be": "СТ \"Цюльпан\"",
+        "short_name:ru": "СТ \"Тюльпан\"",
+        "landuse": "allotments",
+        "start_date": "1990-01-23",
+        "ref:vatin": "BY500272397",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1187432356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.458526,
+          53.098727
+        ]
+      },
+      "properties": {
+        "name": "Альбярцін",
+        "name:be": "Альбярцін",
+        "name:ru": "Альбертин",
+        "official_name": "Садаводчае таварыства \"Альбярцін\"",
+        "official_name:be": "Садаводчае таварыства \"Альбярцін\"",
+        "official_name:ru": "Садоводческое товарищество \"Альбертин\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Альбярцін\"",
+        "short_name:be": "СТ \"Альбярцін\"",
+        "short_name:ru": "СТ \"Альбертин\"",
+        "landuse": "allotments",
+        "start_date": "1992-03-25",
+        "ref:vatin": "BY500272489",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1187432357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.447049,
+          53.097597
+        ]
+      },
+      "properties": {
+        "name": "Надзея",
+        "name:be": "Надзея",
+        "name:ru": "Надежда",
+        "official_name": "Садаводчае таварыства \"Надзея\"",
+        "official_name:be": "Садаводчае таварыства \"Надзея\"",
+        "official_name:ru": "Садоводческое товарищество \"Надежда\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Надзея\"",
+        "short_name:be": "СТ \"Надзея\"",
+        "short_name:ru": "СТ \"Надежда\"",
+        "landuse": "allotments",
+        "start_date": "1992-04-22",
+        "ref:vatin": "BY500271865",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "w1189088026",
       "geometry": {
         "type": "Point",
@@ -87402,6 +87514,181 @@ const Data =
         "short_name:ru": "СТ \"Надежда-91\"",
         "landuse": "allotments",
         "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1419574508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.730305,
+          53.554041
+        ]
+      },
+      "properties": {
+        "name": "Швейнік-3",
+        "name:be": "Швейнік-3",
+        "name:ru": "Швейник-3",
+        "official_name": "Садаводчае таварыства \"Швейнік-3\"",
+        "official_name:be": "Садаводчае таварыства \"Швейнік-3\"",
+        "official_name:ru": "Садоводческое товарищество \"Швейник-3\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Швейнік-3\"",
+        "short_name:be": "СТ \"Швейнік-3\"",
+        "short_name:ru": "СТ \"Швейник-3\"",
+        "landuse": "allotments",
+        "start_date": "1992-05-19",
+        "ref:vatin": "BY500233475",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1419574514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.733961,
+          53.555534
+        ]
+      },
+      "properties": {
+        "name": "Церамок",
+        "name:be": "Церамок",
+        "name:ru": "Теремок",
+        "official_name": "Садаводчае таварыства \"Церамок\"",
+        "official_name:be": "Садаводчае таварыства \"Церамок\"",
+        "official_name:ru": "Садоводческое товарищество \"Теремок\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Церамок\"",
+        "short_name:be": "СТ \"Церамок\"",
+        "short_name:ru": "СТ \"Теремок\"",
+        "landuse": "allotments",
+        "start_date": "1982-08-30",
+        "ref:vatin": "BY500275993",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1419574517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.736125,
+          53.555271
+        ]
+      },
+      "properties": {
+        "name": "Прылессе-Кусціна",
+        "name:be": "Прылессе-Кусціна",
+        "name:ru": "Прилесье-Кустино",
+        "official_name": "Садаводчае таварыства \"Прылессе-Кусціна\"",
+        "official_name:be": "Садаводчае таварыства \"Прылессе-Кусціна\"",
+        "official_name:ru": "Садоводческое товарищество \"Прилесье-Кустино\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Прылессе-Кусціна\"",
+        "short_name:be": "СТ \"Прылессе-Кусціна\"",
+        "short_name:ru": "СТ \"Прилесье-Кустино\"",
+        "landuse": "allotments",
+        "start_date": "1994-09-20",
+        "ref:vatin": "BY500276058",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1419574528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.738366,
+          53.55719
+        ]
+      },
+      "properties": {
+        "name": "Навагрудскі сувязіст",
+        "name:be": "Навагрудскі сувязіст",
+        "name:ru": "Новогрудский связист",
+        "official_name": "Садаводчае таварыства \"Навагрудскі сувязіст\"",
+        "official_name:be": "Садаводчае таварыства \"Навагрудскі сувязіст\"",
+        "official_name:ru": "Садоводческое товарищество \"Новогрудский связист\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Навагрудскі сувязіст\"",
+        "short_name:be": "СТ \"Навагрудскі сувязіст\"",
+        "short_name:ru": "СТ \"Новогрудский связист\"",
+        "landuse": "allotments",
+        "start_date": "1994-04-21",
+        "ref:vatin": "BY500276111",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1419574536",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.735061,
+          53.556215
+        ]
+      },
+      "properties": {
+        "landuse": "forest",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1419574537",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.737425,
+          53.554737
+        ]
+      },
+      "properties": {
+        "landuse": "forest",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1421620358",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.307889,
+          53.322991
+        ]
+      },
+      "properties": {
+        "name": "Ураджай-Казлоўшчына",
+        "name:be": "Ураджай-Казлоўшчына",
+        "name:ru": "Урожай-Козловщина",
+        "official_name": "Садаводчае таварыства \"Ураджай-Казлоўшчына\"",
+        "official_name:be": "Садаводчае таварыства \"Ураджай-Казлоўшчына\"",
+        "official_name:ru": "Садоводческое товарищество \"Урожай-Козловщина\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Ураджай-Казлоўшчына\"",
+        "short_name:be": "СТ \"Ураджай-Казлоўшчына\"",
+        "short_name:ru": "СТ \"Урожай-Козловщина\"",
+        "landuse": "allotments",
+        "start_date": "1993-12-21",
+        "ref:vatin": "BY500438970",
+        "status": "orange"
       }
     },
     {
@@ -88733,6 +89020,180 @@ const Data =
         "landuse": "allotments",
         "start_date": "1981-06-08",
         "ref:vatin": "BY500275899",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1544715086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.324656,
+          53.122463
+        ]
+      },
+      "properties": {
+        "name": "Слонімскі тэстыльшчык",
+        "name:be": "Слонімскі тэстыльшчык",
+        "name:ru": "Слонимский текстильщик",
+        "official_name": "Садаводчае таварыства \"Слонімскі тэстыльшчык\"",
+        "official_name:be": "Садаводчае таварыства \"Слонімскі тэстыльшчык\"",
+        "official_name:ru": "Садоводческое товарищество \"Слонимский текстильщик\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Слонімскі тэстыльшчык\"",
+        "short_name:be": "СТ \"Слонімскі тэстыльшчык\"",
+        "short_name:ru": "СТ \"Слонимский текстильщик\"",
+        "landuse": "allotments",
+        "start_date": "1981-07-29",
+        "ref:vatin": "BY500272583",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1544715087",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.321606,
+          53.122797
+        ]
+      },
+      "properties": {
+        "name": "Мэбельшчык",
+        "name:be": "Мэбельшчык",
+        "name:ru": "Мебельщик",
+        "official_name": "Садаводчае таварыства \"Мэбельшчык\"",
+        "official_name:be": "Садаводчае таварыства \"Мэбельшчык\"",
+        "official_name:ru": "Садоводческое товарищество \"Мебельщик\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Мэбельшчык\"",
+        "short_name:be": "СТ \"Мэбельшчык\"",
+        "short_name:ru": "СТ \"Мебельщик\"",
+        "landuse": "allotments",
+        "start_date": "1992-04-29",
+        "ref:vatin": "BY500272448",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1544715088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.327958,
+          53.122413
+        ]
+      },
+      "properties": {
+        "name": "Маналіт",
+        "name:be": "Маналіт",
+        "name:ru": "Монолит",
+        "official_name": "Садаводчае таварыства \"Маналіт\"",
+        "official_name:be": "Садаводчае таварыства \"Маналіт\"",
+        "official_name:ru": "Садоводческое товарищество \"Монолит\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Маналіт\"",
+        "short_name:be": "СТ \"Маналіт\"",
+        "short_name:ru": "СТ \"Монолит\"",
+        "landuse": "allotments",
+        "start_date": "1981-07-29",
+        "ref:vatin": "BY500272422",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1544715089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.329575,
+          53.125213
+        ]
+      },
+      "properties": {
+        "name": "Зоркавы",
+        "name:be": "Зоркавы",
+        "name:ru": "Звездный",
+        "official_name": "Садаводчае таварыства \"Зоркавы\"",
+        "official_name:be": "Садаводчае таварыства \"Зоркавы\"",
+        "official_name:ru": "Садоводческое товарищество \"Звездный\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Зоркавы\"",
+        "short_name:be": "СТ \"Зоркавы\"",
+        "short_name:ru": "СТ \"Звездный\"",
+        "landuse": "allotments",
+        "start_date": "1981-07-29",
+        "ref:vatin": "BY500271893",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1544715090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.455106,
+          53.098435
+        ]
+      },
+      "properties": {
+        "name": "Чабарок",
+        "name:be": "Чабарок",
+        "name:ru": "Чабарок",
+        "official_name": "Садаводчае таварыства \"Чабарок\"",
+        "official_name:be": "Садаводчае таварыства \"Чабарок\"",
+        "official_name:ru": "Садоводческое товарищество \"Чабарок\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Чабарок\"",
+        "short_name:be": "СТ \"Чабарок\"",
+        "short_name:ru": "СТ \"Чабарок\"",
+        "landuse": "allotments",
+        "start_date": "1991-11-27",
+        "ref:vatin": "BY500271439",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1544715092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.410369,
+          53.142032
+        ]
+      },
+      "properties": {
+        "name": "Елачка",
+        "name:be": "Елачка",
+        "name:ru": "Ёлочка",
+        "official_name": "Садаводчае таварыства \"Елачка\"",
+        "official_name:be": "Садаводчае таварыства \"Елачка\"",
+        "official_name:ru": "Садоводческое товарищество \"Ёлочка\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Елачка\"",
+        "short_name:be": "СТ \"Елачка\"",
+        "short_name:ru": "СТ \"Ёлочка\"",
+        "landuse": "allotments",
+        "start_date": "1992-01-23",
+        "ref:vatin": "BY500271518",
         "status": "orange"
       }
     },
@@ -90660,6 +91121,64 @@ const Data =
     },
     {
       "type": "Feature",
+      "id": "r9248223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.458258,
+          53.090581
+        ]
+      },
+      "properties": {
+        "name": "Спутнік",
+        "name:be": "Спутнік",
+        "name:ru": "Спутник",
+        "official_name": "Садаводчае таварыства \"Спутнік\"",
+        "official_name:be": "Садаводчае таварыства \"Спутнік\"",
+        "official_name:ru": "Садоводческое товарищество \"Спутник\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Спутнік\"",
+        "short_name:be": "СТ \"Спутнік\"",
+        "short_name:ru": "СТ \"Спутник\"",
+        "landuse": "allotments",
+        "start_date": "1991-11-27",
+        "ref:vatin": "BY500271666",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r9248226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.422449,
+          53.123727
+        ]
+      },
+      "properties": {
+        "name": "Зорка",
+        "name:be": "Зорка",
+        "name:ru": "Звезда",
+        "official_name": "Садаводчае таварыства \"Зорка\"",
+        "official_name:be": "Садаводчае таварыства \"Зорка\"",
+        "official_name:ru": "Садоводческое товарищество \"Звезда\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Зорка\"",
+        "short_name:be": "СТ \"Зорка\"",
+        "short_name:ru": "СТ \"Звезда\"",
+        "landuse": "allotments",
+        "start_date": "1991-04-24",
+        "ref:vatin": "BY500271520",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "r9874506",
       "geometry": {
         "type": "Point",
@@ -92020,7 +92539,7 @@ const Data =
         "name:be": "Кааператар-Воранава",
         "name:ru": "Кооператор-Вороново",
         "official_name": "Садаводчае таварыства \"Кааператар-Воранава\"",
-        "official_name:be": "Садаводчае таварыства \"Кааператар-Воранаваранава\"",
+        "official_name:be": "Садаводчае таварыства \"Кааператар-Воранава\"",
         "official_name:ru": "Садоводческое товарищество \"Кооператор-Вороново\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
@@ -92031,7 +92550,7 @@ const Data =
         "landuse": "allotments",
         "start_date": "1992-04-24",
         "ref:vatin": "BY500068165",
-        "status": "black"
+        "status": "orange"
       }
     },
     {
@@ -92205,6 +92724,180 @@ const Data =
         "landuse": "allotments",
         "start_date": "1984-01-16",
         "ref:vatin": "BY500275980",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21142110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.430846,
+          53.427751
+        ]
+      },
+      "properties": {
+        "name": "Бярэзіна",
+        "name:be": "Бярэзіна",
+        "name:ru": "Березина",
+        "official_name": "Садаводчае таварыства «Бярэзіна» Дзятлаўскага раёна",
+        "official_name:be": "Садаводчае таварыства «Бярэзіна» Дзятлаўскага раёна",
+        "official_name:ru": "Садоводческое товарищество «Березина» Дятловского района",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ «Бярэзіна» Дзятлаўскага раёна",
+        "short_name:be": "СТ «Бярэзіна» Дзятлаўскага раёна",
+        "short_name:ru": "СТ «Березина» Дятловского района",
+        "landuse": "allotments",
+        "start_date": "1989-06-16",
+        "ref:vatin": "BY500058758",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21142111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.43761,
+          53.430435
+        ]
+      },
+      "properties": {
+        "name": "Дубрава-Дзятлава",
+        "name:be": "Дубрава-Дзятлава",
+        "name:ru": "Дубрава-Дятлово",
+        "official_name": "Садаводчае таварыства «Дубрава-Дзятлава»",
+        "official_name:be": "Садаводчае таварыства «Дубрава-Дзятлава»",
+        "official_name:ru": "Садоводческое товарищество «Дубрава-Дятлово»",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ «Дубрава-Дзятлава»",
+        "short_name:be": "СТ «Дубрава-Дзятлава»",
+        "short_name:ru": "СТ «Дубрава-Дятлово»",
+        "landuse": "allotments",
+        "start_date": "1991-10-22",
+        "ref:vatin": "BY500545887",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21142112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.731304,
+          53.554481
+        ]
+      },
+      "properties": {
+        "name": "Журавінка-Кусціна",
+        "name:be": "Журавінка-Кусціна",
+        "name:ru": "Журавинка-Кустино",
+        "official_name": "Садаводчае таварыства \"Журавінка-Кусціна\"",
+        "official_name:be": "Садаводчае таварыства \"Журавінка-Кусціна\"",
+        "official_name:ru": "Садоводческое товарищество \"Журавинка-Кустино\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Журавінка-Кусціна\"",
+        "short_name:be": "СТ \"Журавінка-Кусціна\"",
+        "short_name:ru": "СТ \"Журавинка-Кустино\"",
+        "landuse": "allotments",
+        "start_date": "1992-04-21",
+        "ref:vatin": "BY500276004",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21142113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.734844,
+          53.555936
+        ]
+      },
+      "properties": {
+        "name": "Швейнік-1",
+        "name:be": "Швейнік-1",
+        "name:ru": "Швейник-1",
+        "official_name": "Садаводчае таварыства \"Швейнік-1\" вёскі Кусціна",
+        "official_name:be": "Садаводчае таварыства \"Швейнік-1\" вёскі Кусціна",
+        "official_name:ru": "Садоводческое товарищество \"Швейник-1\" деревни Кустино",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Швейнік-1\" вёскі Кусціна",
+        "short_name:be": "СТ \"Швейнік-1\" вёскі Кусціна",
+        "short_name:ru": "СТ \"Швейник-1\" деревни Кустино",
+        "landuse": "allotments",
+        "start_date": "1992-06-23",
+        "ref:vatin": "BY500233368",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21142114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.735024,
+          53.558845
+        ]
+      },
+      "properties": {
+        "name": "Будаўнік-Кусціна",
+        "name:be": "Будаўнік-Кусціна",
+        "name:ru": "Строитель-Кустино",
+        "official_name": "Садаводчае таварыства \"Будаўнік-Кусціна\"",
+        "official_name:be": "Садаводчае таварыства \"Будаўнік-Кусціна\"",
+        "official_name:ru": "Садоводческое товарищество \"Строитель-Кустино\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Будаўнік-Кусціна\"",
+        "short_name:be": "СТ \"Будаўнік-Кусціна\"",
+        "short_name:ru": "СТ \"Строитель-Кустино\"",
+        "landuse": "allotments",
+        "start_date": "1982-08-30",
+        "ref:vatin": "BY500276017",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21145519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.456747,
+          53.094872
+        ]
+      },
+      "properties": {
+        "name": "Чаромкі",
+        "name:be": "Чаромкі",
+        "name:ru": "Черёмушки",
+        "official_name": "Садаводчае таварыства \"Чаромкі\"",
+        "official_name:be": "Садаводчае таварыства \"Чаромкі\"",
+        "official_name:ru": "Садоводческое товарищество \"Черёмушки\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Чаромкі\"",
+        "short_name:be": "СТ \"Чаромкі\"",
+        "short_name:ru": "СТ \"Черёмушки\"",
+        "landuse": "allotments",
+        "start_date": "1991-10-25",
+        "ref:vatin": "BY500272491",
         "status": "orange"
       }
     }
