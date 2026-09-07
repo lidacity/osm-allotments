@@ -3593,8 +3593,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.458238,
-          54.49909
+          26.457997,
+          54.498534
         ]
       },
       "properties": {
@@ -3611,7 +3611,9 @@ const Data =
         "short_name:be": "СТ \"Завілле\"",
         "short_name:ru": "СТ \"Завилье\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1978-07-15",
+        "ref:vatin": "BY500063375",
+        "status": "orange"
       }
     },
     {
@@ -4661,8 +4663,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.338648,
-          54.461188
+          26.338605,
+          54.461183
         ]
       },
       "properties": {
@@ -4679,7 +4681,9 @@ const Data =
         "short_name:be": "СТ \"Хімік\"",
         "short_name:ru": "СТ \"Химик\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1992-03-30",
+        "ref:vatin": "BY500053041",
+        "status": "orange"
       }
     },
     {
@@ -4715,8 +4719,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.491346,
-          54.522056
+          26.491421,
+          54.521978
         ]
       },
       "properties": {
@@ -4733,7 +4737,9 @@ const Data =
         "short_name:be": "СТ \"Квант\"",
         "short_name:ru": "СТ \"Квант\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1988-02-16",
+        "ref:vatin": "BY500108369",
+        "status": "orange"
       }
     },
     {
@@ -15225,8 +15231,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.558045,
-          54.428662
+          26.558078,
+          54.428631
         ]
       },
       "properties": {
@@ -15243,7 +15249,9 @@ const Data =
         "short_name:be": "СТ \"Лугавое\"",
         "short_name:ru": "СТ \"Луговое\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1986-11-21",
+        "ref:vatin": "BY500063347",
+        "status": "orange"
       }
     },
     {
@@ -16677,8 +16685,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.774449,
-          53.604751
+          27.774831,
+          53.604726
         ]
       },
       "properties": {
@@ -18081,25 +18089,27 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.595597,
-          54.410149
+          26.595584,
+          54.410069
         ]
       },
       "properties": {
         "name": "Вяснянка",
         "name:be": "Вяснянка",
         "name:ru": "Веснянка",
-        "official_name": "Садаводчае таварыства \"Вяснянка\"",
-        "official_name:be": "Садаводчае таварыства \"Вяснянка\"",
-        "official_name:ru": "Садоводческое товарищество \"Веснянка\"",
+        "official_name": "Садаводчае таварыства \"Вяснянка\" вёскі Алянец",
+        "official_name:be": "Садаводчае таварыства \"Вяснянка\" вёскі Алянец",
+        "official_name:ru": "Садоводческое товарищество \"Веснянка\" деревни Оленец",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Вяснянка\"",
-        "short_name:be": "СТ \"Вяснянка\"",
-        "short_name:ru": "СТ \"Веснянка\"",
+        "short_name": "СТ \"Вяснянка\" вёскі Алянец",
+        "short_name:be": "СТ \"Вяснянка\" вёскі Алянец",
+        "short_name:ru": "СТ \"Веснянка\" деревни Оленец",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1981-03-18",
+        "ref:vatin": "BY500108448",
+        "status": "orange"
       }
     },
     {
@@ -18109,24 +18119,26 @@ const Data =
         "type": "Point",
         "coordinates": [
           26.590782,
-          54.419442
+          54.419373
         ]
       },
       "properties": {
         "name": "Дружба",
         "name:be": "Дружба",
         "name:ru": "Дружба",
-        "official_name": "Садаводчае таварыства \"Дружба\"",
-        "official_name:be": "Садаводчае таварыства \"Дружба\"",
-        "official_name:ru": "Садоводческое товарищество \"Дружба\"",
+        "official_name": "Садаводчае таварыства \"Дружба\" вёскі Алянец",
+        "official_name:be": "Садаводчае таварыства \"Дружба\" вёскі Алянец",
+        "official_name:ru": "Садоводческое товарищество \"Дружба\" деревни Оленец",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Дружба\"",
-        "short_name:be": "СТ \"Дружба\"",
-        "short_name:ru": "СТ \"Дружба\"",
+        "short_name": "СТ \"Дружба\" вёскі Алянец",
+        "short_name:be": "СТ \"Дружба\" вёскі Алянец",
+        "short_name:ru": "СТ \"Дружба\" деревни Оленец",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1987-09-04",
+        "ref:vatin": "BY500108343",
+        "status": "orange"
       }
     },
     {
@@ -20310,8 +20322,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.48929,
-          54.516504
+          26.489223,
+          54.516442
         ]
       },
       "properties": {
@@ -20328,7 +20340,9 @@ const Data =
         "short_name:be": "СТ \"Кааператар-Укропенка\"",
         "short_name:ru": "СТ \"Кооператор-Укропенка\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1987-04-21",
+        "ref:vatin": "BY500063362",
+        "status": "orange"
       }
     },
     {
@@ -20337,25 +20351,27 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.499698,
-          54.518709
+          26.500079,
+          54.518687
         ]
       },
       "properties": {
-        "name": "Сонечны Бераг",
-        "name:be": "Сонечны Бераг",
-        "name:ru": "Солнечный Берег",
-        "official_name": "Садаводчае таварыства \"Сонечны Бераг\"",
-        "official_name:be": "Садаводчае таварыства \"Сонечны Бераг\"",
-        "official_name:ru": "Садоводческое товарищество \"Солнечный Берег\"",
+        "name": "Сонечны бераг",
+        "name:be": "Сонечны бераг",
+        "name:ru": "Солнечный берег",
+        "official_name": "Садаводчае таварыства \"Сонечны бераг\"",
+        "official_name:be": "Садаводчае таварыства \"Сонечны бераг\"",
+        "official_name:ru": "Садоводческое товарищество \"Солнечный берег\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Сонечны Бераг\"",
-        "short_name:be": "СТ \"Сонечны Бераг\"",
-        "short_name:ru": "СТ \"Солнечный Берег\"",
+        "short_name": "СТ \"Сонечны бераг\"",
+        "short_name:be": "СТ \"Сонечны бераг\"",
+        "short_name:ru": "СТ \"Солнечный берег\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1987-11-27",
+        "ref:vatin": "BY500063400",
+        "status": "orange"
       }
     },
     {
@@ -20558,18 +20574,18 @@ const Data =
         ]
       },
       "properties": {
-        "name": "Мара",
-        "name:be": "Мара",
-        "name:ru": "Мара",
-        "official_name": "Садаводчае таварыства \"Мара\"",
-        "official_name:be": "Садаводчае таварыства \"Мара\"",
-        "official_name:ru": "Садоводческое товарищество \"Мара\"",
+        "name": "Мара-Сад",
+        "name:be": "Мара-Сад",
+        "name:ru": "Мара-Сад",
+        "official_name": "Садаводчае таварыства \"Мара-Сад\"",
+        "official_name:be": "Садаводчае таварыства \"Мара-Сад\"",
+        "official_name:ru": "Садоводческое товарищество \"Мара-Сад\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Мара\"",
-        "short_name:be": "СТ \"Мара\"",
-        "short_name:ru": "СТ \"Мара\"",
+        "short_name": "СТ \"Мара-Сад\"",
+        "short_name:be": "СТ \"Мара-Сад\"",
+        "short_name:ru": "СТ \"Мара-Сад\"",
         "landuse": "allotments",
         "status": "blue"
       }
@@ -25394,8 +25410,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.323437,
-          54.449885
+          26.323386,
+          54.44989
         ]
       },
       "properties": {
@@ -25412,7 +25428,9 @@ const Data =
         "short_name:be": "СТ \"Усход-1\"",
         "short_name:ru": "СТ \"Восход-1\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1983-09-20",
+        "ref:vatin": "BY500063439",
+        "status": "orange"
       }
     },
     {
@@ -25421,25 +25439,27 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.464371,
-          54.458115
+          26.464105,
+          54.458084
         ]
       },
       "properties": {
-        "name": "Сунічка",
-        "name:be": "Сунічка",
-        "name:ru": "Земляничка",
-        "official_name": "Садаводчае таварыства \"Сунічка\"",
-        "official_name:be": "Садаводчае таварыства \"Сунічка\"",
-        "official_name:ru": "Садоводческое товарищество \"Земляничка\"",
+        "name": "Сунічка-Белая",
+        "name:be": "Сунічка-Белая",
+        "name:ru": "Земляничка-Белая",
+        "official_name": "Садаводчае таварыства \"Сунічка-Белая\"",
+        "official_name:be": "Садаводчае таварыства \"Сунічка-Белая\"",
+        "official_name:ru": "Садоводческое товарищество \"Земляничка-Белая\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Сунічка\"",
-        "short_name:be": "СТ \"Сунічка\"",
-        "short_name:ru": "СТ \"Земляничка\"",
+        "short_name": "СТ \"Сунічка-Белая\"",
+        "short_name:be": "СТ \"Сунічка-Белая\"",
+        "short_name:ru": "СТ \"Земляничка-Белая\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1991-12-31",
+        "ref:vatin": "BY500063482",
+        "status": "orange"
       }
     },
     {
@@ -25448,8 +25468,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.4565,
-          54.466547
+          26.456922,
+          54.467196
         ]
       },
       "properties": {
@@ -25466,7 +25486,9 @@ const Data =
         "short_name:be": "СТ \"Кааператар-2\"",
         "short_name:ru": "СТ \"Кооператор-2\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1992-03-17",
+        "ref:vatin": "BY500063334",
+        "status": "orange"
       }
     },
     {
@@ -27787,7 +27809,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.796548,
+          27.797121,
           53.601888
         ]
       },
@@ -27795,17 +27817,17 @@ const Data =
         "name": "Медык-85",
         "name:be": "Медык-85",
         "name:ru": "Медик-85",
-        "official_name": "Садаводчае таварыства \"Медык-82\"",
-        "official_name:be": "Садаводчае таварыства \"Медык-82\"",
-        "official_name:ru": "Садоводческое товарищество \"Медик-82\"",
+        "official_name": "Садаводчае таварыства \"Медык-85\"",
+        "official_name:be": "Садаводчае таварыства \"Медык-85\"",
+        "official_name:ru": "Садоводческое товарищество \"Медик-85\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Медык-82\"",
+        "short_name": "СТ \"Медык-85\"",
         "short_name:be": "СТ \"Медык-82\"",
-        "short_name:ru": "СТ \"Медик-82\"",
+        "short_name:ru": "СТ \"Медик-85\"",
         "landuse": "allotments",
-        "status": "red"
+        "status": "black"
       }
     },
     {
@@ -34949,33 +34971,6 @@ const Data =
         "short_name": "СТ \"Зорка-Тарусічы\"",
         "short_name:be": "СТ \"Зорка-Тарусічы\"",
         "short_name:ru": "СТ \"Зорька-Тарусичи\"",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w537517123",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.784329,
-          53.609707
-        ]
-      },
-      "properties": {
-        "name": "Лотас",
-        "name:be": "Лотас",
-        "name:ru": "Лотос",
-        "official_name": "Садаводчае таварыства \"Лотас\"",
-        "official_name:be": "Садаводчае таварыства \"Лотас\"",
-        "official_name:ru": "Садоводческое товарищество \"Лотос\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Лотас\"",
-        "short_name:be": "СТ \"Лотас\"",
-        "short_name:ru": "СТ \"Лотос\"",
         "landuse": "allotments",
         "status": "blue"
       }
@@ -51567,7 +51562,9 @@ const Data =
         "short_name:be": "СТ \"Светлячок\"",
         "short_name:ru": "СТ \"Светлячок\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1993-07-28",
+        "ref:vatin": "BY500108463",
+        "status": "orange"
       }
     },
     {
@@ -51576,8 +51573,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.417789,
-          54.501275
+          26.41788,
+          54.501315
         ]
       },
       "properties": {
@@ -51594,7 +51591,9 @@ const Data =
         "short_name:be": "СТ \"Зара\"",
         "short_name:ru": "СТ \"Заря\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1992-03-17",
+        "ref:vatin": "BY500063467",
+        "status": "orange"
       }
     },
     {
@@ -51765,8 +51764,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.348176,
-          54.463699
+          26.34824,
+          54.463652
         ]
       },
       "properties": {
@@ -51783,7 +51782,9 @@ const Data =
         "short_name:be": "СТ \"Лотас\"",
         "short_name:ru": "СТ \"Лотос\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1980-01-23",
+        "ref:vatin": "BY500050744",
+        "status": "orange"
       }
     },
     {
@@ -52106,8 +52107,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.604365,
-          54.410792
+          26.604369,
+          54.410921
         ]
       },
       "properties": {
@@ -52133,8 +52134,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.603626,
-          54.412791
+          26.603552,
+          54.412736
         ]
       },
       "properties": {
@@ -52151,7 +52152,9 @@ const Data =
         "short_name:be": "СТ \"Сілікатчык-82\"",
         "short_name:ru": "СТ \"Силикатчик-82\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1988-02-16",
+        "ref:vatin": "BY500108422",
+        "status": "orange"
       }
     },
     {
@@ -63224,23 +63227,23 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.37005,
-          53.695549
+          27.369046,
+          53.69553
         ]
       },
       "properties": {
         "name": "Сузорʼе",
         "name:be": "Сузорʼе",
         "name:ru": "Сузорье",
-        "official_name": "Садаводчае таварыства \"Сузорʼе\"",
-        "official_name:be": "Садаводчае таварыства \"Сузорʼе\"",
-        "official_name:ru": "Садоводческое товарищество \"Сузорье\"",
+        "official_name": "Садаводчае таварыства «Сузорʼе»",
+        "official_name:be": "Садаводчае таварыства «Сузорʼе»",
+        "official_name:ru": "Садоводческое товарищество «Сузорье»",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Сузорʼе\"",
-        "short_name:be": "СТ \"Сузорʼе\"",
-        "short_name:ru": "СТ \"Сузорье\"",
+        "short_name": "СТ «Сузорʼе»",
+        "short_name:be": "СТ «Сузорʼе»",
+        "short_name:ru": "СТ «Сузорье»",
         "landuse": "allotments",
         "status": "blue"
       }
@@ -63251,23 +63254,23 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.385968,
-          53.697123
+          27.384104,
+          53.697013
         ]
       },
       "properties": {
         "name": "Кірмаш",
         "name:be": "Кірмаш",
         "name:ru": "Кирмаш",
-        "official_name": "Садаводчае таварыства \"Кірмаш\"",
-        "official_name:be": "Садаводчае таварыства \"Кірмаш\"",
-        "official_name:ru": "Садоводческое товарищество \"Кирмаш\"",
+        "official_name": "Садаводчае таварыства «Кірмаш»",
+        "official_name:be": "Садаводчае таварыства «Кірмаш»",
+        "official_name:ru": "Садоводческое товарищество «Кирмаш»",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Кірмаш\"",
-        "short_name:be": "СТ \"Кірмаш\"",
-        "short_name:ru": "СТ \"Кирмаш\"",
+        "short_name": "СТ «Кірмаш»",
+        "short_name:be": "СТ «Кірмаш»",
+        "short_name:ru": "СТ «Кирмаш»",
         "landuse": "allotments",
         "status": "blue"
       }
@@ -63521,8 +63524,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.612175,
-          52.12452
+          23.612216,
+          52.124493
         ]
       },
       "properties": {
@@ -65452,8 +65455,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.831386,
-          52.113133
+          25.831259,
+          52.113175
         ]
       },
       "properties": {
@@ -65533,7 +65536,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.848598,
+          25.84854,
           52.116259
         ]
       },
@@ -74814,7 +74817,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           23.616705,
-          52.126312
+          52.126288
         ]
       },
       "properties": {
@@ -76946,8 +76949,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.490439,
-          54.52045
+          26.490545,
+          54.520372
         ]
       },
       "properties": {
@@ -76964,7 +76967,9 @@ const Data =
         "short_name:be": "СТ \"Сонечная палянка\"",
         "short_name:ru": "СТ \"Солнечная полянка\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1989-07-21",
+        "ref:vatin": "BY500063426",
+        "status": "orange"
       }
     },
     {
@@ -78593,7 +78598,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.827089,
+          25.827064,
           52.112813
         ]
       },
@@ -78621,7 +78626,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           25.835653,
-          52.113118
+          52.113165
         ]
       },
       "properties": {
@@ -86598,7 +86603,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.78976,
+          27.789758,
           53.603713
         ]
       },
@@ -86626,7 +86631,7 @@ const Data =
         "type": "Point",
         "coordinates": [
           27.791496,
-          53.602081
+          53.602076
         ]
       },
       "properties": {
@@ -87314,6 +87319,7 @@ const Data =
         ]
       },
       "properties": {
+        "name": "Искра-2002",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
@@ -87332,6 +87338,7 @@ const Data =
         ]
       },
       "properties": {
+        "name": "Строитель-96",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
@@ -87345,11 +87352,12 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.793574,
-          53.601986
+          27.794054,
+          53.601967
         ]
       },
       "properties": {
+        "name": "Импульс",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
@@ -88111,6 +88119,122 @@ const Data =
         "name:ru": "СТ \"Ясная поляна\"",
         "landuse": "allotments",
         "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1445249670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.336276,
+          54.461359
+        ]
+      },
+      "properties": {
+        "name": "Аўтамабіліст-Асінаўка",
+        "name:be": "Аўтамабіліст-Асінаўка",
+        "name:ru": "Автомобилист-Осиновка",
+        "official_name": "Садаводчае таварыства \"Аўтамабіліст-Асінаўка\"",
+        "official_name:be": "Садаводчае таварыства \"Аўтамабіліст-Асінаўка\"",
+        "official_name:ru": "Садоводческое товарищество \"Автомобилист-Осиновка\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Аўтамабіліст-Асінаўка\"",
+        "short_name:be": "СТ \"Аўтамабіліст-Асінаўка\"",
+        "short_name:ru": "СТ \"Автомобилист-Осиновка\"",
+        "landuse": "allotments",
+        "start_date": "1992-11-17",
+        "ref:vatin": "BY500108435",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1445249678",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.339346,
+          54.462664
+        ]
+      },
+      "properties": {
+        "name": "Мара",
+        "name:be": "Мара",
+        "name:ru": "Мечта",
+        "official_name": "Садаводчае таварыства \"Мара\"",
+        "official_name:be": "Садаводчае таварыства \"Мара\"",
+        "official_name:ru": "Садоводческое товарищество \"Мечта\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Мара\"",
+        "short_name:be": "СТ \"Мара\"",
+        "short_name:ru": "СТ \"Мечта\"",
+        "landuse": "allotments",
+        "start_date": "1985-10-20",
+        "ref:vatin": "BY500063321",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1445249691",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.334462,
+          54.461831
+        ]
+      },
+      "properties": {
+        "name": "Механізатар",
+        "name:be": "Механізатар",
+        "name:ru": "Механизатор",
+        "official_name": "Садаводчае таварыства \"Механізатар\"",
+        "official_name:be": "Садаводчае таварыства \"Механізатар\"",
+        "official_name:ru": "Садоводческое товарищество \"Механизатор\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Механізатар\"",
+        "short_name:be": "СТ \"Механізатар\"",
+        "short_name:ru": "СТ \"Механизатор\"",
+        "landuse": "allotments",
+        "start_date": "1982-04-21",
+        "ref:vatin": "BY500108407",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1445249738",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.313181,
+          54.471347
+        ]
+      },
+      "properties": {
+        "name": "Надзея",
+        "name:be": "Надзея",
+        "name:ru": "Надежда",
+        "official_name": "Садаводчае таварыства \"Надзея\"",
+        "official_name:be": "Садаводчае таварыства \"Надзея\"",
+        "official_name:ru": "Садоводческое товарищество \"Надежда\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Надзея\"",
+        "short_name:be": "СТ \"Надзея\"",
+        "short_name:ru": "СТ \"Надежда\"",
+        "landuse": "allotments",
+        "start_date": "1994-01-25",
+        "ref:vatin": "BY500053095",
+        "status": "orange"
       }
     },
     {
@@ -89898,6 +90022,102 @@ const Data =
         "start_date": "1989-05-28",
         "ref:vatin": "BY500150262",
         "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1555099348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.787304,
+          53.608537
+        ]
+      },
+      "properties": {
+        "name": "Мечта Кооператора",
+        "landuse": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1555103513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.786492,
+          53.609756
+        ]
+      },
+      "properties": {
+        "name": "Ландыш-86",
+        "landuse": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1555112049",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.781069,
+          53.609241
+        ]
+      },
+      "properties": {
+        "name": "Ясень-2009",
+        "landuse": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1555134352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.782714,
+          53.609469
+        ]
+      },
+      "properties": {
+        "name": "Лотос-МИП",
+        "landuse": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1555134353",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.785104,
+          53.611922
+        ]
+      },
+      "properties": {
+        "name": "Верас-81",
+        "landuse": "allotments",
+        "status": "black"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "w1556705268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.770888,
+          53.606333
+        ]
+      },
+      "properties": {
+        "name": "Надежда-96",
+        "landuse": "allotments",
+        "status": "black"
       }
     },
     {
@@ -94205,6 +94425,93 @@ const Data =
         "short_name:ru": "СТ \"Берёзонька\"",
         "landuse": "allotments",
         "status": "blue"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21361124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.325822,
+          54.469791
+        ]
+      },
+      "properties": {
+        "name": "Ураджайнае",
+        "name:be": "Ураджайнае",
+        "name:ru": "Урожайное",
+        "official_name": "Садаводчае таварыства \"Ураджайнае\"",
+        "official_name:be": "Садаводчае таварыства \"Ураджайнае\"",
+        "official_name:ru": "Садоводческое товарищество \"Урожайное\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Ураджайнае\"",
+        "short_name:be": "СТ \"Ураджайнае\"",
+        "short_name:ru": "СТ \"Урожайное\"",
+        "landuse": "allotments",
+        "start_date": "1992-09-22",
+        "ref:vatin": "BY500063441",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21361125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.330169,
+          54.463231
+        ]
+      },
+      "properties": {
+        "name": "Харчавік-Асінаўка",
+        "name:be": "Харчавік-Асінаўка",
+        "name:ru": "Пищевик-Осиновка",
+        "official_name": "Садаводчае таварыства \"Харчавік-Асінаўка\"",
+        "official_name:be": "Садаводчае таварыства \"Харчавік-Асінаўка\"",
+        "official_name:ru": "Садоводческое товарищество \"Пищевик-Осиновка\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Харчавік-Асінаўка\"",
+        "short_name:be": "СТ \"Харчавік-Асінаўка\"",
+        "short_name:ru": "СТ \"Пищевик-Осиновка\"",
+        "landuse": "allotments",
+        "start_date": "1981-04-02",
+        "ref:vatin": "BY500050729",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21361126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.327318,
+          54.465955
+        ]
+      },
+      "properties": {
+        "name": "Ураджай-Асінаўка",
+        "name:be": "Ураджай-Асінаўка",
+        "name:ru": "Урожай-Осиновка",
+        "official_name": "Садаводчае таварыства \"Ураджай-Асінаўка\"",
+        "official_name:be": "Садаводчае таварыства \"Ураджай-Асінаўка\"",
+        "official_name:ru": "Садоводческое товарищество \"Урожай-Осиновка\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Ураджай-Асінаўка\"",
+        "short_name:be": "СТ \"Ураджай-Асінаўка\"",
+        "short_name:ru": "СТ \"Урожай-Осиновка\"",
+        "landuse": "allotments",
+        "start_date": "1992-03-30",
+        "ref:vatin": "BY500108450",
+        "status": "orange"
       }
     }
   ]

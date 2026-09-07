@@ -69,20 +69,7 @@ function GetFilter(Feature, Layer)
  const Properties = Feature.properties;
  for (const [Key, Value] of Object.entries(Properties))
  {
-  if (Key.substr(Key.length-3) == ".id")
-  {
-   const Values = Unpack3NF(Properties, Key.substr(0, Key.length-3));
-   if (Values.toLowerCase().includes(Filter))
-    return true;
-  }
-  else if (Key.substr(Key.length-4) == ".ids")
-  {
-   const Values = Unpack3NFsub(Properties, Key.substr(0, Key.length-4));
-   for (const Item of Values.split("\n"))
-    if (Item.toLowerCase().includes(Filter))
-     return true;
-  }
-  else if (typeof Value == "string")
+  if (typeof Value == "string")
    if (Value.toLowerCase().includes(Filter))
     return true;
  }
