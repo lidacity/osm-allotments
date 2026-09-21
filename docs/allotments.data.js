@@ -10953,6 +10953,35 @@ const Data =
     },
     {
       "type": "Feature",
+      "id": "w199494941",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.014326,
+          53.599982
+        ]
+      },
+      "properties": {
+        "name": "Мігава",
+        "name:be": "Мігава",
+        "name:ru": "Мигово",
+        "official_name": "Садаводчае таварыства \"Мігава\"",
+        "official_name:be": "Садаводчае таварыства \"Мігава\"",
+        "official_name:ru": "Садоводческое товарищество \"Мигово\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Мігава\"",
+        "short_name:be": "СТ \"Мігава\"",
+        "short_name:ru": "СТ \"Мигово\"",
+        "landuse": "allotments",
+        "start_date": "1995-02-17",
+        "ref:vatin": "BY500170373",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "w199788507",
       "geometry": {
         "type": "Point",
@@ -12727,7 +12756,9 @@ const Data =
         "short_name:be": "СТ \"Мара\"",
         "short_name:ru": "СТ \"Мара\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1990-08-03",
+        "ref:vatin": "BY500250786",
+        "status": "orange"
       }
     },
     {
@@ -15011,7 +15042,9 @@ const Data =
         "short_name:be": "СТ \"Турыст\"",
         "short_name:ru": "СТ \"Турист\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1995-07-19",
+        "ref:vatin": "BY500467372",
+        "status": "orange"
       }
     },
     {
@@ -19640,18 +19673,18 @@ const Data =
         ]
       },
       "properties": {
-        "name": "Вяселка-РТВ",
-        "name:be": "Вяселка-РТВ",
+        "name": "Вясёлка-РТВ",
+        "name:be": "Вясёлка-РТВ",
         "name:ru": "Вясёлка-РТВ",
-        "official_name": "Садаводчае таварыства \"Вяселка-РТВ\"",
-        "official_name:be": "Садаводчае таварыства \"Вяселка-РТВ\"",
-        "official_name:ru": "Садоводческое товарищество \"Вясёлка-РТВ\"",
+        "official_name": "Садаводчае таварыства «Вясёлка-РТВ»",
+        "official_name:be": "Садаводчае таварыства «Вясёлка-РТВ»",
+        "official_name:ru": "Садоводческое товарищество «Вясёлка-РТВ»",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Вяселка-РТВ\"",
-        "short_name:be": "СТ \"Вяселка-РТВ\"",
-        "short_name:ru": "СТ \"Вясёлка-РТВ\"",
+        "short_name": "СТ «Вясёлка-РТВ»",
+        "short_name:be": "СТ «Вясёлка-РТВ»",
+        "short_name:ru": "СТ «Вясёлка-РТВ»",
         "landuse": "allotments",
         "status": "blue"
       }
@@ -25199,7 +25232,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.912375,
+          28.912387,
           53.259455
         ]
       },
@@ -27336,33 +27369,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w394075857",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.021632,
-          53.57443
-        ]
-      },
-      "properties": {
-        "name": "Светлячок",
-        "name:be": "Светлячок",
-        "name:ru": "Светлячок",
-        "official_name": "Садаводчае таварыства \"Светлячок\"",
-        "official_name:be": "Садаводчае таварыства \"Светлячок\"",
-        "official_name:ru": "Садоводческое товарищество \"Светлячок\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Светлячок\"",
-        "short_name:be": "СТ \"Светлячок\"",
-        "short_name:ru": "СТ \"Светлячок\"",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w394610405",
       "geometry": {
         "type": "Point",
@@ -27856,8 +27862,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.893615,
-          53.25132
+          28.894376,
+          53.251605
         ]
       },
       "properties": {
@@ -30124,56 +30130,31 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w433068632",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.989517,
-          53.590556
-        ]
-      },
-      "properties": {
-        "name": "Тэкстыльшчык-Жукевічы",
-        "name:be": "Тэкстыльшчык-Жукевічы",
-        "name:ru": "Текстильщик-Жукевичи",
-        "official_name": "Садаводчае таварыства \"Тэкстыльшчык-Жукевічы\"",
-        "official_name:be": "Садаводчае таварыства \"Тэкстыльшчык-Жукевічы\"",
-        "official_name:ru": "Садоводческое товарищество \"Текстильщик-Жукевичи\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Тэкстыльшчык-Жукевічы\"",
-        "short_name:be": "СТ \"Тэкстыльшчык-Жукевічы\"",
-        "short_name:ru": "СТ \"Текстильщик-Жукевичи\"",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w433068633",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.99403,
-          53.586565
+          23.994047,
+          53.586551
         ]
       },
       "properties": {
-        "name": "Скурнік-Жукевічы",
-        "name:be": "Скурнік-Жукевічы",
+        "name": "Гарбар-Жукевiчы",
+        "name:be": "Гарбар-Жукевiчы",
         "name:ru": "Кожевник-Жукевичи",
-        "official_name": "Садаводчае таварыства \"Скурнік-Жукевічы\"",
-        "official_name:be": "Садаводчае таварыства \"Скурнік-Жукевічы\"",
+        "official_name": "Садаводчае таварыства \"Гарбар-Жукевiчы\"",
+        "official_name:be": "Садаводчае таварыства \"Гарбар-Жукевiчы\"",
         "official_name:ru": "Садоводческое товарищество \"Кожевник-Жукевичи\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Скурнік-Жукевічы\"",
-        "short_name:be": "СТ \"Скурнік-Жукевічы\"",
+        "short_name": "СТ \"Гарбар-Жукевiчы\"",
+        "short_name:be": "СТ \"Гарбар-Жукевiчы\"",
         "short_name:ru": "СТ \"Кожевник-Жукевичи\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1980-09-05",
+        "ref:vatin": "BY500467344",
+        "status": "orange"
       }
     },
     {
@@ -30182,8 +30163,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.0115,
-          53.585192
+          24.011276,
+          53.585169
         ]
       },
       "properties": {
@@ -30200,7 +30181,9 @@ const Data =
         "short_name:be": "СТ \"Сувязіст\"",
         "short_name:ru": "СТ \"Связист\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1995-08-16",
+        "ref:vatin": "BY500468593",
+        "status": "orange"
       }
     },
     {
@@ -33729,33 +33712,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w518965742",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.892466,
-          53.541732
-        ]
-      },
-      "properties": {
-        "name": "Пралеска-Грыўкі",
-        "name:be": "Пралеска-Грыўкі",
-        "name:ru": "Подснежник-Гривки",
-        "official_name": "Садаводчае таварыства \"Пралеска-Грыўкі\"",
-        "official_name:be": "Садаводчае таварыства \"Пралеска-Грыўкі\"",
-        "official_name:ru": "Садоводческое товарищество \"Подснежник-Гривки\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Пралеска-Грыўкі\"",
-        "short_name:be": "СТ \"Пралеска-Грыўкі\"",
-        "short_name:ru": "СТ \"Подснежник-Гривки\"",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w518965745",
       "geometry": {
         "type": "Point",
@@ -33778,7 +33734,9 @@ const Data =
         "short_name:be": "СТ \"Грыбкі\"",
         "short_name:ru": "СТ \"Грибки\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1990-01-26",
+        "ref:vatin": "BY500468404",
+        "status": "orange"
       }
     },
     {
@@ -33795,17 +33753,19 @@ const Data =
         "name": "Ландыш",
         "name:be": "Ландыш",
         "name:ru": "Ландыш",
-        "official_name": "Садаводчае таварыства \"Ландыш\"",
-        "official_name:be": "Садаводчае таварыства \"Ландыш\"",
-        "official_name:ru": "Садоводческое товарищество \"Ландыш\"",
+        "official_name": "Садаводчае таварыства \"Ландыш\" Гродзенскага раёна",
+        "official_name:be": "Садаводчае таварыства \"Ландыш\" Гродзенскага раёна",
+        "official_name:ru": "Садоводческое товарищество \"Ландыш\" Гродненского района",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Ландыш\"",
-        "short_name:be": "СТ \"Ландыш\"",
-        "short_name:ru": "СТ \"Ландыш\"",
+        "short_name": "СТ \"Ландыш\" Гродзенскага раёна",
+        "short_name:be": "СТ \"Ландыш\" Гродзенскага раёна",
+        "short_name:ru": "СТ \"Ландыш\" Гродненского района",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1988-08-19",
+        "ref:vatin": "BY500363818",
+        "status": "orange"
       }
     },
     {
@@ -34606,8 +34566,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.760751,
-          52.088277
+          25.760754,
+          52.088303
         ]
       },
       "properties": {
@@ -35247,7 +35207,9 @@ const Data =
         "short_name:be": "СТ \"Бярозавае\"",
         "short_name:ru": "СТ \"Берёзовое\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1989-11-28",
+        "ref:vatin": "BY500316887",
+        "status": "orange"
       }
     },
     {
@@ -35256,8 +35218,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.01186,
-          53.582377
+          24.011865,
+          53.582357
         ]
       },
       "properties": {
@@ -35274,7 +35236,9 @@ const Data =
         "short_name:be": "СТ \"Раніца-3\"",
         "short_name:ru": "СТ \"Утро-3\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1995-03-16",
+        "ref:vatin": "BY500467954",
+        "status": "orange"
       }
     },
     {
@@ -36585,7 +36549,9 @@ const Data =
         "short_name:be": "СТ \"Верасы\"",
         "short_name:ru": "СТ \"Верасы\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1994-12-21",
+        "ref:vatin": "BY500469176",
+        "status": "orange"
       }
     },
     {
@@ -36595,24 +36561,26 @@ const Data =
         "type": "Point",
         "coordinates": [
           23.896481,
-          53.540645
+          53.540636
         ]
       },
       "properties": {
         "name": "Лаванда",
         "name:be": "Лаванда",
         "name:ru": "Лаванда",
-        "official_name": "Садаводчае таварыства \"Лаванда\"",
-        "official_name:be": "Садаводчае таварыства \"Лаванда\"",
-        "official_name:ru": "Садоводческое товарищество \"Лаванда\"",
+        "official_name": "Садаводчае таварыства \"Лаванда\" Гродзенскага раёна",
+        "official_name:be": "Садаводчае таварыства \"Лаванда\" Гродзенскага раёна",
+        "official_name:ru": "Садоводческое товарищество \"Лаванда\" Гродненского района",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Лаванда\"",
-        "short_name:be": "СТ \"Лаванда\"",
-        "short_name:ru": "СТ \"Лаванда\"",
+        "short_name": "СТ \"Лаванда\" Гродзенскага раёна",
+        "short_name:be": "СТ \"Лаванда\" Гродзенскага раёна",
+        "short_name:ru": "СТ \"Лаванда\" Гродненского района",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1990-04-06",
+        "ref:vatin": "BY500469454",
+        "status": "orange"
       }
     },
     {
@@ -36621,25 +36589,27 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.897248,
+          23.89724,
           53.541747
         ]
       },
       "properties": {
-        "name": "Лазурнае",
-        "name:be": "Лазурнае",
+        "name": "Блакiтнае",
+        "name:be": "Блакiтнае",
         "name:ru": "Лазурное",
-        "official_name": "Садаводчае таварыства \"Лазурнае\"",
-        "official_name:be": "Садаводчае таварыства \"Лазурнае\"",
-        "official_name:ru": "Садоводческое товарищество \"Лазурное\"",
+        "official_name": "Садаводчае таварыства \"Блакiтнае\" Гродзенскага раёна",
+        "official_name:be": "Садаводчае таварыства \"Блакiтнае\" Гродзенскага раёна",
+        "official_name:ru": "Садоводческое товарищество \"Лазурное\" Гродненского района",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Лазурнае\"",
-        "short_name:be": "СТ \"Лазурнае\"",
-        "short_name:ru": "СТ \"Лазурное\"",
+        "short_name": "СТ \"Блакiтнае\" Гродзенскага раёна",
+        "short_name:be": "СТ \"Блакiтнае\" Гродзенскага раёна",
+        "short_name:ru": "СТ \"Лазурное\" Гродненского района",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1995-11-15",
+        "ref:vatin": "BY500467834",
+        "status": "orange"
       }
     },
     {
@@ -36666,7 +36636,9 @@ const Data =
         "short_name:be": "СТ \"Нарцыс\"",
         "short_name:ru": "СТ \"Нарцисс\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1989-12-22",
+        "ref:vatin": "BY500239340",
+        "status": "orange"
       }
     },
     {
@@ -36683,17 +36655,19 @@ const Data =
         "name": "Праменьчык",
         "name:be": "Праменьчык",
         "name:ru": "Лучик",
-        "official_name": "Садаводчае таварыства \"Праменьчык\"",
-        "official_name:be": "Садаводчае таварыства \"Праменьчык\"",
-        "official_name:ru": "Садоводческое товарищество \"Лучик\"",
+        "official_name": "Садаводчае таварыства \"Праменьчык\" вёскі Грыўкi",
+        "official_name:be": "Садаводчае таварыства \"Праменьчык\" вёскі Грыўкi",
+        "official_name:ru": "Садоводческое товарищество \"Лучик\" деревни Гривки",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Праменьчык\"",
-        "short_name:be": "СТ \"Праменьчык\"",
-        "short_name:ru": "СТ \"Лучик\"",
+        "short_name": "СТ \"Праменьчык\" вёскі Грыўкi",
+        "short_name:be": "СТ \"Праменьчык\" вёскі Грыўкi",
+        "short_name:ru": "СТ \"Лучик\" деревни Гривки",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1991-11-29",
+        "ref:vatin": "BY500175903",
+        "status": "orange"
       }
     },
     {
@@ -36702,52 +36676,27 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.894942,
-          53.547526
+          23.892599,
+          53.545509
         ]
       },
       "properties": {
         "name": "Гарант",
         "name:be": "Гарант",
         "name:ru": "Гарант",
-        "official_name": "Садаводчае таварыства \"Гарант\"",
-        "official_name:be": "Садаводчае таварыства \"Гарант\"",
-        "official_name:ru": "Садоводческое товарищество \"Гарант\"",
+        "official_name": "Садаводчае таварыства \"Гарант\" вёскі Грыўкі",
+        "official_name:be": "Садаводчае таварыства \"Гарант\" вёскі Грыўкі",
+        "official_name:ru": "Садоводческое товарищество \"Гарант\" деревни Гривки",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Гарант\"",
-        "short_name:be": "СТ \"Гарант\"",
-        "short_name:ru": "СТ \"Гарант\"",
+        "short_name": "СТ \"Гарант\" вёскі Грыўкі",
+        "short_name:be": "СТ \"Гарант\" вёскі Грыўкі",
+        "short_name:ru": "СТ \"Гарант\" деревни Гривки",
         "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w538841041",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.887376,
-          53.544283
-        ]
-      },
-      "properties": {
-        "name": "Гарант",
-        "name:be": "Гарант",
-        "name:ru": "Гарант",
-        "official_name": "Садаводчае таварыства \"Гарант\"",
-        "official_name:be": "Садаводчае таварыства \"Гарант\"",
-        "official_name:ru": "Садоводческое товарищество \"Гарант\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Гарант\"",
-        "short_name:be": "СТ \"Гарант\"",
-        "short_name:ru": "СТ \"Гарант\"",
-        "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1989-12-22",
+        "ref:vatin": "BY500170386",
+        "status": "orange"
       }
     },
     {
@@ -36774,7 +36723,9 @@ const Data =
         "short_name:be": "СТ \"Лілея\"",
         "short_name:ru": "СТ \"Лилея\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1995-12-20",
+        "ref:vatin": "BY500196306",
+        "status": "orange"
       }
     },
     {
@@ -36801,7 +36752,9 @@ const Data =
         "short_name:be": "СТ \"Каласок-Грыўкі\"",
         "short_name:ru": "СТ \"Колосок-Гривки\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1980-07-18",
+        "ref:vatin": "BY500467691",
+        "status": "orange"
       }
     },
     {
@@ -36815,20 +36768,22 @@ const Data =
         ]
       },
       "properties": {
-        "name": "Чырвоная Гваздзіка",
-        "name:be": "Чырвоная Гваздзіка",
-        "name:ru": "Красная Гвоздика",
-        "official_name": "Садаводчае таварыства \"Чырвоная Гваздзіка\"",
-        "official_name:be": "Садаводчае таварыства \"Чырвоная Гваздзіка\"",
-        "official_name:ru": "Садоводческое товарищество \"Красная Гвоздика\"",
+        "name": "Чырвоная гваздзіка",
+        "name:be": "Чырвоная гваздзіка",
+        "name:ru": "Красная гвоздика",
+        "official_name": "Садаводчае таварыства \"Чырвоная гваздзіка\" вёскі Грыўкі",
+        "official_name:be": "Садаводчае таварыства \"Чырвоная гваздзіка\" вёскі Грыўкі",
+        "official_name:ru": "Садоводческое товарищество \"Красная гвоздика\" деревни Гривки",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Чырвоная Гваздзіка\"",
-        "short_name:be": "СТ \"Чырвоная Гваздзіка\"",
-        "short_name:ru": "СТ \"Красная Гвоздика\"",
+        "short_name": "СТ \"Чырвоная гваздзіка\" вёскі Грыўкі",
+        "short_name:be": "СТ \"Чырвоная гваздзіка\" вёскі Грыўкі",
+        "short_name:ru": "СТ \"Красная гвоздика\" деревни Гривки",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1989-11-28",
+        "ref:vatin": "BY500468948",
+        "status": "orange"
       }
     },
     {
@@ -36855,7 +36810,9 @@ const Data =
         "short_name:be": "СТ \"Грыўкі\"",
         "short_name:ru": "СТ \"Гривки\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "2009-07-30",
+        "ref:vatin": "BY590868948",
+        "status": "orange"
       }
     },
     {
@@ -36869,20 +36826,22 @@ const Data =
         ]
       },
       "properties": {
-        "name": "Грыўкі",
-        "name:be": "Грыўкі",
-        "name:ru": "Гривки-2",
-        "official_name": "Садаводчае таварыства \"Грыўкі\"",
-        "official_name:be": "Садаводчае таварыства \"Грыўкі\"",
-        "official_name:ru": "Садоводческое товарищество \"Гривки-2\"",
+        "name": "Грыўкі 2",
+        "name:be": "Грыўкі 2",
+        "name:ru": "Гривки 2",
+        "official_name": "Садаводчае таварыства \"Грыўкі 2\"",
+        "official_name:be": "Садаводчае таварыства \"Грыўкі 2\"",
+        "official_name:ru": "Садоводческое товарищество \"Гривки 2\"",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Грыўкі\"",
-        "short_name:be": "СТ \"Грыўкі\"",
-        "short_name:ru": "СТ \"Гривки-2\"",
+        "short_name": "СТ \"Грыўкі 2\"",
+        "short_name:be": "СТ \"Грыўкі 2\"",
+        "short_name:ru": "СТ \"Гривки 2\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1992-01-18",
+        "ref:vatin": "BY500282516",
+        "status": "orange"
       }
     },
     {
@@ -39084,33 +39043,6 @@ const Data =
     },
     {
       "type": "Feature",
-      "id": "w540491992",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.993182,
-          53.590447
-        ]
-      },
-      "properties": {
-        "name": "Церамок",
-        "name:be": "Церамок",
-        "name:ru": "Теремок",
-        "official_name": "Садаводчае таварыства \"Церамок\"",
-        "official_name:be": "Садаводчае таварыства \"Церамок\"",
-        "official_name:ru": "Садоводческое товарищество \"Теремок\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Церамок\"",
-        "short_name:be": "СТ \"Церамок\"",
-        "short_name:ru": "СТ \"Теремок\"",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "w540503586",
       "geometry": {
         "type": "Point",
@@ -39133,7 +39065,9 @@ const Data =
         "short_name:be": "СТ \"Прынёманскае-1\"",
         "short_name:ru": "СТ \"Принеманское-1\"",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1995-09-26",
+        "ref:vatin": "BY500469347",
+        "status": "orange"
       }
     },
     {
@@ -39142,25 +39076,27 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.009004,
-          53.585163
+          24.008716,
+          53.585141
         ]
       },
       "properties": {
         "name": "Будаўнік-1",
         "name:be": "Будаўнік-1",
         "name:ru": "Строитель-1",
-        "official_name": "Садаводчае таварыства \"Будаўнік-1\"",
-        "official_name:be": "Садаводчае таварыства \"Будаўнік-1\"",
-        "official_name:ru": "Садоводческое товарищество \"Строитель-1\"",
+        "official_name": "Садаводчае таварыства \"Будаўнік-1\" вёскі Гарны",
+        "official_name:be": "Садаводчае таварыства \"Будаўнік-1\" вёскі Гарны",
+        "official_name:ru": "Садоводческое товарищество \"Строитель-1\" деревни Горны",
         "official_status": "садаводчае таварыства",
         "official_status:be": "садаводчае таварыства",
         "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Будаўнік-1\"",
-        "short_name:be": "СТ \"Будаўнік-1\"",
-        "short_name:ru": "СТ \"Строитель-1\"",
+        "short_name": "СТ \"Будаўнік-1\" вёскі Гарны",
+        "short_name:be": "СТ \"Будаўнік-1\" вёскі Гарны",
+        "short_name:ru": "СТ \"Строитель-1\" деревни Горны",
         "landuse": "allotments",
-        "status": "blue"
+        "start_date": "1982-01-22",
+        "ref:vatin": "BY500468578",
+        "status": "orange"
       }
     },
     {
@@ -39169,8 +39105,8 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.01509,
-          53.57861
+          24.014998,
+          53.578556
         ]
       },
       "properties": {
@@ -39186,33 +39122,6 @@ const Data =
         "short_name": "СТ \"Бярозавы Гай\"",
         "short_name:be": "СТ \"Бярозавы Гай\"",
         "short_name:ru": "СТ \"Березовая Роща\"",
-        "landuse": "allotments",
-        "status": "blue"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "w540503597",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.016029,
-          53.574661
-        ]
-      },
-      "properties": {
-        "name": "Светлячок",
-        "name:be": "Светлячок",
-        "name:ru": "Светлячок",
-        "official_name": "Садаводчае таварыства \"Светлячок\"",
-        "official_name:be": "Садаводчае таварыства \"Светлячок\"",
-        "official_name:ru": "Садоводческое товарищество \"Светлячок\"",
-        "official_status": "садаводчае таварыства",
-        "official_status:be": "садаводчае таварыства",
-        "official_status:ru": "садоводческое товарищество",
-        "short_name": "СТ \"Светлячок\"",
-        "short_name:be": "СТ \"Светлячок\"",
-        "short_name:ru": "СТ \"Светлячок\"",
         "landuse": "allotments",
         "status": "blue"
       }
@@ -74776,13 +74685,27 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.01509,
-          53.57861
+          24.014998,
+          53.578556
         ]
       },
       "properties": {
+        "name": "Бярозавы гай",
+        "name:be": "Бярозавы гай",
+        "name:ru": "Березовая роща",
+        "official_name": "Садаводчае таварыства \"Бярозавы гай\" Гродзенскага раёна",
+        "official_name:be": "Садаводчае таварыства \"Бярозавы гай\" Гродзенскага раёна",
+        "official_name:ru": "Садоводческое товарищество \"Березовая роща\" Гродненского района",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Бярозавы гай\" Гродзенскага раёна",
+        "short_name:be": "СТ \"Бярозавы гай\" Гродзенскага раёна",
+        "short_name:ru": "СТ \"Березовая роща\" Гродненского района",
         "landuse": "allotments",
-        "status": "black"
+        "start_date": "1980-07-18",
+        "ref:vatin": "BY500196319",
+        "status": "orange"
       }
     },
     {
@@ -90512,7 +90435,7 @@ const Data =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.931912,
+          26.931905,
           53.566294
         ]
       },
@@ -94727,6 +94650,151 @@ const Data =
         "landuse": "allotments",
         "start_date": "1992-11-03",
         "ref:vatin": "BY500277531",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21418617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.989517,
+          53.590556
+        ]
+      },
+      "properties": {
+        "name": "Тэкстыльшчык-Жукевічы",
+        "name:be": "Тэкстыльшчык-Жукевічы",
+        "name:ru": "Текстильщик-Жукевичи",
+        "official_name": "Садаводчае таварыства \"Тэкстыльшчык-Жукевічы\"",
+        "official_name:be": "Садаводчае таварыства \"Тэкстыльшчык-Жукевічы\"",
+        "official_name:ru": "Садоводческое товарищество \"Текстильщик-Жукевичи\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Тэкстыльшчык-Жукевічы\"",
+        "short_name:be": "СТ \"Тэкстыльшчык-Жукевічы\"",
+        "short_name:ru": "СТ \"Текстильщик-Жукевичи\"",
+        "landuse": "allotments",
+        "start_date": "1980-08-08",
+        "ref:vatin": "BY500468552",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21418618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.993182,
+          53.590447
+        ]
+      },
+      "properties": {
+        "name": "Церамок",
+        "name:be": "Церамок",
+        "name:ru": "Теремок",
+        "official_name": "Садаводчае таварыства \"Церамок\"",
+        "official_name:be": "Садаводчае таварыства \"Церамок\"",
+        "official_name:ru": "Садоводческое товарищество \"Теремок\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Церамок\"",
+        "short_name:be": "СТ \"Церамок\"",
+        "short_name:ru": "СТ \"Теремок\"",
+        "landuse": "allotments",
+        "start_date": "1995-02-17",
+        "ref:vatin": "BY500467967",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21418619",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.998572,
+          53.596336
+        ]
+      },
+      "properties": {
+        "name": "Лясная лагчына",
+        "name:be": "Лясная лагчына",
+        "name:ru": "Лесная балка",
+        "official_name": "Садаводчае таварыства \"Лясная лагчына\"",
+        "official_name:be": "Садаводчае таварыства \"Лясная лагчына\"",
+        "official_name:ru": "Садоводческое товарищество \"Лесная балка\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Лясная лагчына\"",
+        "short_name:be": "СТ \"Лясная лагчына\"",
+        "short_name:ru": "СТ \"Лесная балка\"",
+        "landuse": "allotments",
+        "start_date": "1995-03-16",
+        "ref:vatin": "BY500468922",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21418620",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018092,
+          53.57443
+        ]
+      },
+      "properties": {
+        "name": "Светлячок",
+        "name:be": "Светлячок",
+        "name:ru": "Светлячок",
+        "official_name": "Садаводчае таварыства \"Светлячок\"",
+        "official_name:be": "Садаводчае таварыства \"Светлячок\"",
+        "official_name:ru": "Садоводческое товарищество \"Светлячок\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Светлячок\"",
+        "short_name:be": "СТ \"Светлячок\"",
+        "short_name:ru": "СТ \"Светлячок\"",
+        "landuse": "allotments",
+        "start_date": "1980-04-18",
+        "ref:vatin": "BY500240095",
+        "status": "orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "r21418621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.892458,
+          53.541732
+        ]
+      },
+      "properties": {
+        "name": "Падснежнік-Грыўкі",
+        "name:be": "Падснежнік-Грыўкі",
+        "name:ru": "Подснежник-Гривки",
+        "official_name": "Садаводчае таварыства \"Падснежнік-Грыўкі\"",
+        "official_name:be": "Садаводчае таварыства \"Падснежнік-Грыўкі\"",
+        "official_name:ru": "Садоводческое товарищество \"Подснежник-Гривки\"",
+        "official_status": "садаводчае таварыства",
+        "official_status:be": "садаводчае таварыства",
+        "official_status:ru": "садоводческое товарищество",
+        "short_name": "СТ \"Падснежнік-Грыўкі\"",
+        "short_name:be": "СТ \"Падснежнік-Грыўкі\"",
+        "short_name:ru": "СТ \"Подснежник-Гривки\"",
+        "landuse": "allotments",
+        "start_date": "1989-07-31",
+        "ref:vatin": "BY500468644",
         "status": "orange"
       }
     }
